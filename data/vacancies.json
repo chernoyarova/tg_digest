@@ -1,5 +1,190 @@
 [
   {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 2811,
+    "date_iso": "2026-05-23T17:34:59+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nМенеджер продукта ( Мобильные игры Нарды, Карточный батлер. В офис ) в Голотин Дмитрий Алексеевич\nСанкт-Петербург\nРабота в офисе.\nМы — студия 15 человек, два live-проекта:\n- Нарды (мобильные, DAU 75 000, переезд на Unity)\n- Карточный батлер\nИщем менеджера продукта с геймдизайнерским бэкграундом, который будет не просто балансировать механики, а использовать игровой дизайн как инструмент роста — привлечения, удержания и монетизации аудитории, активно применяя…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 97,
+        "url": "https://hh.ru/vacancy/133423979"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/2811",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Менеджер продукта, мобильные игры",
+    "company": "Голотин Дмитрий Алексеевич",
+    "location": "Санкт-Петербург, офис",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Студия разработки мобильных игр (15 человек) ищет PM с геймдизайнерским бэкграундом для двух live-проектов: Нарды (DAU 75k, миграция на Unity) и Карточный батлер. Требуется опыт использования игрового дизайна для оптимизации привлечения, удержания и монетизации аудитории.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 2810,
+    "date_iso": "2026-05-23T13:32:43+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nМенеджер Online Store в Стамба\nРостов-на-Дону\nМы - команда, которая запускает собственный проект online store мармелада: от первого клика до получения заказа в руки. Нам предстоит запуск сайта, интеграция с внутренними системами и создание стабильного потока заказов в сфере (ЦА В2В), рост, доработка функционала, новые фичи и улучшение клиентского опыта.\nВ связи с запуском онлайн‑направления…\n130 000 ₽\n\nProduct manager / IT manager в Ак Барс Банк\nКазань\nВакансия в дочернюю аккредитованную it-компанию Ак Барс Банка.\nПредоставляем профессиональные услуги в области информационной защиты.\nВ связи с расширением штата находимся в поисках «Product manager / IT manager». \nЧем предстоит заниматься:\n• ведением полного цикла разработки продукта SGRC-платформы;\n• доукомплектцией команды…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 30,
+        "url": "https://hh.ru/vacancy/132430011"
+      },
+      {
+        "type": "text_url",
+        "offset": 447,
+        "length": 43,
+        "url": "https://hh.ru/vacancy/132436938"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/2810",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Менеджер Online Store",
+    "company": "Стамба",
+    "location": "Ростов-на-Дону",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": "130 000 ₽",
+    "short_description": "Запуск собственного онлайн-проекта по продаже мармелада с интеграцией внутренних систем. Развитие потока заказов в B2B сегменте, улучшение функционала и клиентского опыта.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1386,
+    "date_iso": "2026-05-23T13:14:27+00:00",
+    "text": "Head of product Физикл\n\nВсе для роста в профессии продакта - https://t.me/productjobgo/1376\n\nПривет, я Вика, управляющий директор.\nМы делаем продукты про образ жизни: питание, тренировки, здоровье.\n50 000+ пользователей уже получили результат с нами.\n\nЕсть 2 мобильных приложения и направления, где можно запускать продукты с нуля.\n\nМы ищем человека с опытом в продукте от 3 лет, который проходил полный цикл — от идеи до работающего продукта и PMF (с успешными и неуспешными запусками).\n\nМы ожидаем, что ты:\n– Умеешь находить рынок, валидировать гипотезы и принимать решения на основе метрик, воронок и юнит-экономики.\n– Понимаешь, как работать с пользовательским поведением и ростом (воронки, retention), а также с экономикой продукта (LTV, churn, монетизация).\n– Комфортно взаимодействуешь с разработкой и кросс-функциональной командой.\n– Обладаешь сильными навыками в диагностике проблемы и рынка. Видишь, в какую сторону копать в условиях неопределённости, не уходишь в фичи раньше, чем подтвердил проблему. Оцениваешь рынок и от задачи пользователя, и от индустрии. \n– Системно работаешь с гипотезами. Формулируешь от потребности пользователя, выстраиваешь лестницу экспериментов: от простых к сложным, ставишь чёткие критерии проверки. \n– Умеешь прикинуть юнит-экономику на коленке, выявить и проверить самые рисковые предположения в ней. \n\nМы предлагаем:\n– У тебя будет высокая автономия, возможность напрямую влиять на стратегию и рост продуктов и сильная команда рядом.\n– 100% удаленный формат. География нашей команды: от Пхукета до Буэнос-Айреса.\n– Доступ к личному тренеру, куратору по питанию и всем остальным продуктам компании.\nЗанятость: полная, удаленка\nЗП: 400 000 - 600 000 руб net\n– Мы постоянно учимся сами и компенсируем обучение нашим сотрудникам!\n\nКак откликнуться:\nЕсли у тебя есть соответствующий опыт и тебе важно делать продукты, которые реально меняют жизнь людей и работают на основе экспертизы и науки - давай знакомиться.\n\nВсе возможности от редакции канала по ссылке.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 61,
+        "length": 30
+      },
+      {
+        "type": "text_url",
+        "offset": 1935,
+        "length": 19,
+        "url": "https://t.me/ElenaPetrenko_hr"
+      },
+      {
+        "type": "text_url",
+        "offset": 1994,
+        "length": 6,
+        "url": "https://koloskoveducation.tilda.ws/"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1386",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of Product",
+    "company": "Физикл",
+    "location": "Remote",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "400 000 - 600 000 руб net",
+    "short_description": "Компания создает lifestyle-продукты в сфере питания, тренировок и здоровья с 50+ тысячами активных пользователей. Ищет опытного PM для управления портфелем из 2 мобильных приложений и новых направлений, с фокусом на валидацию гипотез, метрики и юнит-экономику.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 10527,
+    "date_iso": "2026-05-23T12:30:02+00:00",
+    "text": "Product Manager / R&D Manager в MAREE\n\nОфис, Гуанчжоу, релокация, З/П обсуждается индивидуально\n\nMAREE — международный beauty-бренд и бестселлер Amazon US. Более 3 000 000 девушек в США уже выбрали наши продукты. Мы из СНГ, но играем на глобальном рынке: основной фокус — США, один из самых конкурентных e-commerce-рынков в мире. Быстро тестируем гипотезы, принимаем решения и выводим продукты на рынок — без корпоративного театра и бесконечных согласований.\n\nСейчас мы в поиске PM в R&D, который будет вести косметические продукты от идеи до фабрики и влиять на всё: формулу, текстуру, упаковку, качество и финальный результат на полке Amazon.\n\nЧто нужно делать\n— Вести полный цикл разработки beauty-продукта: от концепта и брифа до запуска заказа на фабрике\n— Управлять всеми ключевыми элементами продукта: текстура, тара, упаковка, комплектующие\n— Лично тестировать образцы и принимать решения не только по таблицам, но и по реальному качеству\n— Анализировать рынок, конкурентов, отзывы и маркетинговые сигналы — и быстро реагировать\n— Готовить ТЗ и брифы для слепых тестов, дизайна, упаковки и образцов\n— Работать с поставщиками: пушить, ускорять, добиваться нужного качества и сроков\n\nКакие требования\n— Опыт в product management / разработке продукта / управлении ассортиментом\n— Умение структурировать хаос: несколько потоков задач, фиксация договорённостей, доведение до результата\n— Принятие решений на основе данных, рынка и цифр, а не ощущений\n— Понимание основ бренд-менеджмента, рыночной аналитики, маркетинговых исследований\n— Уверенная работа с Google Workspace и инструментами управления проектами\n\nБудет большим плюсом:\n— Опыт в beauty / cosmetics / FMCG или смежных категориях\n— Опыт с Amazon US или международными e-commerce-платформами\n— Опыт работы с производствами или фабриками\n— Насмотренность в упаковке, визуале и потребительском качестве\n\nЧто предлагаем\n— Релокацию в Китай за счёт компании после испытательного срока: помогаем с визой, подключаем визового агента, компенсируем перелёт и помогаем с поиском жилья через риелтора\n\nТестовое задание будет предложено на следующих этапах отбора.\n\nОткликнуться: ТГ — @Ana_Atun\n\n#product #senior #maree",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 97,
+        "length": 5,
+        "url": "https://imaree.com/"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/10527",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager / R&D Manager",
+    "company": "MAREE",
+    "location": "Гуанчжоу, релокация",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Ведение полного цикла разработки beauty-продуктов от концепта до запуска на фабрике. Управление текстурой, упаковкой, комплектующими и качеством. Работа с поставщиками и анализом конкурентов на Amazon US рынке.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1385,
+    "date_iso": "2026-05-23T08:38:10+00:00",
+    "text": "Middle/Senior Product Manager в Ozon\n\nРазборы кейсов, 76 разборов пришли, всего свыше 190 тестовых и реальных задач продактов. Плейлист доступен по ссылке, сайт разборов тут.\n\nИщем продакт-менеджера, который возглавит развитие одно из направлений кредитования малого и среднего бизнеса в Ozon Банке. \n\nЗадачи:\n• Формировать стратегию продукта.\n• Создавать кредитные продукты с нуля\n• Строить юнит-экономику, управлять доходностью, риском и эффективностью продукта\n• Определять ключевые метрики бизнеса и отвечать за их выполнение\n• Разрабатывать roadmap и обеспечивать быстрый запуск инициатив\n\nТребования:\n• Опыт работы продакт-менеджером от 4 лет (опыт работы в финтех будет преимуществом)\n• Опыт запуска новых продуктов или бизнес-направлений\n• Опыт управления P&L или глубокое понимание экономики финансовых продуктов\n• Сильные аналитические навыки и data-driven подход\n• Готовность работать в формате «0 → 1»\n\nНанимающий: @dianagasieva\n\nВсе возможности от редакции канала по ссылке.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 38,
+        "length": 15,
+        "url": "https://t.me/productcasebar/"
+      },
+      {
+        "type": "text_url",
+        "offset": 127,
+        "length": 28,
+        "url": "https://docs.google.com/document/d/1_bq1zQtkfAJjf5O_QjpuMDFlkloNkF_VyTtpRv7oyZI/edit?tab=t.0"
+      },
+      {
+        "type": "text_url",
+        "offset": 170,
+        "length": 3,
+        "url": "https://koloskoveducation.tilda.ws/productcaseclub/"
+      },
+      {
+        "type": "text_url",
+        "offset": 980,
+        "length": 6,
+        "url": "https://koloskoveducation.tilda.ws/"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1385",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle/Senior Product Manager, Кредитные продукты",
+    "company": "Ozon Банк",
+    "location": null,
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Развитие одного из направлений кредитования малого и среднего бизнеса. Требуется опыт запуска новых продуктов, управления P&L, аналитические навыки и работа с финансовыми продуктами от 4 лет.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 1804835860,
     "channel_username": "zarubezhom_jobs",
     "channel_title": "Connectable Jobs",
@@ -49,8 +234,16 @@
     "remote": true,
     "salary": null,
     "short_description": "Работа с AI инструментами (Claude, ChatGPT, Cursor, n8n) в онлайн маркетплейсе и транспортном операторе в Альпийском регионе. Требуется опыт 1-2 года с AI/автоматизацией и свободное владение английским и русским языками.",
-    "duplicates": [],
-    "is_new": true,
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/10524",
+        "date_iso": "2026-05-23T11:39:52+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -80,7 +273,7 @@
     "salary": null,
     "short_description": "Управление внедрением и развитием систем контроллинга и управленческого учёта. Анализ лучших практик и технологий для применения в банке. Участие в кросс-функциональных проектах автоматизации процессов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -122,7 +315,7 @@
     "salary": null,
     "short_description": "Российская компания, создающая цифровые платформы и мультимедийные решения. Требуется работа над единой системой мониторинга в реальном времени, построенной на сертифицированном ядре и визуальном слое разработки.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -152,7 +345,7 @@
     "salary": null,
     "short_description": "Разработка платформы обратной связи клиентов с целью повышения лояльности, улучшения NPS и минимизации репутационных рисков компании через быструю реакцию на обращения клиентов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -206,7 +399,7 @@
     "salary": null,
     "short_description": "Mail — технологическая и интернет компания, обеспечивающая пользователям набор онлайн сервисов, включая электронную почту, облачное хранилище, календарь, заметки и сервисы покупок.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -236,7 +429,7 @@
     "salary": null,
     "short_description": "Руководитель направления в отделе развития каналов и инструментов коммуникаций Wildberries Банка. Работа в экосистеме финтеха Wildberries с фокусом на клиентоориентированность и инновационные подходы.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -266,7 +459,7 @@
     "salary": null,
     "short_description": "Команда занимается развитием пенсионных и комбинированных продуктов. Ответственность включает стратегию, поиск возможностей, запуск и масштабирование решений в области инвестиционных, накопительных и пенсионных продуктов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -302,7 +495,7 @@
     "salary": null,
     "short_description": "Домклик — единственный в России продукт, обеспечивающий полный цикл операций с недвижимостью. Доступен на всех популярных платформах (Web, iOS, Android). Поиск руководителя продукта для развития сервиса.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -380,7 +573,7 @@
     "salary": null,
     "short_description": "Продуктовая позиция в производственный актив холдинга Цикада. Формирование и реализация стратегии развития продукта CoreBit.NGFW, направленной на увеличение доли на рынке и достижение ключевых целей. Участие в подготовке стратегий и аккаунт-планов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -410,7 +603,7 @@
     "salary": null,
     "short_description": "Monzo is one of the largest British neobanks, fully managed via a mobile application. The role focuses on the payments product area within the digital banking platform.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -440,7 +633,7 @@
     "salary": null,
     "short_description": "Photo Lab — одна из ведущих компаний по разработке мобильных приложений для обработки фотографий. CPO будет отвечать за развитие AI-направления продукта. Гибкий график, удалённая работа.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -470,7 +663,7 @@
     "salary": null,
     "short_description": "Разработка и внедрение транзакционных B2B продуктов в финансовой или банковской сфере. Управление roadmap, backlog, формирование user stories и участие в архитектурных решениях. Анализ рынка и оптимизация бизнес-процессов для увеличения доходности продуктов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -506,7 +699,7 @@
     "salary": null,
     "short_description": "СберЗдоровье — ведущая российская IT-медицинская платформа и крупнейший сервис цифрового здравоохранения. Поиск Middle Product Manager для работы с продуктом Регистратура в гибридном формате в Москве.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -542,7 +735,7 @@
     "salary": null,
     "short_description": "Деловые Линии – одна из ведущих транспортно-логистических компаний России. Компания решает логистические задачи для бизнеса и частных лиц. Product Manager будет составлять атрибутивную модель продукта на основе конкурентного анализа и анализа текущего состояния продукта.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -572,7 +765,7 @@
     "salary": null,
     "short_description": "Коммерческий банк в экосистеме маркетплейса Ozon ищет PM для управления продуктом кредитования малого и среднего бизнеса с P&L ответственностью.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -630,7 +823,7 @@
     "salary": null,
     "short_description": "Работа со стратегией роста и запусками продуктовых изменений, влияние на ключевые метрики MAU и Retention. Требуется опыт с SQL, A/B-тестированием, продуктовыми метриками и Python для анализа данных.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -666,7 +859,7 @@
     "salary": null,
     "short_description": "Duolingo is a company creating the world's leading mobile app for learning languages through gamified, interactive lessons. The role focuses on monetization strategy and product decisions.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -696,7 +889,7 @@
     "salary": null,
     "short_description": "Внедрение речевой аналитики на базе ИИ. Вы будете помогать клиентам с настройкой дерева категорий, работой с ассистентом и настройкой чек-листов для оценки качества продаж.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -726,7 +919,7 @@
     "salary": null,
     "short_description": "TrafMaster is an international iGaming company specializing in traffic arbitrage and large-scale project implementation. The role requires expertise in African markets, iGaming industry knowledge, and fluency in Russian (C1) and English (B1).",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -804,7 +997,7 @@
     "salary": "100 000 — 150 000 ₽",
     "short_description": "Создание MVP для EdTech продукта. Разработка пользовательских сценариев, низкофидельных прототипов и описание ключевых флоу от лендинга до персонального плана обучения.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -840,7 +1033,7 @@
     "salary": null,
     "short_description": "Punto Pago is a fintech and payments company operating in Panama. The role involves product management for payment solutions and financial services.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -876,7 +1069,7 @@
     "salary": null,
     "short_description": "Unitary is building AI solutions to help enterprise businesses automate work and reduce costs. The role involves leading product strategy for AI-powered enterprise products.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -930,7 +1123,7 @@
     "salary": null,
     "short_description": "Управление продуктом как технической сущностью: формирование бэклога и роудмапа, customer development, работа с технологическими партнёрами и контроль разработки. Стимулирование продуктовых продаж и поддержка менеджеров по продажам.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -1013,7 +1206,7 @@
     "salary": null,
     "short_description": "Решение финансирования малого и среднего бизнеса, которые не могут получить кредит в банках. Стадия разработки с нуля, ключевые цели: MVP, пилот, product market fit.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -1042,7 +1235,7 @@
     "salary": null,
     "short_description": "Growth Product Manager role at Adapty, a platform for mobile app monetization. Remote position with salary in USD.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -1078,7 +1271,7 @@
     "salary": null,
     "short_description": "Prequel is a mobile photo and video editor app with AI-powered effects, advanced retouching, filters, and video templates. The role offers on-site work in Montenegro or remote flexibility with relocation support.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -1114,7 +1307,7 @@
     "salary": null,
     "short_description": "Social Discovery Group is developing dating and communication platforms. The team works on social discovery products with a focus on user engagement and platform features.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -1137,7 +1330,7 @@
     "salary": null,
     "short_description": "Развитие внутренней системы по работе с контентом и правами. Требуется опыт работы со сложными B2E/B2B продуктами, знание Jira, Confluence, Figma. Плюсом опыт с видеоплатформами и понимание доставки видео.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -14101,7 +14294,15 @@
     "remote": false,
     "salary": "50 000 — 70 000 сом",
     "short_description": "Молодая команда ищет IT Product Manager / Project Manager полного цикла с опытом управления проектами. Требуется контроль проектов в Jira и Trello, мониторинг задач команды разработки и проверка сроков выполнения.",
-    "duplicates": [],
+    "duplicates": [
+      {
+        "channel_username": "product_jobmeister",
+        "channel_title": "Вакансии для продактов Jobmeister",
+        "link": "https://t.me/product_jobmeister/2812",
+        "date_iso": "2026-05-24T05:32:46+00:00",
+        "channel_id": 2298616665
+      }
+    ],
     "entities": [
       {
         "type": "text_url",
@@ -23469,7 +23670,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1674506295,
@@ -23505,7 +23706,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1205373966,
@@ -23535,7 +23736,7 @@
     ],
     "entities": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -23571,7 +23772,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1205373966,
@@ -23594,7 +23795,7 @@
     "duplicates": [],
     "entities": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1674506295,
@@ -23630,7 +23831,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1674506295,
@@ -23666,7 +23867,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -23702,7 +23903,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
