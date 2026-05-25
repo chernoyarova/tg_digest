@@ -1,5 +1,131 @@
 [
   {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 10577,
+    "date_iso": "2026-05-25T08:35:39+00:00",
+    "text": "💳 Product Manager (Mid+/ Senior) в T-Data\n\n📍 Москва / Санкт-Петербург, Офис\n💎 Развивать B2B-продукт коммерческой аналитики на основе транзакционных данных 55 млн клиентов Т-Банка — от формирования стратегии и roadmap до упаковки аналитических решений в понятную ценность для ритейла, FMCG, pharma и других отраслей.\n💼 5+ лет в продакт-менеджменте, опыт в B2B, data/analytics или fintech-продуктах, умение превращать исследования в продукт, за который готовы платить, понимание логики B2B-продаж. Плюсом: опыт с BI/консалтингом, consumer-рынками и запуском продуктов на больших данных. Подробное описание\n\nПрямой контакт для отклика: @donkeyxot\n\n———\n\nНе подошла вакансия? Поделись с тем, кому пригодится ➡️",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 589,
+        "length": 18,
+        "url": "https://www.notion.so/Product-Manager-Mid-Senior-35f4cb8137c580888ebbdcd1c58bfab8"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/10577",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, B2B Analytics",
+    "company": "T-Data",
+    "location": "Москва / Санкт-Петербург, офис",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Развитие B2B-продукта коммерческой аналитики на основе транзакционных данных 55 млн клиентов Т-Банка для ритейла, FMCG и pharma. Требуется 5+ лет опыта в PM, знание B2B и data/analytics-продуктов, умение превращать данные в продукт с четкой ценностью для клиентов.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 2816,
+    "date_iso": "2026-05-25T08:04:16+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nРуководитель направления доходности сервиса Альфа-Тревел в Альфа-Банк\nМосква\n- Высшее образование в области экономики, финансов или математики;\n- Опыт работы от 3 лет в сильной аналитической среде (банки Топ‑10, Big 4, консалтинг, финтех, инвестиционные компании);\n- Уверенные навыки финансового моделирования (умение самостоятельно построить модель с нуля под бизнес‑задачу);\n- Опыт работы с экономикой продуктов,…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 69,
+        "url": "https://job.alfabank.ru/vacancies/moskva/central-office/rukovoditel-napravleniia-dokhodnosti-servisa-alfa-trevel_35498"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/2816",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель направления доходности сервиса Альфа-Тревел",
+    "company": "Альфа-Банк",
+    "location": "Москва",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Руководство направлением доходности сервиса Альфа-Тревел. Требуется опыт от 3 лет в аналитической среде банков Top-10 или консалтинга, навыки финансового моделирования и работы с экономикой продуктов.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 2814,
+    "date_iso": "2026-05-24T17:35:04+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nProduct owner (Инструменты продаж) в РСХБ-Интех\nМосква\nМы ищем опытного и увлеченного Product owner (Владельца продукта)/Менеджера продукта в команду Инструменты продаж, который станет ключевым драйвером успешной реализации продукта ДБО физических лиц в мобильном приложении, с фокусом на потребности клиента. Вы будете управлять всем жизненным циклом внедрения продукта в систему дистанционного банковского…\n\nProduct Manager middle/senior в Smartco company\nБишкек\nВдохновляющий вызов для Product Manager: создаём стартап с нуля!\nТы мечтаешь не просто управлять продуктом, а строить его с самого начала, влиять на стратегию и менять правила игры? Присоединяйся к нашей амбициозной команде, где каждый день — это шанс воплотить свои идеи и стать частью будущего рынка авто! Нам нужен «двигатель», который превратит…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 47,
+        "url": "https://hh.ru/vacancy/133432419"
+      },
+      {
+        "type": "text_url",
+        "offset": 451,
+        "length": 47,
+        "url": "https://hh.ru/vacancy/133431686"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/2814",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner",
+    "company": "РСХБ-Интех",
+    "location": "Москва",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Product Owner в команде Инструменты продаж. Управление жизненным циклом продукта ДБО физических лиц в мобильном приложении с фокусом на потребности клиента.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 2813,
+    "date_iso": "2026-05-24T13:32:50+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nРуководитель продукта «Цифровой сервис предоставления выписок из ЕГРН на портале Госуслуг» в Министерство цифрового развития, связи и массовых коммуникаций Российской Федерации\nМосква\nС продажей или покупкой недвижимости так или иначе сталкивается каждый гражданин в своей жизни.\nЦель - создание комплексного сервиса по приобретению недвижимости, позволяющего проверить объект недвижимости и участников сделки, заключить договор в электронном виде и зарегистрировать право собственности без необходимости очного присутствия, а также перевод…\n250 000 ₽",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 176,
+        "url": "https://hh.ru/vacancy/133430770"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/2813",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель продукта",
+    "company": "Министерство цифрового развития, связи и массовых коммуникаций Российской Федерации",
+    "location": "Москва",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": "250 000 ₽",
+    "short_description": "Развитие цифрового сервиса предоставления выписок из ЕГРН на портале Госуслуг. Создание комплексного сервиса для проверки недвижимости, заключения электронных договоров и регистрации прав собственности без очного присутствия.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 2298616665,
     "channel_username": "product_jobmeister",
     "channel_title": "Вакансии для продактов Jobmeister",
@@ -26,7 +152,7 @@
     "salary": null,
     "short_description": "Студия разработки мобильных игр (15 человек) ищет PM с геймдизайнерским бэкграундом для двух live-проектов: Нарды (DAU 75k, миграция на Unity) и Карточный батлер. Требуется опыт использования игрового дизайна для оптимизации привлечения, удержания и монетизации аудитории.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -62,7 +188,7 @@
     "salary": "130 000 ₽",
     "short_description": "Запуск собственного онлайн-проекта по продаже мармелада с интеграцией внутренних систем. Развитие потока заказов в B2B сегменте, улучшение функционала и клиентского опыта.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -103,7 +229,7 @@
     "salary": "400 000 - 600 000 руб net",
     "short_description": "Компания создает lifestyle-продукты в сфере питания, тренировок и здоровья с 50+ тысячами активных пользователей. Ищет опытного PM для управления портфелем из 2 мобильных приложений и новых направлений, с фокусом на валидацию гипотез, метрики и юнит-экономику.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -133,7 +259,7 @@
     "salary": null,
     "short_description": "Ведение полного цикла разработки beauty-продуктов от концепта до запуска на фабрике. Управление текстурой, упаковкой, комплектующими и качеством. Работа с поставщиками и анализом конкурентов на Amazon US рынке.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -181,7 +307,7 @@
     "salary": null,
     "short_description": "Развитие одного из направлений кредитования малого и среднего бизнеса. Требуется опыт запуска новых продуктов, управления P&L, аналитические навыки и работа с финансовыми продуктами от 4 лет.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -23284,7 +23410,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -23320,7 +23446,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -23356,7 +23482,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -23386,7 +23512,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -23416,7 +23542,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -23452,7 +23578,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -23507,7 +23633,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -23530,7 +23656,7 @@
     "duplicates": [],
     "entities": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -23591,7 +23717,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -23627,7 +23753,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
