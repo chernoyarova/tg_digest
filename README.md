@@ -4,7 +4,7 @@
 
 Forget scrolling through twelve job channels every morning. `tg_digest` watches a folder of Telegram channels, filters out everything that isn't a vacancy, lets Claude Haiku pull out the structured stuff (company, grade, salary, remote, ML/AI focus), kills duplicates, and serves you a clean, searchable, filterable digest. Every morning at 09:00 MSK. On autopilot. For free.
 
-**[Live demo →](https://evazemtsova.github.io/tg_digest/)**
+**[Live demo →](https://chernoyarova.github.io/tg_digest/)**
 
 ![Desktop and mobile view](docs/screenshots/hero.png)
 
