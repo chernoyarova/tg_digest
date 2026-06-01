@@ -1,5 +1,302 @@
 [
   {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 2916,
+    "date_iso": "2026-06-01T11:04:52+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nСтарший менеджер по продукту (in-app маркетинговые инструменты) в «UZUM TECHNOLOGIES»\nТашкент\nUzum — это новая уникальная компания в Узбекистане, первая технологичная экосистема сервисов в стране. Мы развиваем сразу несколько высокотехнологичных продуктов, чтобы у миллионов жителей страны был доступ к безграничному ассортименту товаров с быстрой доставкой, а также финансовые сервисы, помогающие в решении бытовых задач и развитии бизнеса. Мы строим…\n\nВладелец продукта (Product Owner) в Мегаплан\nМосква\nМегаплан — одна из ведущих CRM / task-management / систем управления бизнесом в России.\nМы закрываем множество задач бизнеса: управление задачами и проектами, ведение клиентов, обработка обращений, работа с документами, внутрикорпоративное общение и видеосвязь.\nСейчас мы ищем в продуктовую команду аналитика с опытом в B2B.\nНам нужен человек, который…\n\nМенеджер продукта в Ростелеком Информационные Технологии\nМосква\nМенеджер продукта\nМы запускаем новый AI-продукт в сфере генеративного мультимедиа контента и ищем\nSenior Product Manager, который поможет развивать систему для создания и\nредактирования видеоконтента с использованием AI.\nЗадачи:\n• Развивать продуктовую стратегию и roadmap AI-продукта.\n• Исследовать B2B-аудиторию: креативные команды,…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 85,
+        "url": "https://hh.ru/vacancy/133709894"
+      },
+      {
+        "type": "text_url",
+        "offset": 495,
+        "length": 44,
+        "url": "https://hh.ru/vacancy/133705488"
+      },
+      {
+        "type": "text_url",
+        "offset": 901,
+        "length": 56,
+        "url": "https://hh.ru/vacancy/133702612"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/2916",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Старший менеджер по продукту (in-app маркетинговые инструменты)",
+    "company": "Uzum Technologies",
+    "location": "Ташкент",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Работа над in-app маркетинговыми инструментами в экосистеме сервисов Uzum, включающей e-commerce и финансовые продукты для жителей Узбекистана. Развитие высокотехнологичных продуктов в рамках технологичной платформы.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 2915,
+    "date_iso": "2026-06-01T10:34:51+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nРуководитель направления «Оборудование и комплектующие в области авиационной техники» в НИИ Вектор\nМосква\nВ Ваши обязанности будет входить:\nОбеспечения выполнения этапов формирования коммерческого облика продукта, НИОКР, производства продукции и вывода продукта на рынок:\n• формирование бизнес‑идей по направлению «Оборудование и комплектующие в области авиационной техники» (включая БПЛА, системы аэростатов, специализированные авиационные системы,…\n\nСтажер в Управление координации и поддержки продуктов, ВТБ Юниор в Банк ВТБ (ПАО)\nМосква\nВТБ Юниор — это оплачиваемая стажировка для начинающих специалистов в головном офисе ВТБ по направлениям: корпоративно-инвестиционный бизнес, средний и малый бизнес, розничный бизнес, технологический блок, а также поддержка и контроль. С первых дней вам предстоит работать над серьезными проектами. Вы научитесь находить решения сложных бизнес-задач…\n81 000 ₽",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 98,
+        "url": "https://hh.ru/vacancy/133709594"
+      },
+      {
+        "type": "text_url",
+        "offset": 493,
+        "length": 81,
+        "url": "https://hh.ru/vacancy/133705483"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/2915",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель направления «Оборудование и комплектующие в области авиационной техники»",
+    "company": "НИИ Вектор",
+    "location": "Москва",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Руководство направлением по разработке оборудования и комплектующих для авиационной техники, включая БПЛА и специализированные системы. Ответственность за все этапы от формирования коммерческого облика продукта до вывода на рынок.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1674506295,
+    "channel_username": null,
+    "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+    "msg_id": 6021,
+    "date_iso": "2026-06-01T08:55:53+00:00",
+    "text": "Product Owner в BrainRocket: https://www.remocate.app/jobs/product-owner-uae-full\n\nПомогают с релокацией (ОАЭ). Зарплата в валюте.\n\nПри отклике укажите, что нашли вакансию на Remocate.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 29,
+        "length": 52
+      }
+    ],
+    "link": "https://t.me/c/1674506295/6021",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner",
+    "company": "BrainRocket",
+    "location": "ОАЭ",
+    "grade": null,
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Product Owner вакансия в BrainRocket в ОАЭ с помощью в релокации. Зарплата выплачивается в валюте.",
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/11065",
+        "date_iso": "2026-06-01T09:02:50+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 11059,
+    "date_iso": "2026-06-01T08:11:30+00:00",
+    "text": "#vacancy #iOS #Swift #VIPER #FinTech #Senior #IOS_Gul\n\nSenior iOS Разработчик (FinTech, Архитектура VIPER) 📱💳\n\nID: IOS_Gul\nСтавка: до 230 000 руб. на руки.\nГрейд: Senior.\nЛокация/Гражданство: Только РФ (полная удаленка).\nВажное юридическое условие: Обязательное параллельное оформление на 0.01 ставки в штат к заказчику (для соблюдения ИБ-регламентов и доступов к финтех-контуру).\nСфера проекта: Финтех (FinTech).\n\nИщем опытного iOS-разработчика уровня Senior с отличным знанием нативного Swift и глубоким практическим пониманием архитектуры VIPER. Вам предстоит развивать крупный мобильный финансовый продукт в составе распределенной кросс-функциональной команды. Мы ищем инженера, который одинаково круто умеет проектировать бизнес-логику, верстать кастомные интерфейсы и покрывать кодовую базу тестами разного уровня.\n🚀 Что предстоит делать (Обязанности):\nРазработка и развитие: проектирование и написание отказоустойчивого кода для финтех-приложения на базе Swift и архитектурного паттерна VIPER.\nUI и Сеть: создание сложных, отзывчивых и кастомных элементов интерфейса; настройка и оптимизация сетевого слоя приложения.\nТестирование: обеспечение стабильности продукта — написание как Unit-тестов, так и автоматизированных XCUI-тестов.\nИнфраструктура: управление зависимостями, участие в архитектурных обсуждениях и выстраивании процессов непрерывной интеграции (CI/CD).\n🎯 Наши ожидания:\nВысшее профильное образование (ИТ, математика, статистика или смежные технические дисциплины).\nКоммерческий опыт разработки мобильных приложений под iOS на Swift от 3-х лет.\nЖелезобетонный практический опыт работы с архитектурой VIPER на крупных проектах.\nУверенное знание и применение на практике принципов SOLID и классических паттернов проектирования.\nГлубокое понимание целевого технологического стека: Swift Package Manager (SPM), Swinject, Moya, Alamofire, ObjectMapper, SwiftyMock, Swift Concurrency.\nОпыт работы с локальными базами данных (SQLite, CoreData, Realm).\nСвободное владение Git в условиях активной командной разработки.\n🌟 Будет большим плюсом:\nПонимание процессов CI/CD и практические навыки самостоятельной настройки пайплайнов сборки и доставки приложения (мега-плюс).\n\n📲 Контакт для отклика: @hrwomenpro\n(При отклике, пожалуйста, сразу присылайте актуальное резюме, указывайте ID: IOS_Gul и подтверждайте готовность к оформлению на 0.01 ставки у заказчика)",
+    "entities": [],
+    "link": "https://t.me/ITjobsFeed/11059",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior iOS Разработчик (FinTech, VIPER)",
+    "company": null,
+    "location": "Удаленно, РФ",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "до 230 000 руб.",
+    "short_description": "Разработка крупного мобильного финансового продукта на Swift с архитектурой VIPER. Требуется опыт проектирования бизнес-логики, создания кастомных интерфейсов и написания Unit и XCUI-тестов. Работа в кросс-функциональной распределенной команде финтех-проекта.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 11056,
+    "date_iso": "2026-06-01T08:03:36+00:00",
+    "text": "2341 #Вакансия #ProductManager #PdM #ПдМ #Web3 #DeFi #Fulltime #Remote #Удаленно \n\nТребуется Senior/Lead Product Manager (Web3)\n\nИТ-холдинг с Web3-экосистемой (DEX, образовательные продукты, мемпад и др.) ищет сильного продуктового лидера, который возьмёт на себя развитие ключевых направлений и будет влиять на стратегию продуктов.\n\n▪️Что нужно делать:\n▫️Формировать продуктовое видение и стратегию\n▫️Вести product discovery: гипотезы, ресерчи, A/B-тесты\n▫️Управлять roadmap и приоритизацией\n▫️Работать на стыке Dev, Data/AI, UX и legal\n▫️Определять и развивать продуктовые метрики\n▫️Запускать и масштабировать монетизацию вместе с growth/маркетингом\n▫️Управлять продуктовой командой (PM, BizDev, аналитик)\n\n▪️Что ожидаем:\n▫️5+ лет в роли Product в Web3\n▫️Опыт запуска продуктов с нуля и вывода на рынок\n▫️Опыт работы в стартап среде\n▫️Сильный data-driven подход и работа с метриками\n▫️Практика discovery, UX и постановки требований (PRD, user stories)\n▫️Опыт работы с несколькими продуктами или потоками\n▫️Навыки в монетизации и growth\nАнглийский от B2\n\n▪️Что предлагаем:\n▫️Конкурентная зарплата (обсуждается)\n▫️Влияние на продукт и стратегию\n▫️Сильная команда и масштабные задачи\n\nКонтакты: Оставьте свое резюме и мы с вами свяжемся\n\nДругие наши сообщества в крипто рекрутинге: \nBlockchain Hunter, Крипто Head Hunter, Crypto Jobs, Crypto Job",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1194,
+        "length": 20,
+        "url": "https://aina-tech.io/public/vacancies/80aba472-b8c6-4f9b-b669-269d20631808?lang=ru"
+      },
+      {
+        "type": "text_url",
+        "offset": 1282,
+        "length": 18,
+        "url": "https://t.me/workingincrypto"
+      },
+      {
+        "type": "text_url",
+        "offset": 1301,
+        "length": 19,
+        "url": "https://t.me/cryptoheadhunter"
+      },
+      {
+        "type": "text_url",
+        "offset": 1321,
+        "length": 12,
+        "url": "https://t.me/opento_crypto"
+      },
+      {
+        "type": "text_url",
+        "offset": 1334,
+        "length": 10,
+        "url": "https://t.me/cryptovakansii"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/11056",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior/Lead Product Manager Web3",
+    "company": null,
+    "location": "Remote",
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "IT-холдинг с Web3-экосистемой (DEX, образовательные продукты, мемпад и др.) ищет опытного PM для развития ключевых направлений. Требуется 5+ лет опыта в Web3, product discovery, data-driven подход, опыт запуска продуктов с нуля и управления командой на стыке Dev, Data/AI, UX и legal.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 2912,
+    "date_iso": "2026-05-31T14:04:47+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nМенеджер продукта (Агора) в Эрливидео\nМосква\nЭрливидео - аккредитованная российская IT-компания, основанная программистами в 2010 году.\nМы являемся одним из ведущих мировых разработчиков ПО в сегменте рынка приема, транскодирования, хранения, защиты и доставки видео, а также предоставляем готовое комплексное решение для организации сервиса видеонаблюдения любых масштабов.\nВ 2021 и 2022 году мы…\n\nАрхитектор ИИ-агентных систем / Senior AI Architect в AP Company\nМосква, удаленно\nMosco.ai — это SaaS-платформа с использованием искусственного интеллекта, ориентированная на автоматизацию продаж и обработки лидов в сервисных бизнесах (особенно в сфере бытовых услуг на рынке США).\nМы предлагаем решения, которые помогают бизнесам быстрее отвечать на входящие заявки, квалифицировать клиентов, автоматизировать коммуникацию и…\n$3 000 — 3 500",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 37,
+        "url": "https://hh.ru/vacancy/133684608"
+      },
+      {
+        "type": "text_url",
+        "offset": 440,
+        "length": 64,
+        "url": "https://hh.ru/vacancy/133684851"
+      },
+      {
+        "type": "url",
+        "offset": 522,
+        "length": 8
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/2912",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Менеджер продукта",
+    "company": "Эрливидео",
+    "location": "Москва",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Компания разрабатывает ПО для приема, транскодирования, хранения, защиты и доставки видео. Предоставляют комплексные решения для сервиса видеонаблюдения любых масштабов.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 11033,
+    "date_iso": "2026-05-31T12:30:48+00:00",
+    "text": "PRODUCT MANAGER INTERN | ЯНДЕКС ИГРЫ | HYBRID / OFFICE MOSCOW | #hybride #office #moscow #product #fulltime #gamedev #job https://teletype.in/@courierus/xqV862HO4FV",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 122,
+        "length": 42
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/11033",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager Intern",
+    "company": "Яндекс Игры",
+    "location": "Москва, гибрид",
+    "grade": "Junior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Internship position at Yandex Games, a gaming division. The role involves working with game products and the game development team.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1398,
+    "date_iso": "2026-05-31T09:07:24+00:00",
+    "text": "Product Manager Appbooster \n\nВсе для роста от редакции канала https://t.me/FreshProductGo/1757\n\nСейчас мне нужен человек, который подхватит ответственность за ключевой Mobile продукт в портфеле и будет масштабировать MRR и unit-экономику. Кор продукта построен на AI и social взаимодействии с юзером. Продукт уже приносит деньги и сейчас его нужно масштабировать. Эта роль не про ведение бэклога, а про бизнес результат, поиск точек роста для его достижения и максимальную автономность в решениях. Мы так же будем запускать новые продукты, если увидим рыночную возможность. \n\nНа что смотрю:\n- умение отвечать за продукт: в результатах, действиях и решениях\n- 3+ лет в Mobile продуктах, с акцентом на B2C и подписки, либо крутые бизнесовые результаты (международный рынок)\n- опыт запуска продуктов с 0 и их масштабирования до $50-100k MRR (на уровне 1 приложения или портфеля)\n- подтвержденный опыт опыт улучшения LTV:CAC\n- growth-мышление: работа через метрики, оценку влияния, скорость, гипотезы, выводы\n- опыт работы в связке с UA, ASO или контент командами\n- AI-инструменты в работе как норма\n\nВилка: фикс до 350к. руб. net., с возможностью получения % от доходов, если у нас все сложится и будут крутые результаты.\nБез ограничений по локации и без тестового задания. \n\nЕсли интересно - напишите мне краткое интро о себе и своем опыте. \nОтдельно можете откликнуться на вакансию тут @tea_blogg8\n\nХотите расти в профессии продакта? Все возможности от редакции канала по ссылке.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 62,
+        "length": 32
+      },
+      {
+        "type": "text_url",
+        "offset": 1471,
+        "length": 6,
+        "url": "https://koloskoveducation.tilda.ws/"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1398",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Mobile",
+    "company": "Appbooster",
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": true,
+    "salary": "до 350к ₽ + % от доходов",
+    "short_description": "Масштабирование мобильного B2C продукта на основе AI и социального взаимодействия. Фокус на рост MRR и unit-экономику, запуск новых продуктов. Требуется опыт с мобильными подписками, growth-метриками и UAC оптимизацией.",
+    "duplicates": [],
+    "is_new": false,
+    "is_archived": false
+  },
+  {
     "channel_id": 2667909413,
     "channel_username": "ITjobsFeed",
     "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
@@ -26,7 +323,7 @@
     "salary": null,
     "short_description": "Управление проектами с госзаказчиками, работа с веб-приложениями и субподрядчиками. Требуется опыт 3+ лет, понимание архитектуры и коммуникация между заказчиком и разработкой.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -68,7 +365,7 @@
     "salary": "до 350к ₽ + процент от доходов",
     "short_description": "Развитие ключевого мобильного B2C продукта на основе AI и социального взаимодействия. Фокус на масштабирование MRR и unit-экономики, запуск новых продуктов при обнаружении рыночных возможностей. Требуется опыт в мобильных продуктах, подписках, growth-аналитике и работа с UA/ASO командами.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -116,7 +413,7 @@
     "salary": null,
     "short_description": "Ищем продакта для лидирования бизнес-направлением в FinTech. Требуется опыт работы с платежными и кредитными продуктами, понимание BNPL, данных и метрик, OKR/PI Planning, работа с регуляторикой банковского сектора.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -184,7 +481,7 @@
         "channel_id": 2667909413
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -250,7 +547,7 @@
     "salary": null,
     "short_description": "Расширение команды продукта в Ozon с несколькими открытыми позициями: Ведущий менеджер продукта B2B, менеджер продукта CJ и UX, менеджер продукта B2B. Ecom домен.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -279,7 +576,7 @@
     "salary": "от 180 000 ₽",
     "short_description": "Команда помогает найти работу в международных компаниях с русскоязычными командами. Требуется опыт в медиа или цифровых технологиях, работа с аналитическими инструментами и умение принимать решения на основе данных.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -22006,7 +22303,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 3649462054,
@@ -22036,7 +22333,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -22081,7 +22378,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22111,7 +22408,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22141,7 +22438,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22177,7 +22474,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22213,7 +22510,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22243,7 +22540,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22279,7 +22576,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22309,7 +22606,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22369,7 +22666,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22399,7 +22696,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22429,7 +22726,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22495,7 +22792,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22525,7 +22822,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -22567,7 +22864,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22597,7 +22894,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22627,7 +22924,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22663,7 +22960,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22729,7 +23026,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22771,7 +23068,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22801,7 +23098,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 3649462054,
@@ -22831,7 +23128,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -22867,7 +23164,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22931,7 +23228,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -22954,7 +23251,7 @@
     "duplicates": [],
     "entities": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22984,7 +23281,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23014,7 +23311,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -23054,7 +23351,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23090,7 +23387,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23138,7 +23435,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 3649462054,
@@ -23168,7 +23465,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23198,7 +23495,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
