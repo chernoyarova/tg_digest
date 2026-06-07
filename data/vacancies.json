@@ -1,5 +1,101 @@
 [
   {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 514,
+    "date_iso": "2026-06-06T19:02:50+00:00",
+    "text": "👨‍💻 Monetization Product Manager GameDev\n\n▪️Компания ChillBase\n▪️Домен #GameDev\n▪️Грейд #Senior #Head\n▪️Формат #Кипр #ГибридЛимассол\n\nВ ChillBase ищем Monetization Product Manager, который умеет находить баланс между интересами игроков, игровой экономикой и бизнес-результатом.\n\nЭта роль про гипотезы, эксперименты и постоянный поиск новых возможностей для роста. Нужно будет глубоко погружаться в поведение игроков, работать с данными и исследованиями, проверять идеи на практике и понимать, какие изменения действительно двигают продукт вперед.\nВ твоей зоне ответственности — монетизационное направление от формирования стратегии и роадмапа до развития команды и запуска новых решений. \n\nСсылка на пост LinkedIn\nСсылка на вакансию\n\n📱 Канал о карьере и поиске работы\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 692,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/chillgaming-ltd_%D0%B2-chillbase-%D0%B8%D1%89%D0%B5%D0%BC-monetization-product-manager-activity-7468585388366872577-UQZ3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 716,
+        "length": 18,
+        "url": "https://chillbase.net/ru/vacancies/monetization-product-manager/"
+      },
+      {
+        "type": "text_url",
+        "offset": 739,
+        "length": 31,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 775,
+        "length": 33,
+        "url": "https://forms.gle/W76EseaonH3z7QsP8"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/514",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Monetization Product Manager, GameDev",
+    "company": "ChillBase",
+    "location": "Лимассол, Кипр, гибрид",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Монетизационный PM для игровой компании ChillBase. Отвечаете за стратегию и роадмап монетизации, работаете с данными поведения игроков, проводите эксперименты и развиваете команду. Требуется баланс между интересами игроков, экономикой игры и бизнес-результатами.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 513,
+    "date_iso": "2026-06-06T17:17:35+00:00",
+    "text": "💙 Product Manager и Product Lead VK \n\n▪️Компания VK\n▪️Домен #BigTech \n▪️Грейд #Senior #Lead\n▪️Формат #УдаленкаРФ #ГибридМосква\n\nVK – это экосистема, которая объединяет 91 млн пользователей в Вконтакте, 45 млн — в ВК Музыке и 2.7 млрд просмотров в ВК Видео ежедневно. Мы строим технологии, которые влияют на способ общения, развлечений и взаимодействия миллионов людей\n \nИщем опытных Product Manager (Senior), Product Lead которые умеют строить масштабные продукты, основываясь на понимании рынка, данных и потребностей пользователей, а также вдохновляют команды и ищут возможности для инноваций в B2B, B2C и Social E-commerce \n \nЧто вас ждёт: \n- Работа с масштабными продуктами, которые используются миллионами\n- Современные подходы к управлению продуктом и сильные команды\n- Возможность влиять на развитие экосистемы и строить будущее\n- Конкурентоспособные условия работы, гибкий график, программа благополучия, ДМС\n\nСсылка на пост LinkedIn\n\n📱 Канал о карьере и поиске работы\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 50,
+        "length": 2,
+        "url": "https://team.vk.company/company/"
+      },
+      {
+        "type": "text_url",
+        "offset": 919,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/valentina-perelomova-59392925b_%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%B8%D1%89%D1%83-product-manager-senior-activity-7465434964566790144-tNBB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 947,
+        "length": 31,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 983,
+        "length": 33,
+        "url": "https://forms.gle/W76EseaonH3z7QsP8"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/513",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager Senior / Product Lead",
+    "company": "VK",
+    "location": "Москва, гибрид / Удалённо (РФ)",
+    "grade": "Senior / Lead",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Экосистема с 91 млн пользователей в ВКонтакте, 45 млн в ВК Музыке и 2.7 млрд просмотров в ВК Видео ежедневно. Поиск опытных Product Manager и Product Lead для масштабных продуктов в B2B, B2C и Social E-commerce с фокусом на данные, понимание рынка и потребности пользователей.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 1311743791,
     "channel_username": "productjobgo",
     "channel_title": "Вакансии для продакт-менеджеров",
@@ -41,7 +137,7 @@
     "salary": null,
     "short_description": "Три вакансии для Product Manager в команде Цифра банка. Направления: платформа OMNI, ID + DWH, сайты, онбординг и дизайн-система. Уровень middle/middle+.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -71,7 +167,7 @@
     "salary": null,
     "short_description": "Руководство продуктовым направлением «Доходность зарплатных проектов и кросс-продажи» в банковской сфере. Ответственность за формирование и приоритизацию продуктового бэклога, реализацию улучшений и анализ конкурентов для повышения доходности.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -101,7 +197,7 @@
     "salary": null,
     "short_description": "Управление платформой Advisory для инвестиционных стратегий. Роль направлена на развитие продукта и достижение лидерства на рынке управления капиталом.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -137,7 +233,7 @@
     "salary": null,
     "short_description": "Развитие AI-продуктов на стыке продукта, данных и инфраструктуры. Опыт работы с LLM, генеративными моделями и агентными системами требуется.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -191,7 +287,7 @@
     "salary": null,
     "short_description": "Развитие инновационной продуктовой платформы. Запуск и поддержка продуктовых страниц, разработка сценариев использования и пользовательских путей, анализ поведения.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -233,7 +329,7 @@
     "salary": null,
     "short_description": "Развитие инфраструктурного контейнерного облака Яндекса. Управление более 100 тысячами серверов и 50 тысячами приложений с миллионом контейнеров.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -263,7 +359,7 @@
     "salary": null,
     "short_description": "Zexter is an international IT company developing platforms for iGaming and betting. The role requires B2+ English proficiency, with Spanish or Portuguese as a bonus.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -299,7 +395,7 @@
     "salary": null,
     "short_description": "Разработка геймифицированных B2C-решений, рекламных форматов и интеграций для B2B-партнёров. Управление программой лояльности с баллами Плюса.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -329,7 +425,7 @@
     "salary": null,
     "short_description": "IT-компания, специализирующаяся на разработке высоконагруженных B2B веб-сервисов для автоматизации e-commerce. Гибкий график работы.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -365,7 +461,7 @@
     "salary": null,
     "short_description": "TBC Nasiya is a fast-growing BNPL business within TBC Uzbekistan, a leading digital banking ecosystem in Central Asia. The role requires fluency in Russian and Uzbek with English as an advantage.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -395,7 +491,7 @@
     "salary": null,
     "short_description": "GigaChat is a generative AI model and AI assistant developed by Sber, one of Russia's largest artificial intelligence projects. The role involves product management for a cutting-edge generative AI platform.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -425,7 +521,7 @@
     "salary": null,
     "short_description": "IT-компания, лидер в цифровых решениях для фармацевтического рынка. Разработка Enterprise SaaS-платформ, включая мобильную CRM-систему и платформу маркетинговой автоматизации.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -466,7 +562,7 @@
     "salary": null,
     "short_description": "Три позиции Senior/Lead Product Manager для GigaChat с опытом B2C на миллионы пользователей и работой с LLM-продуктами. Требуется доказанный импакт и лидерские навыки.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -526,7 +622,7 @@
     "salary": null,
     "short_description": "Ищем CPO для развития продукта Litebox. Необходимо выстроить систему развития продукта: диагностика текущего состояния, поиск точек роста и их монетизация.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -562,7 +658,7 @@
     "salary": null,
     "short_description": "Delivery Hero is one of the world leaders in online ordering and fast delivery. The role involves managing the quick commerce product vertical (DMarts). Additional details are available in the linked LinkedIn post.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -592,7 +688,7 @@
     "salary": null,
     "short_description": "Развитие продуктового vision нового мобильного приложения банка, определение целевой модели клиентского опыта и ключевых customer journeys. Управление backlog'ом продукта, приоритизация бизнес-требований и формирование roadmap.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -640,7 +736,7 @@
     "salary": null,
     "short_description": "Лидер core-бизнеса ЦИАН, ответственность за развитие сервисов вторичного рынка недвижимости и механизмов балансирования ликвидности, монетизации и пользовательского опыта.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -684,7 +780,7 @@
         "channel_id": 2667909413
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -714,7 +810,7 @@
     "salary": null,
     "short_description": "Лидер трайба по платежам и управлению денежными средствами в финтех-банке. Роль сочетает управление продуктом, стратегию и руководство командой с фокусом на рост доходов и опыт клиентов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -750,7 +846,7 @@
     "salary": null,
     "short_description": "Cleverbridge is an international ecommerce and billing platform. The role involves product management for their platform offerings.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -792,7 +888,7 @@
     "salary": null,
     "short_description": "Анализ и оптимизация цифрового пути B2B клиентов. Формирование технических требований и приоритизация бэклога совместно с командой разработки. Координация работы дизайнеров, аналитиков и маркетологов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -846,7 +942,7 @@
     "salary": null,
     "short_description": "Переосмысление внутренней поддержки (Helpy и Service Desk) с переходом от AI-Enabled к AI-First подходу. Работа с RAG, MCP, агентами и мультиагентными системами для поддержки десятков тысяч сотрудников Яндекса с учетом языковых, юридических и законодательных особенностей разных регионов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -906,7 +1002,7 @@
     "salary": null,
     "short_description": "Аудит и оптимизация бизнес-процессов контактного центра. Формулирование гипотез по автоматизации и подготовка требований по доработкам CRM-системы.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -942,7 +1038,7 @@
     "salary": null,
     "short_description": "Развитие AI-продукта для массового сегмента, который автоматизирует финансовые задачи клиентов. Продукт на стадии POC, требуется лидер для масштабирования от proof-of-concept к готовому решению.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -972,7 +1068,7 @@
     "salary": null,
     "short_description": "Freedom Lifestyle Group ищет Middle Product Manager с опытом в MedTech для работы в экосистемном IT- и лайфстайл-дивизионе международного холдинга Freedom Holding Corp.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -20424,7 +20520,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2769347520,
@@ -20454,7 +20550,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -20477,7 +20573,7 @@
     "duplicates": [],
     "entities": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20507,7 +20603,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20537,7 +20633,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20567,7 +20663,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20603,7 +20699,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20639,7 +20735,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20669,7 +20765,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20699,7 +20795,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20736,7 +20832,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20766,7 +20862,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20802,7 +20898,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20838,7 +20934,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20880,7 +20976,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20910,7 +21006,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20940,7 +21036,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20976,7 +21072,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21006,7 +21102,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21036,7 +21132,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21066,7 +21162,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21096,7 +21192,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21126,7 +21222,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21156,7 +21252,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21192,7 +21288,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21222,7 +21318,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21252,7 +21348,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21282,7 +21378,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21312,7 +21408,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21342,7 +21438,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21378,7 +21474,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21461,7 +21557,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21497,7 +21593,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21545,7 +21641,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21593,7 +21689,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21629,7 +21725,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21659,7 +21755,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21689,7 +21785,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21719,7 +21815,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21749,7 +21845,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21779,7 +21875,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21809,7 +21905,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21839,7 +21935,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21876,7 +21972,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21912,7 +22008,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21948,7 +22044,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21984,7 +22080,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22014,7 +22110,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22044,7 +22140,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22074,7 +22170,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22104,7 +22200,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -22158,7 +22254,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -22181,7 +22277,7 @@
     "duplicates": [],
     "entities": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22223,7 +22319,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22253,7 +22349,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1205373966,
@@ -22289,7 +22385,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22325,7 +22421,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -22395,7 +22491,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22425,7 +22521,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -22448,7 +22544,7 @@
     "duplicates": [],
     "entities": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22478,7 +22574,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22508,7 +22604,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22544,7 +22640,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -22573,7 +22669,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22609,7 +22705,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1205373966,
@@ -22632,7 +22728,7 @@
     "duplicates": [],
     "entities": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22675,7 +22771,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22705,7 +22801,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22735,7 +22831,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
