@@ -1,5 +1,385 @@
 [
   {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 3019,
+    "date_iso": "2026-06-08T10:36:42+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nМенеджер продукта команды роботов доставки в Автономный транспорт в Яндекс\nМосква\nВ Яндексе мы по-новому подходим к доставке из магазинов и ресторанов: стремимся к тому, чтобы заказы доставляли не только люди, но и роботы доставки. Наш проект объединяет инженерию робототехники, разработку ПО и операционное управление автономным флотом.\nМы выстраиваем процессы так, чтобы сервис был привлекательным для партнёров. Один из ключевых…\n\nContent Producer (AI-first) в Phygital+\nМосква, удаленно\nПривет! Мы - Phygital+.\nМы делаем AI-платформу для дизайн- и маркетинг-команд крупных компаний.\nНаш продукт - no-code конструктор с 40+ нейросетями, который помогает enterprise-клиентам выстраивать управляемое производство визуального контента: товарные карточки, баннеры, анимации - через нодовые пайплайны и командный доступ без VPN.\nКоротко о…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 74,
+        "url": "https://hh.ru/vacancy/133947784"
+      },
+      {
+        "type": "text_url",
+        "offset": 475,
+        "length": 39,
+        "url": "https://hh.ru/vacancy/133959433"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3019",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Менеджер продукта, автономный транспорт",
+    "company": "Яндекс",
+    "location": "Москва",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Управление продуктом в области роботов доставки. Объединяет робототехнику, разработку ПО и операционное управление автономным флотом доставки заказов из магазинов и ресторанов.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 3018,
+    "date_iso": "2026-06-08T10:06:42+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nРуководитель проекта ( оплата QR-кодом) в СБЕР\nМосква\nМы создаём новое направление, связанное с международными платежами для розничных клиентов с использованием альтернативных инструментов.Обязанности\n• формулировать чёткие и обоснованные бизнес-требования, которые определяют стратегию развития продукта\n• разрабатывать и поддерживать детальный бэклог с прозрачными критериями готовности и приёмки…\n\nРуководитель направления по взаимодействию с продуктами в VK в VK\nМосква\nЗадачи\n• Подготовка и реализация стратегического и тактического плана взаимодействия в работе с авторами с рядом продуктов VK\n• Разработка системы социального лифта целевых авторов для продуктов и авторского блока\n• Квотирование и распределение продуктовых и сервисных ресурсов среди авторов согласно стратегии\n• Системная защита интересов…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 46,
+        "url": "https://hh.ru/vacancy/133956709"
+      },
+      {
+        "type": "text_url",
+        "offset": 442,
+        "length": 65,
+        "url": "https://hh.ru/vacancy/133951150"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3018",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель проекта",
+    "company": "Сбер",
+    "location": "Москва",
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Создание нового направления международных платежей для розничных клиентов с альтернативными инструментами. Формулирование бизнес-требований, разработка и управление бэклогом продукта.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 3017,
+    "date_iso": "2026-06-08T09:36:43+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nCJE (Customer Journey Expert) в phygital-продажах (GenAI) в СБЕР\nМосква\nМы развиваем продажи продуктов банка и экосистемы, фокусируясь на phygital-каналах: телефонии, чатах, IVR. Наша амбициозная цель — внедрить GenAI и AI-агентов, чтобы революционизировать взаимодействие с клиентами, сделать его персонализированным, эффективным и запоминающимся.\nМы ищем уникального специалиста, который видит за данными живого клиента. Вы…\n\nМенеджер проектов в Управление развития продуктов и транзакционной активности в АЛЬФА-БАНК\nМинск\nАльфа Банк – один из ведущих частных банков, который входит в число системно значимых банков Беларуси.\nМы работаем как финтех-компания, интегрируя в свою бизнес-модель успешные практики в области мобильных платежей, онлайн-кредитования, цифровых транзакций и других передовые технологии.\nСейчас в Альфе более 70 тысяч бизнес-клиентов и 1 100 000+…\n\nProduct Owner (Local Payments) в Ipotekabank OTP Group\nТашкент\nОтвечает за развитие продуктов локальных платежей в цифровых каналах банка: биллинг, регулярные платежи, шаблоны оплат и интеграции с поставщиками услуг. Управляет развитием партнёрской сети, взаимодействием с агрегаторами биллинга и улучшением пользовательского опыта оплаты сервисов.\nОсновные обязанности:\n• Развитие направления локальных платежей в…\n\nProduct Owner (Local Transfers) в Ipotekabank OTP Group\nТашкент\nОтвечает за развитие и управление продуктами локальных переводов: P2P внутри банка и межбанковские переводы через Uzcard и Humo, card-to-card и account-to-account переводы. Формирует продуктовую стратегию, управляет roadmap и backlog, отвечает за пользовательский опыт, стабильность сервиса и ключевые бизнес-метрики.\nОсновные обязанности:\n• Развитие…\n\nProduct manager в Рэд\nМосква, удаленно\nКлючевая цель позиции: Создание ценных продуктов\nКлючевая метрика позиции: Выручка компании\nЧто мы предлагаем:\n• Первоначальная мотивация: оклад 100 000 руб. + KPI. Система мотивации не имеет \"потолка\" и завязана на твердые показатели выручки и конверсий. Если ваши действия приносят деньги компании, то компания…\n\nSenior Product Manager в SberTech\nМосква\nМы создаём AI-ассистента нового поколения для разработчиков — систему, которая помогает писать код, анализировать кодовую базу и выполнять инженерные задачи автономно.\nНаш продукт — это не просто чат с моделью.\nМы разрабатываем agentic AI-систему, которая понимает структуру проекта, использует возможности IDE и инструментов разработки и может…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 64,
+        "url": "https://hh.ru/vacancy/133949862"
+      },
+      {
+        "type": "text_url",
+        "offset": 469,
+        "length": 90,
+        "url": "https://hh.ru/vacancy/133956936"
+      },
+      {
+        "type": "text_url",
+        "offset": 915,
+        "length": 54,
+        "url": "https://hh.ru/vacancy/133948969"
+      },
+      {
+        "type": "text_url",
+        "offset": 1332,
+        "length": 55,
+        "url": "https://hh.ru/vacancy/133949003"
+      },
+      {
+        "type": "text_url",
+        "offset": 1749,
+        "length": 21,
+        "url": "https://hh.ru/vacancy/133946522"
+      },
+      {
+        "type": "text_url",
+        "offset": 2103,
+        "length": 33,
+        "url": "https://hh.ru/vacancy/133960942"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3017",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Customer Journey Expert (CJE)",
+    "company": "СБЕР",
+    "location": "Москва",
+    "grade": null,
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Развитие продаж продуктов банка в phygital-каналах с фокусом на внедрение GenAI и AI-агентов. Цель — революционизировать взаимодействие с клиентами через телефонию, чаты и IVR с персонализацией и эффективностью.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 11508,
+    "date_iso": "2026-06-08T09:10:30+00:00",
+    "text": "🚀 Senior Product Analyst в Veraxen\n\nVeraxen — gamedev-студия (среди проектов игра про Бонда). Команда аналитики любит и игры, и аналитику, экспериментирует с LLM-агентами для автоматизации рутины и ускорения исследований.\n\nЗадачи:\n\n• A/B-тесты: гипотезы, дизайн, анализ и рекомендации → GrowthBook;\n• Разбираться, в причинах изменения продуктовых метрик, находить точки роста и оценивать эффект возможных решений → Python, pandas, Scikit-learn;\n• Искать инсайты в сырых данных по пользователям, заводить ивенты, строить воронки и делать когортный анализ → SQL, BigQuery.\n\nТребования:\n\n• 3–5+ лет опыта в продуктовой аналитике;\n• Практический опыт работы с продуктовой воронкой, удержанием, монетизацией и ростом ключевых метрик;\n• Уверенная работа с большими объемами данных и самостоятельная подготовка аналитических решений;\n• Глубокое понимание статистики, теории вероятностей, A/B-тестирования;\n• Опыт проведения экспериментов, оценки инициатив без A/B (квазиэксперименты, модели);\n• Уверенное владение SQL (уровень middle+);\n• Опыт работы с Python и библиотеками: pandas, numpy, matplotlib, sklearn, catboost, statsmodels;\n• Умение объяснять сложные вещи простыми словами, доносить смысл аналитики до стейкхолдеров;\n• Высокая аналитическая культура и любопытство: задаете вопросы, проверяете гипотезы, пересматриваете выводы;\n• Опыт взаимодействия с кросс-функциональными командами (продакты, маркетинг, разработка).\n\nУсловия:\n\n• Офис (Лимасол, Кипр) или удаленка\n\n📎 Как откликнуться?\n\n• Вакансия: [Ссылка]\n• Рекрутер: yuliya.khamenka@veraxen.com или отликаться в Linkedin \n\n#product_analyst #senior #международка #Gaming #удаленка",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1505,
+        "length": 8,
+        "url": "https://www.linkedin.com/posts/pronin-nikita_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F-product-data-analyst-gamedev-activity-7468929080785080320-r22f"
+      },
+      {
+        "type": "text_url",
+        "offset": 1571,
+        "length": 8,
+        "url": "https://lnkd.in/dKwcyYhX"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/11508",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Analyst",
+    "company": "Veraxen",
+    "location": "Лимасол, Кипр / Remote",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Gamedev-студия ищет аналитика для работы с A/B-тестами, анализом продуктовых метрик и поиском инсайтов в данных пользователей. Команда экспериментирует с LLM-агентами для автоматизации аналитики и работает с игровыми проектами, включая игру про Бонда.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 11502,
+    "date_iso": "2026-06-08T08:02:49+00:00",
+    "text": "Head of Product / Senior Product Manager\n#HeadofProduct #SeniorProductManager #ProductManager #Senior #Москва #B2B #РФ\n \nТребования:\nОпыт управления продуктом 3+ лет. Умение формировать продуктовую стратегию. Ответственность за PnL-сервиса или его монетизацию. К позиции прилагается много самостоятельности, отличная команда и возможность полноценно проявить себя в рамках управления полным контуром продукта, а не отдельным его элементом.\n\nЛокация:📍 Москва. B2B.\n \nКонтакт для отклика: @mary_mary5 или https://www.linkedin.com/in/mary-shatalova-74923a220/?skipRedirect=true\n\n👉 забрать special offer",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 504,
+        "length": 71
+      },
+      {
+        "type": "text_url",
+        "offset": 580,
+        "length": 21,
+        "url": "https://t.me/JTBL_bot"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/11502",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of Product / Senior Product Manager",
+    "company": null,
+    "location": "Москва",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "B2B продуктовая позиция с полной ответственностью за PnL и монетизацию сервиса. Требуется опыт управления продуктом 3+ лет и умение формировать продуктовую стратегию.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1408,
+    "date_iso": "2026-06-08T07:11:03+00:00",
+    "text": "Вакансия в Ozon Банк \n\nРазборы кейсов, 76 разборов пришли, всего свыше 190 тестовых и реальных задач продактов. Плейлист доступен по ссылке, сайт разборов тут\n\nБанк растёт очень быстро — и мы не собираемся останавливаться. Поэтому ищу в команду сильного продуктового лидера на ключевое направление.\n\n💰 Cross-sell\n\nОдно из центральных направлений привлечения и вовлечения в банке. Твоя задача — сделать так, чтобы среднее количество активных продуктов на пользователя росло бесконечно.\n\nТебя ждёт:\n— Прямое влияние на PnL всех продуктов банка\n— Своя кросс-функциональная команда: фронт, бэк, ML, аналитика, дизайн\n— Полное управление стратегией направления, а не просто «запуск фичи»\n— Компенсация не ниже рынка\n\nМы ожидаем:\n— Опыт положительного влияния на PnL продукта\n— Опыт самостоятельной постановки и выполнения целей\n— Опыт работы с ML-командой — не «модель что-то отдала и стало лучше», а понимание принципов работы и умение задавать правильные вопросы\n\nЕсли хочешь делать большой продукт и видеть эффект от своих решений — пиши Саше в ТГ @anokhinaar\n\nСсылка на описание вакансии - https://lnkd.in/dSkJuVhV\n\nКанал Вакансии в МАХ - https://max.ru/productjobgo",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 23,
+        "length": 15,
+        "url": "https://t.me/productcasebar/"
+      },
+      {
+        "type": "text_url",
+        "offset": 112,
+        "length": 28,
+        "url": "https://docs.google.com/document/d/1_bq1zQtkfAJjf5O_QjpuMDFlkloNkF_VyTtpRv7oyZI/edit?tab=t.0"
+      },
+      {
+        "type": "text_url",
+        "offset": 155,
+        "length": 3,
+        "url": "https://koloskoveducation.tilda.ws/productcaseclub/"
+      },
+      {
+        "type": "url",
+        "offset": 1090,
+        "length": 24
+      },
+      {
+        "type": "url",
+        "offset": 1139,
+        "length": 27
+      }
+    ],
+    "link": "https://t.me/productjobgo/1408",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Старший менеджер по продукту, Cross-sell",
+    "company": "Ozon Банк",
+    "location": null,
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": null,
+    "salary": null,
+    "short_description": "Ищем продуктового лидера на ключевое направление Cross-sell в Ozon Банке. Команда включает фронт, бэк, ML, аналитику и дизайн. Требуется опыт влияния на PnL, самостоятельной постановки целей и работы с ML-командой.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 11496,
+    "date_iso": "2026-06-08T07:11:00+00:00",
+    "text": "Product Manager (HR Tech)\nМосква, офис\n\nУсловия\n— Требуемый опыт: От 3 до 6 лет\nПривет! Мы ищем продакт менеджера, который будет развивать внутренние HR-tech продукты.\n‍\nЧем предстоит заниматься:\n— Развивать внутренние HR-tech продукты: автоматизировать сбор и анализ всех метрик и визуализировать через ДЭШборды;\n— Проводить аудит HR процессов, CustDev, изучать рынок и лучшие практики HR автоматизации;\n— Анализировать HR метрики и давать обратную связь, формировать инициативы по улучшению продуктов;\n— Транслировать бизнес-потребности в требования для разработки, управлять бэклогом, приоритетами, сроками;\n— Тестировать функционал, обучать пользователей, анализировать метрики;\n— Взаимодействовать с командой разработки, дизайнерами, аналитиками;\n— Редкие выезды на РЦ;\n‍\nНаш кандидат:\n— Имеет опыт работы от 2–3 лет в роли Product Manager, Product Owner или руководителя внутренних цифровых продуктов, опыт работы с HR-tech продуктами, кадровой аналитикой или автоматизацией HR-процессов.\n— Имеет опыт развития внутренних платформ, систем автоматизации или корпоративных сервисов и успешного внедрения продуктовых улучшений;\n— Умеет исследовать потребности пользователей, проводить интервью, формировать и проверять гипотезы;\n— Уверенно работает с метриками и аналитикой, принимает решения на основе данных и понимает взаимосвязь показателей;\n— Умеет формировать требования к продукту, управлять бэклогом и приоритизировать задачи;\n— Эффективно взаимодействует с разработчиками, аналитиками, дизайнерами и бизнес-заказчиками, умеет находить баланс интересов разных сторон;\n— Обладает системным мышлением, высокой самостоятельностью и способностью достигать результата в условиях неопределённости.\n‍\nЧто мы предлагаем:\nДоход и стабильность:\n— Конкурентное вознаграждение, которое обсудим индивидуально на собеседовании;\n— Официальное оформление по ТК РФ;\n— Полностью белая зарплата с гарантированными выплатами 2 раза в месяц.\n‍\nСвобода и развитие:\n— Высокий уровень самостоятельности и реальная возможность влиять на результат;\n— Интересные и масштабные задачи для профессионального роста;\n— Обучение за счёт компании: тренинги, семинары, книжный клуб.\n‍\nЗабота о здоровье и комфорт:\n— Частичная компенсация ДМС, медицинских услуг, лекарств и абонемента в фитнес-клуб;\n— Психологическая поддержка и страхование жизни от несчастных случаев;\nМатериальная помощь в особых жизненных ситуациях;\n— Кешбэк 15% бонусами на покупки во «ВкусВилл» и бонусы на важные даты;\n— Скидки и специальные предложения от партнёров компании.\n‍\nПрисоединяйся к команде, которая делает жизнь людей более здоровой и вкусной!\n\n\nПонравилась вакансия?\n💛— да\n🌚— нет\n\n\n———\n\n💙 Удалёнка\n💚 Джунам\n💜 За рубежом\n🫶 Удалёнка джунам\n💚 Качнуть карьеру\n\nмы также есть там, куда всех хотят отправить — https://max.ru/it_vakansii_jobs",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 0,
+        "length": 25,
+        "url": "https://www.vseti.app/vakansii/347433483493493493483434"
+      },
+      {
+        "type": "text_url",
+        "offset": 2655,
+        "length": 8,
+        "url": "https://t.me/+WTtNhzCI17sxMWJh"
+      },
+      {
+        "type": "text_url",
+        "offset": 2667,
+        "length": 6,
+        "url": "https://t.me/+brT7qTygEw5iY2M6"
+      },
+      {
+        "type": "text_url",
+        "offset": 2677,
+        "length": 10,
+        "url": "https://t.me/+CFT5M4UKXF5mN2Ey"
+      },
+      {
+        "type": "text_url",
+        "offset": 2691,
+        "length": 15,
+        "url": "https://t.me/+-mVgBVugvv1jYmEy"
+      },
+      {
+        "type": "text_url",
+        "offset": 2710,
+        "length": 15,
+        "url": "https://mentors.vseti.app/"
+      },
+      {
+        "type": "url",
+        "offset": 2774,
+        "length": 31
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/11496",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, HR Tech",
+    "company": "ВкусВилл",
+    "location": "Москва, офис",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Развитие внутренних HR-tech продуктов: автоматизация сбора и анализа HR метрик, визуализация через дашборды, проведение аудита процессов. Работа с командой разработки, дизайнерами и аналитиками на внутренней платформе автоматизации.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 3016,
+    "date_iso": "2026-06-08T05:36:41+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nЛидер компетенций SA (Маркетинг КИБ) в СБЕР\nМосква\nМы — команда трайба Маркетинг КИБ, которая создает передовые ИТ-решения для привлечения корпоративных клиентов в Сбер. Основной продукт - АС \"Бизнес-контент маркетинг\", платформенное решение, с помощью которого контент доставляется на медиа ресурсы КИБ (СберПро, sber business live, SberCIB, SberIndia, Сообщества и другие)\nИщем лидера аналитики…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 43,
+        "url": "https://hh.ru/vacancy/133938844"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3016",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Лидер компетенций SA (Маркетинг КИБ)",
+    "company": "Сбер",
+    "location": "Москва",
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Команда трайба Маркетинг КИБ создает ИТ-решения для привлечения корпоративных клиентов. Основной продукт - платформа АС 'Бизнес-контент маркетинг', которая доставляет контент на медиа ресурсы КИБ (СберПро, sber business live, SberCIB и другие).",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 3015,
+    "date_iso": "2026-06-08T05:06:42+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nПроджект-менеджер CRM-системы (МКК/МФК) в ОсОО Кей Дев\nБишкек\nОбязанности:\n• Развитие и поддержка CRM-системы для микрофинансовой организации\n• Сбор и приоритизация требований от бизнес-подразделений (андеррайтинг, collection, клиентский сервис)\n• Формирование и ведение продуктового бэклога, написание user stories\n• Взаимодействие с командой разработки, контроль сроков и качества релизов\n• Анализ воронки…\nОт 50 000 сом",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 54,
+        "url": "https://hh.ru/vacancy/133944742"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3015",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, CRM System",
+    "company": "ОсОО Кей Дев",
+    "location": "Бишкек",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": "от 50 000 сом",
+    "short_description": "Develop and maintain CRM system for microfinance organization. Collect and prioritize requirements from business divisions (underwriting, collections, customer service). Manage product backlog, write user stories, and collaborate with development team on releases and quality control.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 2823702878,
     "channel_username": "jobs_product_managers",
     "channel_title": "Вакансии продакт менеджеров",
@@ -44,7 +424,7 @@
     "salary": null,
     "short_description": "Монетизационный PM для игровой компании ChillBase. Отвечаете за стратегию и роадмап монетизации, работаете с данными поведения игроков, проводите эксперименты и развиваете команду. Требуется баланс между интересами игроков, экономикой игры и бизнес-результатами.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -92,7 +472,7 @@
     "salary": null,
     "short_description": "Экосистема с 91 млн пользователей в ВКонтакте, 45 млн в ВК Музыке и 2.7 млрд просмотров в ВК Видео ежедневно. Поиск опытных Product Manager и Product Lead для масштабных продуктов в B2B, B2C и Social E-commerce с фокусом на данные, понимание рынка и потребности пользователей.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -1237,7 +1617,15 @@
     "remote": false,
     "salary": null,
     "short_description": "Руководство направлением депозитных продуктов в экосистеме МТС. Реализация стратегий привлечения через CVM-кампании, анализ результатов и оптимизация банковских сервисов.",
-    "duplicates": [],
+    "duplicates": [
+      {
+        "channel_username": "product_jobmeister",
+        "channel_title": "Вакансии для продактов Jobmeister",
+        "link": "https://t.me/product_jobmeister/3014",
+        "date_iso": "2026-06-07T09:36:29+00:00",
+        "channel_id": 2298616665
+      }
+    ],
     "is_new": false,
     "is_archived": false
   },
@@ -18608,7 +18996,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -18648,7 +19036,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18696,7 +19084,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -18719,7 +19107,7 @@
     "duplicates": [],
     "entities": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18749,7 +19137,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18779,7 +19167,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18809,7 +19197,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18839,7 +19227,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18875,7 +19263,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18923,7 +19311,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19006,7 +19394,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19066,7 +19454,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19096,7 +19484,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19126,7 +19514,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19167,7 +19555,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19209,7 +19597,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19245,7 +19633,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19275,7 +19663,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19317,7 +19705,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19359,7 +19747,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19389,7 +19777,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19419,7 +19807,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19449,7 +19837,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19479,7 +19867,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19521,7 +19909,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19551,7 +19939,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -19593,7 +19981,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19623,7 +20011,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19653,7 +20041,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19683,7 +20071,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19719,7 +20107,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19755,7 +20143,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19785,7 +20173,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19815,7 +20203,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19845,7 +20233,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19881,7 +20269,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -19917,7 +20305,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
@@ -19996,7 +20384,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20026,7 +20414,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -20062,7 +20450,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20092,7 +20480,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20128,7 +20516,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20158,7 +20546,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20200,7 +20588,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20230,7 +20618,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20260,7 +20648,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20296,7 +20684,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -20332,7 +20720,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20369,7 +20757,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20399,7 +20787,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20436,7 +20824,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -20490,7 +20878,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
