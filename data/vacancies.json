@@ -1,5 +1,117 @@
 [
   {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1419,
+    "date_iso": "2026-06-14T07:41:32+00:00",
+    "text": "Product Manager / Health&Fitness / Remote EU, Belarus \n\nРазборы в текстовом формате! Доступны тут https://boosty.to/sergekoloskov\n\nМеждународная компания  в сфере Health & Fitness развивает портфель мобильных приложений с аудиторией более 10 миллионов пользователей по всему миру.\n\nСтек\nAmplitude, Firebase, Product Analytics, A/B Testing, JTBD, CJM, Product Discovery, AI Tools\n \nПочему стоит рассмотреть\n• Формирование продуктовой стратегии и ключевых метрик\n• Полный цикл управления продуктом: от гипотезы до масштабирования\n• Работа с аналитикой, контентом, маркетингом и дизайном\n• Прямое взаимодействие с владельцами бизнеса\n\nВажно\n• 5 лет коммерческого опыта в управлении продуктами (Product Management) в B2C-сегменте. Обязательно наличие опыта в домене Health & Fitness с продуктовым подходом Mobile First.\n• Product Analytics и A/B testing\n• Amplitude, Firebase или аналогичные инструменты аналитики + AI\n\nПолное описание, вилка и отклик https://itcharm.com/vacancies/88be30f6-1556-4525-b4cb-6781952e305b\n\nОтклик, пожалуйста, сопровождайте кратким описанием достижений в работе c В2С продуктами Health & Fitness.\n\nКанал Вакансии в МАХ - https://max.ru/productjobgo\n\nПо вопросам @alesyaly",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 98,
+        "length": 31
+      },
+      {
+        "type": "url",
+        "offset": 948,
+        "length": 66
+      },
+      {
+        "type": "url",
+        "offset": 1147,
+        "length": 27
+      }
+    ],
+    "link": "https://t.me/productjobgo/1419",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Health & Fitness",
+    "company": null,
+    "location": "Remote, EU/Belarus",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "International Health & Fitness company with portfolio of mobile apps serving 10M+ users globally. Full product lifecycle management with focus on analytics, A/B testing, and Mobile First approach. Work with analytics, content, marketing, and design teams.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1674506295,
+    "channel_username": null,
+    "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+    "msg_id": 6071,
+    "date_iso": "2026-06-13T11:41:31+00:00",
+    "text": "Senior Product Owner — Crypto Wallet в Tangem: https://www.remocate.app/jobs/senior-product-owner-crypto-wallet-tangem\n\nМожно работать удалённо. Зарплата в валюте.\n\nПри отклике укажите, что нашли вакансию на Remocate.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 47,
+        "length": 71
+      }
+    ],
+    "link": "https://t.me/c/1674506295/6071",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Owner, Crypto Wallet",
+    "company": "Tangem",
+    "location": null,
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Senior Product Owner role for crypto wallet product at Tangem. Remote position with salary paid in foreign currency.",
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/11839",
+        "date_iso": "2026-06-13T12:02:20+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 3095,
+    "date_iso": "2026-06-13T09:15:00+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nHead of Product в ANCOR\nМосква\nResponsibilities:\n• full executive responsibility for global product management across 4 brands;\n• overseeing strategic direction and operational excellence across Russian markets;\n• leading a team of 15+ members;\n• aligning product development strategies with global corporate objectives;\n• managing a product portfolio of 300+ SKUs, overseeing…\n\nПроектный менеджер по сделкам с недвижимостью в СБЕР\nХимки (Московская область)\nИщем проектного менеджера по сделкам с недвижимостью с функциями проектного менеджмента. Ты хочешь реализовывать свои идеи и развиваться, участвуя в интересных и инновационных проектах? Тогда эта позиция именно для тебя. Чем предстоит заниматься:\n• анализировать продукты с точки зрения клиентского опыта\n• формировать и проверять продуктовые…\nОт 140 000 ₽",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 23,
+        "url": "https://hh.ru/vacancy/133078230"
+      },
+      {
+        "type": "text_url",
+        "offset": 420,
+        "length": 52,
+        "url": "https://hh.ru/vacancy/134125937"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3095",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of Product",
+    "company": "ANCOR",
+    "location": "Москва",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Полная ответственность за управление продуктом по 4 брендам глобального масштаба. Управление командой из 15+ человек и портфелем из 300+ SKU с фокусом на стратегическое развитие и операционное совершенство на российском рынке.",
+    "duplicates": [],
+    "is_new": false,
+    "is_archived": false
+  },
+  {
     "channel_id": 2667909413,
     "channel_username": "ITjobsFeed",
     "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
@@ -61,7 +173,7 @@
     "salary": null,
     "short_description": "Руководство продуктом поиска компаний в 2ГИС с фокусом на качество дискавери. Требуется опыт работы с большими данными, ML/AI продуктами, управление PM-командой и сотрудничество с дизайнерами для улучшения пользовательского опыта.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -91,7 +203,7 @@
     "salary": null,
     "short_description": "Разработка стратегии монетизации и подписок для AI-платформы для криейторов. Платформа находится в фазе роста с первыми пользователями, требуется PM для работы с моделями подписок и логикой, обеспечивающей жизнеспособность продукта.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -121,7 +233,7 @@
     "salary": null,
     "short_description": "B2C-продукт в автомобильной тематике с миллионами посетителей в сутки. Требуется опыт полного продуктового цикла, CustDev, работы с SQL и данными.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -168,7 +280,7 @@
     "salary": null,
     "short_description": "Компания разрабатывает CRM-систему для фармацевтического рынка, которая помогает медицинским представителям повышать эффективность визитов. Продукт на рынке более 3 лет с четким трэкшеном и отличными клиентами. Требуется опытный руководитель для формирования стратегии, управления PnL и фокусировки команды.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -216,7 +328,7 @@
     "salary": null,
     "short_description": "Управление бэклогом, постановка задач командам дизайна и разработки, проведение исследований рынка и конкурентного анализа. Требуется хорошее понимание юнит-экономики, метрик и запуска экспериментов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -284,7 +396,7 @@
         "channel_id": 2667909413
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -341,7 +453,7 @@
     "salary": null,
     "short_description": "Kolesa Group — международная IT-компания, строящая классифайды для 15,5 миллионов пользователей. Продукты помогают людям и бизнесам продавать, покупать и владеть авто, недвижимостью, товарами и услугами.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -389,7 +501,7 @@
     "salary": null,
     "short_description": "Ищем двух специалистов для усиления growth-направления в e-commerce на Amazon US. Роль фокусируется на A/B тестировании визуалов, оптимизации конверсии и анализе данных для прямого влияния на продажи через гипотезы, тесты и системную работу с метриками CTR и CR.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -419,7 +531,7 @@
     "salary": null,
     "short_description": "Создание нового направления ESG-продуктов в крупнейшем банке. Разработка цифровых решений с AI-компонентами для клиентов, формирование трендов устойчивого развития.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -449,7 +561,7 @@
     "salary": null,
     "short_description": "Формирование стратегии и развитие внутренних AI-продуктов для автоматизации инженерных процессов, включая кодовые ассистенты, инструменты генерации кода и интеграционный слой для работы ИИ-систем с корпоративными данными. Требуется опыт в продукте, данных и инфраструктуре с практическим опытом запуска AI-продуктов и пониманием LLM и агентных систем.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -484,7 +596,7 @@
     "salary": null,
     "short_description": "Senior PM role for a FinTech startup focused on wallet and infrastructure products. Requires 5+ years in product with significant experience in FinTech, wallets, or digital assets, strong technical intuition, and ability to own products end-to-end from zero to production.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
