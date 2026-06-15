@@ -1,5 +1,442 @@
 [
   {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 3106,
+    "date_iso": "2026-06-15T11:45:03+00:00",
+    "text": "Руководитель карточного направления / Cards Tribe Leader в Smart Solutions Personnel\nАлматы\nКто мы? / О компании:\nМы - один из крупнейших digital banking и fintech ecosystem игроков региона, активно развивающий карточный бизнес, mobile banking и клиентские digital-продукты. Сегодня наша цель - не просто выпускать карты, а создавать лучший customer experience вокруг ежедневного использования финансовых сервисов.\nМы строим ecosystem-подход, где…\nДо $10 000\n\nProduct Manager по направлению LifeStyle в Народный банк Казахстана\nАлматы\nHalyk Банк – это мощная экосистема, где технологии сочетаются с ценностями.\nМы гордимся более чем 14 000 работниками, которые делают нас лучшим местом работы. Мы предоставляем услуги во всех сегментах финансового рынка: банковском, страховом, лизинговом и т.д.\nМы стремимся стать ведущим цифровым банком, внедряя инновации и предоставляя возможности для…\n\nМенеджер по продукту (Товародвижение и коммерция) в Ozon\nМосква\nПривет! Мы – команда Товародвижения Ozon fresh и Retail. Мы проектируем внутренние сервисы для управления закупками, распределением товаров между складами и автоматизации ключевых процессов для ритейла.\nИщем в команду менеджера продукта на проекты автоматизации развития и эксплуатации сети дарксторов Ozon fresh.\nВы будете\n• Детально анализировать…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 0,
+        "length": 84,
+        "url": "https://hh.ru/vacancy/134158850"
+      },
+      {
+        "type": "text_url",
+        "offset": 460,
+        "length": 67,
+        "url": "https://hh.ru/vacancy/134145269"
+      },
+      {
+        "type": "text_url",
+        "offset": 891,
+        "length": 56,
+        "url": "https://hh.ru/vacancy/134163547"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3106",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель карточного направления / Cards Tribe Leader",
+    "company": "Smart Solutions Personnel",
+    "location": "Алматы",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": "До $10 000",
+    "short_description": "Развитие карточного бизнеса в крупном digital banking и fintech ecosystem игроке региона. Фокус на создании лучшего customer experience и ecosystem-подхода в финансовых сервисах.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 3102,
+    "date_iso": "2026-06-15T10:15:04+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nРуководитель проекта (1С УТ) в Криптонит\nМосква\nОсновные задачи:\n• Стратегическое планирование развития учетных систем как продукта в рамках общего портфеля IT-продуктов компании\n• Формирование стратегии развития продукта, развитие и улучшение ключевых метрик продукта\n• Анализ рыночных трендов и конкурентов\n• Общение с заказчиком: анализ потребностей, уточнение требований, определение и…\n\nМедицинский IT-менеджер (MedTech) в Aston\nБрест, удаленно\nВы — врач или выпускник медуниверситета? Хотите влиять на медицину масштабно?\nПриходите развивать MedTech — сферу на стыке врачебных знаний и технологий. ASTON General Management Program для медиков: мы научим вас управлять IT-проектами, цифровыми продуктами и командами, которые создают диагностические системы, телемедицину, медицинские…\nОт $850\n\nМенеджер процессов сервисной деятельности в ИК СИБИНТЕК\nМосква\nОбязанности:\n• Методологическое сопровождение и актуализация регламентирующих документов по ИТ-сервисами в периметре группы Компаний,\n• Оперативное взаимодействие с менеджерами смежных процессов по проблемным вопросам.\n• Разработка требований к автоматизации процессов управления ИТ-сервисами\n• Участие в тестировании средств автоматизации процессов…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 40,
+        "url": "https://hh.ru/vacancy/134160177"
+      },
+      {
+        "type": "text_url",
+        "offset": 433,
+        "length": 41,
+        "url": "https://hh.ru/vacancy/134158507"
+      },
+      {
+        "type": "text_url",
+        "offset": 840,
+        "length": 55,
+        "url": "https://hh.ru/vacancy/134157058"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3102",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель проекта (1С УТ)",
+    "company": "Криптонит",
+    "location": "Москва",
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Стратегическое планирование развития учетных систем как продукта в портфеле IT-продуктов. Формирование стратегии развития, улучшение ключевых метрик продукта, анализ рыночных трендов и работа с заказчиками.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 3101,
+    "date_iso": "2026-06-15T09:45:03+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nПроектный менеджер в Infinity Enterprises\nШымкент\nAdilet.kz — современная платформа объединяющая юристов, адвокатов и медиаторов по всему Казахстану. Мы ищем активного человека, который будет помогать экспертам регистрироваться на портале и развивать сообщество специалистов вместе с нами.\nОбязанности\n• Проведение кастдевов для выявления потребностей целевой аудитории\n• Продвижение проекта на…\n300 000 ₸\n\nРуководитель направления опций (Прайм) в СБЕР\nМосква\nПервый этап отбора на эту вакансию – общение с AI-рекрутером. После отклика вам на почту и в чат на платформе HeadHunter придет приглашение пройти первичное интервью с ГигаРекрутером в Telegram. Диалог займёт примерно 10 минут. Его задача — уточнить недостающие детали и ускорить рассмотрение вашей кандидатуры.\nГигаРекрутер только начинает свой путь,…\n\nРуководитель AI направления в ITFB Group\nМосква\nITFB Group — ИТ-интегратор, специализирующийся на внедрении корпоративного ИИ. Разрабатываем собственную платформу Agentum AI для оркестрации ИИ-агентов и готовых агентов (HR Polina AI, Sales Coach, ATS-агент и др.). Клиенты: банки, ритейл, HR-tech, девелопмент, разработка ПО.\nЧем предстоит заниматься\nP&L и финансы\n• Управлять бюджетом…\n\nРуководитель проекта Online Store в Стамба\nРостов-на-Дону\nМы - команда, которая запускает собственный проект online store мармелада: от первого клика до получения заказа в руки. Нам предстоит запуск сайта, интеграция с внутренними системами и создание стабильного потока заказов в сфере (ЦА В2В), рост, доработка функционала, новые фичи и улучшение клиентского опыта.\nВ связи с запуском онлайн‑направления…\n160 000 ₽",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 41,
+        "url": "https://hh.ru/vacancy/134158166"
+      },
+      {
+        "type": "url",
+        "offset": 91,
+        "length": 9
+      },
+      {
+        "type": "text_url",
+        "offset": 448,
+        "length": 45,
+        "url": "https://hh.ru/vacancy/134155317"
+      },
+      {
+        "type": "text_url",
+        "offset": 855,
+        "length": 40,
+        "url": "https://hh.ru/vacancy/134152523"
+      },
+      {
+        "type": "text_url",
+        "offset": 1243,
+        "length": 42,
+        "url": "https://hh.ru/vacancy/134153180"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3101",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель направления опций (Прайм)",
+    "company": "СБЕР",
+    "location": "Москва",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Руководитель направления в крупной финансовой компании. Первый этап отбора проводится с AI-рекрутером и ГигаРекрутером в Telegram.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 3100,
+    "date_iso": "2026-06-15T09:15:02+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nTelecom Product Manager в Бюро цифровых проектов\nМосква\nКомпания «Бюро цифровых проектов» является участником Московского инновационного кластера — высокотехнологичной платформы, объединяющей компании, исследовательские организации и предпринимателей для создания и внедрения инновационных решений.\nПроект объединил экспертов, которые знают технологии на глубоком уровне. Специалисты по…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 48,
+        "url": "https://hh.ru/vacancy/134159989"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3100",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Telecom Product Manager",
+    "company": "Бюро цифровых проектов",
+    "location": "Москва",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Вакансия в компании «Бюро цифровых проектов», участнике Московского инновационного кластера. Команда объединяет экспертов с глубокими знаниями в области телекоммуникационных технологий для разработки инновационных решений.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1205373966,
+    "channel_username": "product_jobs",
+    "channel_title": "Вакансии для продактов и проджектов",
+    "msg_id": 2067,
+    "date_iso": "2026-06-15T08:32:34+00:00",
+    "text": "Вакансия: Senior Product Manager\nКомпания: GGOrbit\nФормат работы: полная занятость, гибрид/офис по желанию (Мск)\nЗП: от 3 000 до 3 750 $\n\n🔸О нас:\nМы создаем игровую платформу, которая соединяет привычный функционал 2.0 с возможностями 3.0. Наша цель - предоставить игрокам комфортный и безопасный сервис, решая насущные проблемы пользователей 2.0 и 3.0 экосистем.\n\n🔸Роль\nТебе предстоит формировать видение продукта, развивать roadmap, проверять гипотезы, запускать эксперименты и вместе с командой создавать игровой сервис.\nТвоя зона ответственности - не только придумать фичу, но и доказать ее ценность, довести до качественного релиза и оценить влияние на ключевые продуктовые метрики.\n\n🔸 Чем предстоит заниматься:\n– формировать продуктовое видение и roadmap по своему направлению;\n– вести полный цикл работы над продуктом;\n– переводить стратегические цели и OKR в продуктовые инициативы, метрики, backlog и задачи для команды;\n– проводить исследования;\n– искать и валидировать гипотезы, запускать MVP, прототипы и эксперименты;\n– готовить PRD, user stories, acceptance criteria, CJM и другую продуктовую документацию;\n– координировать запуск фичей и анализировать результаты после релиза;\n– следить за рынком, конкурентами, игровыми платформами, web3-продуктами и трендами gamedev;\n– регулярно синхронизировать команду и стейкхолдеров по статусу, рискам и результатам.\n\n🔸Кого ищем\n– 4+ года опыта в product management, из них 1-2 года на Senior-уровне;\n– опыт ведения продукта или крупного направления end-to-end;\n– сильное понимание product lifecycle;\n– умение работать с аналитикой, воронками, когортами и продуктовыми метриками;\n– опыт пользовательских исследований;\n– умение работать с техническими командами и понимать ограничения архитектуры, API, интеграций, real-time-систем и клиент-серверного взаимодействия;\n– способность принимать решения в условиях неопределенности и аргументировать приоритеты;\n\n🔸Желательно\n– опыт в B2C, игровых платформах, маркетплейсах, entertainment или high-engagement продуктах;\n– понимание соревновательных игровых механик: матчмейкинг, рейтинги, лидерборды, турниры, retention;\n– опыт с web3-продуктами, криптовалютами, кошельками или цифровыми активами;\n– опыт A/B-тестов;\n– понимание UX игровых интерфейсов, onboarding, активации и сценариев возврата пользователей.\n\n🔸Условия\n– гибкий график, основное окно связи: 12:00-16:00 GMT+3;\n– формат: Москва, гибрид или офис по желанию;\n– участие в создании игровой платформы с нуля;\n– возможности профессионального и карьерного роста;\n– сильную команду, прозрачные процессы и среду, где ценится инициатива.\n\n🔸Как откликнуться:\nhr@ggorbit.com",
+    "entities": [],
+    "link": "https://t.me/product_jobs/2067",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "GGOrbit",
+    "location": "Москва, гибрид",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": "3000–3750 USD",
+    "short_description": "Формирование видения продукта и разработка roadmap для игровой платформы, соединяющей функционал Web 2.0 и Web 3.0. Полный цикл работы: от гипотез и MVP до анализа метрик и оценки влияния на продукт. Работа с техническими командами, проведение исследований, запуск экспериментов и координация релизов.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 3099,
+    "date_iso": "2026-06-15T05:45:03+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nМенеджер по Продукту / Middle в Инфотек\nМосква, удаленно\nПривет, наш будущий коллега !\nМы создаём ПО и продвинутые технологии, которые помогают крупнейшим FMCG производителям принимать важные решения для роста выручки, повышения эффективности процессов мерчандайзинга и оптимизации затрат.\nМенеджер по продукту – это важный член лидерской команды, который создаёт и помогает доставить ценность продуктов до…\n\nМенеджер по продукту в Антал Таланты\nМосква, удаленно\nНаш клиент - международная логистическая компания - ищет Продакт-менеджера.\nЧем предстоит заниматься?\n• Развивать сайт целиком: формировать продуктовую стратегию и roadmap, приоритизировать задачи.\n• Отвечать за конверсию и рост продаж: анализировать воронку, находить точки роста, ставить и проверять гипотезы.\n• Улучшать UX/UI на всех этапах…\n\nПродакт-менеджер по онлайн международным переводам в Банк Компаньон\nБишкек\nКоманда Банка Компаньон в поисках Продакт-менеджера по онлайн международным переводам\nНаши ценности:\n• Смелость.\n• Эффективность.\n• Фокус на клиентах.\n• Честность.\nМы предлагаем:\n• Достойную зарплату.\n• Свободный дресс-код.\n• Трудоустройство по ТК КР.\nЗадачи по должности:\n• Управление цифровыми продуктами в сфере международных…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 39,
+        "url": "https://hh.ru/vacancy/134142892"
+      },
+      {
+        "type": "text_url",
+        "offset": 450,
+        "length": 36,
+        "url": "https://hh.ru/vacancy/134137920"
+      },
+      {
+        "type": "text_url",
+        "offset": 850,
+        "length": 67,
+        "url": "https://hh.ru/vacancy/134142544"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3099",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Менеджер по Продукту, Middle",
+    "company": "Инфотек",
+    "location": "Москва, удаленно",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Разработка ПО и технологий для FMCG производителей. Создание и доставка ценности продуктов для помощи в принятии важных решений по росту выручки и оптимизации затрат.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 3098,
+    "date_iso": "2026-06-15T05:15:04+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nChief product owner (команда развития инвестиционного бизнеса) в СБЕР\nМосква\nВ команду развития инвестиционного бизнеса ищем Chief product owner. Обязанности\n• Формулировать видение продукта и продуктовую стратегию, связывая их с целями бизнеса.\n• анализировать клиентские пути, описывать и улучшать шаги клиента в продукте или процессе.\n• собирать и анализировать требования к продукту от бизнеса и пользователей.\n•…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 69,
+        "url": "https://hh.ru/vacancy/134137142"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3098",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Chief Product Owner",
+    "company": "Сбер",
+    "location": "Москва",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Команда развития инвестиционного бизнеса ищет Chief Product Owner. Роль включает формулирование видения продукта и стратегии, анализ клиентских путей, сбор и анализ требований от бизнеса и пользователей.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 3097,
+    "date_iso": "2026-06-14T19:15:01+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nChief product owner (команда развития инвестиционного бизнеса) в ПАО Сбербанк\nг Москва\nВ команду развития инвестиционного бизнеса ищем Chief product owner.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 77,
+        "url": "https://rabota.sber.ru/search/4536451"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3097",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Chief Product Owner, инвестиционный бизнес",
+    "company": "ПАО Сбербанк",
+    "location": "Москва",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Команда развития инвестиционного бизнеса ищет Chief Product Owner для руководства стратегией продукта в инвестиционной сфере.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 11877,
+    "date_iso": "2026-06-14T14:08:01+00:00",
+    "text": "Junior+ Product Manager\n#JuniorProductManager #Junior+ #ProductManager #Удаленно\n \nТребования:\nПонимание продуктовых основ: JTBD, Value Proposition, воронки (AARRR), CJM и понимаешь базовую unit-экономику (CAC/LTV/ARPU). Аналитическое мышление: понимаешь цикл работы с гипотезами и основы событийной аналитики (ивенты, воронки, конверсии, когорты). Статзначимость в A/B-тестах и почему их нельзя выключать раньше времени. Техническая грамотность: есть опыт написания ТЗ и работы в таск-трекерах (Jira / Linear / Notion / Trello). Внимательность к деталям: для нас это критически важный софт-скилл. Будет вашим преимуществом: Опыт с системами аналитики (Mixpanel, Amplitude, Appsflyer или аналогами). Опыт с iOS-приложениями, PWA и связками Web2App. Базовые навыки работы в Figma (посмотреть макеты, примерить текст). Активное использование AI-помощников в ежедневной работе. Английский на уровне B1 и выше (читать документацию, понимать интерфейсы, уметь составить базовый маркетинговый текст).\n \nЛокация:📍Удалённо.\n \nКонтакт для отклика: https://lnkd.in/et_RPRTv\n\n👉 забрать special offer",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1040,
+        "length": 24,
+        "url": "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd.in%2Fet_RPRTv&urlhash=Rn-M&mt=AnmzMH_O2HwZu0TX8qXwaJNgL20wLoJxOtC6H1G4dFLLLiN7tCGvTQqbfN-KNSgIEThs75_g7q9_oN6RRBsw0cA4D4yYXRQZyxyhGGrmJuLg4yHBb06hSg&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BRVsG6gf7TRSy2C4n%2B01AQA%3D%3D"
+      },
+      {
+        "type": "text_url",
+        "offset": 1069,
+        "length": 21,
+        "url": "https://t.me/JTBL_bot"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/11877",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Junior+ Product Manager",
+    "company": null,
+    "location": "Remote",
+    "grade": "Junior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Looking for a Junior+ PM with strong grasp of product fundamentals (JTBD, value proposition, unit economics) and analytical thinking. Experience with analytics systems, mobile/web apps, Figma, and AI tools is a plus. English B1+ required.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1674506295,
+    "channel_username": null,
+    "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+    "msg_id": 6075,
+    "date_iso": "2026-06-14T13:38:21+00:00",
+    "text": "Product Owner в Savages Corp: https://www.remocate.app/jobs/product-owner-savages-corp\n\nМожно работать удалённо. Зарплата в валюте.\n\nПри отклике укажите, что нашли вакансию на Remocate.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 30,
+        "length": 56
+      }
+    ],
+    "link": "https://t.me/c/1674506295/6075",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner",
+    "company": "Savages Corp",
+    "location": null,
+    "grade": null,
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Product Owner position at Savages Corp available for remote work. Salary in foreign currency.",
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/11875",
+        "date_iso": "2026-06-14T14:02:19+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов Jobmeister",
+    "msg_id": 3096,
+    "date_iso": "2026-06-14T13:15:01+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nSenior Product Manager в Ayo Support Solutions\nАрмения, удаленно\nВАЖНО: на текущий момент мы НЕ МОЖЕМ рассмотреть кандидатов, которые находятся на территории РФ и РБ.\nМы ищем Senior Product Manager, который будет отвечать за развитие стратегических продуктовых инициатив — от исследования и формирования roadmap до запуска, масштабирования и достижения измеримых бизнес-результатов.\nЭта роль требует…\n\nProduct Manager (Payments) в Ayo Support Solutions\nАрмения, удаленно\nМы ищем Product Manager в команду Payments, который будет отвечать за развитие платёжных продуктов и пользовательского опыта, связанного с платежами, во всей нашей экосистеме.\nЭто одна из ключевых продуктовых ролей в компании. Вам предстоит работать на стыке продукта, финансов, аналитики, разработки и партнёрств, улучшая платёжную…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 46,
+        "url": "https://hh.ru/vacancy/134134819"
+      },
+      {
+        "type": "text_url",
+        "offset": 443,
+        "length": 50,
+        "url": "https://hh.ru/vacancy/134134679"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3096",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "Ayo Support Solutions",
+    "location": "Армения, удаленно",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Ответственность за развитие стратегических продуктовых инициатив от исследования и формирования roadmap до запуска и масштабирования. Необходимо достигать измеримых бизнес-результатов на стыке различных функций.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 11866,
+    "date_iso": "2026-06-14T09:33:21+00:00",
+    "text": "Middle / Middle+ Product Manager\n#MiddleProductManager #Middle+ #ProductManager #Удаленно\n \nТребования:\nAI-это твой основной рабочий инструмент, а не эксперимент. Ты уже используешь его в ежедневных задачах и умеешь находить новые применения. Скорость обучения: можешь быстро разобраться в новой теме, инструменте или процессе без долгого онбординга. Самостоятельность: доводишь задачи до конца, не теряешь контекст, не ждёшь когда тебя спросят. Структурность: умеешь оцифровывать задачи, вести документацию и работать в условиях неопределённости. Базовое понимание продуктовой аналитики: ивенты, воронки, конверсии. Будет вашим преимуществом: Опыт с iOS-приложениями и/или PWA. Опыт с web-to-app воронками. Опыт с контентными продуктами, особенно с большими объёмами контента. Английский на уровне B1 и выше.\n \nЛокация:📍Удалённо.\n \nКонтакт для отклика: https://lnkd.in/eRPtEA3q\n\n👉 забрать special offer",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 855,
+        "length": 24,
+        "url": "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd.in%2FeRPtEA3q&urlhash=_gEQ&mt=ak2ov6ofwSFRA6OwtmeX0Rs3isqQQMVY8l6ojCT0UOxYLAKsp669Uq3PBoCbR8pg2Rs-wxwp2G2nKQeRZJOKyS84P1ljbzl8RF4bAj7Uvo-korxICoTIwA&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BRVsG6gf7TRSy2C4n%2B01AQA%3D%3D"
+      },
+      {
+        "type": "text_url",
+        "offset": 884,
+        "length": 21,
+        "url": "https://t.me/JTBL_bot"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/11866",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle Product Manager",
+    "company": null,
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Product Manager role requiring daily AI tool usage and autonomous task management. Strong understanding of product analytics, with preference for iOS/PWA and content product experience.",
+    "duplicates": [],
+    "is_new": false,
+    "is_archived": false
+  },
+  {
     "channel_id": 1311743791,
     "channel_username": "productjobgo",
     "channel_title": "Вакансии для продакт-менеджеров",
@@ -35,7 +472,7 @@
     "salary": null,
     "short_description": "International Health & Fitness company with portfolio of mobile apps serving 10M+ users globally. Full product lifecycle management with focus on analytics, A/B testing, and Mobile First approach. Work with analytics, content, marketing, and design teams.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -72,7 +509,7 @@
         "channel_id": 2667909413
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
