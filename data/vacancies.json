@@ -1,5 +1,34 @@
 [
   {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12194,
+    "date_iso": "2026-06-19T22:34:26+00:00",
+    "text": "SENIOR TECHNICAL PRODUCT MANAGER | RELOCATION TO BERLIN, GERMANY | DELIVERY HERO | #relocation to #germany #berlin #fulltime #itjob #product #ai #agent https://teletype.in/@courierus/cv9dc7gJY8M",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 152,
+        "length": 42
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12194",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Technical Product Manager",
+    "company": "Delivery Hero",
+    "location": "Берлин",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Senior Technical Product Manager role at Delivery Hero focusing on AI and agent technologies. Position requires relocation to Berlin, Germany with full-time commitment.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 1674506295,
     "channel_username": null,
     "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
@@ -69,7 +98,7 @@
     "salary": null,
     "short_description": "ChillBase — геймдев-студия, специализирующаяся на разработке мобильных мидкор-игр (Action RPG) и масштабных симуляторов жизни, например OneState.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -105,7 +134,7 @@
     "salary": null,
     "short_description": "Продуктовая роль в направлении инфраструктурных решений на базе AI-агентов в Lamoda. Возглавление развития AI-powered инфраструктурных продуктов и платформ.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -140,7 +169,7 @@
     "salary": null,
     "short_description": "Владелец продукта мобильного приложения Госуслуги, отвечающий за discovery, приоритизацию бэклога, метрики и качество. Команда разрабатывает масштабные цифровые сервисы для миллионов пользователей портала государственных услуг с использованием Agile и Scrum методологий.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -176,7 +205,7 @@
     "salary": null,
     "short_description": "Instories — компания-разработчик мобильных приложений для редактирования фото и видео. Ищут Senior Product Manager для работы с growth и web-воронками.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -224,7 +253,7 @@
     "salary": null,
     "short_description": "Развиваете платёжную инфраструктуру: обработка транзакций, интеграции с платёжными партнёрами, reconciliation, settlement и внутренние платёжные сервисы. Компания после раунда финансирования на $100M расширяет Payments-команду.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -260,7 +289,7 @@
     "salary": null,
     "short_description": "Островок — платформа для онлайн-бронирования отелей и путешествий, один из лидеров российского рынка travel-tech. Ищем Senior Product Manager для работы с направлением Hotels.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -290,7 +319,7 @@
     "salary": null,
     "short_description": "Product Owner role in the Unified Contact Center direction at X5. The position involves managing the product strategy and development for contact center solutions.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -320,7 +349,7 @@
     "salary": null,
     "short_description": "Halyk Market — ведущая e-commerce платформа в Казахстане. Открыта позиция Product Manager для работы над Shopping Experience.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -362,7 +391,7 @@
     "salary": null,
     "short_description": "Роль в направлении подписки WB клуба Wildberries. Работа с подписочным продуктом в одном из крупнейших российских маркетплейсов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -398,7 +427,7 @@
     "salary": null,
     "short_description": "Cobalt Lab — игровая платформа на рынке СНГ, специализирующаяся на Rust-gaming. Компания стремится изменить подход к онлайн-играм и сделать геймплей по-настоящему увлекательным.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -428,7 +457,7 @@
     "salary": null,
     "short_description": "01tech is an infrastructure platform for iGaming business. The company is seeking a B2C Product Manager for remote work.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -458,7 +487,7 @@
     "salary": null,
     "short_description": "TWINBY — сервис для проверки совместимости и поиска новых знакомств. Ищет руководителя продукта для развития платформы.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -19877,7 +19906,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -19931,7 +19960,7 @@
     "short_description": "Technical Product Manager for Aviasales' SERP (search results) product. We're looking for a PM with engineering or systems analysis background to work with complex technical products and teams, handle product documentation, and establish cross-team collaboration processes.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -19979,7 +20008,7 @@
     "short_description": "Международная IT-компания разрабатывает SaaS, AI/ML решения и финансовые продукты для США и ЕС. Ищем опытного лидера для управления кросс-функциональными командами в условиях быстрого роста на трёх направлениях: AI, Blockchain и финтех. Компания работает с более чем 10 миллионами пользователей.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -20009,7 +20038,7 @@
     "short_description": "Unimatch is a venture AI studio from Silicon Valley building vertical AI products at scale and developing multi-agent AI systems. The role requires fluency in English and Russian.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20039,7 +20068,7 @@
     "short_description": "Разработка автономной мультиагентной системы для управления операционными рисками в дочерних компаниях группы Сбербанка. Использование современных инструментов вроде Claude Code и Codex CLI с фокусом на агентов с полным контекстом, итеративное планирование и самокоррекцию.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20075,7 +20104,7 @@
     "short_description": "Полное PnL-управление линейкой депозитных и транзакционных карточных продуктов. Управление портфелем массового ритейла, премиум и зарплатных клиентов с фокусом на юнит-экономику и ценообразование.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20105,7 +20134,7 @@
     "short_description": "AI-focused Photo Lab ищет CPO. Требуется инициативность, проактивность в решении задач, адаптивность к быстрым изменениям и способность устранять препятствия творческими подходами.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20135,7 +20164,7 @@
     "short_description": "Программа лояльности Свои Плюсы с миллионами пользователей. Разработка сценариев привлечения и удержания клиентов в экосистеме Яндекса и партнёров.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -20171,7 +20200,7 @@
     "short_description": "Mail — технологическая и интернет компания, обеспечивающая пользователям набор онлайн сервисов, включая электронную почту, облачное хранилище, календарь, заметки и сервисы покупок.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -20233,7 +20262,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -20269,7 +20298,7 @@
     "short_description": "Smarter Apps is an IT company specializing in intelligent software solutions for mobile devices. The role offers flexible work arrangements with both part-time and full-time options available.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20323,7 +20352,7 @@
     "short_description": "Федеральная сеть кофеен из Краснодара ищет руководителя проекта для приложения и киосков самообслуживания. Компания ценит командное взаимодействие, открытость к диалогу и поддержку сотрудников в развитии.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -20359,7 +20388,7 @@
     "short_description": "Направление XDC сосредоточено на доставке товаров до клиентов. Компания является одним из крупнейших онлайн-ритейлеров в России и СНГ.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -20395,7 +20424,7 @@
     "short_description": "Avialytics is a flight search metasearch engine helping users find the cheapest flights across 2000+ airlines and booking sites. Join the SERP team responsible for search results that help users select the best flight ticket.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -20425,7 +20454,7 @@
     "short_description": "Компания разрабатывает высокотехнологичные платформы для поиска и бронирования отелей, авиабилетов и туристических услуг по всему миру. Позиция основана на международной, технологичной базе компании.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20455,7 +20484,7 @@
     "short_description": "Лидер продуктового стрима для направления ВЭД в крупном российском банке. Полный цикл развития продукта: от формирования бэклога до обеспечения производственного процесса. Ответственность за стратегию развития и достижение финансовых целей.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -20491,7 +20520,7 @@
     "short_description": "T-Data — B2B-продукт в Т-Банке, аналитические решения для крупного бизнеса на стыке больших данных, исследований и прикладного консалтинга.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -20521,7 +20550,7 @@
     "short_description": "Watchers — технологическая B2B SaaS компания, предоставляющая встраиваемую социальную платформу для онлайн сервисов и контент платформ. Ищут Middle AI Product Manager для работы с продуктом Builder.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20587,7 +20616,7 @@
     "short_description": "Российская продуктовая ИТ компания iSpring разрабатывает инструменты для создания онлайн-курсов и управления корпоративным обучением. Продукты используются компаниями разного размера, фрилансерами и преподавателями в 172 странах мира.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -20647,7 +20676,7 @@
     "short_description": "Поиск менеджеров продуктов в команды Ozon Travel. Требуется опыт в e-commerce, travel tech, управлении требованиями и командой разработки. Специализация на промо-инструментах, ценообразовании, юнит-экономике и двухсторонних рыночных механиках.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
@@ -20691,7 +20720,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20721,7 +20750,7 @@
     "short_description": "Разработка продукта на блокчейне для финансовых активов. Фокус на безопасность, идентификацию клиентов, снижение рисков мошенничества, умные контракты и повышение надежности кредитных операций.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20757,7 +20786,7 @@
     "short_description": "Разработка и реализация стратегии продуктов P2P и платежных услуг. Команда ориентирована на эффективность и фокус на клиентах в финансовом секторе.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -20805,7 +20834,7 @@
     "short_description": "Fintech team building payment infrastructure for e-commerce and business. Managing full product lifecycle in a 30-person team with 20+ million operations monthly. Role is 80% operational/project management and 20% product strategy.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20841,7 +20870,7 @@
     "short_description": "Развитие fintech-продуктов (кредитные линии, карты, BNPL). Ответственность за product roadmap, управление портфелем кредитных продуктов, баланс между ростом бизнеса и качеством кредитного портфеля.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -20919,7 +20948,7 @@
     "short_description": "Admetrix specializes in outdoor advertising monitoring data and audience analytics using maps and geoinformation systems. The role focuses on developing products based on advertising effectiveness data and audience characteristics.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -20973,7 +21002,7 @@
     "short_description": "Product Manager для команды SERP Results. Фокус на внутрисессионном пути пользователя при поиске авиабилетов - помощь в принятии решения о покупке на странице результатов, где пользователи перебирают даты, направления и комбинации перелетов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -21045,7 +21074,7 @@
     "short_description": "Разработка платформы для пассажирских и грузовых поездок. Крупнейший заказчик - сервис заказа такси Максим, входящий в топ-3 агрегаторов такси в России.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
