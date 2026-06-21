@@ -1,5 +1,178 @@
 [
   {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1430,
+    "date_iso": "2026-06-21T07:58:11+00:00",
+    "text": "Продакт менеджер в Crezu\n\nОсновные курсы редакции - https://t.me/FreshProductGo/1757\n\nЗадачи:\n• Вести backlog и помогать с приоритизацией\n• Координировать работу команды\n• Работать с продуктовыми метриками: CR, CTR, RPL/RPV, revenue, margin\n• Участвовать в подготовке и запуске A/B тестов\n• Формулировать гипотезы, expected impact и критерии успеха\n• Использовать AI-инструменты для ускорения работы\n\nТребования:\n•2–4 года опыта в роли Product Manager\n• Опыт работы с web-продуктами, лендингами\n• Понимание web funnels, conversion rate, A/B тестов и базовой web analytics\n• Умение вести несколько задач/продуктов параллельно\n• Английский на уровне не ниже B2\n\nРекрутер: @ina_recruiter\n\nРазборы кейсов тут, 76 разборов пришли, всего свыше 190 тестовых и реальных задач продактов. Плейлист доступен по ссылке, сайт разборов тут",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 52,
+        "length": 32
+      },
+      {
+        "type": "text_url",
+        "offset": 701,
+        "length": 3,
+        "url": "https://koloskoveducation.tilda.ws/productcaseclub/"
+      },
+      {
+        "type": "text_url",
+        "offset": 779,
+        "length": 28,
+        "url": "https://docs.google.com/document/d/1_bq1zQtkfAJjf5O_QjpuMDFlkloNkF_VyTtpRv7oyZI/edit?tab=t.0"
+      },
+      {
+        "type": "text_url",
+        "offset": 822,
+        "length": 3,
+        "url": "https://koloskoveducation.tilda.ws/productcaseclub/"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1430",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager",
+    "company": "Crezu",
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Product Manager role focused on backlog management, team coordination, and conversion optimization. Responsibilities include working with metrics (CR, CTR, RPV, revenue), A/B testing, hypothesis formulation, and leveraging AI tools. Experience with web products, funnels, and analytics required.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12223,
+    "date_iso": "2026-06-20T15:58:59+00:00",
+    "text": "Middle Project Manager (в процессы)\n#ProjectManager #Middle #MiddleProjectManager #Удаленно #Igaming #Remote #Job #Vacancy\n \nТребования:\nПродуктовая iGaming компания (4+ лет, 5 брендов, СНГ). Есть Продакт, который пишет новые процессы. Вам предстоит стать его правой рукой: внедрять эти процессы, настраивать Jira, писать документацию и учить команду работать по-новому. Кто нужен: Спокойный, терпеливый, с железными нервами. Тот, кто не боится \"рутины ради порядка\", но при этом стратегически мыслит. Опыт выстраивания процессов с нуля - обязателен. Middle с амбициями. Задачи: Деливери, регламенты, настройка Jira, коммуникация. IT PM опыт от 3 лет, англ. Intermediate, уверенный Jira-админ.\n \nЛокация:📍Удалённо, з/п обсуждаема.\n\nКонтакт для отклика: @Manana_Helenava\n\n👉 забрать special offer",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 775,
+        "length": 21,
+        "url": "https://t.me/JTBL_bot"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12223",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle Project Manager (Процессы)",
+    "company": null,
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "iGaming компания (4+ лет, 5 брендов, СНГ) ищет Project Manager для внедрения новых процессов, настройки Jira, документирования и обучения команды. Требуется опыт выстраивания процессов с нуля, IT PM опыт от 3 лет, английский Intermediate и уверенное владение Jira.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 532,
+    "date_iso": "2026-06-20T12:07:44+00:00",
+    "text": "🧑‍💻 Growth Product Manager Instories\n\n▪️Компания Instories\n▪️Домен #AI\n▪️Грейд #Senior\n▪️Формат #УдаленкаМир\n\nВ команду Growth открыта позиция для продакта, который умеет строить прибыльные веб-воронки и не боится высокого темпа. Здесь можно забустить направление с нуля, делать десятки экспериментов в квартал и видеть, как твои решения двигают реальные деньги.\n\nЧто ждем от тебя:\n- Опыт работы с веб-воронками: строили, вели, добивались роста метрик;\n- 5+ лет в роли Product Manager, из которых 2+ года в Growth в B2C-продукте, желательно в подписочной модели;\n- Data-driven подход: думаете метриками, умеете спроектировать A/B-тест и самостоятельно посчитать юнит-экономику;\n- Понимание экономики платного трафика (ROAS, CAC);\n- Опыт vibecoding - собираете MVP и прототипы руками, не ждёте разработчиков;\n- Английский от Intermediate.\n\nТебе предстоит:\n- Владеть несколькими веб-воронками и отвечать за их ключевые метрики - CR, ARPU, LTV, ROAS, Revenue;\n- Непрерывно тестировать экраны, офферы, цены и упаковку, запускать A/B-тесты и раскатывать победителей;\n- Работать в плотной связке с командой UA: укреплять воронку так, чтобы перформанс-маркетинг мог масштабировать бюджет прибыльно;\n- Самостоятельно собирать прототипы с помощью AI-инструментов и no-code решений;\n - Управлять бэклогом и доводить фичи до релиза в сжатые сроки.\n\nСтек: Claude, Cursor, Amplitude, AppsFlyer, Figma, Jira, Notion.\n\nСсылка на пост LinkedIn \n\n📱 Канал про поиск работы в IT",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 51,
+        "length": 9,
+        "url": "https://instories.com/"
+      },
+      {
+        "type": "text_url",
+        "offset": 1406,
+        "length": 24,
+        "url": "https://www.linkedin.com/posts/anastasia-arkhipova-it_%D0%B8%D1%89%D0%B5%D0%BC-%D0%B2-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%83-growth-senior-product-manager-activity-7472328009501466626-4gCA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1434,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1435,
+        "length": 27,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/532",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Growth Product Manager",
+    "company": "Instories",
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Growth PM role focused on building profitable web funnels and running continuous experiments. The team works with AI tools, no-code solutions, and data-driven optimization of conversion metrics (CR, ARPU, LTV, ROAS). Tech stack includes Claude, Cursor, Amplitude, AppsFlyer, Figma, Jira, Notion.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 531,
+    "date_iso": "2026-06-20T11:01:45+00:00",
+    "text": "👨‍💻 Product Manager Детский Мир\n\n▪️Компания Детский Мир\n▪️Домен #Ecom\n▪️Грейд #Middle #Senior\n▪️Формат #\n\nМы в «Детмир Тех» ищем менеджера продукта, который присоединится к команде стрима «Поиск и изучение».\nВ этой роли вам предстоит работать с поиском, с листингами, фильтрами и страницей товара — в целом отвечать за то, чтобы пользователям было удобно находить нужные товары, а информация о них была релевантной и помогала принимать решение о покупке.\nВы будете развивать цифровые продукты «Детского мира», «Зоозавра» и «Ещё» (новая сеть дискаунтеров). Это крупные сервисы: например, мобильное приложение «Детского мира» скачали более 30 миллионов раз, его WAU составляет 6 миллионов пользователей, а во время распродаж оформляется до 20 заказов в секунду.\n\nЧто ожидаем от вас:\n- Опыт продуктового менеджмента от 3 лет;\n- Опыт работы с мобильными приложениями;\n- Опыт в e-commerce или похожих продуктах.\n\nЧем предстоит заниматься:\n- Описывать продуктовые требования и сопровождать дизайн и разработку;\n- Участвовать в исследованиях пользователей совместно с командой UX-research;\n- Проводить пилоты и тестирования;\n- Анализировать и презентовать результаты экспериментов;\n- Общаться с разными департаментами в компании.\n\nСсылка на пост LinkedIn \nСсылка на вакансию\n\n📱 Канал про поиск работы в IT",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1226,
+        "length": 24,
+        "url": "https://www.linkedin.com/posts/mika4game_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F-product-manager-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%B8-%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-activity-7472262705446367232-H3sr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1251,
+        "length": 18,
+        "url": "https://hh.ru/vacancy/133667650"
+      },
+      {
+        "type": "text_url",
+        "offset": 1273,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1274,
+        "length": 27,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/531",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Поиск и изучение (Middle/Senior)",
+    "company": "Детский Мир",
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Ищем менеджера продукта в стрим «Поиск и изучение» для работы с поиском, листингами, фильтрами и страницей товара в мобильном приложении и веб-сервисе. Развитие цифровых продуктов крупных розничных сетей с миллионами активных пользователей и высокой нагрузкой (до 20 заказов в секунду).",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 2667909413,
     "channel_username": "ITjobsFeed",
     "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
@@ -25,7 +198,7 @@
     "salary": null,
     "short_description": "Senior Technical Product Manager role at Delivery Hero focusing on AI and agent technologies. Position requires relocation to Berlin, Germany with full-time commitment.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -62,7 +235,7 @@
         "channel_id": 2667909413
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -16405,7 +16578,15 @@
     "remote": false,
     "salary": null,
     "short_description": "Управление проектами запуска легковой автономной платформы, координация между проектной командой Яндекса и OEM, управление циклом инженерных изменений, контроль затрат и KPI. Требуется опыт в разработке HW-продуктов от концепта до массового производства с знанием автомобильных стандартов.",
-    "duplicates": [],
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/12202",
+        "date_iso": "2026-06-20T09:31:03+00:00",
+        "channel_id": 2667909413
+      }
+    ],
     "is_new": false,
     "is_archived": false
   },
@@ -18984,7 +19165,7 @@
     "short_description": "Развитие внутренней системы по работе с контентом и правами. Требуется опыт работы со сложными B2E/B2B продуктами, знание Jira, Confluence, Figma. Плюсом опыт с видеоплатформами и понимание доставки видео.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
@@ -19052,7 +19233,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -19100,7 +19281,7 @@
     "short_description": "AI-powered B2B SaaS startup backed by prominent investors and accelerated by Stanford. Building conversational AI products that transform how businesses operate. Direct collaboration with founder, high impact role requiring product leadership, analytics rigor, and startup experience.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -19160,7 +19341,7 @@
     "short_description": "Ищем Product Manager в команды Ozon Travel и Ozon Global (TravelTech, B2C). Требуется опыт на позиции PM от 2 лет или опыт в продуктовой аналитике от 3 лет с опытом запуска продуктов от идеи до релиза, проведения клиентских интервью и работы с данными.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19190,7 +19371,7 @@
     "short_description": "Взаимодействие с продуктовыми командами по анализу потребностей и проработке бизнес-требований. Описание пользовательских сценариев и перевод требований на технический язык для команды разработчиков.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19220,7 +19401,7 @@
     "short_description": "Стажировка в Ростелеком. Обучение у опытных коллег: сбор требований от B2B клиентов, анализ рынка и конкурентов, взаимодействие с разработчиками и дизайнерами. Фокус на создание и развитие продуктов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19250,7 +19431,7 @@
     "short_description": "Старший менеджер продукта в команду клиентских интерфейсов. Требуется опыт анализа рынка, определения потребностей потребителей, разработки стратегии продукта, планирования задач и управления ресурсами. Необходимо умение собирать и анализировать данные о продукте, рынке и потребителях для принятия обоснованных решений.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19280,7 +19461,7 @@
     "short_description": "Роль в команде корпоративных банковских продуктов с фокусом на онбординг и подключение решений для средних и крупных клиентов. Требуется опыт с ML/AI и LLM, понимание бухгалтерской отчетности и специфики корпоративного бизнеса.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19310,7 +19491,7 @@
     "short_description": "Формирование видения и стратегии продукта, разработка долгосрочной стратегии, управление приоритетами бэклога и синхронизация ожиданий заинтересованных сторон.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19370,7 +19551,7 @@
     "short_description": "Современная корпоративная информационная система управления проектами и портфелями, объединяющая планирование, учёт ресурсов, управление бюджетами и выпуском релизов. Формирование Vision продукта, разработка RoadMap.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19430,7 +19611,7 @@
     "short_description": "Команда разрабатывает более 100 инновационных ИТ-продуктов на основе микросервисной архитектуры, облачной инфраструктуры, больших данных, биометрии, ИИ и машинного обучения для улучшения качества жизни сотрудников и миллионов покупателей.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1212353352,
@@ -19464,7 +19645,7 @@
     "short_description": "Ищем Product Manager в команду Guides, развивающую продуктовый контент для путешественников. Основной фокус — сервис «Впечатления» про города и локации. Задача: переосмыслить продукт через больше эмоций, впечатлений и монетизации контента.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1212353352,
@@ -19504,7 +19685,7 @@
     "short_description": "Команда ищет продакта в зону buyer experience для развития web & app, запуска новых фич и улучшения ключевых продуктовых метрик через A/B-эксперименты. Требуется опыт с программами лояльности в e-commerce/фудтех, MVP-мышление и навыки работы с кросс-функциональными командами.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1212353352,
@@ -19544,7 +19725,7 @@
     "short_description": "SberProject — корпоративная система управления проектами и портфелями. Требуется продакт для формирования vision/стратегии, управления бэклогом, метриками и работы со стейкхолдерами. Стек включает Agile, Jira, аналитику и AI-First подход с LLM/AI Agents.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -19574,7 +19755,7 @@
     "short_description": "Photo Lab is one of the leading companies developing mobile applications for photo processing. The role involves leading product strategy for AI-powered photography solutions with flexible remote work arrangements.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19616,7 +19797,7 @@
     "short_description": "Развитие и управление продуктами на всех этапах жизненного цикла в финансовой экосистеме. Управление командой разработки и поиск новых точек роста для счетных продуктов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19664,7 +19845,7 @@
     "short_description": "Девелоперская компания с 17-летним опытом в коттеджных поселках создает цифровой департамент. Требуется руководитель для управления автоматизацией и развитием цифровых продуктов в растущей организации с 150+ сотрудниками.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19694,7 +19875,7 @@
     "short_description": "Команда создаёт и развивает образовательные продукты для обучения сотрудников компаний в России и странах СНГ. Вы будете отвечать за развитие части портфеля продуктов для корпоративного образования.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -19742,7 +19923,7 @@
     "short_description": "Развитие и сопровождение P2P-продукта в fintech с анализом метрик, оптимизацией процессов и координацией между командами. Требуется опыт в Product Owner / Project Manager роли с пониманием P2P-направления, платёжной инфраструктуры и навыками масштабирования.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19778,7 +19959,7 @@
     "short_description": "Управление B2B платформой для оптовых клиентов с фокусом на улучшение функциональности, пользовательского опыта и интерфейса. Разработка и внедрение стратегий для привлечения и удержания клиентов через электронную коммерцию.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19832,7 +20013,7 @@
     "short_description": "Поиск менеджера продукта в центр маркетинга конвергентного бизнеса. Задача - превратить стратегию в продукт, объединяющий банковские услуги, телеком тарифы и выгоды для разных сегментов клиентов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -19862,7 +20043,7 @@
     "short_description": "Развитие и сопровождение карточных продуктов банка (дебетовые/кредитные карты Visa), управление жизненным циклом продуктов. Развитие транзакционных сервисов (P2P, QR, онлайн-платежи) и эквайринга.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1205373966,
