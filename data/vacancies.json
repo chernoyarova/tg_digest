@@ -3,6 +3,496 @@
     "channel_id": 1093073202,
     "channel_username": "forproducts",
     "channel_title": "Job for Products and Projects",
+    "msg_id": 10046,
+    "date_iso": "2026-06-24T09:11:25+00:00",
+    "text": "Senior Founding Growth Product Manager\nTechTree is a company building an AI-native teammate that works inside the tools your team already uses.\nTech stack: SQL, Jira, Machine Learning.\nWarsaw, Poland. On-site.\nJob description.\nMore details in Ahmed Fahmy's post on LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 210,
+        "length": 15,
+        "url": "https://jobs.techtree.dev/job/320e6c75-bf41-41a8-848b-5b7e3fd17d9e?tp=04b74924-4168-417c-91a8-2ec52e5b28a1"
+      },
+      {
+        "type": "text_url",
+        "offset": 257,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/me-ahmedfahmy-com_founding-growth-product-manager-at-ai-coworker-share-7474737899914113024-4aHK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10046",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Founding Growth Product Manager",
+    "company": "TechTree",
+    "location": "Warsaw, Poland",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Building an AI-native teammate that integrates with existing tools. Tech stack includes SQL, Jira, and Machine Learning. Founding-level growth product role at an early-stage AI company.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 540,
+    "date_iso": "2026-06-24T08:16:09+00:00",
+    "text": "👨‍💻 Senior Product Manager Lending / Cards\n\n▪️Домен #FinTech\n▪️Грейд #Senior\n▪️Формат #Релокация #Панама\n\nOne of the fastest-growing fintech companies in Latin America, operating across lending, credit and debit cards, BNPL, credit lines, and payment solutions.\nThe company already serves a large and rapidly growing customer base and is building one of the leading fintech platforms in the region.\n\nToday, the business is focused on scaling two core products:\n• Credit Cards — strong portfolio growth, excellent traction, and significant opportunities to expand functionality and customer engagement.\n• Credit Lines — more than 60,000 issued credit lines today, with a target of 150,000+ in the next year.\n\nWe're looking for a Senior Product Manager who can take ownership of fintech products, drive growth, improve customer experience, and help scale the portfolio responsibly.\n\nWhat we're looking for\n- 5+ years of Product Management experience\n- 3+ years in Fintech, Lending, Consumer Finance, Cards, Payments, or Digital Banking\n- Hands-on experience with at least one of: Credit Cards, Consumer Lending\n- BNPL, Credit Lines, Debit Cards, Digital Financial Products\n- Strong understanding of activation, retention, monetization, and product funnels\n- Experience working with risk, underwriting, credit limits, repayments, or portfolio metrics\n- Strong analytical and data-driven mindset\n- Experience building product roadmaps and driving execution with engineering teams\n- Fluent English or Spanish\n\nNice to have\n- Revolving credit products\n- Mastercard / Visa products\n- Experience in Latin America or emerging markets\n- Risk-based pricing, NPL, delinquency analysis, vintage/cohort analysis\n- Credit bureau integrations and scoring models\n- Experience in neobanks, lending platforms, wallets, or fintech startups\n\nInterested? Send me a message in DM or tg @nadzeya_recruiter\n\nСсылка на пост LinkedIn \n\n📱 Канал про поиск работы в IT",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1884,
+        "length": 1,
+        "url": "https://www.linkedin.com/posts/masha-zinevitch_fundraiseup-productmanagement-hiring-activity-7473299682866302976-qhcC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1885,
+        "length": 24,
+        "url": "https://www.linkedin.com/posts/palanevich-nadzeya_senior-product-manager-lending-cards-share-7475112349658701824-CYVz/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7475112352418414594&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1913,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1914,
+        "length": 27,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/540",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, Lending / Cards",
+    "company": null,
+    "location": "Панама, релокация",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Senior PM needed for a fast-growing Latin American fintech company operating in lending, credit cards, BNPL, and payment solutions. The role focuses on scaling credit cards and credit lines products, with emphasis on growth, customer experience, and responsible portfolio expansion. Requires 5+ years of PM experience and 3+ years in fintech/lending.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12397,
+    "date_iso": "2026-06-24T07:32:36+00:00",
+    "text": "Acquisition Specialist\nУдалённо (мир, кроме РФ и РБ)\nот 80 000₽\n\n‍The Role:\nWe are looking for a person with a hunter mindset who will independently find new partners (carriers), establish contact, and present the benefits of cooperation with our company.\nThis position is for you if you want to be not just a doer, but are ready to influence the development of the partner acquisition process.\nYou will have freedom in choosing approaches to sourcing, communication, and company presentation.\n‍\nWhat We’re Looking For:\n— 2+ years of experience in sales, business development, lead generation, or partnership programs;\n— Strong persuasion skills and the ability to build trust-based relationships;\n— Proactive, self-driven, and results-oriented mindset;\n— Fluent English (C1 or higher) – you’ll be leading commercial negotiations;\n— Experience in travel-tech, logistics, transportation, or marketplace platforms is a strong plus;\n— An established network on LinkedIn, and knowledge of Spanish or Italian, are additional advantages.\n‍\nKey Responsibilities:\n— Sourcing and attracting new carrier partners via social media, professional communities, messengers, and other open sources;\n— Conducting initial negotiations and presenting the company;\n— Identifying the needs of potential partners;\n— Handling objections and guiding negotiations through to successful onboarding;\n\nProduct Manager\nот 500 до 700$\nУдалённо\n\nМы развиваем автоматизированный crypto exchange, который уже успешно работает на международном рынке и ежемесячно обрабатывает более 5 000 транзакций.\nНаша цель — сделать процесс обмена максимально быстрым, удобным и безопасным за счёт автоматизации и постоянного развития продукта. Мы уже построили работающий и прибыльный сервис, который продолжает активно расти. Сейчас мы ищем Product Manager, который поможет нам ускорить развитие продукта, запускать новые функции и вместе с командой вывести сервис на следующий уровень.\n‍\n🔸Что мы ждем от тебя:\n– Опыт работы Product Manager будет плюсом, но не является обязательным. Если вы быстро учитесь, инициативны и готовы брать ответственность — обязательно откликайтесь.\n– Умение самостоятельно структурировать идеи и превращать их в понятные технические задания.\n– Предрасположенность к автоматизации процессов и желание постоянно искать более эффективные решения.\n– Готовность полностью погрузиться в проект — это full-time позиция.\n– Проактивность, инициативность, желание развиваться и предлагать новые идеи.\n– Ответственность, коммуникабельность, организованность и умение доводить задачи до результата.\n‍\n🔸Чем предстоит заниматься:\n– Изучать рынок и регулярно анализировать конкурентов, чтобы находить действительно полезные идеи, которые можно внедрить в продукт.\n– Формировать новые задачи и гипотезы для развития сервиса.\n– Превращать идеи в понятные и структурированные технические задания.\n– Приоритизировать задачи, распределять их между участниками команды и контролировать сроки.\n– Следить за качеством реализации и отвечать за развитие продукта.\nУ нас уже есть сильная команда разработки и дизайна. Мы ищем человека, который сможет задавать направление, держать фокус команды и двигать продукт вперёд.\n\n\nПонравились вакансии?\n💚 — да\n🌚 — нет\n\n\n———\n\n🖤 Разместить вакансию \n💙 Удалёнка 🫶 Удалёнка джунам \n🫶 Стажировки 💚 Разрабам\n💖 Дизайнерам 🟠 Маркетологам \n🖤 HR 💜 QA 🟡 Менеджерам\n\nмы также есть там, куда всех хотят отправить — https://max.ru/it_vakansii_jobs",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 0,
+        "length": 22,
+        "url": "https://www.vseti.app/vakansii/384343943493439438434334"
+      },
+      {
+        "type": "text_url",
+        "offset": 1374,
+        "length": 15,
+        "url": "https://www.vseti.app/vakansii/43843943434343434334223443"
+      },
+      {
+        "type": "text_url",
+        "offset": 3232,
+        "length": 1,
+        "url": "http://ya.ru/"
+      },
+      {
+        "type": "text_url",
+        "offset": 3233,
+        "length": 19,
+        "url": "https://www.vseti.app/b2b"
+      },
+      {
+        "type": "text_url",
+        "offset": 3257,
+        "length": 8,
+        "url": "https://t.me/+LyGXnOpjrztmN2Ix"
+      },
+      {
+        "type": "text_url",
+        "offset": 3269,
+        "length": 15,
+        "url": "https://t.me/+1yyM8jKGVr8xZjMy"
+      },
+      {
+        "type": "text_url",
+        "offset": 3288,
+        "length": 1,
+        "url": "https://t.me/+BO4DcXIAKqg1ODYy"
+      },
+      {
+        "type": "text_url",
+        "offset": 3289,
+        "length": 10,
+        "url": "https://t.me/+hDTdPzgIbhozMTUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 3302,
+        "length": 9,
+        "url": "https://t.me/+QiDNhxIWmTUwMTdi"
+      },
+      {
+        "type": "text_url",
+        "offset": 3314,
+        "length": 11,
+        "url": "https://t.me/+9cosivWJhhE4M2Ri"
+      },
+      {
+        "type": "text_url",
+        "offset": 3328,
+        "length": 13,
+        "url": "https://t.me/+vJsBiYSXJ65mNTky"
+      },
+      {
+        "type": "text_url",
+        "offset": 3346,
+        "length": 2,
+        "url": "https://t.me/+jHYEvaAUg_5kNWZi"
+      },
+      {
+        "type": "text_url",
+        "offset": 3352,
+        "length": 2,
+        "url": "https://t.me/+UxBpbQAyg6M0ZjUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 3358,
+        "length": 10,
+        "url": "https://t.me/+riZ3PFenvGJkNTAy"
+      },
+      {
+        "type": "url",
+        "offset": 3417,
+        "length": 31
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12397",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager",
+    "company": null,
+    "location": "Remote",
+    "grade": null,
+    "ml_ai": false,
+    "remote": true,
+    "salary": "$500–700",
+    "short_description": "Automated crypto exchange processing 5000+ transactions monthly seeks PM to accelerate product development and launch new features. You'll structure ideas into technical specs, analyze competitors, prioritize tasks, and drive the product forward alongside experienced development and design teams.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2769347520,
+    "channel_username": "linked_jobs",
+    "channel_title": "LinkedIn Jobs",
+    "msg_id": 1899,
+    "date_iso": "2026-06-24T06:57:22+00:00",
+    "text": "Вакансии в A-Players\n\n– Lead/Senior Product Manager\n\n– Senior React Native Engineer\n\n– Senior Growth Manager (Web Funnels)\n\n– Senior PPC/UA Manager (Google Ads)\n\n– Lead UA Manager (Meta)\n\nописание 🫴\n\n#product #react #growth #ppc #ua",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 188,
+        "length": 8,
+        "url": "https://www.linkedin.com/posts/rita-loida_vacancy-digest-at-a-players-were-a-fast-growing-share-7475079193228214272-7BHM/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOENPsBser3o1XDvQkMrYJFJcjR4b2SLEc"
+      }
+    ],
+    "link": "https://t.me/linked_jobs/1899",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Lead/Senior Product Manager",
+    "company": "A-Players",
+    "location": null,
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Lead or Senior Product Manager position at A-Players. Part of a team focusing on product, growth, and user acquisition across multiple channels and platforms.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12367,
+    "date_iso": "2026-06-23T14:30:59+00:00",
+    "text": "#вакансия #HeadOfProduct #fulltime \n\nВакансия: Head of Product (C2C)\nЛокация: удалённо/гибрид\nЗанятость: полная\nЗП: от 400 000 рублей до 600 000 рублей на руки\n\nПривет! Ищем сильного Head of Product C2C для масштабного роста маркетплейса услуг с аудиторией 2 млн+ пользователей. Роль ключевая - полная ответственность за бизнес-результат направления.\n\nКлючевые задачи:\n- стратегия и рост C2C-направления (воронки, удержание, unit-экономика);\n- управление балансом спроса/предложения на маркетплейсе;\n- формирование и развитие SEO стратегии;\n- внедрение AI-механик и экспериментов в продукт.\n\nОбязательные требования:\n- опыт руководства продуктом в маркетплейсах или крупных B2C/C2C-проектах;\n- глубокое понимание growth-метрик, механик двухсторонних платформ;\n- опыт управления кросс-функциональными командами.\n\nЧто предлагаем: работу в аккредитованной IT-компании, оформление по ТК, роль с реальным влиянием на продукт для миллионов пользователей, удалённую работу по московскому времени.\n\nКонтакт для связи: @remmaria\n\n\n--\n[< Подпишитесь на канал «Работа в ИТ» >]",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1028,
+        "length": 33,
+        "url": "https://t.me/workayte"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12367",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of Product",
+    "company": null,
+    "location": "Удалённо/гибрид",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "400 000–600 000 ₽",
+    "short_description": "Ищется Head of Product для масштабного маркетплейса услуг с аудиторией 2млн+ пользователей. Полная ответственность за стратегию и рост C2C-направления, управление спросом/предложением, SEO-стратегией и внедрением AI-механик.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12361,
+    "date_iso": "2026-06-23T14:23:09+00:00",
+    "text": "Head of Delivery / PMO в Nozomi Health\n\n📍 Удаленка\n💎 Управление всей функцией delivery: команда PM, ответственность за сроки и качество проектов, эскалация рисков, выстраивание стандартов управления.\n💼 5+ лет в Project Management, 2+ года управления командой PM, опыт с международными клиентами, будет плюсом опыт в digital health.\n\nОткликнуться на вакансию\n\n———\n\nНе подошла вакансия? Поделись с тем, кому пригодится ➡️",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 336,
+        "length": 24,
+        "url": "https://app.notion.com/p/Head-of-Delivery-PMO-34c86905ce35802281fed904ecaceba6?source=copy_link&trk=public_post_comment-text"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12361",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of Delivery / PMO",
+    "company": "Nozomi Health",
+    "location": "Remote",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Управление всей функцией delivery: команда PM, ответственность за сроки и качество проектов, эскалация рисков, выстраивание стандартов управления. Требуется 5+ лет в Project Management, 2+ года управления командой PM, опыт с международными клиентами.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12357,
+    "date_iso": "2026-06-23T13:32:04+00:00",
+    "text": "Senior Product Manager – Hybrid Puzzle Game Monetization (Onsite, Hanoi)\n\nMobile Game Doctor ищет опытного Product Manager для работы над монетизацией успешного hybrid puzzle проекта.\n\n📍 Ханой, Вьетнам (работа в офисе)\n📅 Контракт: 6 недель (3 августа – 18 сентября)\n💰 До $85/час\n✈️ Для кандидатов из других регионов полностью оплачиваются перелет и проживание\n\nЧто мы ищем:\n\n• 5+ лет опыта в Product Management мобильных игр\n• Подтвержденный опыт работы с Hybrid Puzzle Games\n• Экспертиза в монетизации, сегментации пользователей и кастомизации игровых предложений\n• Сильные аналитические навыки и data-driven подход\n• Свободный деловой английский\n\nЗадачи:\n\n• Разработка и оптимизация стратегий монетизации\n• Создание моделей пользовательской сегментации\n• Улучшение игровых механик и персонализированных предложений\n• Анализ поведения игроков и ключевых метрик продукта\n• Работа с командами разработки, дизайна и маркетинга\n• Исследование рынка и конкурентной среды\n\nДетали \nhttps://aiscout.mellow.io/l?id=019eeb91-5a8f-788f-b14a-521aa3114d88&utm_source=recruiter&utm_medium=telegram&utm_campaign=outreach",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 74,
+        "length": 18,
+        "url": "https://www.mobilegamedoctor.com/"
+      },
+      {
+        "type": "url",
+        "offset": 979,
+        "length": 130
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12357",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, Hybrid Puzzle Game Monetization",
+    "company": "Mobile Game Doctor",
+    "location": "Ханой, онсайт",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": "$85/час",
+    "short_description": "Ищем опытного PM для работы над монетизацией успешного hybrid puzzle проекта. Требуется 5+ лет опыта в мобильных играх, экспертиза в монетизации и сегментации пользователей, сильные аналитические навыки.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10040,
+    "date_iso": "2026-06-23T11:59:58+00:00",
+    "text": "Миддл / Миддл+ Продакт-менеджер\nв ВкусВилл — сеть магазинов продуктов питания и товаров для здоровья.\nКлючевые требования: знание JTBD, Value Proposition Canvas, PMF Canvas, CJM.\nУдалённая работа.\nИщет Игорь Иванов, его пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 220,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/%D0%B8%D0%B3%D0%BE%D1%80%D1%8C-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2-b7b255382_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-middle-%D0%B2-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B5-share-7474151462563082240-6z2g/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10040",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle Product Manager",
+    "company": "ВкусВилл",
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Product Manager role at a food and health products retail chain. Required expertise: JTBD, Value Proposition Canvas, PMF Canvas, Customer Journey Mapping.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10038,
+    "date_iso": "2026-06-23T10:59:58+00:00",
+    "text": "Product Owner\nв Bereke Bank — казахстанский коммерческий банк.\nИщет Алшын Чалак, его пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 85,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/alshyn-chalak-5849a919a_%D0%B2-%D0%BC%D0%BE%D0%B5%D0%B9-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B5-%D1%82%D1%80%D0%B5%D0%B1%D1%83%D0%B5%D1%82%D1%81%D1%8F-product-owner-share-7474701122155360256-46kv/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10038",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner",
+    "company": "Bereke Bank",
+    "location": "Казахстан",
+    "grade": null,
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Позиция в казахстанском коммерческом банке Bereke Bank. Поиск Product Owner для работы в банковском секторе.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10037,
+    "date_iso": "2026-06-23T10:29:58+00:00",
+    "text": "Senior Product Manager, New Products\nFundraise Up is a modern fundraising platform built to make donating to nonprofits as fast and convenient as possible.\nLanguages: fluent Russian and English (C1+).\nRemote: Spain, Serbia, Poland, Portugal, Turkey, Georgia, Armenia, Cyprus.\nJob description on LinkedIn.\nMore details in Masha Zinevitch's post on LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 276,
+        "length": 27,
+        "url": "https://www.linkedin.com/jobs/view/4424592703"
+      },
+      {
+        "type": "text_url",
+        "offset": 339,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/masha-zinevitch_fundraiseup-productmanagement-hiring-share-7473299681754812416-111d/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10037",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, New Products",
+    "company": "Fundraise Up",
+    "location": "Remote (Spain, Serbia, Poland, Portugal, Turkey, Georgia, Armenia, Cyprus)",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Fundraise Up is a modern fundraising platform built to make donating to nonprofits as fast and convenient as possible. The role requires fluent Russian and English (C1+) and is open to candidates in select European and neighboring countries.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10036,
+    "date_iso": "2026-06-23T09:59:58+00:00",
+    "text": "Middle Product Manager\nв Crezu — международный финтех-агрегатор, помогающий пользователям подбирать оптимальные предложения по микрозаймам и кредитам от партнёров (МФО и банков).\nУдалённая работа.\nОписание вакансии.\nИщет Надя Пантина, её пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 197,
+        "length": 17,
+        "url": "https://crezu.notion.site/Middle-Product-manager-37dc28d120608099a3cbdc0c2617558a"
+      },
+      {
+        "type": "text_url",
+        "offset": 238,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/nadezhdapantina_middle-product-manager-notion-share-7473426333142949889-DQB3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10036",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle Product Manager",
+    "company": "Crezu",
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Международный финтех-агрегатор, помогающий пользователям подбирать оптимальные предложения по микрозаймам и кредитам от партнёров (МФО и банков).",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 539,
+    "date_iso": "2026-06-23T09:42:15+00:00",
+    "text": "👨‍💻 Product Manager (Ai Adult)\n\n▪️Домен #AI #Adult\n▪️Грейд #Middle #Senior\n▪️Формат #УдаленкаМир\n\n Твои основные задачи:\n- Управление продуктом: Формировать и актуализировать roadmap AI-генератора (новые режимы, пресеты, пайплайны, персонализация, разработка платных фич).\n- Работа с требованиями: Собирать фидбек от фаундеров, маркетинга, саппорта и пользователей, превращая их в четкие юзер-стори и понятные ТЗ для команды.\n- Growth & Монетизация: Вести бэклог и приоритизировать гипотезы, опираясь на их влияние на ключевые метрики: retention, ARPU/ARPPU, LTV и конверсию в первую оплату.\n- Аналитика: Запускать A/B-тесты и эксперименты, глубоко копать воронки и когортные метрики. Принимать жесткие, основанные на данных решения: масштабируем фичу, отправляем на доработку или откатываем.\n- Командная синергия: Синхронизировать процессы и релизы между командами разработки, дизайна и ML-инженеров.\n- Trend-watching: Следить за конкурентами и последними трендами в сфере AI-генерации, принося самые сочные и релевантные идеи в наш продукт.\n\nКого мы ищем:\n- Must have: Обязательный подтвержденный опыт работы в нише 18+. Ты должен понимать специфику аудитории, ограничения и триггеры этой сферы.\n- Реальный опыт работы с AI-контентом (изображения/видео/аватары) или generative-продуктами.\n- Уверенное понимание продуктовых и монетизационных метрик (ARPU, ARPPU, LTV, retention, NPU, конверсии по шагам) и умение на них влиять.\n- Опыт работы по фреймворкам Scrum/Kanban, навык ведения roadmap и управления бэклогом.\n- Data-driven подход: навык формулировать проверяемые гипотезы, ставить эксперименты и принимать решения исключительно на основе цифр.\n\nЧто мы предлагаем:\n- Полностью удаленный формат работы с гибким началом дня.\nОтсутствие бюрократии и микроменеджмента: прямое общение с фаундерами и свобода в принятии продуктовых решений.\n- З/П: от 2к$ (обсуждаемая индивидуально).\n\nКонтакт для связи @Findyskill\n\n📱 Канал про поиск работы в IT",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1921,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1922,
+        "length": 27,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/539",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Middle/Senior, AI Adult",
+    "company": null,
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": true,
+    "salary": "от 2000$",
+    "short_description": "Managing AI image/video generator product roadmap, monetization, and growth metrics. Team syncs with ML engineers, design, and development. Data-driven approach to A/B testing, retention, ARPU optimization, and competitive trend analysis in adult AI content space.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
     "msg_id": 10034,
     "date_iso": "2026-06-23T09:14:58+00:00",
     "text": "Lead Product Manager (Mobile Puzzle Games)\nв Severex — международная студия разработки и издатель игр, специализирующаяся на создании казуальных мобильных приложений (2D/3D).\nИщет Анастасия Данчанка, её пост на LinkedIn.",
@@ -26,7 +516,7 @@
     "salary": null,
     "short_description": "Международная студия разработки и издатель игр, специализирующаяся на создании казуальных мобильных приложений (2D/3D). Роль Lead Product Manager сосредоточена на управлении мобильными головоломками.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -62,7 +552,7 @@
     "salary": null,
     "short_description": "Flipper Devices is building BUSY, a unified ecosystem combining an intelligent multi-functional productivity tool. The team is distributed globally and consists of 80 people working on Flipper Zero and related products.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -110,7 +600,7 @@
     "salary": null,
     "short_description": "0→1 product leadership for major giving space ($300B+ market). Own end-to-end revenue model and product strategy in FinTech for nonprofits. Requires 8+ years product experience with strong discovery instincts.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -140,7 +630,7 @@
     "salary": null,
     "short_description": "IT-подразделение группы компаний «Детский мир» разрабатывает цифровые решения для ритейла. Роль связана с работой над поиском и изучением в приложениях Детского мира и Зоозавра.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -205,7 +695,7 @@
     "salary": "500–700 USDT",
     "short_description": "Развиваем автоматизированный крипто-биржу, которая уже успешно работает на международном рынке и обрабатывает более 5000 транзакций ежемесячно. Нужен PM для ускорения разработки новых функций, анализа конкурентов и управления приоритизацией задач с сильной командой разработки и дизайна.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -241,7 +731,7 @@
     "salary": null,
     "short_description": "Google is seeking a Product Manager II for Wear OS. The role involves managing products for Google's wearable operating system platform.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -289,7 +779,7 @@
     "salary": null,
     "short_description": "Расширение PMF в смежные рынки и создание новых продуктов. Построение AI-first подхода к discovery и delivery. Самостоятельное ведение цикла от выявления проблемы пользователя до релиза и анализа результатов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -325,7 +815,7 @@
     "salary": null,
     "short_description": "Lead the product direction for MuseScore Studio, the world's leading free, open-source music notation application. Work with a team building music technology tools for composers, learners, and musicians globally.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -360,7 +850,7 @@
     "salary": null,
     "short_description": "Head of Product role in iGaming with minimum 2 years of experience required. English language proficiency at B2 level or higher.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -388,8 +878,16 @@
     "remote": true,
     "salary": "500–700 USDT",
     "short_description": "Развиваем автоматизированный крипто-биржу, которая обрабатывает более 5000 транзакций ежемесячно на международном рынке. Нужен PM для ускорения развития продукта, запуска новых функций и анализа конкурентов. Сильная команда разработки и дизайна уже на месте.",
-    "duplicates": [],
-    "is_new": true,
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/12395",
+        "date_iso": "2026-06-24T07:10:28+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -431,7 +929,7 @@
     "salary": null,
     "short_description": "Развитие портфеля мобильных puzzle games, продуктовая стратегия и управление командой Product Managers. Требуется 5+ лет опыта в PM мобильных игр и опыт в F2P puzzle segment.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -18403,7 +18901,7 @@
     "short_description": "Развитие B2B-продукта коммерческой аналитики на основе транзакционных данных 55 млн клиентов Т-Банка для ритейла, FMCG и pharma. Требуется 5+ лет опыта в PM, знание B2B и data/analytics-продуктов, умение превращать данные в продукт с четкой ценностью для клиентов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18433,7 +18931,7 @@
     "short_description": "Руководство направлением доходности сервиса Альфа-Тревел. Требуется опыт от 3 лет в аналитической среде банков Top-10 или консалтинга, навыки финансового моделирования и работы с экономикой продуктов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18469,7 +18967,7 @@
     "short_description": "Product Owner в команде Инструменты продаж. Управление жизненным циклом продукта ДБО физических лиц в мобильном приложении с фокусом на потребности клиента.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18499,7 +18997,7 @@
     "short_description": "Развитие цифрового сервиса предоставления выписок из ЕГРН на портале Госуслуг. Создание комплексного сервиса для проверки недвижимости, заключения электронных договоров и регистрации прав собственности без очного присутствия.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
