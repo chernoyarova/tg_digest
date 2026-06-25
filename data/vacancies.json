@@ -1,5 +1,265 @@
 [
   {
+    "channel_id": 1804835860,
+    "channel_username": "zarubezhom_jobs",
+    "channel_title": "Connectable Jobs",
+    "msg_id": 3977,
+    "date_iso": "2026-06-25T08:35:50+00:00",
+    "text": "Senior Product Manager в Mayflower\n\nРебята активно ищут🔥\n\n📍Кипр (помогают с релокацией)\n💎5+ лет опыта управления продуктом, в идеале опыт работы в монетизации высоконагруженных В2С продуктов\n🚀В компании работает много русскоговорящих ребят \n\nMayflower — фантех-компания, которая выводит индустрию live-развлечений на новый уровень восприятия. \n\nРазмер компании — 500+\n\nУзнать подробнее и откликнуться: тут",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 246,
+        "length": 9,
+        "url": "https://blog.mayflower.work/mayflower-a-company-guide/"
+      },
+      {
+        "type": "text_url",
+        "offset": 255,
+        "length": 1,
+        "url": "https://volkagames.com/about/"
+      },
+      {
+        "type": "text_url",
+        "offset": 406,
+        "length": 3,
+        "url": "https://mayflower.recruitee.com/o/product-manager-monetization"
+      }
+    ],
+    "link": "https://t.me/zarubezhom_jobs/3977",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "Mayflower",
+    "location": "Кипр",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Фантех-компания в сфере live-развлечений ищет опытного PM с фокусом на монетизацию высоконагруженных B2C продуктов. В команде работают русскоговорящие специалисты, компания предоставляет помощь с релокацией.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12492,
+    "date_iso": "2026-06-25T08:33:20+00:00",
+    "text": "Senior Product Manager\n#SeniorProductManager #ProductManager #Senior #Удаленно #Испания #Сербия #Польша #Португалия #Турция #Грузия #Армения #Кипр #Remote #Job #Vacancy\n \nТребования:\nПроверенный опыт 0→1 PM, 8+ лет работы в продукте, сильный инстинкт открытия, уверенный владение моделью дохода от конца до конца. Обязательные языки: Русский-Родной язык. Английский-C1+.\n \nЛокация:📍Удалённо: Испания, Сербия, Польша, Португалия, Турция, Грузия, Армения, Кипр.\n\nКонтакт для отклика: https://www.linkedin.com/in/masha-zinevitch/  https://www.linkedin.com/jobs/view/4424592703/\n\n👉 забрать special offer",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 483,
+        "length": 44
+      },
+      {
+        "type": "url",
+        "offset": 529,
+        "length": 46
+      },
+      {
+        "type": "text_url",
+        "offset": 580,
+        "length": 21,
+        "url": "https://t.me/JTBL_bot"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12492",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": null,
+    "location": "Remote (Spain, Serbia, Poland, Portugal, Turkey, Georgia, Armenia, Cyprus)",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Senior PM with 8+ years of experience seeking proven 0→1 product expertise. Strong focus on end-to-end revenue model understanding and market discovery instincts. Native Russian and C1+ English required.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12485,
+    "date_iso": "2026-06-25T07:11:31+00:00",
+    "text": "Технический продакт менеджер\nМосква, гибрид\n\nПривет! Мы — команда Магнит OMNI, крупнейшего офлайн-ритейлера в России, который активно развивает e-commerce направление. Мы создаём продукты, которые меняют рынок и улучшают опыт миллионов покупателей ✨\nСейчас мы находимся к поисках Технического продакт менеджера с экспертизой в Data-направлении. Продукт - аналитическая платформа, является контуром MAGNIT OMNI.\n\nчем мы пользуемся\n— clickhouse;\n—greenplum;\n— trino;\n— python;\n— data lake.\n\nЧем ты будешь заниматься\n— Руководить инициативами по созданию и внедрению data-контрактов между сервисами, аналитикой и хранилищами данных\n— Формировать события как продукт: прорабатывать конвенции, версионирование и жизненный цикл событий\n— Организовывать миграцию данных на внутреннюю событийную платформу с контролем качества и полноты\n— Проектировать и развивать платформу для автоматизации A/B-тестирования и экспериментов\n— Участвовать в построении CDP: определять модель идентификации клиента и контракты обмена данными\n\nМы ожидаем\n— Опыт в управлении техническими продуктами или проектами в data- и ML-средах\n— Понимание принципов проектирования масштабируемых и надёжных data-платформ\n— Умение выстраивать процессы между командами через чёткие контракты и SLA\n— Опыт работы с high-load системами в e-commerce, fintech или подобных доменах\n— Стремление к автоматизации, качеству данных и снижению времени вывода решений в продакшн\n\nБудет плюсом\n— Трудоустройство в аккредитованную IT-компанию\n— ДМС со стоматологией и льготными условиями для членов семьи\n— Возможность работать удаленно/гибридно/ в офисном режиме\n— Корпоративные скидки от компании и партнеров\n— Ежегодная программа признания с ярким праздником и впечатляющим подарком\n— Поддержку в развитии через обучение, конференции и митапы\n— IT‑комьюнити — среда, где быстрее находишь решения, делишься практиками, пробуешь новые роли и растешь от эксперта в стекe до лидера инициатив\n— Работа над масштабными продуктами и проектами\n— Социально—психологическая поддержка от >370 специалистов по направлениям: юристы, психологи, врачи, финансовые и ЗОЖ советники\n\n\nПонравилась вакансия?\n💛— да\n🌚— нет\n\n\n———\n\n💙 Удалёнка\n💚 Джунам\n💜 За рубежом\n🫶 Удалёнка джунам\n💚 Качнуть карьеру\n\nмы также есть там, куда всех хотят отправить — https://max.ru/it_vakansii_jobs",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 0,
+        "length": 28,
+        "url": "https://www.vseti.app/vakansii/43843438439430430434394343"
+      },
+      {
+        "type": "text_url",
+        "offset": 2165,
+        "length": 8,
+        "url": "https://t.me/+WTtNhzCI17sxMWJh"
+      },
+      {
+        "type": "text_url",
+        "offset": 2177,
+        "length": 6,
+        "url": "https://t.me/+brT7qTygEw5iY2M6"
+      },
+      {
+        "type": "text_url",
+        "offset": 2187,
+        "length": 10,
+        "url": "https://t.me/+CFT5M4UKXF5mN2Ey"
+      },
+      {
+        "type": "text_url",
+        "offset": 2201,
+        "length": 15,
+        "url": "https://t.me/+-mVgBVugvv1jYmEy"
+      },
+      {
+        "type": "text_url",
+        "offset": 2220,
+        "length": 15,
+        "url": "https://mentors.vseti.app/"
+      },
+      {
+        "type": "url",
+        "offset": 2284,
+        "length": 31
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12485",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Технический Product Manager, Data",
+    "company": "Магнит OMNI",
+    "location": "Москва, гибрид",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Аналитическая платформа в составе Magnit OMNI. Работа с data-контрактами, событийной платформой, CDP и A/B-тестированием. Стек: ClickHouse, Greenplum, Trino, Python, Data Lake.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10049,
+    "date_iso": "2026-06-24T16:01:58+00:00",
+    "text": "Senior Product Manager, Payments\nQualia is a B2B real estate technology company that transforms the home buying and selling experience into a simple, secure, and enjoyable process.\nAustin, USA (remote possible).\nJob description.\nMore details in Aneetha Sampath's post on LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 212,
+        "length": 15,
+        "url": "https://www.qualia.com/jobs/senior-product-manager-payments/"
+      },
+      {
+        "type": "text_url",
+        "offset": 263,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/aneetha-sampath_senior-product-manager-payments-qualia-share-7474968051675852800-Q0WE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10049",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, Payments",
+    "company": "Qualia",
+    "location": "Austin, USA, remote possible",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Qualia is a B2B real estate technology company that transforms the home buying and selling experience. The role focuses on payments product strategy for a platform serving the real estate industry.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12435,
+    "date_iso": "2026-06-24T11:40:00+00:00",
+    "text": "🚀 Junior+ / Middle Product Analyst в Т-банк, X-Sell Аналитику: Family\n\nМы — R&D-команда X-Sell: Сегменты. Делаем банк полезнее для клиентов: помогаем понимать их жизненные ситуации и на основе данных создавать более точные продуктовые предложения через коммуникации, перестройку приложения и разработку новых фич.\n\nЭто большое поле для творчества: от идеи и гипотезы до реального сценария в мобильном банке. Ищем кандидата для закрытия клиентских потребностей в сегменте Family: родители, дети, пары в отношениях, молодёжь, бабушки и дедушки (50+).\n\nЗадачи:\n\nВам предстоит искать инсайты в данных, превращать их в гипотезы, проверять через A/B-тесты и causal-подходы и вместе с бизнесом доводить идеи до реальных изменений. Так например:\n\n- В сегменте пар — поймёте, как меняется поведение клиентов после заключения брака.\n- Для 50+ — поймёте, что нужно увеличить шрифт в приложении.\n- С молодёжью — начнёте общаться на языке мемов.\n- Родителям — предложите детскую Junior-карту в нужный момент.\n\nТребования:\n\n- Опыт в продуктовой аналитике от 6 месяцев — релевантный, не для галочки\n- Уверенный SQL — сложные запросы и большие данные вас не пугают\n- Python для аналитики: pandas, визуализация, автоматизация\n- Крепкое понимание статистики и методологии A/B-тестирования\n- Понимание базовых ML-концепций: сегментация, кластеризация, регрессия — и когда какой подход уместен\n- Понимание продуктовых метрик: retention, unit-экономика, LTV, CAC, AUM, ratio-метрики\n- Проактивность\n- Умение формулировать мысли, договариваться с продактами\n\nБудет сильным преимуществом:\n\n- Опыт работы с ML-командами или ML-продуктами\n- Понимание ML-метрик и жизненного цикла моделей\n- Опыт построения скоринговых моделей или сегментации\n- Опыт в коммуникациях / персонализации\n- Опыт в Causal Inference\n\nУсловия:\n\n• Формат: гибрид с возможностью работать удалённо большую часть времени\n• Офис: T-Space, м. Белорусская\n•  ДМС со стоматологией для вас и льготными условиями для близких\n• Компенсация спорта и доступ к спортзалу в офисе\n\n📎 Как откликнуться?\n\n• Вакансия: [Ccылка]\n• Нанимающий менеджер: @evelina_urusova\n• Приложите резюме или ссылку на LinkedIn. Буду рада, если коротко расскажете  какой эксперимент или исследование вы считаете самым удачным, чем вас привлекает продуктовая аналитика.\n\n#product_analyst #middle #junior #россия #FinTech #ТБанк",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 2050,
+        "length": 8,
+        "url": "https://faint-mascara-836.notion.site/X-Sell-Family-aebc3ff044ab834a86680189d902aa0b"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12435",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Junior+ / Middle Product Analyst",
+    "company": "Т-банк",
+    "location": "Москва, гибрид",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "R&D-команда X-Sell: Сегменты работает над персонализацией предложений для клиентов банка на основе данных и A/B-тестирования. Используют SQL, Python, статистику, ML-подходы (сегментация, кластеризация, регрессия) для создания продуктовых инноваций в мобильном приложении и коммуникациях.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1436,
+    "date_iso": "2026-06-24T09:43:17+00:00",
+    "text": "CPO в HealthTech компанию\n\nОсновные курсы редакции - https://t.me/FreshProductGo/1757\n\nТребования:\n• 12-15 лет в продукте/R&D в нутрицевтике, добавках, функциональном food/beverage, космецевтике или pharma-adjacent wellness\n• Международный опыт управления продуктом на нескольких рынках\n• Доказанный трек: запуски и построение портфелей;\n• Плюсом: опыт в direct selling / сетевом маркетинге / DTC-wellness; опыт с собственным производством\n• Образование - Сильная научная база: life sciences, биохимия, фармакология, пищевые технологии, нутрициология. Учёная степень (MSc/PhD) — сильное преимущество. \n• MBA / бизнес-квалификация — плюс для стратегического и коммерческого измерения.\n\nРекрутер: @irinakoverchik\n\nРазборы кейсов тут, 76 разборов пришли, всего свыше 190 тестовых и реальных задач продактов. Плейлист доступен по ссылке, сайт разборов тут",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 53,
+        "length": 32
+      },
+      {
+        "type": "text_url",
+        "offset": 727,
+        "length": 3,
+        "url": "https://koloskoveducation.tilda.ws/productcaseclub/"
+      },
+      {
+        "type": "text_url",
+        "offset": 805,
+        "length": 28,
+        "url": "https://docs.google.com/document/d/1_bq1zQtkfAJjf5O_QjpuMDFlkloNkF_VyTtpRv7oyZI/edit?tab=t.0"
+      },
+      {
+        "type": "text_url",
+        "offset": 848,
+        "length": 3,
+        "url": "https://koloskoveducation.tilda.ws/productcaseclub/"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1436",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Chief Product Officer, HealthTech",
+    "company": null,
+    "location": null,
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "CPO роль в HealthTech компании, фокус на нутрицевтику, функциональное питание и wellness продукты. Требуется 12-15 лет опыта в продакте/R&D, международное управление продуктом на нескольких рынках, доказанный трек запусков и построения портфелей.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 1093073202,
     "channel_username": "forproducts",
     "channel_title": "Job for Products and Projects",
@@ -80,7 +340,7 @@
     "salary": null,
     "short_description": "Senior PM needed for a fast-growing Latin American fintech company operating in lending, credit cards, BNPL, and payment solutions. The role focuses on scaling credit cards and credit lines products, with emphasis on growth, customer experience, and responsible portfolio expansion. Requires 5+ years of PM experience and 3+ years in fintech/lending.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -193,7 +453,7 @@
     "salary": "$500–700",
     "short_description": "Automated crypto exchange processing 5000+ transactions monthly seeks PM to accelerate product development and launch new features. You'll structure ideas into technical specs, analyze competitors, prioritize tasks, and drive the product forward alongside experienced development and design teams.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -223,7 +483,7 @@
     "salary": null,
     "short_description": "Lead or Senior Product Manager position at A-Players. Part of a team focusing on product, growth, and user acquisition across multiple channels and platforms.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -253,7 +513,7 @@
     "salary": "400 000–600 000 ₽",
     "short_description": "Ищется Head of Product для масштабного маркетплейса услуг с аудиторией 2млн+ пользователей. Полная ответственность за стратегию и рост C2C-направления, управление спросом/предложением, SEO-стратегией и внедрением AI-механик.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -283,7 +543,7 @@
     "salary": null,
     "short_description": "Управление всей функцией delivery: команда PM, ответственность за сроки и качество проектов, эскалация рисков, выстраивание стандартов управления. Требуется 5+ лет в Project Management, 2+ года управления командой PM, опыт с международными клиентами.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -318,7 +578,7 @@
     "salary": "$85/час",
     "short_description": "Ищем опытного PM для работы над монетизацией успешного hybrid puzzle проекта. Требуется 5+ лет опыта в мобильных играх, экспертиза в монетизации и сегментации пользователей, сильные аналитические навыки.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -348,7 +608,7 @@
     "salary": null,
     "short_description": "Product Manager role at a food and health products retail chain. Required expertise: JTBD, Value Proposition Canvas, PMF Canvas, Customer Journey Mapping.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -378,7 +638,7 @@
     "salary": null,
     "short_description": "Позиция в казахстанском коммерческом банке Bereke Bank. Поиск Product Owner для работы в банковском секторе.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -414,7 +674,7 @@
     "salary": null,
     "short_description": "Fundraise Up is a modern fundraising platform built to make donating to nonprofits as fast and convenient as possible. The role requires fluent Russian and English (C1+) and is open to candidates in select European and neighboring countries.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -450,7 +710,7 @@
     "salary": null,
     "short_description": "Международный финтех-агрегатор, помогающий пользователям подбирать оптимальные предложения по микрозаймам и кредитам от партнёров (МФО и банков).",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -486,7 +746,7 @@
     "salary": "от 2000$",
     "short_description": "Managing AI image/video generator product roadmap, monetization, and growth metrics. Team syncs with ML engineers, design, and development. Data-driven approach to A/B testing, retention, ARPU optimization, and competitive trend analysis in adult AI content space.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -4792,6 +5052,20 @@
         "link": "https://t.me/ITjobsFeed/11875",
         "date_iso": "2026-06-14T14:02:19+00:00",
         "channel_id": 2667909413
+      },
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/12436",
+        "date_iso": "2026-06-24T12:02:19+00:00",
+        "channel_id": 2667909413
+      },
+      {
+        "channel_username": null,
+        "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+        "link": "https://t.me/c/1674506295/6129",
+        "date_iso": "2026-06-24T11:58:59+00:00",
+        "channel_id": 1674506295
       }
     ],
     "is_new": false,
@@ -17863,7 +18137,7 @@
     "short_description": "Поиск продакт-менеджера для направления кредитования малого и среднего бизнеса с полной ответственностью за P&L, стратегию и масштабирование. Роль фокусируется на разработке кредитных продуктов (оборотное финансирование, POS-решения), построении юнит-экономики и достижении финансовых показателей в формате 0 → 1.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -17893,7 +18167,7 @@
     "short_description": "Fintech/iGaming/High-risk продукт. Требуется 5+ лет опыта в регулируемых финансовых или гемблинг-продуктах с глубоким пониманием крипто-регуляций, архитектуры бэкенда и банковских интеграций. Преимущество — опыт с токеномикой и создание реальной ликвидности.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
@@ -17961,7 +18235,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -18099,7 +18373,7 @@
     "short_description": "Global IT company producing photo and video editing software with 20+ products sold in 200+ countries. Team works remotely across multiple countries with main markets in US, Europe, South Korea and Latin America.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -18134,7 +18408,7 @@
     "short_description": "Looking for a Product Owner with real 0→1 case experience and shipped products. Must have strong product intuition, AI-native workflow expertise, and experience with AI agents/LangGraph. Tech stack includes Cursor, Claude, LangGraph, OpenAI Agents SDK, Supabase, and Vercel.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -18199,7 +18473,7 @@
     "short_description": "Руководство продуктовой стратегией UX-стрима на B2C продукте с миллионами пользователей. Управление командой PM, проведение анализа конкурентов и пользовательского поведения, кросс-функциональная координация с дизайном, технической и аналитической командами.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18235,7 +18509,7 @@
     "short_description": "Система карьерного самоопределения для подростков и молодых людей 13-30 лет. Платформа предоставляет диагностику личности, наставников из бизнеса и индивидуальные стратегии развития для осознанного выбора пути в учёбе и профессии.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18265,7 +18539,7 @@
     "short_description": "Разработка платформы Kaspersky ASAP. Анализ данных, управление запросами клиентов, работа с беклогом и технической документацией, подготовка презентаций и маркетинговых материалов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18295,7 +18569,7 @@
     "short_description": "Фоксфорд — EdTech-компания с 10+ млн пользователей на платформе. Ищем PM в команду Дополнительного образования для развития онлайн-обучения для школьников, родителей и учителей.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18325,7 +18599,7 @@
     "short_description": "Руководитель направления по позиционированию облачных продуктов в сфере работы с данными. Требуется опыт 3+ лет в облачных провайдерах, консалтинге по данным или вендорских решениях. Необходима глубокая насмотренность в технологиях DWH, Data Lake, Lake House и облачных платформах.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18355,7 +18629,7 @@
     "short_description": "Роль в сфере технологических сервисов DCS для регистрации пассажиров. Включает продажу и продвижение продукта, определение бизнес-потребностей клиентов аэропортов и сбор отраслевых знаний в области DCS и смежных решений.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18397,7 +18671,7 @@
     "short_description": "Трансформация процессов управления и эксплуатации недвижимости с помощью искусственного интеллекта. Формирование продуктовой стратегии, взаимодействие с командой разработки и достижение бизнес-результатов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18433,7 +18707,7 @@
     "short_description": "SberInfra ищет владельца продукта для направления Managed Services (S3/Backup&Recovery). Компания обеспечивает инфраструктурные решения экосистемы Сбера, включая серверные мощности, системы хранения данных и виртуальные машины.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18511,7 +18785,7 @@
     "short_description": "Руководство новостными цифровыми продуктами в аккредитованной IT компании медиахолдинга. Развитие и поддержка управленческого ПО и медиа сервисов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18553,7 +18827,7 @@
     "short_description": "Международная IT-компания, создающая мобильные приложения. В команде работают опытные менеджеры, iOS разработчики, дизайнеры и ASO-специалисты над полезными приложениями для миллионов пользователей.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18595,7 +18869,7 @@
     "short_description": "Ozon Банк создает новые финансовые продукты и сервисы для физических и юридических лиц. Вы будете отвечать за развитие и успех продукта в команде, где каждый сотрудник может влиять на процессы и результаты.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18625,7 +18899,7 @@
     "short_description": "Kaspi — лидер в финансовых технологиях, предлагающий цифровые финансовые решения. Ищем инициативного специалиста для управления категорией Kaspi Pay с фокусом на инновации и развитие продукта.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -18668,7 +18942,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18704,7 +18978,7 @@
     "short_description": "Работа с аналитикой бизнес-показателей и реализацией цифровых проектов. Требуется опыт с Excel, Power BI, SQL и коммуникация с бизнес-заказчиками.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18740,7 +19014,7 @@
     "short_description": "CDTI is a modern FinTech company developing reliable digital technologies and implementing initiatives for sustainable social development in Uzbekistan's fintech market.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18776,7 +19050,7 @@
     "short_description": "PERX - аккредитованная IT-компания, лидирующая на рынке разработок для автомобильного бизнеса. Создание цифровых решений для известных брендов автомобильной индустрии (Москвич, Mazda, Suzuki и др.).",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -18805,7 +19079,7 @@
     "short_description": "Product Manager position for a gamedev company. Role available for remote global candidates on a full-time basis.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18841,7 +19115,7 @@
     "short_description": "Проведение демо-презентаций продукта Kaspersky ASAP, сопровождение заказчиков в пилотных чатах, консультирование по использованию платформы и создание онбординга.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -18871,7 +19145,7 @@
     "short_description": "Команда «Парус электро» — лидер по производству систем бесперебойного питания и электрозарядных станций. Компания имеет собственный НИОКР-центр и внедряет передовые технологии в инфраструктурные решения.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
