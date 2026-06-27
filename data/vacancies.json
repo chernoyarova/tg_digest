@@ -1,5 +1,522 @@
 [
   {
+    "channel_id": 1674506295,
+    "channel_username": null,
+    "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+    "msg_id": 6143,
+    "date_iso": "2026-06-27T08:01:27+00:00",
+    "text": "Product Manager - haptic device в Infomediji: https://www.remocate.app/jobs/product-manager-haptic-device-infomediji\n\nМожно работать удалённо. Зарплата в валюте.\n\nПри отклике укажите, что нашли вакансию на Remocate.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 46,
+        "length": 70
+      }
+    ],
+    "link": "https://t.me/c/1674506295/6143",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Haptic Device",
+    "company": "Infomediji",
+    "location": null,
+    "grade": null,
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Product Manager role for a haptic device product. Remote work available with compensation in foreign currency.",
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/12629",
+        "date_iso": "2026-06-27T08:02:19+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1442,
+    "date_iso": "2026-06-27T07:25:56+00:00",
+    "text": "Менеджер продукта (HR Tech) lamoda \n\nРазборы кейсов, 76 разборов пришли, всего свыше 190 тестовых и реальных задач продактов. Плейлист доступен по ссылке, сайт разборов тут\n\nМы в Lamoda развиваем HR Tech-направление, которое поддерживает полный жизненный цикл сотрудников и кандидатов для офисных и операционных команд — от привлечения и найма до развития, оценки и сопровождения на всех этапах работы в компании.\n\nСейчас команда находится на этапе формирования стратегии и продуктового видения HR Tech, которое объединит и систематизирует ключевые HR процессы и продукты, поможет сформировать целевую картину и роадмеп развития.\n\nОбязанности: \n\n • формировать стратегию и целевое видение развития продуктов в своей зоне ответcтвенности (этапы управления операционным персоналом) и участвовать в создании общей стратегии HR Tech;\n • определять продуктовую архитектуру решений: прорабатывать и утверждать решения о покупке готовых вендорских продуктов или разработке собственных инструментов;\n • исследовать процессы массового персонала и находить возможности для повышения эффективности бизнеса через автоматизацию;\n • проводить качественное и количественное дискавери: интервью, опросы, коридорки, моделирование на данных и др.\n • формировать и приоритизировать продуктовые инициативы в соответствии с роадмепом развития направления;\n • сопровождать реализацию инициатив совместно с проектными менеджерами.\n\nМы ожидаем:\n • опыт работы менеджером продукта от 2 лет;\n • сильные навыки дискавери: проведение исследований, выявление проблем пользователей, формирование и проверка гипотез, создание CJM;\n • опыт участия в формировании продуктовой стратегии и развитии внутренних корпоративных продуктов будет преимуществом;\n • опыт развития внешних продуктов или внутренних систем для массового персонала будет преимуществом;\n • базовый опыт или бэкграунд в бизнес-анализе будет преимуществом.\n\nСсылка – https://job.lamoda.ru/vacancies/moskva/menedzher-produkta-hr-tech--2485\n\nОсновные курсы редакции - https://t.me/FreshProductGo/1757",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 37,
+        "length": 15,
+        "url": "https://t.me/productcasebar/"
+      },
+      {
+        "type": "text_url",
+        "offset": 126,
+        "length": 28,
+        "url": "https://docs.google.com/document/d/1_bq1zQtkfAJjf5O_QjpuMDFlkloNkF_VyTtpRv7oyZI/edit?tab=t.0"
+      },
+      {
+        "type": "text_url",
+        "offset": 169,
+        "length": 3,
+        "url": "https://koloskoveducation.tilda.ws/productcaseclub/"
+      },
+      {
+        "type": "url",
+        "offset": 1900,
+        "length": 71
+      },
+      {
+        "type": "url",
+        "offset": 1999,
+        "length": 32
+      }
+    ],
+    "link": "https://t.me/productjobgo/1442",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Менеджер продукта, HR Tech",
+    "company": "Lamoda",
+    "location": "Москва",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Развитие HR Tech-направления, которое поддерживает полный жизненный цикл сотрудников и кандидатов. Команда формирует стратегию и видение для офисных и операционных команд, объединяя ключевые HR-процессы и автоматизируя управление массовым персоналом.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10058,
+    "date_iso": "2026-06-26T18:47:58+00:00",
+    "text": "Senior Product Manager\ninDrive is a global ride-hailing and urban services platform. Beyond rides, it offers intercity travel, courier and freight delivery, fintech via inDrive.Money, and on-demand tasks.\nCyprus. A hybrid working model.\nJob description.\nMore details in Anastasia Korbey's post on LinkedIn.\n \nБольше вакансий для продактов и проджектов: @forproducts",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 237,
+        "length": 15,
+        "url": "https://indrive.pinpointhq.com/en/postings/f88aa4dd-bb10-4de3-9ef1-febe480ffd99"
+      },
+      {
+        "type": "text_url",
+        "offset": 289,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/anastasia-korbey-a47886169_were-hiring-at-indrive-im-looking-share-7475537087551770625-8EAn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10058",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "inDrive",
+    "location": "Cyprus, hybrid",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Global ride-hailing and urban services platform offering rides, intercity travel, courier and freight delivery, and fintech services via inDrive.Money. Join a team building diverse mobility and services solutions.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10057,
+    "date_iso": "2026-06-26T15:33:58+00:00",
+    "text": "Growth Senior Product Manager (PLG)\nFactorial is a business management software for SMEs founded in 2016, helping companies automate HR, finance, and talent workflows.\nBarcelona, Spain. A hybrid working model.\nJob description.\nMore details in Lara Menendez’s post on LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 210,
+        "length": 15,
+        "url": "https://careers.factorialhr.com/job_posting/growth-senior-product-manager-plg-303492"
+      },
+      {
+        "type": "text_url",
+        "offset": 259,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/laramenendez_growth-senior-product-manager-plg-share-7475211360205983744-UcVv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10057",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, PLG",
+    "company": "Factorial",
+    "location": "Barcelona, Spain, hybrid",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Factorial is a business management software for SMEs that automates HR, finance, and talent workflows. The role focuses on product-led growth strategy for the platform serving small and medium-sized enterprises.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10056,
+    "date_iso": "2026-06-26T15:24:58+00:00",
+    "text": "Middle Product Manager\nв Т-Банк — один из крупнейших онлайн-банков России.\nНаправление: электроника и бытовая техника (Шопинг в Т-Банке).\nИщет Ксения Россомахина, её пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 166,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/ksenia-rossomakhina_%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D1%8F-%D0%BE%D1%82%D0%B2%D0%B5%D1%87%D0%B0%D1%8E-%D0%B7%D0%B0-%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0-share-7475200270768132096--4-J/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10056",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle Product Manager",
+    "company": "Т-Банк",
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Ищется Middle Product Manager в направлении электроники и бытовой техники для Шопинга в Т-Банке, одного из крупнейших онлайн-банков России.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1804835860,
+    "channel_username": "zarubezhom_jobs",
+    "channel_title": "Connectable Jobs",
+    "msg_id": 3982,
+    "date_iso": "2026-06-26T15:03:44+00:00",
+    "text": "Senior Principal Product Manager (Partner Experience & AI Platform) в Zalando\n\nПомогают с релокацией 🔥\n\n📍Берлин/Хельсинки\n💎10+ лет опыта работы с высокомасштабируемыми платформами, SaaS или маркетплейсами\n🚀Фаундеры — Давид Шнайдер и Роберт Генц. В компании работает много русскоговорящих ребят 💙\n\nZalando — крупнейший онлайн-ритейлер в Европе. \n\nРазмер команды — 10 000+ | Компания оценивается в $9B+🔥\n\nУзнать подробнее и откликнуться: тут \n\n🤝Контакт реферала и ещё 200+ вакансий продактов и проджектов в компаниях с русскоговорящими фаундерами/командами — в нашей рассылке\n\nДругие вакансии в компании: \n— Senior Commercial Analyst\n— Senior Product Designer",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 302,
+        "length": 7,
+        "url": "https://www.forbes.ru/kompanii/internet-telekom-i-media/266173-ataka-klonov-kak-riteiler-zalando-stal-internet-sensatsiei"
+      },
+      {
+        "type": "text_url",
+        "offset": 442,
+        "length": 3,
+        "url": "https://jobs.zalando.com/en/jobs/2723860"
+      },
+      {
+        "type": "text_url",
+        "offset": 564,
+        "length": 16,
+        "url": "https://t.me/zarubezhom_jobs/3459"
+      },
+      {
+        "type": "text_url",
+        "offset": 613,
+        "length": 25,
+        "url": "https://jobs.zalando.com/en/jobs/2724385-Senior-Commercial-Analyst-(all-genders)"
+      },
+      {
+        "type": "text_url",
+        "offset": 641,
+        "length": 23,
+        "url": "https://jobs.zalando.com/en/jobs/2723906-Senior-Product-Designer-(All-genders)---Tradebyte"
+      }
+    ],
+    "link": "https://t.me/zarubezhom_jobs/3982",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Principal Product Manager, Partner Experience & AI Platform",
+    "company": "Zalando",
+    "location": "Берлин/Хельсинки",
+    "grade": "Lead",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Senior Principal роль в Zalando, крупнейшем европейском онлайн-ритейлере. Требуется 10+ лет опыта с высокомасштабируемыми платформами, SaaS или маркетплейсами. Компания предоставляет помощь с релокацией.",
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/12617",
+        "date_iso": "2026-06-26T15:04:23+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10053,
+    "date_iso": "2026-06-26T14:09:58+00:00",
+    "text": "Мидл Менеджер продукта (HR Tech)\nв Lamoda — один из крупнейших в России и СНГ онлайн-ритейлеров.\nМосква или Санкт-Петербург. Офис.\nОписание вакансии.\nИщет Диана Федорова, её пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 131,
+        "length": 17,
+        "url": "https://job.lamoda.ru/vacancies/moskva/menedzher-produkta-hr-tech--2485"
+      },
+      {
+        "type": "text_url",
+        "offset": 174,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/fed-di_%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B3%D0%B8-%D0%B8%D1%89%D1%83-%D0%BA-%D1%81%D0%B5%D0%B1%D0%B5-%D0%B2-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%83-%D0%BC%D0%B8%D0%B4%D0%BB-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82%D0%B0-share-7472955532362936320-p9Fs/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10053",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Менеджер продукта (HR Tech)",
+    "company": "Lamoda",
+    "location": "Москва или Санкт-Петербург, офис",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Позиция в HR Tech направлении. Lamoda — один из крупнейших онлайн-ритейлеров России и СНГ. Вакансия открыта в офисах Москвы или Санкт-Петербурга.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10051,
+    "date_iso": "2026-06-26T13:49:58+00:00",
+    "text": "Senior Product Manager\nAgoda is an online booking platform for travelers, specializing in finding and renting hotels, apartments, villas, and hostels worldwide.\nBangkok, Thailand. On-site (relocation provided).\nJob description.\nMore details in Anna Lazutkina’s post on LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 211,
+        "length": 15,
+        "url": "https://job-boards.greenhouse.io/agoda/jobs/3855570?gh_src=14bodpz51us"
+      },
+      {
+        "type": "text_url",
+        "offset": 261,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/alazutkina_curious-what-product-management-at-agoda-ugcPost-7475860380162936832-ctkl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10051",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "Agoda",
+    "location": "Bangkok, Thailand",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Agoda is an online booking platform specializing in hotels, apartments, villas, and hostels worldwide. The role is on-site in Bangkok with relocation support provided.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12607,
+    "date_iso": "2026-06-26T13:04:21+00:00",
+    "text": "SENIOR TECHNICAL PROJECT MANAGER | REMOTE THEN RELOCATION TO CYPRUS | #remote #fulltime #itjob #pm #ai #ml #igaming https://teletype.in/@courierus/UqomR4AK-MW",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 116,
+        "length": 42
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12607",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Technical Project Manager",
+    "company": null,
+    "location": "Remote, then Cyprus relocation",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Senior Technical Project Manager role in AI/ML and iGaming sector. Position starts remote with option to relocate to Cyprus.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1674506295,
+    "channel_username": null,
+    "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+    "msg_id": 6141,
+    "date_iso": "2026-06-26T11:55:56+00:00",
+    "text": "Growth Product Manager (Mobile) в Movavi: https://www.remocate.app/jobs/growth-product-manager-mobile-movavi\n\nМожно работать удалённо. Зарплата в валюте.\n\nПри отклике укажите, что нашли вакансию на Remocate.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 42,
+        "length": 66
+      }
+    ],
+    "link": "https://t.me/c/1674506295/6141",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Growth Product Manager (Mobile)",
+    "company": "Movavi",
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Growth Product Manager для мобильного приложения Movavi. Возможность удалённой работы с зарплатой в иностранной валюте.",
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/12596",
+        "date_iso": "2026-06-26T11:55:59+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 542,
+    "date_iso": "2026-06-26T11:42:32+00:00",
+    "text": "🛍 Product Manager Lamoda\n\n▪️Компания Lamoda\n▪️Домен #Ecom #HRTech\n▪️Грейд #Middle\n▪️Формат #ГибридМосква #ГибридСанктПетербург\n\nИщу к себе в команду Мидл Продакта, направление HRTech, линейный массовый персонал. Мы сейчас на этапе выстраивания целевой картины управления операционными сотрудниками и созданием общей стратегии HRTech. Другими словами, эта роль буквально внесет значимый вклад в развитие целого пласта HR процессов и продуктов для 80% наших сотрудников. \nПо локации - Москва или Питер. \n\nСсылка на пост LinkedIn \nСсылка на вакансию\n\n📱 Канал про поиск работы в IT",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 38,
+        "length": 6,
+        "url": "https://www.lamoda.ru/women-home/"
+      },
+      {
+        "type": "text_url",
+        "offset": 504,
+        "length": 24,
+        "url": "https://www.linkedin.com/posts/fed-di_%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B3%D0%B8-%D0%B8%D1%89%D1%83-%D0%BA-%D1%81%D0%B5%D0%B1%D0%B5-%D0%B2-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%83-%D0%BC%D0%B8%D0%B4%D0%BB-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82%D0%B0-share-7472955532362936320-p9Fs/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7474824219273412614&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 529,
+        "length": 18,
+        "url": "https://job.lamoda.ru/vacancies/moskva/menedzher-produkta-hr-tech--2485"
+      },
+      {
+        "type": "text_url",
+        "offset": 551,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 552,
+        "length": 27,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/542",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle Product Manager, HRTech",
+    "company": "Lamoda",
+    "location": "Москва или Санкт-Петербург, гибрид",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Направление HRTech, фокус на управлении операционными сотрудниками (80% персонала компании). Разработка целевой картины и общей стратегии HR процессов и продуктов.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1441,
+    "date_iso": "2026-06-26T10:09:58+00:00",
+    "text": "Одна из крупнейших российских технологических экосистем ищет Product Manager (AdTech)\n\nГде еще подписаться на каналы редакции - https://t.me/productjobgo/1432\n\nОсновные курсы редакции - https://t.me/FreshProductGo/1757\n\nИщем сильного Product Manager, который будет развивать продукты в сфере AdTech и работать с одной из самых масштабных рекламных платформ на российском рынке.\n\nЭто отличная возможность для продуктовых менеджеров, которые хотят работать с большими данными, рекламными технологиями, ML-моделями, аукционами и продуктами с многомиллионной аудиторией.\n\n📌 Чем предстоит заниматься:\n• Развивать рекламные продукты и запускать новые функции\n• Формировать продуктовую стратегию и roadmap\n• Работать с продуктовыми метриками, A/B-тестами и аналитикой\n• Искать новые точки роста и повышать эффективность рекламных решений\n• Взаимодействовать с командами разработки, аналитики, дизайна и бизнеса\n• Исследовать потребности пользователей и рекламодателей\n• Анализировать рынок AdTech и лучшие мировые практики\n\n📌 Что ожидают от кандидата:\n• Опыт работы Product Manager / Product Owner\n• Опыт в AdTech, MarTech, Digital Advertising, e-commerce или других цифровых продуктах будет большим преимуществом\n• Сильные аналитические навыки и умение принимать решения на основе данных\n• Опыт управления продуктом и кросс-функциональными командами\n• Понимание продуктовых метрик, воронок и пользовательского опыта\n• Самостоятельность, инициативность и желание строить продукты большого масштаба\n\n📌 Что предлагают:\n• Работа в одной из крупнейших технологических компаний России\n• Масштабные продукты с многомиллионной аудиторией\n• Сильная команда и сложные продуктовые задачи\n• Рыночная заработная плата\n• Гибридный формат работы\n• Отличные возможности для профессионального и карьерного роста\n\n📩 Чтобы податься, прикрепите своё CV через Typeform:\n\nhttps://thethinksters.typeform.com/to/nD7roZBO\n\nГде еще подписаться на каналы редакции - https://t.me/productjobgo/1432\n\nОсновные курсы редакции - https://t.me/FreshProductGo/1757",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 128,
+        "length": 30
+      },
+      {
+        "type": "url",
+        "offset": 186,
+        "length": 32
+      },
+      {
+        "type": "url",
+        "offset": 1848,
+        "length": 46
+      },
+      {
+        "type": "url",
+        "offset": 1937,
+        "length": 30
+      },
+      {
+        "type": "url",
+        "offset": 1995,
+        "length": 32
+      }
+    ],
+    "link": "https://t.me/productjobgo/1441",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager (AdTech)",
+    "company": null,
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Развитие рекламных продуктов и масштабных платформ на российском рынке с работой с ML-моделями, аукционами и большими данными. Требуется опыт в AdTech, навыки аналитики и управления кросс-функциональными командами для продуктов с многомиллионной аудиторией.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12587,
+    "date_iso": "2026-06-26T10:08:23+00:00",
+    "text": "#vacancy #вакансия #PM #iGaming\n🚀 Regional Project Manager (iGaming | Product | Remote/Cyprus)\n\nИщу Senior Regional Project Manager в крупный международный iGaming product (Casino + Sportsbook).\n⚡️ Ключевое требование:\nИщем специалистов ТОЛЬКО с опытом работы в продуктовом iGaming (Casino / Sportsbook) и глубокой экспертизой в одном из следующих регионов:\n🌍 Africa\n🌎 LATAM (Argentina, Chile, Peru, Brazil)\n🌏 SEA + South Korea\nВажно не просто знать рынок, а понимать локальных пользователей, тренды, конкурентов и уметь быть \"голосом региона\" внутри компании.\n\nЧто предстоит делать:\n• проводить аудит GEO и определять точки роста;\n• работать на стыке Product, Marketing, CRM, Payments, Affiliate и Support;\n• запускать и продвигать региональные инициативы;\n• координировать команды без прямого управления людьми.\n\nМы ищем человека, который:\n✔️ имеет опыт в продуктовом iGaming (Casino / Sportsbook);\n✔️ отлично знает один из целевых регионов;\n✔️ умеет работать кросс-функционально и влиять без формальных полномочий;\n✔️ свободно говорит на английском и русском.\n\nЧто предлагаем:\n• Удалённый формат работы или возможность релокации на Кипр.\n• Конкурентную заработную плату.\n• Оплачиваемый отпуск.\n• Компенсацию профильного обучения и развития.\n• Корпоративный английский язык.\n• Частичную компенсацию медицинских расходов.\n• Оплату участия в профильных конференциях и профессиональных мероприятиях.\n• Регулярные корпоративные мероприятия и офлайн-встречи с командой.\n• Работу в международной продуктовой компании с возможностью влиять на развитие целых регионов и ключевых бизнес-направлений.\n\n📩CV: @elona_an",
+    "entities": [],
+    "link": "https://t.me/ITjobsFeed/12587",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Regional Project Manager, iGaming",
+    "company": null,
+    "location": "Cyprus / Remote",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Senior Regional Project Manager for international iGaming product (Casino + Sportsbook). Required expertise in regional markets (Africa, LATAM, or SEA + South Korea) with deep product iGaming experience. Cross-functional collaboration with Product, Marketing, CRM, Payments, Affiliate and Support teams to drive regional growth initiatives.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 1804835860,
     "channel_username": "zarubezhom_jobs",
     "channel_title": "Connectable Jobs",
@@ -67,8 +584,16 @@
     "remote": false,
     "salary": null,
     "short_description": "Dizzaract — продуктовая компания на стыке гейминга, цифровых платформ и AI, создающая Farcana 2.0, Gamed и FAR Labs. Требуется опыт руководства data-командами, аналитики, BI и инфраструктуры данных. В компании работают русскоговорящие специалисты.",
-    "duplicates": [],
-    "is_new": true,
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/12583",
+        "date_iso": "2026-06-26T10:05:04+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -133,7 +658,7 @@
     "salary": "250 000–320 000 ₽",
     "short_description": "Ищем PM для B2B-продукта Commerce Analytics Tool (CAT), который помогает брендам анализировать данные о товарах на маркетплейсах. Продукт обрабатывает более 3 Тб данных ежедневно с использованием собственных ML-моделей и работает с крупнейшими клиентами. Требуется опыт 3+ лет в роли PM/PO с data-driven подходом и умением работать с клиентами.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -185,7 +710,7 @@
     "salary": null,
     "short_description": "Fast-growing fintech company in Latin America building lending, credit cards, BNPL, and payment solutions. Looking for Senior PM to drive growth on credit cards and credit lines products, improve customer experience, and scale the portfolio responsibly.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -221,7 +746,7 @@
     "salary": null,
     "short_description": "Global financial services company providing payment solutions and technology. Mastercard is seeking a Senior Product Manager to drive product strategy and execution in the payments ecosystem.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -269,7 +794,7 @@
     "salary": null,
     "short_description": "Ищется Product Manager в команду вертикали «Электроника и бытовая техника» в Шопинге Т-Банка. Высокий уровень ownership, работа с фичами, кросс-функциональные проекты на стыке продукта, e-commerce и финтеха.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -16499,7 +17024,7 @@
     "short_description": "Опыт запуска AI-продуктов от постановки задачи до внедрения в продакшене. Проведение A/B-тестов с ML-моделями и управление процессом разметки данных.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -16547,7 +17072,7 @@
     "short_description": "Parvaly – MarTech компания. Ищем Product Manager с опытом. Формат работы гибридный, но требуется приезжать в офис в Москву минимум раз в месяц.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -16582,7 +17107,7 @@
     "short_description": "Управление цифровым продуктом 'Вклады и накопительные счета' в составе команды Wildberries Bank Digital. Требуется опыт работы с финансовыми продуктами вкладов и накопительных счетов, управление разработкой, data-driven подход к принятию решений.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16624,7 +17149,7 @@
     "short_description": "Разработка автоматизированной банковской системы (АБС) для международного филиала Сбера в Республике Индия. Владелец продукта 'Мастер запись' - сервиса данных по клиентам филиала.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16654,7 +17179,7 @@
     "short_description": "Построение системы оценки ценности данных и развитие внутренней биржи данных. Разработка методологии измерения эффекта от data-продуктов, внедрение A/B-тестирования и формирование портфеля data-продуктов B2C с запуском Data Marketplace.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16684,7 +17209,7 @@
     "short_description": "ProSpace — IT-компания с 15+ летним опытом разработки сложных корпоративных систем. Работает с B2B enterprise-клиентами в логистике, IoT и корпоративной автоматизации, развивает собственные продуктовые направления.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16738,7 +17263,7 @@
     "short_description": "Развитие портфеля цифровых продуктов и сервисов Билайна. Команда, объединенная общими ценностями и целью стать лидером телеком и digital рынков.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16774,7 +17299,7 @@
     "short_description": "Развитие массового бизнеса в ведущем частном банке Беларуси. Работа с финтех-решениями: мобильные платежи, онлайн-кредитование, цифровые транзакции. Более 70 тысяч бизнес-клиентов и 1,1 млн пользователей.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16810,7 +17335,7 @@
     "short_description": "Формирование и реализация долгосрочной product strategy компании. Управление всей продуктовой функцией: product management, product analytics, research, UX/UI и product operations. Построение единой продуктовой системы и синхронизация product vision с бизнес-целями компании.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16840,7 +17365,7 @@
     "short_description": "qLead ищет опытного Head of P2P для запуска и управления платёжными решениями в странах LATAM. Требуется практик с опытом построения агентских сетей, организации локальной приёмки и выплат.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -16896,7 +17421,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16926,7 +17451,7 @@
     "short_description": "Разработка мобильного приложения для учителей. Компания специализируется на системной интеграции и разработке масштабных государственных и корпоративных цифровых сервисов, включая портал «Госуслуги».",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16970,7 +17495,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -17006,7 +17531,7 @@
     "short_description": "AMDY is an IT company specializing in developing its own web and mobile applications. The role requires English B2+ proficiency and Russian fluency, with remote work in GMT+3 timezone.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -17029,7 +17554,7 @@
     "short_description": "Разработка архитектуры централизованного Feature Store и MLOps-платформы для управления жизненным циклом ML-моделей. Работа с Kubernetes, Docker, Spark, Kafka, LLM/RAG интеграциями. Коммуникация между DS-командами и разработкой, проектирование пайплайнов и масштабирование систем для больших данных.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -17102,7 +17627,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -17138,7 +17663,7 @@
     "short_description": "Google is seeking a Program Manager for its AI for Social Good initiative, focusing on internet services and AI applications. The role involves managing programs that leverage Google's technology expertise in AI and cloud computing for social impact.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1205373966,
@@ -17176,7 +17701,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -17206,7 +17731,7 @@
     "short_description": "Построение AI-продуктов для юридической отрасли: агентные системы для юридических заключений, проверки контрагентов и автоматизации due diligence. Проектирование и реализация multi-agent систем с stateful архитектурой.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -17236,7 +17761,7 @@
     "short_description": "Лидер российского рынка DevOps и Kubernetes ищет Technical Product Manager. Компания с 2008 года занимается инфраструктурой и развивает продукты Deckhouse для упрощения разработки и доставки приложений.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -17272,7 +17797,7 @@
     "short_description": "Развитие и сопровождение продуктов направления \"Счета\" для клиентов юридических лиц. Роль на стыке управления продуктом, проектного управления и взаимодействия с кросс-функциональными командами.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
