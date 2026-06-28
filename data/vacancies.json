@@ -1,5 +1,172 @@
 [
   {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1444,
+    "date_iso": "2026-06-28T06:16:40+00:00",
+    "text": "В группу компаний MAST, Абу-Даби, занимающуюся рекламными технологиями, ищем AI-native product engineer / agent orchestrator\n\nВсе для роста в профессии продакта - https://t.me/productjobgo/1429 \n\n100% удаленка. \n\nКомпания выводит на мировой рынок технологию, которая дает прирост доходности паблишеров на 30% и больше. Ежемесячные бюджеты нашей компании на закупку трафика достигают $400k.\nПонимаем, как вырасти в 15-30 раз за следующие 3 года.  \n\nЗадача - запустить и развивать внутренний движок Ai-first -компании по всем направлениям \n- подключение к рекламным сетям\n- лидген (поиск паблишеров) \n- тех поддержку \n- финансовый блок и т.д.\n\nДвижок должен работать в рамках разных бизнес-юнитов одного холдинга. \n\nЧеловек без команды - его команда - агенты.   \nГодовой бюджет $230k\n\nДля оценки опыта, присылайте было/ стало во времени по каким- то из метрик:\n\nretention, activation, conversion, CAC, LTV, churn, DAU/MAU, NPS, CSAT, ARPU, payback period.\nАutonomous resolution rate, cost per resolved task, escalation rate, hallucination rate, eval pass rate, latency, containment rate.\n\nВ приоритете продуктолог с опытом в AdTech 3+ лет. Обязательно наличие собственной развернутой Агентской системы. \n\nТут должно сойтись все - проф навыки + принципы, ценности, взгляды на процессы, интересы к развитию.. \n\nСрок закрытия вакансии - 2 мес. \nКонтакт  @vladimir82makarov (co-founder)\n\nКанал Вакансии в МАХ - https://max.ru/productjobgo",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 163,
+        "length": 30
+      },
+      {
+        "type": "url",
+        "offset": 1405,
+        "length": 27
+      }
+    ],
+    "link": "https://t.me/productjobgo/1444",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "AI-native Product Engineer / Agent Orchestrator",
+    "company": "MAST",
+    "location": "Remote",
+    "grade": null,
+    "ml_ai": true,
+    "remote": true,
+    "salary": "$230k per year",
+    "short_description": "Группа компаний MAST (Абу-Даби, AdTech) ищет продакта для запуска и развития AI-first движка компании. Технология обеспечивает прирост доходности паблишеров на 30%+. Требуется опыт в AdTech 3+ лет и наличие собственной развернутой агентской системы.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 544,
+    "date_iso": "2026-06-27T18:02:08+00:00",
+    "text": "👨‍💻 Product Owner / Product Manager B2B\n\n▪️Домен #B2B\n▪️Грейд #Middle #Senior\n▪️Формат #Польша #Армения #Грузия\n\nТолько для кандидатов, которые проживают в Грузии, Польше, Армении!\n\nЗадачи:\nРазвивать одно из ключевых направлений платформенного ядра XRM-системы.\nФормировать и управлять продуктовым бэклогом команды: приоритизация, детализация задач, постановка требований.\nРаботать с OKR и продуктовой стратегией: декомпозировать цели, запускать инициативы и отслеживать результаты.\nИсследовать потребности внутренних пользователей и стейкхолдеров, анализировать обратную связь и пользовательские сценарии.\nИскать и валидировать продуктовые гипотезы, включая AI/ML и low-code направления.\nИсследовать рынок и конкурентные решения в области CRM/XRM/ERP-платформ.\nБалансировать между бизнес-потребностями, UX и архитектурными ограничениями.\nСовместно с командой участвовать в планировании спринтов, приемке и запуске функционала.\nПроводить демо, синхронизации со стейкхолдерами и управлять ожиданиями команд.\nРазвивать продуктовые метрики и принимать решения на основе данных.\n\nМы ожидаем:\nОпыт работы Product Owner / Product Manager в платформенных или сложных B2B-продуктах.\nПонимание принципов работы CRM / ERP / XRM-систем.\nОпыт взаимодействия с многомодульными системами и сложной бизнес-логикой.\nУмение превращать платформенные или инфраструктурные задачи в понятную продуктовую ценность.\nНавык приоритизации и работы с гипотезами.\nОпыт работы в Agile-командах.\n\nБудет плюсом\nОпыт работы с low-code/no-code решениями.\nПонимание AI-assistants, AI-driven UX или AI automation.\nТехнический бэкграунд и понимание архитектуры enterprise-систем.\nОпыт развития внутренних платформенных продуктов.\n\nЕсли вас заинтересовала вакансия, пожалуйста, свяжитесь со мной!\nтг @annaleadit\n\nСсылка на пост LinkedIn\n\n📱 Канал про поиск работы в IT",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1778,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/anna-m-658409249_auiaugauqaugautauxauoavl-product-owner-activity-7475212835237638146-sQIA?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1805,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1806,
+        "length": 27,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/544",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner / Product Manager, Middle/Senior",
+    "company": null,
+    "location": "Грузия, Польша, Армения",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Развитие ключевых направлений платформенного ядра XRM-системы. Управление продуктовым бэклогом, работа с OKR и стратегией, исследование потребностей пользователей и валидация гипотез в области AI/ML и low-code решений. Требуется опыт с B2B платформами, CRM/ERP-системами и сложной бизнес-логикой.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1443,
+    "date_iso": "2026-06-27T09:53:30+00:00",
+    "text": "Product Lead IVI\n\nМы в Иви ищем сильного лидера для 2 продактов. Требования: B2C с MAU >2 млн, стаж от 4 лет и безупречное владение аналитикой (SQL обязателен). Хочешь управлять большими данными и классной командой напиши мне сообщение тут или в тг @zdanna\n\nГде еще можно подписаться на каналы редакции \n1. В мессенджере Max \n• Fresh Product manager https://max.ru/FreshProductGo \n• и канал Вакансии - https://max.ru/productjobgo, будем рады видеть среди подписчиков. \n2. В Сетке \n• Fresh Product manager - https://setka.ru/communities/018b3c8e-b08a-483f-9c65-35fe4fb2b394\n• Вакансии - https://setka.ru/communities/018fbf81-63f3-47ed-af41-1968702446f7",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 350,
+        "length": 29
+      },
+      {
+        "type": "url",
+        "offset": 402,
+        "length": 27
+      },
+      {
+        "type": "url",
+        "offset": 507,
+        "length": 65
+      },
+      {
+        "type": "url",
+        "offset": 586,
+        "length": 65
+      }
+    ],
+    "link": "https://t.me/productjobgo/1443",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Lead",
+    "company": "Иви",
+    "location": null,
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Лидер для управления двумя B2C продуктами с аудиторией более 2 млн активных пользователей. Требуется опыт более 4 лет и глубокие навыки в аналитике с владением SQL для работы с большими объемами данных.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 543,
+    "date_iso": "2026-06-27T09:37:03+00:00",
+    "text": "📺 Product Lead IVI\n\n▪️Компания IVI.ru\n▪️Домен #FunTech\n▪️Грейд #Lead\n▪️Формат #ГибридМосква\n\nМы в Иви ищем сильного лидера для 2 продактов. Требования: B2C с MAU >2 млн, стаж от 4 лет и безупречное владение аналитикой (SQL обязателен). Хочешь управлять большими данными и классной командой напиши мне сообщение тут или в тг @zdanna\n\nСсылка на пост LinkedIn \n\n📱 Канал про поиск работы в IT",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 32,
+        "length": 6
+      },
+      {
+        "type": "text_url",
+        "offset": 334,
+        "length": 24,
+        "url": "https://www.linkedin.com/posts/anna-zdobnyakova-b3b99127_%D0%BC%D1%8B-%D0%B2-%D0%B8%D0%B2%D0%B8-%D0%B8%D1%89%D0%B5%D0%BC-%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%B0-%D0%B4%D0%BB%D1%8F-2-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D0%B2-activity-7475804579121623043-rFz-?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 362,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 363,
+        "length": 27,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/543",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Lead",
+    "company": "IVI.ru",
+    "location": "Москва, гибрид",
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Лидер для двух B2C продуктов с аудиторией более 2 млн MAU. Требуется опыт от 4 лет, владение аналитикой и SQL, работа с большими данными и управление командой.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 1674506295,
     "channel_username": null,
     "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
@@ -33,7 +200,7 @@
         "channel_id": 2667909413
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -85,7 +252,7 @@
     "salary": null,
     "short_description": "Развитие HR Tech-направления, которое поддерживает полный жизненный цикл сотрудников и кандидатов. Команда формирует стратегию и видение для офисных и операционных команд, объединяя ключевые HR-процессы и автоматизируя управление массовым персоналом.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -121,7 +288,7 @@
     "salary": null,
     "short_description": "Global ride-hailing and urban services platform offering rides, intercity travel, courier and freight delivery, and fintech services via inDrive.Money. Join a team building diverse mobility and services solutions.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -157,7 +324,7 @@
     "salary": null,
     "short_description": "Factorial is a business management software for SMEs that automates HR, finance, and talent workflows. The role focuses on product-led growth strategy for the platform serving small and medium-sized enterprises.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -187,7 +354,7 @@
     "salary": null,
     "short_description": "Ищется Middle Product Manager в направлении электроники и бытовой техники для Шопинга в Т-Банке, одного из крупнейших онлайн-банков России.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -249,7 +416,7 @@
         "channel_id": 2667909413
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -285,7 +452,7 @@
     "salary": null,
     "short_description": "Позиция в HR Tech направлении. Lamoda — один из крупнейших онлайн-ритейлеров России и СНГ. Вакансия открыта в офисах Москвы или Санкт-Петербурга.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -321,7 +488,7 @@
     "salary": null,
     "short_description": "Agoda is an online booking platform specializing in hotels, apartments, villas, and hostels worldwide. The role is on-site in Bangkok with relocation support provided.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -350,7 +517,7 @@
     "salary": null,
     "short_description": "Senior Technical Project Manager role in AI/ML and iGaming sector. Position starts remote with option to relocate to Cyprus.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -387,7 +554,7 @@
         "channel_id": 2667909413
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -441,7 +608,7 @@
     "salary": null,
     "short_description": "Направление HRTech, фокус на управлении операционными сотрудниками (80% персонала компании). Разработка целевой картины и общей стратегии HR процессов и продуктов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -490,7 +657,7 @@
     "salary": null,
     "short_description": "Развитие рекламных продуктов и масштабных платформ на российском рынке с работой с ML-моделями, аукционами и большими данными. Требуется опыт в AdTech, навыки аналитики и управления кросс-функциональными командами для продуктов с многомиллионной аудиторией.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -513,7 +680,7 @@
     "salary": null,
     "short_description": "Senior Regional Project Manager for international iGaming product (Casino + Sportsbook). Required expertise in regional markets (Africa, LATAM, or SEA + South Korea) with deep product iGaming experience. Cross-functional collaboration with Product, Marketing, CRM, Payments, Affiliate and Support teams to drive regional growth initiatives.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -16275,7 +16442,7 @@
     "short_description": "iGaming Product Manager с опытом работы с аналитикой и A/B тестированием. Требуется глубокое понимание ключевых метрик (CR, ARPU, LTV, Retention, Churn) и опыт оптимизации всей воронки продукта от привлечения до удержания пользователей.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16305,7 +16472,7 @@
     "short_description": "Российский коммерческий банк в экосистеме маркетплейса Wildberries. Вакансия по направлению вклады и накопительные счета. Требуется опыт работы в этом направлении.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16341,7 +16508,7 @@
     "short_description": "SaaS-сервис residential proxy для арбитража, парсинга и SMM с клиентами в 50+ странах. Требуется владение полной продуктовой воронкой: от лендинга через регистрацию, активацию, оплату до retention.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16371,7 +16538,7 @@
     "short_description": "Команда разрабатывает сервис роботизированной доставки из магазинов и ресторанов. Требуется технический и аналитический background для построения продукта с нуля и работы с партнёрами.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16401,7 +16568,7 @@
     "short_description": "Крупнейшая детская онлайн-школа в России ищет Head of Product Growth. Команда работает над увеличением доли платящих пользователей при сохранении эффективности бизнеса. 16 лет опыта в онлайн-обучении для школьников, их родителей и учителей.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16431,7 +16598,7 @@
     "short_description": "Работа в Департаменте Глобальных Рынков, который предоставляет корпоративным и розничным клиентам продукты на финансовых рынках. Команда занимается торговыми операциями с ценными бумагами, деривативами и структурными продуктами, а также внедрением новых решений.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16479,7 +16646,7 @@
     "short_description": "Строим экосистему умных AI-агентов и аналитических сервисов для Customer Interaction Intelligence. На фазе масштабирования пилота, выходим на новые каналы и интеграции.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16515,7 +16682,7 @@
     "short_description": "instinctools is a software development company providing custom software solutions for businesses of all sizes. The role offers remote work with a flexible schedule and requires Upper-Intermediate+ English proficiency.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16551,7 +16718,7 @@
     "short_description": "Nscale specializes in building and operating data centers for AI workloads. The role focuses on Kubernetes and technical product management within the AI infrastructure space.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16587,7 +16754,7 @@
     "short_description": "Salvo Health is a virtual-first GI care platform seeking a Product Manager with experience in medical technology, digital healthcare, or technology-driven services. The role requires expertise in product management within the healthcare sector.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16629,7 +16796,7 @@
     "short_description": "Combo Tech is a product technology company specializing in developing proprietary and client platforms for the iGaming industry. Remote work with flexible schedule.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16659,7 +16826,7 @@
     "short_description": "Finom is a European fintech startup building financial solutions for entrepreneurs. The role focuses on savings and investments products in a hybrid or remote setup across Europe.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16707,7 +16874,7 @@
     "short_description": "Должность в команде платежей в RWB. Компания создает простые, удобные и безопасные финансовые решения на базе экосистемы Wildberries, ориентируясь на клиентов и инновационные технологии.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16737,7 +16904,7 @@
     "short_description": "Keepgo is a global mobile internet provider offering innovative eSIM-based products and solutions using virtual technologies. The role involves product management for their mobile internet platform and related services.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16767,7 +16934,7 @@
     "short_description": "Руководство стратегией развития цифрового МФО продукта на основе бизнес-интересов компании. Запуск новых продуктов МФО в цифровых каналах с использованием end-to-end подхода от поиска решений и проектирования до тестирования, разработки и масштабирования.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16803,7 +16970,7 @@
     "short_description": "Руководство отделом транзакционных продуктов для юридических лиц в современном банке экосистемы Wildberries. Разработка финансовых решений, ориентированных на клиентов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16833,7 +17000,7 @@
     "short_description": "Руководство стратегией развития e-commerce направления, анализ текущего состояния продуктов и процессов, формирование целевого видения и управление портфелем продуктовых инициатив.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -16862,7 +17029,7 @@
     "short_description": "Ключевая роль управления входящими запросами от Банка и их маршрутизации между ОЦТ и партнёрским консалтером. Требуется опыт в роли Demand Manager, Product Owner или Project Manager в банковском секторе с умением координировать многосторонние взаимодействия и управлять приоритетами в высоконагруженной среде.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16904,7 +17071,7 @@
     "short_description": "Yandex Crowd — крупный инфраструктурный сервис, помогающий пользователям решать вопросы и повышать качество обслуживания. Роль фокусируется на внедрении AI-технологий в процессы клиентского сервиса и развития команды.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -16952,7 +17119,7 @@
     "short_description": "Управление продуктом депозитов и накопительных счетов в Wildberries Bank. Требуется опыт работы с финтех-продуктами, знание вкладов и накопительных счетов, управление командой разработки, аналитический подход к принятию решений.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16982,7 +17149,7 @@
     "short_description": "Роль в техническом блоке телеком компании-лидера рынка. Участие в операционных процессах управления телеком инфраструктурой и автоматизации процессов. Выступление в роли заказчика разработки и управление развитием существующих и новых систем.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
