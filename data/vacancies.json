@@ -1,5 +1,126 @@
 [
   {
+    "channel_id": 1804835860,
+    "channel_username": "zarubezhom_jobs",
+    "channel_title": "Connectable Jobs",
+    "msg_id": 3988,
+    "date_iso": "2026-06-29T10:34:04+00:00",
+    "text": "Product Manager in AI-Platform for creators\n\nРебята активно ищут 🔥\n\n📍Алматы (помощь с релокацией)\n💎Опыт создания продуктов с нуля, опыт в B2B/B2C, опыт использования AI для создания продуктов/фич\n⭐У вас может быть любой бэкграунд (разработка, дизайн, аналитика и т.д.), главное — вы самостоятельно создавали IT/AI продукты с нуля\n\nПозиция в быстрорастущий AI-стартап, поддерживаемый top-VC🚀\n\n🤝Узнать подробнее: тут\n\n🤝Откликнуться: talents@connecthum.com (при отклике укажите, пожалуйста, что вы из @zarubezhom_jobs)",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 416,
+        "length": 3,
+        "url": "https://app.notion.com/p/Product-Manager-3885cbd4b03d804c8c94f05b4d37fabb?source=copy_link"
+      }
+    ],
+    "link": "https://t.me/zarubezhom_jobs/3988",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, AI-Platform",
+    "company": null,
+    "location": "Алматы",
+    "grade": null,
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "AI-стартап, поддерживаемый top-VC, ищет PM с опытом создания продуктов с нуля. Требуется опыт в B2B/B2C и использование AI для разработки продуктов и фич. Приветствуется любой бэкграунд (разработка, дизайн, аналитика).",
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/12701",
+        "date_iso": "2026-06-29T10:34:21+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 547,
+    "date_iso": "2026-06-29T09:55:54+00:00",
+    "text": "👨‍💻 Product Owner Bereke Bank\n\n▪️Компания Bereke Bank\n▪️Домен #FinTech\n▪️Грейд #Middle #Senior\n▪️Формат #Казахстан\n\nВ моей команде требуется Product Owner.\n\nТребуется усиление бизнес команды. \nЕсли ты:\n* знаешь как управлять командой \n* умеешь выстраивать приоритеты\n* понимаешь как работает команда в финтех структуре \n* стрессоустойчив\n* умеешь собирать бэклог и строить спринты \nТо можем с тобой провести всего лишь один раунд собеседовании и ты будешь принят на работу \n\nТебе предстоит: \n* работать в самостоятельной команде \n* управлять командой разработчиков \n* запускать продукты \n* строить гипотезы \n* запускать и закрывать спринты \n* строить воронку и улучшать ее \n\n Ссылка на пост LinkedIn \n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 677,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/alshyn-chalak-5849a919a_%D0%B2-%D0%BC%D0%BE%D0%B5%D0%B9-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B5-%D1%82%D1%80%D0%B5%D0%B1%D1%83%D0%B5%D1%82%D1%81%D1%8F-product-owner-share-7474701122155360256-46kv/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7474701123275255808&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 706,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 707,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 738,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/547",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner",
+    "company": "Bereke Bank",
+    "location": "Казахстан",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Bereke Bank is a fintech company seeking a Product Owner to strengthen their business team. The role involves managing a developer team, launching products, building hypotheses, running sprints, and optimizing conversion funnels.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1446,
+    "date_iso": "2026-06-29T07:02:25+00:00",
+    "text": "Product Manager Lagrange Labs\n\nFresh Product manager в MAX – https://max.ru/FreshProductGo\n\nВилка: от 5 500 до 7 500 USD\nУсловия: удаленно, full-time\n\nОбязанности:\n— Формирование и реализация продуктовой стратегии для ZK-сопроцессоров и инфраструктурных решений Lagrange.\n— Сбор и приоритезация требований от технических партнеров (DeFi протоколы, L2-сети) и конечных пользователей.\n— Создание детальных PRD (Product Requirement Documents) и работа с командой инженеров над их реализацией.\n— Управление жизненным циклом продукта: от идеи и анализа рынка до запуска в mainnet и пост-релизного сопровождения.\n— Анализ конкурентной среды (StarkWare, RISC Zero, Succinct) и поиск уникальных точек роста для продукта.\n— Работа с метриками (TVL, объем транзакций, активность разработчиков) и постоянная итерация продукта на основе данных.\n\nТребования:\n— Опыт работы в роли Product Manager в Web3 или высокотехнологичном Fintech от 3 лет.\n— Глубокое понимание технологии ZK-proofs, архитектуры Ethereum и модульных блокчейнов.\n— Способность говорить на одном языке с инженерами (понимание Rust/Solidity на уровне логики).\n— Сильные аналитические навыки и опыт работы с аналитическими инструментами (Dune, Nansen, Mixpanel).\n— Отличные навыки презентации и ведения переговоров на английском языке (C1).\n\nКонтакты: Gorskines\n\nВсе возможности от редакции канала по ссылке.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 61,
+        "length": 29
+      },
+      {
+        "type": "text_url",
+        "offset": 1355,
+        "length": 6,
+        "url": "https://koloskoveducation.tilda.ws/"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1446",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, ZK Infrastructure",
+    "company": "Lagrange Labs",
+    "location": "Remote",
+    "grade": null,
+    "ml_ai": false,
+    "remote": true,
+    "salary": "5500–7500 USD",
+    "short_description": "Build product strategy for ZK co-processors and infrastructure solutions. Collect requirements from DeFi protocols and L2 networks, create PRDs, manage product lifecycle, analyze competitors like StarkWare and RISC Zero, and iterate based on on-chain metrics (TVL, transaction volume, developer activity).",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 1311743791,
     "channel_username": "productjobgo",
     "channel_title": "Вакансии для продакт-менеджеров",
@@ -30,7 +151,7 @@
     "salary": "$230k per year",
     "short_description": "Группа компаний MAST (Абу-Даби, AdTech) ищет продакта для запуска и развития AI-first движка компании. Технология обеспечивает прирост доходности паблишеров на 30%+. Требуется опыт в AdTech 3+ лет и наличие собственной развернутой агентской системы.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -72,7 +193,7 @@
     "salary": null,
     "short_description": "Развитие ключевых направлений платформенного ядра XRM-системы. Управление продуктовым бэклогом, работа с OKR и стратегией, исследование потребностей пользователей и валидация гипотез в области AI/ML и low-code решений. Требуется опыт с B2B платформами, CRM/ERP-системами и сложной бизнес-логикой.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -116,7 +237,7 @@
     "salary": null,
     "short_description": "Лидер для управления двумя B2C продуктами с аудиторией более 2 млн активных пользователей. Требуется опыт более 4 лет и глубокие навыки в аналитике с владением SQL для работы с большими объемами данных.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -163,7 +284,7 @@
     "salary": null,
     "short_description": "Лидер для двух B2C продуктов с аудиторией более 2 млн MAU. Требуется опыт от 4 лет, владение аналитикой и SQL, работа с большими данными и управление командой.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -15693,7 +15814,7 @@
     "short_description": "Команда помогает найти работу в международных компаниях с русскоязычными командами. Требуется опыт в медиа или цифровых технологиях, работа с аналитическими инструментами и умение принимать решения на основе данных.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -15741,7 +15862,7 @@
     "short_description": "Ищут Product Manager'а с опытом запуска или развития продуктов для видеоконференций. Проектная работа на фултайм до конца лета с возможностью part-time вариантов. Домен AI.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15771,7 +15892,7 @@
     "short_description": "Компания разрабатывает мобильные приложения для обработки фотографий более 15 лет, используя нейросети, искусственный интеллект и машинное обучение. Позиция охватывает стратегию роста и развитие продукта в быстро развивающейся индустрии.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15818,7 +15939,7 @@
     "short_description": "PropTech-платформа Центральной Азии, объединяющая застройщиков, покупателей недвижимости и профессиональных участников рынка. Разработка цифровых продуктов для рынка первичной недвижимости.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15854,7 +15975,7 @@
     "short_description": "Дивизион 'Сделка с первичным жильем' ищет менеджера для анализа и оптимизации текущих процессов ипотечного кредитования, а также разработки новых продуктов в этом направлении.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15884,7 +16005,7 @@
     "short_description": "Поиск PM для каталога e-commerce платформы с фокусом на конструкторы страниц и модульные системы. Требуется опыт в e-commerce или платформенных продуктах с технической подкованностью в компонентной разработке, API и архитектуре решений.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15914,7 +16035,7 @@
     "short_description": "Руководство дебетовой картой и портфелем карт, отвечая за доходность и PnL. Разработка новых продуктов, услуг и сервисов, управление тарифами, взаимодействие с ИТ и анализ конкурентного рынка.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15973,7 +16094,7 @@
     "short_description": "Формирование видения продукта, стратегии развития и дорожной карты. Приоритизация задач, анализ бизнес-процессов, взаимодействие с продуктовыми командами.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16051,7 +16172,7 @@
     "short_description": "Крупная транспортная компания, мультисервисный оператор логистических услуг. Требуется развитие направления доставки в сети: выстраивание сервиса на основе требований бизнеса.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16086,7 +16207,7 @@
     "short_description": "ДИВАН.РУ ищет Product Owner для работы с e-commerce платформой мебели. Компания работает 10 лет в сегменте онлайн-продаж мебели и диванов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -16127,7 +16248,7 @@
     "short_description": "Развитие B2C продукта в сфере Mental Health. Требуется опыт управления продуктом или направлением от 6 лет, сильные навыки stakeholder management и работа с неопределённостью. Фокус на качество результата и пользовательский опыт.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16163,7 +16284,7 @@
     "short_description": "Обеспечение технологического развития блока «Глобальные рынки капитала». Полный цикл создания и сопровождения ИТ-решений для фронт-офиса на рынках ценных бумаг, валютном и денежном рынках, рынке деривативов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16235,7 +16356,7 @@
     "short_description": "Разработка промо-, бонусных и loyalty-механик для крупной платформы игровой тематики. Фокус на вовлеченность, удержание и монетизацию пользователей.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -16265,7 +16386,7 @@
     "short_description": "Руководить командой аналитиков в каршеринг-платформе, анализировать поведение пользователей и метрики (CR, MAU, ARPU, LTV, Retention). Декомпозировать цели в OKR, проводить A/B-тесты и быть партнером CPO в превращении данных в продуктовые решения.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -16303,7 +16424,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -16339,7 +16460,7 @@
     "short_description": "Проектирование клиентского пути по продуктам вкладов и накопительных счетов, формирование бэклога и границ MVP на основе исследований и данных. Требуется 2+ лет опыта в PO/PM для цифровых продуктов с обязательным опытом работы с вкладами и data-driven подходом.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -16369,7 +16490,7 @@
     "short_description": "iGaming компания ищет Product Manager с опытом в платежных системах и payment flows. Требуется понимание продуктовых метрик, опыт работы с разработкой, аналитикой и дизайном, английский B1+.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1205373966,
@@ -16407,7 +16528,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -39205,6 +39326,13 @@
         "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
         "link": "https://t.me/ITjobsFeed/9151",
         "date_iso": "2026-04-30T14:21:56+00:00"
+      },
+      {
+        "channel_username": null,
+        "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+        "link": "https://t.me/c/1674506295/6151",
+        "date_iso": "2026-06-29T10:41:48+00:00",
+        "channel_id": 1674506295
       }
     ],
     "entities": [
