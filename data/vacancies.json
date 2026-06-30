@@ -1,5 +1,187 @@
 [
   {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 549,
+    "date_iso": "2026-06-30T08:00:22+00:00",
+    "text": "🛍 Менеджер продукта Ozon\n\n▪️Компания Ozon\n▪️Домен #Ecom \n▪️Грейд #Junior #Middle #Senior \n▪️Формат #ОфисМосква\n\nоткрыто 4 позиции менеджера продукта в команду Seller Experience & Fintech: от junior до senior. Мы отвечаем за весь «ЖКТ» продавца на площадке: от регистрации и онбординга, до тарификации и взаиморасчетов с продавцами и контрагентами, а также за личный кабинет продавца, аналитику. Продуктов, как вы понимаете, здесь много: как b2c, так и b2b. \n\nЧто нам важно: \n1) вы умеете самостоятельно драйвить продукт/проект и готовы нести ответственность за качество реализации и сроки\n2) вы привыкли принимать решение на данных\n3) для вас не бывает неразрешимых задач\n4) вы привыкли глубоко понимать свой продукт: от юридической обвязки до архитектурного решения5) строго офис: вы в Москве или готовы переехать, у вас нет аллергии на 5/2 \n\nЕсли у вас есть релевантный опыт, и вы в Москве/планируете переехать, отпишитесь в комментариях или присылайте резюме в tg: @mariesergeevna\n\nСсылка на пост LinkedIn\n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 38,
+        "length": 4,
+        "url": "https://career.ozon.ru/"
+      },
+      {
+        "type": "text_url",
+        "offset": 986,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/maria-pozemkovskaia-5b00441a7_auvauwauuaukaugauqauy-ausaulautaulaukaumaulauw-activity-7477223999324913664-1w1r?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1013,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1014,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 1045,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/549",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Менеджер продукта",
+    "company": "Ozon",
+    "location": "Москва",
+    "grade": null,
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Открыто 4 позиции PM в команду Seller Experience & Fintech. Отвечают за весь цикл работы продавца: регистрация, онбординг, тарификация, взаиморасчеты, личный кабинет и аналитику. Требуется самостоятельность в драйве продукта и принятие решений на основе данных.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10066,
+    "date_iso": "2026-06-29T18:34:23+00:00",
+    "text": "Product Lead\nв ИВИ — онлайн-кинотеатр с библиотекой из десятков тысяч фильмов, сериалов, ТВ-каналов и оригинальных проектов собственного производства.\nИщет Анна Здобнякова, её пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 176,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/anna-zdobnyakova-b3b99127_%D0%BC%D1%8B-%D0%B2-%D0%B8%D0%B2%D0%B8-%D0%B8%D1%89%D0%B5%D0%BC-%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%B0-%D0%B4%D0%BB%D1%8F-2-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D0%B2-share-7475804578169667584-6bz2/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10066",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Lead",
+    "company": "ИВИ",
+    "location": null,
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "ИВИ — онлайн-кинотеатр с библиотекой из десятков тысяч фильмов, сериалов, ТВ-каналов и оригинальных проектов собственного производства. Ищет Product Lead для развития продукта.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10065,
+    "date_iso": "2026-06-29T16:55:46+00:00",
+    "text": "🔹 Junior Product Manager\n🔹 Middle Product Manager\n🔹 Senior Product Manager\nв Ozon — один из крупнейших российских маркетплейсов.\nНаправление: Seller Experience & Fintech – весь путь продавца на маркетплейсе: от регистрации и онбординга до тарификации и взаиморасчётов с продавцами и контрагентами.\nОфис (Москва).\nИщет Мария Поземковская, её пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 344,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/maria-pozemkovskaia-5b00441a7_auvauwauuaukaugauqauy-ausaulautaulaukaumaulauw-share-7477223998712446976-emHA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10065",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager (Junior/Middle/Senior), Seller Experience & Fintech",
+    "company": "Ozon",
+    "location": "Москва",
+    "grade": null,
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Работа с направлением Seller Experience & Fintech — весь путь продавца на маркетплейсе от регистрации и онбординга до тарификации и взаиморасчётов с продавцами и контрагентами.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10063,
+    "date_iso": "2026-06-29T16:15:50+00:00",
+    "text": "Senior Product Manager\nFundraise Up is a modern fundraising platform built to make donating to nonprofits fast, seamless, and accessible to all.\nLanguages: fluent in English and Russian.\nRemote work.\nMore details in Olga Sazonova's post on LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 232,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/olga-sazonova_hiring-productmanager-pmjobs-share-7474784803876433920-ZyEY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10063",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "Fundraise Up",
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Fundraise Up is a modern fundraising platform built to make donating to nonprofits fast, seamless, and accessible to all. The role requires fluency in both English and Russian.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1113141406,
+    "channel_username": "hireproproduct",
+    "channel_title": "Hire ProProduct - Продуктовые вакансии в России и за рубежом",
+    "msg_id": 1039,
+    "date_iso": "2026-06-29T14:07:56+00:00",
+    "text": "Head of Product в Физикл \n\nПривет!\n\nЯ Вика, управляющий директор Физикл.\n\nСейчас мы развиваем существующие продукты и запускаем новое международное направление (США). Поэтому ищем Head of Product, который сможет одновременно усиливать текущие продукты и строить новые для зарубежной аудитории.\n\nМы ищем человека с опытом в продукте от 3 лет, который проходил полный цикл — от идеи до PMF (включая успешные и неуспешные запуски).\n\nЧто для нас важно:\n— Опыт запуска и развития цифровых продуктов, в том числе для зарубежных рынков.\n— Умеешь находить перспективные рынки, валидировать проблемы пользователей и принимать решения на основе данных, а не интуиции.\n— Работаешь с продуктовыми метриками, воронками, retention, unit-экономикой, LTV, churn и монетизацией.\n— Системно исследуешь рынок, конкурентов и пользовательское поведение, умеешь находить инсайты и превращать их в продуктовые решения.\n— Умеешь быстро оценить экономику продукта, выявить самые рискованные предположения и проверить их минимальными ресурсами.\n— Комфортно работаешь с разработкой, дизайном и другими командами.\n— Не боишься высокой неопределённости, способен самостоятельно определять направление движения и брать ответственность за результат.\n\nЧто мы предлагаем:\n— Возможность влиять на развитие существующих продуктов и запускать новые на международном рынке.\n— Высокую степень автономии и быстрые решения без лишней бюрократии.\n— Полностью удалённую работу.\n— Культуру постоянного развития. Компенсацию обучения и доступ ко всем продуктам компании.\n\nЕсли тебе интересно создавать продукты для глобальной аудитории, работать с настоящими продуктовыми вызовами и влиять на развитие международного бизнеса — будем рады познакомиться.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1683,
+        "length": 25,
+        "url": "https://job.fizikl.org/page127213156.html"
+      }
+    ],
+    "link": "https://t.me/hireproproduct/1039",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of Product",
+    "company": "Физикл",
+    "location": "Remote",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Развитие существующих цифровых продуктов и запуск нового направления в США. Требуется опыт полного цикла разработки от идеи до PMF, работа с метриками, рынками и командами разработки/дизайна.",
+    "duplicates": [
+      {
+        "channel_username": "productjobgo",
+        "channel_title": "Вакансии для продакт-менеджеров",
+        "link": "https://t.me/productjobgo/1447",
+        "date_iso": "2026-06-29T14:22:51+00:00",
+        "channel_id": 1311743791
+      }
+    ],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 1804835860,
     "channel_username": "zarubezhom_jobs",
     "channel_title": "Connectable Jobs",
@@ -117,7 +299,7 @@
     "salary": "5500–7500 USD",
     "short_description": "Build product strategy for ZK co-processors and infrastructure solutions. Collect requirements from DeFi protocols and L2 networks, create PRDs, manage product lifecycle, analyze competitors like StarkWare and RISC Zero, and iterate based on on-chain metrics (TVL, transaction volume, developer activity).",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -15531,7 +15713,7 @@
     "short_description": "Масштабирование мобильного B2C продукта на основе AI и социального взаимодействия. Фокус на рост MRR и unit-экономику, запуск новых продуктов. Требуется опыт с мобильными подписками, growth-метриками и UAC оптимизацией.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -15561,7 +15743,7 @@
     "short_description": "Управление проектами с госзаказчиками, работа с веб-приложениями и субподрядчиками. Требуется опыт 3+ лет, понимание архитектуры и коммуникация между заказчиком и разработкой.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -15603,7 +15785,7 @@
     "short_description": "Развитие ключевого мобильного B2C продукта на основе AI и социального взаимодействия. Фокус на масштабирование MRR и unit-экономики, запуск новых продуктов при обнаружении рыночных возможностей. Требуется опыт в мобильных продуктах, подписках, growth-аналитике и работа с UA/ASO командами.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -15651,7 +15833,7 @@
     "short_description": "Ищем продакта для лидирования бизнес-направлением в FinTech. Требуется опыт работы с платежными и кредитными продуктами, понимание BNPL, данных и метрик, OKR/PI Planning, работа с регуляторикой банковского сектора.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
@@ -15719,7 +15901,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -15785,7 +15967,7 @@
     "short_description": "Расширение команды продукта в Ozon с несколькими открытыми позициями: Ведущий менеджер продукта B2B, менеджер продукта CJ и UX, менеджер продукта B2B. Ecom домен.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1205373966,
@@ -39333,6 +39515,13 @@
         "link": "https://t.me/c/1674506295/6151",
         "date_iso": "2026-06-29T10:41:48+00:00",
         "channel_id": 1674506295
+      },
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/12705",
+        "date_iso": "2026-06-29T11:02:19+00:00",
+        "channel_id": 2667909413
       }
     ],
     "entities": [
