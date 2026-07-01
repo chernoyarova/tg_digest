@@ -1,5 +1,448 @@
 [
   {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12837,
+    "date_iso": "2026-07-01T09:08:57+00:00",
+    "text": "Публикатор: Мария\nОбсуждение: @devops_jobs\n#вакансия #projectmanager #technicalpm #itpm #devops #devopsteamlead\n\n Ищем Технического руководителя / Technical PM (Infrastructure / DevOps)\n\nФормат: удаленно\nЗанятость: проектная, full-time\nЛокация: Россия\nВилка: от 200 000 до 280 000 руб.\nПроект: интеграционное тестирование решения МСЭ на физических и виртуальных стендах\nКомпания: Эксперт Чойс\nСрок: 6 месяцев\n\nОбъем работ:\n- 1433 тестовых сценария различной сложности;\n- Подготовка инфраструктуры и тестовых стендов;\n- Выполнение основного объёма интеграционного тестирования;\n- Анализ и регистрация дефектов;\n- Повторные проверки исправлений;\n- Регрессионное тестирование;\n- Подготовка отчётности и итоговых результатов.\n\nТребования:\n- Опыт управления техническими ИТ-проектами от 5 лет;\n- Опыт ведения инфраструктурных, интеграционных или DevOps-проектов;\n- Управление командой от 8 человек;\n- Понимание интеграционного тестирования, Linux, KVM, Docker, CI/CD;\n- Знание сетевых технологий (TCP/IP, VLAN, VPN, NAT, маршрутизация);\n- Опыт работы с мониторингом, отказоустойчивостью и тестовыми стендами;\n- Умение анализировать тест-кейсы, архитектурные схемы и дефекты;\n- Практический опыт использования GPT, Claude, Gemini или аналогичных ИИ-инструментов в работе.\n\nБудет преимуществом:\n- Опыт работы DevOps Engineer, System Engineer или Test Lead;\nAnsible, Terraform;\n- Подготовка тестовых стендов;\n- Проекты по информационной безопасности;\n- Опыт работы с высоконагруженными системами.\n\n Важно: рассматриваем только кандидатов с сильным техническим бэкграундом. PM без технической экспертизы не подходят.\n\n Отклик: @Vika_sysoeva",
+    "entities": [],
+    "link": "https://t.me/ITjobsFeed/12837",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Технический руководитель / Technical PM (Infrastructure / DevOps)",
+    "company": "Эксперт Чойс",
+    "location": "Россия, удалённо",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "200000–280000 ₽",
+    "short_description": "Технический руководитель для управления интеграционным тестированием решения МСЭ на физических и виртуальных стендах. Требуется опыт управления техническими ИТ-проектами, знание DevOps, Linux, Docker, CI/CD и сетевых технологий. Команда из 8 человек, проект на 6 месяцев.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 551,
+    "date_iso": "2026-07-01T09:01:34+00:00",
+    "text": "👨‍💻 Senior Product Manager FinTech\n\n▪️Домен #FinTech\n▪️Грейд #Middle #Senior\n▪️Формат #Кипр #УдаленкаМир\n\nНовая вакансия Senior Product Manager в международную fintech компанию.\n\nКоманда строит B2B-платформу для трансграничных платежей на базе crypto + fiat rails. Цель - сделать быстрые, удобные и compliance-friendly платежи для бизнеса в разных юрисдикциях.\n\nЭто роль с большим ownership и возможностью реально влиять на продукт и развитие компании.\n\nЧто предстоит делать:\n- Развивать направление cross-border payments от идеи до масштабирования\n- Строить payment product с нуля: vision, roadmap, delivery\n- Работать с лицензированием и regulatory requirements (EU, Canada, Switzerland, UAE и др.)\n- Взаимодействовать напрямую с engineering-командой (5–15 человек)\n- Формировать PRD/BRD и управлять unit-экономикой\n- Работать на стыке business / compliance / legal / engineering\n\nБудет особенно релевантен такой опыт:\n- B2B crypto/payments\n- запуске payment-продуктов с нуля\n- свободный английский\n\nЧто предлагают:\nВозможность строить продукт практически с нуля и влиять на стратегию компании.\nРабота в международной crypto среде с фокусом на реальные B2B-платежи.\nНебольшая сильная senior команда без бюрократии и лишних процессов.\nКонкурентный уровень компенсации в USD/EUR.\nГибкий формат работы (удаленно или в офисе в Лимассол с оформлением в штат и рабочей визой).\nВысокий уровень самостоятельности и ownership\nЕсли вам интересно или знаете подходящих кандидатов - пишите в телеграм @Nichkamar\n\nСсылка на пост LinkedIn\n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1505,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/veronikadiakina_auiaugauqaugautauxauoavl-productmanager-auzaukaugauravnautautauu-share-7476267003624869888-CEZO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1532,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1533,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 1564,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/551",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, FinTech",
+    "company": null,
+    "location": "Кипр, удалённо",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Развитие B2B-платформы для трансграничных платежей на базе crypto и fiat rails. Построение payment-продукта с нуля: vision, roadmap, delivery, работа с regulatory requirements в EU, Canada, Switzerland, UAE. Взаимодействие с engineering-командой (5-15 человек) и управление unit-экономикой.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12833,
+    "date_iso": "2026-07-01T08:36:10+00:00",
+    "text": "Product Owner в Sweed\n\n📍 Удалёнка\n💎 Полная ответственность за продуктовый стрим от discovery до релиза и итераций, формирование и поддержка roadmap, быстрое прототипирование и валидация идей с помощью AI-инструментов (Claude, ChatGPT), проведение customer research для приоритизации разработки.\n💼 5+ лет в продуктовой роли с реальным ownership результатов, опыт с web/mobile продуктами, сильная техническая грамотность, понимание SaaS UX и product-led growth, комфорт в условиях неопределенности, английский Upper-Intermediate+. Плюсом: AI-инструменты в рабочем процессе, опыт в retail/POS.\n\nОткликнуться на вакансию\n\nSweed — all-in-one платформа для cannabis retail (POS, eCommerce, Analytics, Inventory), 7 лет на рынке, 200+ человек в команде. \n\n———\n\nНе подошла вакансия? Поделись с тем, кому пригодится ➡️",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 595,
+        "length": 24,
+        "url": "https://jobs.ashbyhq.com/sweedpos.com/eb71cf3d-40f1-4378-b56a-a606bd0bd9f2"
+      },
+      {
+        "type": "text_url",
+        "offset": 621,
+        "length": 5,
+        "url": "https://www.sweedpos.com/#/"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12833",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner",
+    "company": "Sweed",
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Full ownership of product stream from discovery to release and iterations. Prototyping and idea validation using AI tools (Claude, ChatGPT). Customer research for development prioritization at an all-in-one cannabis retail platform (POS, eCommerce, Analytics, Inventory).",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2769347520,
+    "channel_username": "linked_jobs",
+    "channel_title": "LinkedIn Jobs",
+    "msg_id": 1917,
+    "date_iso": "2026-07-01T08:19:31+00:00",
+    "text": "Senior Product Manager в inDrive\n\nописание 🫴\n\n#product",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 34,
+        "length": 8,
+        "url": "https://www.linkedin.com/posts/zlata-vik_were-hiring-at-indrive-we-are-looking-share-7477372206558273537-2z_2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOENPsBser3o1XDvQkMrYJFJcjR4b2SLEc"
+      }
+    ],
+    "link": "https://t.me/linked_jobs/1917",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "inDrive",
+    "location": null,
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12817,
+    "date_iso": "2026-07-01T07:02:49+00:00",
+    "text": "Product Owner\n#ProductOwner #Грузия #Польша #Армения #Job #Vacancy\n \nТребования:\nОпыт работы Product Owner / Product Manager в платформенных или сложных B2B-продуктах. Понимание принципов работы CRM / ERP / XRM-систем. Опыт взаимодействия с многомодульными системами и сложной бизнес-логикой. Навык приоритизации и работы с гипотезами. Опыт работы в Agile-командах. Будет плюсом: Опыт с low-code/no-code решениями. Понимание AI-assistants, AI-driven UX или AI automation. Технический бэкграунд и понимание архитектуры enterprise-систем. Опыт развития внутренних платформенных продуктов.\n \nЛокация:📍Кандидаты, которые проживают в Грузии, Польше, Армении.\n\nКонтакт для отклика: @annaleadit +CV\n\n👉 забрать special offer",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 697,
+        "length": 21,
+        "url": "https://t.me/JTBL_bot"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12817",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner",
+    "company": null,
+    "location": "Грузия, Польша, Армения",
+    "grade": null,
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Product Owner для платформенных или сложных B2B-продуктов с опытом работы с CRM/ERP/XRM-системами и многомодульными продуктами. Требуется опыт в Agile-командах, приоритизации и работе с гипотезами. Плюсом будут знания AI-assistants, low-code/no-code решений и архитектуры enterprise-систем.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1113237926,
+    "channel_username": "normrabota",
+    "channel_title": "Норм работа",
+    "msg_id": 9273,
+    "date_iso": "2026-07-01T07:00:12+00:00",
+    "text": "⏺️ COSMOPET открывает 4 вакансии:\n\n⏺️INFLUENCE-МЕНЕДЖЕР\nОБЯЗАННОСТИ:\n—Выстраивание influence-стратегии с фокусом на перфоманс: рост продаж, CPO, ROMI\n—Ведение кампаний полного цикла — от брифа и подбора блогеров до аналитики и выводов\n—Работа с метриками: UTM, промокоды, атрибуция, ДРР\n—Подбор инфлюенсеров под конкретные задачи, учитывая специфику каждой площадки \n—Работа с аналитикой маркетплейсов (Ozon, Wildberries)\n—Разработка креативных механик и форматов под разные каналы\n—Контроль выходов и качества контента, поддержание коммуникации с блогерами в процессе кампании\n—Формирование комьюнити амбассадоров бренда и выстраивание долгосрочных отношений с инфлюенсерами\n—Самостоятельное ведение бюджета и отчетности по кампаниям\nТРЕБОВАНИЯ:\n—Опыт от 3 лет на аналогичной позиции в агентстве и/или на стороне бизнеса\n—Опыт работы в pet-индустрии или большое желание в ней разобраться — знаешь аудиторию, понимаешь продукт, чувствуешь нишу\n—Умение читать аналитику и принимать решения на основе данных\n—Знание специфик площадок\n—Наличие кейсов с измеримым результатом\n—Гибкость и автономность\nНаличие собственной база блогеров — большой плюс\nУСЛОВИЯ:\nЗарплата обсуждается индивидуально с финальным кандидатом\nОформление по ТК РФ/ГПХ/СМЗ\n—График 10:00–19:00 (гибрид/удаленка)\n—Стильный pet-friendly офис на Остоженке (м. Кропоткинская)\n—Молодой, поддерживающий коллектив\n\n⏺️РУКОВОДИТЕЛЬ МАРКЕТИНГА\nОБЯЗАННОСТИ:\n—Маркетинговая стратегия с чёткими метриками бизнес-результатов\n—Жёсткий контроль KPI: CAC, ROMI, LTV, awareness, лиды, продажи\n—Оптимальное распределение бюджета с гибкой корректировкой\n—Глубокий анализ кампаний с ИИ-аналитикой\n—Автоматизация работы команды и подрядчиков на уровне best practices\n—Управление digital-каналами, CRM и AI-решениями\n—Руководство контент-продакшном премиум-уровня\n—Стратегические коллаборации и развитие комьюнити\nТРЕБОВАНИЯ:\n—Высшее образование (маркетинг, PR, бизнес-управление)\n—Опыт руководства маркетинговыми командами от 2–3 лет (D2C, e-commerce, FMCG)\n—Глубокое знание digital-маркетинга и ИИ-инструментов\n—Экспертная аналитика, прогнозы, стратегии\n—Безупречное стратегическое мышление и самоорганизация\nУСЛОВИЯ:\n—Гибрид, pet-friendly офис на Остоженке (м. Кропоткинская)\n—Полная занятость, 5/2, 10:00–19:00\n—Оформление по ТК РФ\n—Конкурентный доход, обсуждается индивидуально\n—Реальный шанс влиять на стратегическое развитие бренда\n\n⏺️ПРОДЖЕКТ-МЕНЕДЖЕР (MIDDLE)\nЧТО ДЕЛАТЬ:\n—вести операционку пилота: логистика, лаборатория, курьеры, партнёры\n—управлять воронкой в Telegram-боте —от чекапа до результатов\n—развивать digital-продукты: боты, лендинги, внутренние инструменты\n—собирать метрики, искать узкие места, предлагать решения\n—вести задачи в Kaiten, синхронизировать кросс-команды\nЧТО ВАЖНО:\n—опыт PM от 2 лет, желательно в стартапе\n—практика работы с ботами, автоматизацией или ИИ-инструментами\n—умение вести несколько проектов параллельно\n—аналитическое мышление и навык работы с таск-трекерами\nУСЛОВИЯ:\n—гибрид, Москва\n—от 100 000 ₽, финально — после собеседования\n—ТК РФ/ГПХ/самозанятость\n\n⏺️SMM-СПЕЦИАЛИСТ (MIDDLE+ / SENIOR)\nЧТО ДЕЛАТЬ:\n—Разрабатывать и реализовывать SMM-стратегию: tone of voice, рубрики, форматы\n—Строить контент-систему: план на неделю/месяц, подбор форматов под цели\n—Писать тексты и адаптировать под разные площадки, использовать ИИ как инструмент\n—Ставить чёткие ТЗ дизайнеру, следить за визуальным стилем\n—Анализировать ERR, охваты, вовлечённость, тестировать гипотезы\nКОГО ИЩЕМ:\n—2+ года в SMM или контент-маркетинге (B2C — обязательно)\n—Умение формировать стратегию и переводить в план\n—Сильный текст, чувство трендов и визуальной культуры\n—Инициативность и быстрый темп\n➕Плюсом: pet-проекты, Figma, Telegram, LinkedIn, Notion\nУСЛОВИЯ:\n—Удалённо / гибрид\n—Полная занятость, 5/2\n—Оформление по ТК РФ\n—Доход обсуждается индивидуально\n\n📩 ОТКЛИКНУТЬСЯ через тг-бот компании",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 3842,
+        "length": 15,
+        "url": "https://t.me/cosmopet_hiring_bot?start=NORM"
+      }
+    ],
+    "link": "https://t.me/normrabota/9273",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager (Middle)",
+    "company": "COSMOPET",
+    "location": "Москва, гибрид",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": "от 100 000 ₽",
+    "short_description": "Управление операционкой пилота, развитие digital-продуктов (боты, лендинги), работа с метриками и кросс-функциональными командами. Требуется опыт с ботами и автоматизацией.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 550,
+    "date_iso": "2026-06-30T15:08:41+00:00",
+    "text": "📞 Senior Product Managerу МТС\n\n▪️Компания МТС\n▪️Грейд #Middle #Senior\n▪️Формат #ГибридМосква\n▪️Домен #Telecom\n\nИщу Senior Product Manager'а в наш e-com проект.\nВажно: опыт от 5 лет продактом, опыт работы в e-commerce и опыт запуска продукта на рынок с нуля (в идеале e-com).\nФормат: гибрид (3 дня офис).\n\nМы строим умный подбор и покупку товаров внутри цифровых каналов МТС — мобильного приложения «Мой МТС» и сайта mts.ru. Задача — сделать так, чтобы смартфоны, аксессуары и другие товары интернет-магазина МТС продавались через операторские точки контакта: персонально, в нужный момент, без лишних шагов до оформления заказа.\n\nПроект находится в активной фазе: существует около 10 продуктовых гипотез в формате Quick Win → POC → MVP, от персонализированных рекомендаций до ИИ-консультанта по товару. Работа строится в связке с командами BigData, РТК, CVM. Это не изолированная разработка — это пересечение существующим e-commerce в shop.mts.ru, аудитории телекома и персонализации на основе данных об абоненте\n\nНужно будет отвечать за клиентский путь покупки: от первого показа товарного предложения до перехода в карточку, добавления в корзину и оформления заказа. Ключевая задача — превращать персональные рекомендации и офферы в понятный и конвертирующий клиентский сценарий.\n\nСсылка на пост LinkedIn\nСсылка на вакансию\n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 43,
+        "length": 3,
+        "url": "https://moskva.mts.ru/personal"
+      },
+      {
+        "type": "url",
+        "offset": 417,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 935,
+        "length": 11
+      },
+      {
+        "type": "text_url",
+        "offset": 1283,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/smirren_hiring-share-7477372485768843267-7EUJ/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7477372486989369344&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1307,
+        "length": 18,
+        "url": "https://hh.ru/vacancy/134678522"
+      },
+      {
+        "type": "text_url",
+        "offset": 1329,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1330,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 1361,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/550",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, E-Commerce",
+    "company": "МТС",
+    "location": "Москва, гибрид",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Разработка smart selection и покупки товаров в цифровых каналах МТС (приложение и сайт). Работа со стеком: персонализированные рекомендации, AI-консультант по товарам, интеграция с BigData и CVM командами. Ответственность за клиентский путь от показа предложения до оформления заказа.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1804835860,
+    "channel_username": "zarubezhom_jobs",
+    "channel_title": "Connectable Jobs",
+    "msg_id": 3993,
+    "date_iso": "2026-06-30T15:03:53+00:00",
+    "text": "Lead Product Manager (Data Sources) в Truv\n\n📍Remote\n💎7+ лет в управлении продуктами в data, ML/AI, fintech или платформах верификации/идентификации\n🚀CEO и ко-фаундер — Кирилл Клоков, выпускник Stanford MBA\n\nTruv — платформа, оптимизирующая проверку данные клиентов (доход, занятость, активы) для финансовых организаций в США. В стартапе работают ребята из Apple, Uber, Facebook и др.\n\nРазмер команды — 50+ | Инвестиции — $28M\n\nУзнать подробнее и откликнуться: тут\n\n🤝 Ещё 200+ вакансий продактов и проджектов в компаниях с русскоговорящими фаундерами/командами — в нашей рассылке\n\nДругие вакансии в компании: \n— Lead Product Manager, Consumer Product\n— Customer Success Manager\n— Data Analyst",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 171,
+        "length": 13,
+        "url": "https://fintecbuzz.com/truv-ceo-kirill-klokov-fintech-interview/"
+      },
+      {
+        "type": "text_url",
+        "offset": 184,
+        "length": 1,
+        "url": "https://www.businessinsider.com/truv-startup-series-a-kleiner-perkins-income-verification-citadel-id-2022-3"
+      },
+      {
+        "type": "text_url",
+        "offset": 463,
+        "length": 3,
+        "url": "https://jobs.lever.co/truv/8e04c5ba-c4be-406d-b8eb-dad5bcd62112"
+      },
+      {
+        "type": "text_url",
+        "offset": 468,
+        "length": 3,
+        "url": "https://www.linkedin.com/company/1inchcom/people/"
+      },
+      {
+        "type": "text_url",
+        "offset": 566,
+        "length": 16,
+        "url": "https://t.me/zarubezhom_jobs/3459"
+      },
+      {
+        "type": "text_url",
+        "offset": 615,
+        "length": 38,
+        "url": "https://jobs.lever.co/truv/08cdf1df-d353-4a28-8fa7-c909f9368170"
+      },
+      {
+        "type": "text_url",
+        "offset": 656,
+        "length": 24,
+        "url": "https://jobs.lever.co/truv/8908ed58-0430-4585-941a-fdd5194f9613"
+      },
+      {
+        "type": "text_url",
+        "offset": 683,
+        "length": 12,
+        "url": "https://jobs.lever.co/truv/b523092e-714e-49f7-bea1-c1edef7bf6b7"
+      }
+    ],
+    "link": "https://t.me/zarubezhom_jobs/3993",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Lead Product Manager (Data Sources)",
+    "company": "Truv",
+    "location": "Remote",
+    "grade": "Lead",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Платформа для проверки данных клиентов (доход, занятость, активы) для финансовых организаций в США. Команда из опытных специалистов из Apple, Uber, Facebook. Требуется 7+ лет опыта в управлении продуктами в data, ML/AI, fintech или платформах верификации.",
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/12807",
+        "date_iso": "2026-06-30T15:33:51+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10073,
+    "date_iso": "2026-06-30T13:38:50+00:00",
+    "text": "Senior Product Manager\nв МТС — цифровая экосистема, создающая и развивающая сервисы в сфере мобильной связи, больших данных, искусственного интеллекта, облачного хранения, медиа и финансов.\nМосква. Гибридный формат работы.\nИщет Лана Миррен, её пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 244,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/smirren_hiring-share-7477372485768843267-7EUJ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10073",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "МТС",
+    "location": "Москва, гибрид",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "МТС — цифровая экосистема, разрабатывающая сервисы в мобильной связи, больших данных, искусственном интеллекте, облачном хранении, медиа и финансах. Гибридный формат работы в Москве.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10072,
+    "date_iso": "2026-06-30T13:33:03+00:00",
+    "text": "Senior Product Manager\ninDrive is a global ride-hailing and urban services platform offering rides, intercity travel, courier and freight delivery, fintech services, and on-demand tasks.\nCyprus.\nJob description on LinkedIn.\nMore details in Zlata Vikhoreva's post on LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 195,
+        "length": 27,
+        "url": "https://cy.linkedin.com/jobs/view/senior-product-manager-at-indrive-4395266469?trk=public_post_feed-job-posting-content"
+      },
+      {
+        "type": "text_url",
+        "offset": 258,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/zlata-vik_were-hiring-at-indrive-we-are-looking-share-7477372206558273537-2z_2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10072",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "inDrive",
+    "location": "Cyprus",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "inDrive is a global ride-hailing and urban services platform offering rides, intercity travel, courier and freight delivery, fintech services, and on-demand tasks.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12774,
+    "date_iso": "2026-06-30T10:33:51+00:00",
+    "text": "Chief Product Officer (CPO) | iGaming\n#ChiefProductOfficer #CPO #iGaming #Удаленно\n \nТребования:\nОпыт работы CPO / Head of Product в iGaming. Опыт запуска и масштабирования продуктов или новых GEO. Стратегическое мышление, сильная аналитика и умение строить эффективные команды. Английский язык от B2.\n \nЛокация:📍Удалённо из любой точки мира.\n\nКонтакт для отклика: @pol_na04\n\n👉 забрать special offer",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 380,
+        "length": 21,
+        "url": "https://t.me/JTBL_bot"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12774",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Chief Product Officer (CPO)",
+    "company": null,
+    "location": "Remote",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "iGaming CPO role requiring experience launching and scaling products or new GEOs. Strong analytical skills, strategic thinking, and team building expertise needed. B2+ English required.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 2823702878,
     "channel_username": "jobs_product_managers",
     "channel_title": "Вакансии продакт менеджеров",
@@ -50,7 +493,7 @@
     "salary": null,
     "short_description": "Открыто 4 позиции PM в команду Seller Experience & Fintech. Отвечают за весь цикл работы продавца: регистрация, онбординг, тарификация, взаиморасчеты, личный кабинет и аналитику. Требуется самостоятельность в драйве продукта и принятие решений на основе данных.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -80,7 +523,7 @@
     "salary": null,
     "short_description": "ИВИ — онлайн-кинотеатр с библиотекой из десятков тысяч фильмов, сериалов, ТВ-каналов и оригинальных проектов собственного производства. Ищет Product Lead для развития продукта.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -110,7 +553,7 @@
     "salary": null,
     "short_description": "Работа с направлением Seller Experience & Fintech — весь путь продавца на маркетплейсе от регистрации и онбординга до тарификации и взаиморасчётов с продавцами и контрагентами.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -140,7 +583,7 @@
     "salary": null,
     "short_description": "Fundraise Up is a modern fundraising platform built to make donating to nonprofits fast, seamless, and accessible to all. The role requires fluency in both English and Russian.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -178,7 +621,7 @@
         "channel_id": 1311743791
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -216,7 +659,7 @@
         "channel_id": 2667909413
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -264,7 +707,7 @@
     "salary": null,
     "short_description": "Bereke Bank is a fintech company seeking a Product Owner to strengthen their business team. The role involves managing a developer team, launching products, building hypotheses, running sprints, and optimizing conversion funnels.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -15531,7 +15974,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -15554,7 +15997,7 @@
     "short_description": "Разработка крупного мобильного финансового продукта на Swift с архитектурой VIPER. Требуется опыт проектирования бизнес-логики, создания кастомных интерфейсов и написания Unit и XCUI-тестов. Работа в кросс-функциональной распределенной команде финтех-проекта.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -15608,7 +16051,7 @@
     "short_description": "IT-холдинг с Web3-экосистемой (DEX, образовательные продукты, мемпад и др.) ищет опытного PM для развития ключевых направлений. Требуется 5+ лет опыта в Web3, product discovery, data-driven подход, опыт запуска продуктов с нуля и управления командой на стыке Dev, Data/AI, UX и legal.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15649,7 +16092,7 @@
     "short_description": "Компания разрабатывает ПО для приема, транскодирования, хранения, защиты и доставки видео. Предоставляют комплексные решения для сервиса видеонаблюдения любых масштабов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -15678,7 +16121,7 @@
     "short_description": "Internship position at Yandex Games, a gaming division. The role involves working with game products and the game development team.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -17205,7 +17648,15 @@
     "remote": true,
     "salary": null,
     "short_description": "Keepgo is a global mobile internet provider offering innovative eSIM-based products and solutions using virtual technologies. The role involves product management for their mobile internet platform and related services.",
-    "duplicates": [],
+    "duplicates": [
+      {
+        "channel_username": "forproducts",
+        "channel_title": "Job for Products and Projects",
+        "link": "https://t.me/forproducts/10071",
+        "date_iso": "2026-06-30T09:29:58+00:00",
+        "channel_id": 1093073202
+      }
+    ],
     "is_new": false,
     "is_archived": true
   },
@@ -29259,6 +29710,13 @@
         "link": "https://t.me/ITjobsFeed/12021",
         "date_iso": "2026-06-17T11:02:20+00:00",
         "channel_id": 2667909413
+      },
+      {
+        "channel_username": null,
+        "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+        "link": "https://t.me/c/1674506295/6157",
+        "date_iso": "2026-06-30T10:17:36+00:00",
+        "channel_id": 1674506295
       }
     ],
     "entities": [
@@ -47748,7 +48206,15 @@
     "remote": true,
     "salary": null,
     "short_description": "AdTech company fighting ad fraud and helping businesses protect budgets. Team is transitioning to AI-first product development. Role involves leading 1-2 product directions, managing acquisition through monetization, and building AI-native product culture with direct founder access.",
-    "duplicates": [],
+    "duplicates": [
+      {
+        "channel_username": "productjobgo",
+        "channel_title": "Вакансии для продакт-менеджеров",
+        "link": "https://t.me/productjobgo/1450",
+        "date_iso": "2026-07-01T06:51:53+00:00",
+        "channel_id": 1311743791
+      }
+    ],
     "is_new": false,
     "is_archived": true
   }
