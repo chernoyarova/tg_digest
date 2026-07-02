@@ -1,5 +1,572 @@
 [
   {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 553,
+    "date_iso": "2026-07-02T08:15:02+00:00",
+    "text": "🛒 Продакт-менеджер Вкус Вилл\n\n▪️Компания Вкус Вилл\n▪️Домен #Ecom\n▪️Грейд #Middle #Senior\n▪️Формат #УдаленкаРФ\n\nМы ищем двух сильных продактов сениор грейда и мидл/сениор продуктового аналитика заниматься ml клиентскими продуктами: рекомендациями, поиском, персонализацией и предиктивными моделями. Мы очень ценим структурность, драйв, аналитический подход и теплый вайбик с заботой о клиенте и команде. Откликайтесь на hh или пишите в лс нашему рекрутеру Саше в тг @Saya964\n\nСениор продакт поиска\nСениор продакт рекомендаций\n\nСсылка на пост LinkedIn\n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 476,
+        "length": 21,
+        "url": "https://hh.ru/vacancy/134683926"
+      },
+      {
+        "type": "text_url",
+        "offset": 498,
+        "length": 27,
+        "url": "https://hh.ru/vacancy/134543221"
+      },
+      {
+        "type": "text_url",
+        "offset": 527,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/artur-amirov_%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B0%D1%8E%D1%81%D1%8C-%D1%81-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BF%D0%BE%D1%80%D1%86%D0%B8%D0%B5%D0%B9-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8-%D0%B2-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%83-share-7477647509956378624-9TaH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 554,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 555,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 586,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/553",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, ML-клиентские продукты",
+    "company": "Вкус Вилл",
+    "location": "Удалённо, РФ",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Ищем сильных продакт-менеджеров для работы с ML клиентскими продуктами: рекомендациями, поиском, персонализацией и предиктивными моделями. Требуются структурность, аналитический подход и ориентированность на клиента и команду.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1451,
+    "date_iso": "2026-07-02T07:22:01+00:00",
+    "text": "Product Owner в R3 Robotics 🤖🔋\n\nРазборы кейсов, 76 разборов пришли, всего свыше 190 тестовых и реальных задач продактов. Плейлист доступен по ссылке, сайт разборов тут\n\nR3 Robotics строит роботизированные ячейки для автоматической разборки EV аккумуляторов и электроприводов. Series A, €20M, площадки в Люксембурге и Германии.\n\nКого ищем\nProduct Owner, который возьмёт один продукт целиком: железо (роботизированная ячейка) и софт как одно целое.\n\nКарьерный интенсив с разборами тестовых\n\nЧто предстоит делать\n– вести продуктовую стратегию и роадмап по железу и софту\n– запускать продукт \"с нуля\", например портал управления \"флотом роботов\" (мониторинг + удалённое обслуживание) или нового робота по разбору эл. приводов.\n\nКого ждём\n– 5+ лет в product management/ownership, желательно и железо, и софт\n– опыт в промышленной автоматизации, робототехнике или capital equipment — плюс\n– EV аккумуляторы, ресайклинг, circular economy — плюс\n– английский обязателен\n\nЛокация: Люксембург или Германия, с поездками на площадки.\n\nОткликнуться: тут или пишите мне.\n\nВсе возможности от редакции канала по ссылке.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 34,
+        "length": 15,
+        "url": "https://t.me/productcasebar/"
+      },
+      {
+        "type": "text_url",
+        "offset": 123,
+        "length": 28,
+        "url": "https://docs.google.com/document/d/1_bq1zQtkfAJjf5O_QjpuMDFlkloNkF_VyTtpRv7oyZI/edit?tab=t.0"
+      },
+      {
+        "type": "text_url",
+        "offset": 166,
+        "length": 3,
+        "url": "https://koloskoveducation.tilda.ws/productcaseclub/"
+      },
+      {
+        "type": "text_url",
+        "offset": 450,
+        "length": 18,
+        "url": "https://gem-shaker-6ab.notion.site/17255ffe314a80aea3afd663d5ac4024"
+      },
+      {
+        "type": "text_url",
+        "offset": 1039,
+        "length": 3,
+        "url": "https://www.linkedin.com/jobs/view/4430610736/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&trk=d_flagship3_search_srp_jobs&refId=xWqp8M1o1FM9eJiFBxBrfw%3D%3D&trackingId=V2YimUuA5Up0NT1P%2FRhYGA%3D%3D"
+      },
+      {
+        "type": "text_url",
+        "offset": 1098,
+        "length": 6,
+        "url": "https://koloskoveducation.tilda.ws/"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1451",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner",
+    "company": "R3 Robotics",
+    "location": "Люксембург или Германия",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Разработка стратегии и роадмапа для роботизированных ячеек разборки аккумуляторов EV, включая как аппаратную часть, так и программное обеспечение. Требуется опыт в product management с фокусом на промышленную автоматизацию и робототехнику.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1205373966,
+    "channel_username": "product_jobs",
+    "channel_title": "Вакансии для продактов и проджектов",
+    "msg_id": 2079,
+    "date_iso": "2026-07-02T06:58:54+00:00",
+    "text": "Вакансия: Product Manager/Продакт-менеджер\nКомпания: INMYROOM\nФормат работы: полная занятость, удаленно\nЗП: Зарплата обсуждается по итогам интервью\n\nВсем привет!\nМы запустили MVP раздела inmyroom.ru/profi — двустороннюю платформу, где профессионалы (дизайнеры интерьеров, сборщики, декораторы) размещают свои профили, а пользователи напрямую отправляют им запросы на услуги. Продукт работает, первые пользователи есть — теперь нужно масштабировать.\n\nВаша задача - взять ответственность за направление «Профи» целиком: от стратегии до метрик роста. Вы будете единственным владельцем этого продукта на стороне продукта, работаете с общей командой разработки.\n\n🔸Что мы ждем от тебя:\n– Опыт в продуктовом менеджменте 4+ лет, из них минимум 2 года в двустороннем маркетплейсе (B2C или B2B2C)\n- Реальный опыт запуска или развития монетизации: вы внедряли модели монетизации, а не только думали о них\n- Умение работать с данными\n- Опыт работы без выделенной команды: вы умеете пробиваться через общий бэклог, убеждать, договариваться\n\n🔸желательно\n– Опыт в нишах: услуги, ремонт, дизайн, handmade — понимание аудитории\n– Опыт с SEO-ориентированными продуктами и UGC-контентом\n– Понимание unit-экономики маркетплейсов\n– Опыт работы в маркетплейсах со схожей механикой: YouDo, Profi.ru, Авито Услуги, Houzz, Remontnik\n\n🔸Чем предстоит заниматься:\n– Разработать и реализовать стратегию монетизации: модели подписки, лидогенерации, комиссии — проверить гипотезы, выбрать работающую\n– Выстроить growth-стратегию: привлечение профессионалов (supply) и пользователей (demand), SEO, партнёрства, платные каналы\n– Сформулировать и защитить роадмап продукта, приоритизировать задачи для общей команды разработки\n– Работать с аналитикой: строить воронки, находить точки роста, ставить задачи по инструментированию\n– Изучать конкурентов (Профи.ру, Авито Услуги, Houzz, YouDo) и переносить лучшие практики в контекст InMyRoom\n– Запускать A/B-тесты, итерировать быстро\n\n🔸Что мы готовы предложить:\n– Полная удалёнка\n– Реальная продуктовая задача с нуля — MVP уже есть, ограничений нет\n– Прямой доступ к руководству: решения принимаются быстро\n– Возможность профессионального роста внутри компании, работа в связке с опытными коллегами и обмен экспертизой\n– Скидки на товары компании и услуги партнёров\n– ДМС со стоматологией или компенсация спорта после 6 месяцев работы в компании\n– Программа «Приведи друга» с вознаграждением за рекомендацию\n– Корпоративные мероприятия и неформальные встречи команды, внутренние коммуникации без лишнего формализма\n\n🔸Как откликнуться:\nПиши в лс @office_inmyroom",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 187,
+        "length": 17
+      },
+      {
+        "type": "url",
+        "offset": 1269,
+        "length": 8
+      }
+    ],
+    "link": "https://t.me/product_jobs/2079",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Marketplace",
+    "company": "INMYROOM",
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Two-sided marketplace platform connecting interior design professionals with customers. MVP launched at inmyroom.ru/profi, now scaling supply and demand with focus on monetization strategy, growth channels, and analytics-driven product decisions.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10082,
+    "date_iso": "2026-07-01T19:08:57+00:00",
+    "text": "🔹 Senior Product Manager / Product Owner, Search\n🔹 Senior Product Manager (рекомендательные системы)\nв ВкусВилл — российская розничная сеть супермаркетов и сервис доставки продуктов для здорового питания.\nУдалённая работа.\nИщет Артур Амиров, его пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 248,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/artur-amirov_%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B0%D1%8E%D1%81%D1%8C-%D1%81-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BF%D0%BE%D1%80%D1%86%D0%B8%D0%B5%D0%B9-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8-%D0%B2-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%83-share-7477647509956378624-9TaH/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10082",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, Search",
+    "company": "ВкусВилл",
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "ВкусВилл is a Russian retail supermarket chain and food delivery service for healthy eating. The role focuses on search and recommendation systems.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 552,
+    "date_iso": "2026-07-01T16:40:54+00:00",
+    "text": "👨‍💻 AI Product Manager PropTech\n\n▪️Компания AIST\n▪️Домен #PropTech\n▪️Грейд #Middle #Senior\n▪️Формат #УдаленкаРФ\n\nИщу сильного ИИ-продакта в PropTech\nFull-time позиция для развития портфеля ии-продуктов — автоматизация воронки продаж федеральной сети агенств недвижимости (200+ офисов по всей РФ). Прямое влияние выручку core бизнеса.\n\nЧто важно\n- Опыт управления продуктом в AI/ML- или data-продуктах с выводом в прод (от 3 лет)\n- Продуктовый discovery\n- Уверенное владение Claude Code / Codex\n- Инженерная интуиция по LLM\n- Умение строить оценку качества: эталоны, бенчмарки, метрики, тестирование\n- Подбор моделей под задачу и понимание экономики\n- Самостоятельность в research\n\nСсылка на пост LinkedIn\nСсылка на вакансию\n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 683,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/vsokovnin_%D0%B8%D1%89%D1%83-%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B8%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82%D0%B0-%D0%B2-proptech-full-time-share-7476242723100909568-BnNB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 707,
+        "length": 18,
+        "url": "https://aist.tech/careers/ai-pm-proptech/"
+      },
+      {
+        "type": "text_url",
+        "offset": 729,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 730,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 761,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/552",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "AI Product Manager (Middle/Senior), PropTech",
+    "company": "AIST",
+    "location": "Remote, РФ",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Разработка портфеля AI-продуктов для автоматизации воронки продаж федеральной сети агенств недвижимости (200+ офисов). Требуется опыт управления AI/ML-продуктами в прод, работа с LLM, построение метрик качества и экономики моделей.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10081,
+    "date_iso": "2026-07-01T16:33:38+00:00",
+    "text": "🔹 Product Owner (карточные продукты для физлиц)\n🔹 Product Owner (приложение для инвестиций)\n🔹 Product Owner (развитие массового бизнеса)\n🔹 Project Manager Digital\n🔹 Project Manager (инвестиционный бизнес)\n🔹 Бизнес-аналитик / Менеджер проекта\nв Альфа-Банк (Беларусь) — универсальный коммерческий банк, входящий в десятку крупнейших в стране.\nГибридный формат работы или удалённая работа.\nПост компании на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 393,
+        "length": 26,
+        "url": "https://www.linkedin.com/posts/%D0%B2%D1%80%D1%8B%D0%B2%D0%B0%D0%B5%D0%BC%D1%81%D1%8F-%D0%B2-%D0%B8%D1%8E%D0%BB%D1%8C-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D1%8B-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-share-7477987694770470913-Kqu-/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10081",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner (карточные продукты для физлиц)",
+    "company": "Альфа-Банк",
+    "location": "Беларусь, гибрид",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Product Owner в Альфа-Банке для развития карточных продуктов для физических лиц. Универсальный коммерческий банк, входящий в десятку крупнейших в Беларуси. Доступен гибридный формат или удалённая работа.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10080,
+    "date_iso": "2026-07-01T16:28:23+00:00",
+    "text": "Senior Product Manager\nв JGGL — AI-first соцсеть, где AI-ассистент генерирует любой контент по запросу.\nУдалённая работа.\nИщет Бахридин Щербаков, его пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 150,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/%D0%B1%D0%B0%D1%85%D1%80%D0%B8%D0%B4%D0%B8%D0%BD-%D1%89%D0%B5%D1%80%D0%B1%D0%B0%D0%BA%D0%BE%D0%B2-b14387b1_%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%B8%D1%89%D1%83-senior-product-manager-share-7477601081099780096-PwJ5/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10080",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "JGGL",
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "AI-first социальная сеть, где AI-ассистент генерирует контент по запросу пользователей. Удалённая позиция.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10078,
+    "date_iso": "2026-07-01T15:40:59+00:00",
+    "text": "Senior Product Manager — Travel Experience & App\nNuma is an international operator of digital hotels and apartments, building a network of fully digitized design hotels in popular tourist and business cities across Europe.\nOffice (Berlin, Germany).\nJob description on LinkedIn.\nMore details in Oliver Kaiser's post on LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 249,
+        "length": 27,
+        "url": "https://www.linkedin.com/jobs/view/4434473938/"
+      },
+      {
+        "type": "text_url",
+        "offset": 310,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/oliver-kaiser_rare-opportunity-were-hiring-a-senior-product-share-7477381231077339136-55Ye/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10078",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, Travel Experience & App",
+    "company": "Numa",
+    "location": "Berlin, Germany",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Numa is an international operator of digital hotels and apartments building a network of fully digitized design hotels across popular tourist and business cities in Europe. The role focuses on travel experience and app product management.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12892,
+    "date_iso": "2026-07-01T15:35:23+00:00",
+    "text": "SENIOR PRODUCT MANAGER | RELOCATION TO PANAMA | FINTECH | #relocation to #panama #latam #fulltime #itjob #product #fintech https://teletype.in/@courierus/b3eeDRJLmyJ",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 123,
+        "length": 42
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12892",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, Fintech",
+    "company": null,
+    "location": "Panama",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Senior Product Manager position in fintech sector with relocation to Panama. Full-time role in LATAM region.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12888,
+    "date_iso": "2026-07-01T14:50:26+00:00",
+    "text": "🚀 Middle Product Analyst в ВкусВилл, команда рекомендаций и поиска\n\nВкусВилл — крупный российский e-grocery. Команда рекомендаций и поиска мобильного приложения разрабатывает алгоритмы и модели машинного обучения для персонализированных рекомендаций товаров и поиска — определяет, какие товары предлагать пользователям и как их ранжировать. Рекомендации — один из ключевых факторов роста продаж и улучшения пользовательского опыта.\n\nЗадачи:\n\n- Участвовать в развитии продукта на всех стадиях: от идеи до активного использования покупателями;\n- Разрабатывать и анализировать метрики продукта;\n- Подготавливать требования для логирования действий пользователя;\n- Разрабатывать дизайн и проводить анализ результатов A/B-тестов (у ВкусВилла собственная платформа A/B-тестирования);\n- Предлагать гипотезы, оценивать их, искать точки роста продукта, исследовать аномалии в данных;\n- Работать с большими массивами данных (сотни миллионов событий в день; в основном ClickHouse, меньше Greenplum и MSSQL), создавать витрины данных и удобные аналитические отчёты (визуализация — Power BI и Superset);\n- Проводить глубокие аналитические исследования.\n\nТребования:\n\n- Умеешь применять статистику при решении реальных задач;\n- Уверенно знаешь SQL (сложные запросы и оптимизация);\n- Владеешь Python и его библиотеками для анализа данных;\n- Можешь грамотно провести дизайн A/B-теста и оценить результаты;\n- Умеешь понятно визуализировать данные и презентовать результаты, объяснять сложные вещи простыми словами;\n- Умеешь объяснить продакту, чего он на самом деле хочет.\n\nБудет плюсом:\n\n- Опыт работы с ClickHouse, Power BI / SSRS, Airflow;\n- Опыт работы в ритейле / e-commerce с DAU от 0.5–1 млн пользователей.\n\nУсловия:\n\n- Локация: Москва / удалённо, график 5/2;\n- Официальное оформление по ТК РФ, полностью белая ЗП;\n\n📎 Как откликнуться?\n\n• Вакансия: [Ссылка]\n• Рекрутер: @Saya964\n\n#product_analyst #middle #россия #Ecom",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1841,
+        "length": 8,
+        "url": "https://www.linkedin.com/posts/artur-amirov_%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B0%D1%8E%D1%81%D1%8C-%D1%81-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BF%D0%BE%D1%80%D1%86%D0%B8%D0%B5%D0%B9-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8-%D0%B2-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%83-share-7477647509956378624-9TaH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACONPjcBKxkoc7pnNMgo2E5K3CaeGxVoR7E"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12888",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle Product Analyst",
+    "company": "ВкусВилл",
+    "location": "Москва, удалёнка",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Команда рекомендаций и поиска мобильного приложения разрабатывает алгоритмы и модели машинного обучения для персонализированных рекомендаций товаров. Аналитик будет развивать продукт от идеи до активного использования, работая с большими массивами данных (ClickHouse, Power BI, Superset), проводить A/B-тесты и глубокие аналитические исследования.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10077,
+    "date_iso": "2026-07-01T14:44:54+00:00",
+    "text": "🔹 Middle Product Manager, AI Transformation\n🔹 Senior Product Manager, Retention\nEyewa is MENA's leading omnichannel eyewear company, operating across the GCC with a growing network of retail stores and a flagship eCommerce platform.\nOffice (Dubai, UAE).\nMore details in Valentin Klein's post on LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 3,
+        "length": 41,
+        "url": "https://career.eyewa.com/apply/92065776-5b23-4017-b94c-42fee0b27d40"
+      },
+      {
+        "type": "text_url",
+        "offset": 48,
+        "length": 33,
+        "url": "https://career.eyewa.com/apply/096dc12d-ca22-4a9f-87c4-5ed838c524aa"
+      },
+      {
+        "type": "text_url",
+        "offset": 289,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/valentinklein_im-growing-our-product-team-in-dubai-and-share-7477283618965532672-U4NS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10077",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle Product Manager, AI Transformation",
+    "company": "Eyewa",
+    "location": "Dubai, UAE",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Eyewa is MENA's leading omnichannel eyewear company operating across the GCC with retail stores and flagship eCommerce platform. The role focuses on AI transformation initiatives.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10076,
+    "date_iso": "2026-07-01T14:20:32+00:00",
+    "text": "Middle / Senior AI Product Manager — PropTech\nв AIST.tech — компания, которая помогает компаниям перестроить бизнес-процессы вокруг ИИ.\nПроект: автоматизация воронки продаж федеральной сети агентств недвижимости.\nУдалённая работа.\nОписание вакансии.\nИщет Виктор Соковнин, его пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 48,
+        "length": 9,
+        "url": "https://aist.tech/"
+      },
+      {
+        "type": "text_url",
+        "offset": 231,
+        "length": 17,
+        "url": "https://aist.tech/careers/ai-pm-proptech/"
+      },
+      {
+        "type": "text_url",
+        "offset": 276,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/vsokovnin_%D0%B8%D1%89%D1%83-%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B8%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82%D0%B0-%D0%B2-proptech-full-time-share-7476242723100909568-BnNB/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10076",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle / Senior AI Product Manager",
+    "company": "AIST.tech",
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "AIST.tech помогает компаниям перестроить бизнес-процессы вокруг ИИ. Проект посвящен автоматизации воронки продаж федеральной сети агентств недвижимости.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12879,
+    "date_iso": "2026-07-01T13:38:56+00:00",
+    "text": "🚀 Head of Product Analytics в крупнейший российский ритейлер\n\nНаправление продуктовой аналитики в блоке Growth & Product Analytics — управление командой из 10 аналитиков. Команда отвечает за ключевые продуктовые механики e-grocery: пользовательский путь, персонализацию и принятие решений через эксперименты и данные.\n\nЗадачи:\n\n- Развивать и усиливать команду аналитиков, выращивать будущих тимлидов;\n- Быть ключевым партнёром для Product, Growth, Marketing и бизнеса;\n- Развивать культуру принятия решений через эксперименты, а не интуицию;\n- Улучшать подходы к A/B-тестированию, causal inference и оценке бизнес-эффекта;\n- Влиять на развитие продукта, персонализации и пользовательского опыта.\n\nТребования:\n\n- Опыт управления командой аналитиков;\n- Хорошее понимание продуктовой аналитики и A/B-тестирования;\n- Опыт работы в e-commerce, marketplace или других digital-продуктах;\n- Умение выстраивать отношения со стейкхолдерами и влиять на решения.\n\nБудет плюсом:\n\n- Персонализация, рекомендательные системы, ранжирование;\n- Опыт в FoodTech, Retail, E-grocery или Marketplace;\n- Causal inference и продвинутая экспериментальная аналитика.\n\nУсловия:\n\n- Влияние на продукт и P&L крупнейшего ритейлера России;\n- Сильная команда и масштаб задач;\n\n📎 Как откликнуться?\n\n• Вакансия: [Ссылка]\n• Рекрутер: @fedotovais\n\n#product_analyst #head #россия #Ecom",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1280,
+        "length": 8,
+        "url": "https://www.linkedin.com/posts/irina-fedotova-06a90894_%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%B8%D1%89%D1%83-%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%B0-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D0%BE%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B8-share-7477381675480428544-oXII/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACONPjcBKxkoc7pnNMgo2E5K3CaeGxVoR7E"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/12879",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of Product Analytics",
+    "company": null,
+    "location": null,
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Управление командой из 10 аналитиков в направлении Growth & Product Analytics. Команда отвечает за ключевые продуктовые механики e-grocery: пользовательский путь, персонализацию и принятие решений через эксперименты. Развитие культуры данных, A/B-тестирования и causal inference в крупнейшем российском ритейлере.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 12860,
+    "date_iso": "2026-07-01T12:15:31+00:00",
+    "text": "🔥 Product Business Analyst 🇨🇾\n\nКомпания Spotware Systems в поиске сильного аналитика на направление B2B New Markets. Задача — валидировать новые B2B-возможности для брокеров: от исследования рынка и интервью с клиентами до подготовки к запускам и анализа метрик.\n\n📍 Лимасол, Кипр \nЧем предстоит заниматься:\n— Проводить исследования рынка и конкурентов для новых B2B-направлений.\n— Общаться с B2B-клиентами (Customer Discovery, интервью, сбор фидбека).\n— Готовить материалы для Sales/BizDev (питчи, FAQ, онбординг, обработка возражений).\n— Анализировать метрики после запуска (доход, адаптация, фидбек).\n\nЧто ждут от кандидата:\n• Опыт в B2B product-facing роли (Product/Business Analyst, PM, Pre-sales, Implementation).\n• Понимание B2B-моделей, коммерческой упаковки и GTM-процессов.\n• Отличный английский язык, структурное мышление.\n• Использование AI в ежедневной работе (исследования, саммари, документация).\n• Плюсом будет опыт в Fintech, SaaS или трейдинге.\n\nУсловия и бенефиты:\n✅ Медицинская страховка.\n✅ Комфортный офис (фрукты каждый день, пицца по средам, снэки по пятницам).\n✅ Частичная компенсация спорта и уроки греческого.\n✅ Welcome Baby Bonus и Baby Box, ваучеры на день рождения.\n\n📩 Откликнуться @lovsepian\n\n#вакансия #fintech #productanalyst #ba",
+    "entities": [],
+    "link": "https://t.me/ITjobsFeed/12860",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Business Analyst, B2B New Markets",
+    "company": "Spotware Systems",
+    "location": "Лимасол, Кипр",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Валидация новых B2B-возможностей для брокеров: исследование рынка, интервью с клиентами, подготовка материалов для Sales/BizDev и анализ метрик после запуска. Требуется опыт в B2B product-facing ролях и понимание GTM-процессов.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1674506295,
+    "channel_username": null,
+    "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+    "msg_id": 6162,
+    "date_iso": "2026-07-01T10:25:42+00:00",
+    "text": "Product Owner (Tangem Pay) в Tangem: https://www.remocate.app/jobs/product-owner-tangem-pay-tangem\n\nМожно работать удалённо. Зарплата в валюте.\n\nПри отклике укажите, что нашли вакансию на Remocate.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 37,
+        "length": 61
+      }
+    ],
+    "link": "https://t.me/c/1674506295/6162",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner, Tangem Pay",
+    "company": "Tangem",
+    "location": null,
+    "grade": null,
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Product Owner позиция для платформы Tangem Pay. Возможность работать полностью удалённо. Зарплата предоставляется в валюте.",
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/12872",
+        "date_iso": "2026-07-01T13:26:56+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 2667909413,
     "channel_username": "ITjobsFeed",
     "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
@@ -103,7 +670,7 @@
     "salary": null,
     "short_description": "Full ownership of product stream from discovery to release and iterations. Prototyping and idea validation using AI tools (Claude, ChatGPT). Customer research for development prioritization at an all-in-one cannabis retail platform (POS, eCommerce, Analytics, Inventory).",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -133,7 +700,7 @@
     "salary": null,
     "short_description": "",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -163,7 +730,7 @@
     "salary": null,
     "short_description": "Product Owner для платформенных или сложных B2B-продуктов с опытом работы с CRM/ERP/XRM-системами и многомодульными продуктами. Требуется опыт в Agile-командах, приоритизации и работе с гипотезами. Плюсом будут знания AI-assistants, low-code/no-code решений и архитектуры enterprise-систем.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -193,7 +760,7 @@
     "salary": "от 100 000 ₽",
     "short_description": "Управление операционкой пилота, развитие digital-продуктов (боты, лендинги), работа с метриками и кросс-функциональными командами. Требуется опыт с ботами и автоматизацией.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -263,7 +830,7 @@
     "salary": null,
     "short_description": "Разработка smart selection и покупки товаров в цифровых каналах МТС (приложение и сайт). Работа со стеком: персонализированные рекомендации, AI-консультант по товарам, интеграция с BigData и CVM командами. Ответственность за клиентский путь от показа предложения до оформления заказа.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -343,7 +910,7 @@
         "channel_id": 2667909413
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -373,7 +940,7 @@
     "salary": null,
     "short_description": "МТС — цифровая экосистема, разрабатывающая сервисы в мобильной связи, больших данных, искусственном интеллекте, облачном хранении, медиа и финансах. Гибридный формат работы в Москве.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -409,7 +976,7 @@
     "salary": null,
     "short_description": "inDrive is a global ride-hailing and urban services platform offering rides, intercity travel, courier and freight delivery, fintech services, and on-demand tasks.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -439,7 +1006,7 @@
     "salary": null,
     "short_description": "iGaming CPO role requiring experience launching and scaling products or new GEOs. Strong analytical skills, strategic thinking, and team building expertise needed. B2+ English required.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -552,7 +1119,15 @@
     "remote": false,
     "salary": null,
     "short_description": "Работа с направлением Seller Experience & Fintech — весь путь продавца на маркетплейсе от регистрации и онбординга до тарификации и взаиморасчётов с продавцами и контрагентами.",
-    "duplicates": [],
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/12906",
+        "date_iso": "2026-07-02T07:06:09+00:00",
+        "channel_id": 2667909413
+      }
+    ],
     "is_new": false,
     "is_archived": false
   },
@@ -1233,7 +1808,15 @@
     "remote": false,
     "salary": null,
     "short_description": "Agoda is an online booking platform specializing in hotels, apartments, villas, and hostels worldwide. The role is on-site in Bangkok with relocation support provided.",
-    "duplicates": [],
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/12894",
+        "date_iso": "2026-07-01T17:05:06+00:00",
+        "channel_id": 2667909413
+      }
+    ],
     "is_new": false,
     "is_archived": false
   },
@@ -15152,7 +15735,7 @@
     "short_description": "Игровая студия разрабатывает игры с выручкой более 2.5 млрд долларов. Ищем Product Owner с опытом в геймдеве для развития продуктового видения в направлении FTUE, работая с метриками и аналитикой.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15182,7 +15765,7 @@
     "short_description": "Команда «Зарплатные проекты для клиентов» ищет опытного РМ/РО для реализации ключевых инициатив. Основная задача — развивать портфель зарплатных проектов клиентов через тестирование продуктов и гипотез с использованием инструментов AI.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15217,7 +15800,7 @@
     "short_description": "JobHire.ai is building a vertical AI agent that automates job search for professionals. The team helps thousands of users land interviews by finding, tailoring, and applying to jobs on their behalf at scale.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15247,7 +15830,7 @@
     "short_description": "Развитие внутренних продуктов для упрощения взаимодействия сотрудников Яндекса с IT и другими сервисами компании. Фокус на автоматизации работы и внедрении последних AI-технологий.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15277,7 +15860,7 @@
     "short_description": "Руководство продуктом платежей и переводов в розничном бизнесе банка. Требуется опыт управления ИТ-командой разработки, работа в финтехе и предпочтительно в банковской сфере. Ответственность включает формирование бэклога, приоритизацию и выявление потребностей клиентов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15307,7 +15890,7 @@
     "short_description": "Развитие услуг для абонентов телекоммуникационной компании. В фокусе анализ продукта по метрикам, анализ рынка и потребительских трендов, работа с тарификацией и запуск новых продуктов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15337,7 +15920,7 @@
     "short_description": "Требуется опытный PM с 3+ годами опыта для работы с кросс-функциональными командами. Необходим опыт в проведении исследований, data-driven принятии решений и product discovery.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15391,7 +15974,7 @@
     "short_description": "Финтех-сервис ПСБ Финанс (CarMoney) создает цифровые финансовые продукты и онлайн-сервисы в сфере кредитования. Разрабатываем залоговые и беззалоговые займы, а также технологичные решения для финансового рынка.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15421,7 +16004,7 @@
     "short_description": "Рекламная платформа Iclicks развивает технологии в digital-рекламе, аналитике, антифроде и AI-инструментах. PM будет развивать внутренние аналитические системы и участвовать в проектировании новых инструментов платформы.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15475,7 +16058,7 @@
     "short_description": "Международная продуктовая компания на стыке финтеха и маркетинга. Создаёте сервисы рекомендаций для финансовых решений, помогающие миллионам пользователей в 10 странах.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15505,7 +16088,7 @@
     "short_description": "Команда работает над продуктом «Бонусы за простые действия» в рамках программы лояльности Сбербанка «СберСпасибо». Специалист будет заниматься клиентскими путями и customer journey design.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15535,7 +16118,7 @@
     "short_description": "Руководство развитием инфраструктурных продуктов для бизнес-клиентов. Планирование и координация развития портфеля решений, направленных на повышение эффективности, сокращение затрат и цифровизацию.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15613,7 +16196,7 @@
     "short_description": "Полный цикл управления продуктами для бизнеса: бизнес-карты, зарплатные проекты, валютные операции. Управление бизнес-моделью и разработка требований для развития ПО.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15649,7 +16232,7 @@
     "short_description": "Руководство направлением вычислительной техники с ответственностью за коммерциализацию продукта, включая формирование бизнес-идей, разработку требований к маркетинговому отчету и управление процессом вывода продукта на рынок.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -15703,7 +16286,7 @@
     "short_description": "Продакт менеджер в команду мобильного приложения продавца. Требуется опыт работы с мобильными приложениями минимум 2 года, deep expertise в mobile UX и технических особенностях разработки продукта.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15745,7 +16328,7 @@
     "short_description": "Специалист по клиентским путям в команде продукта «Бонусы за простые действия» программы лояльности Сбербанка «СберСпасибо». Задачи включают сбор статистики по дашбордам, тестирование клиентских путей и заполнение брифов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15781,7 +16364,7 @@
     "short_description": "Развитие цифровой платформы в сфере агробизнеса. Платформа объединяет профессиональную аудиторию аграрного рынка, предоставляет отраслевую информацию, услуги и digital-инструменты для развития бизнеса.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15811,7 +16394,7 @@
     "short_description": "Cobalt Lab — топ-1 Rust-гейминг платформа в РФ, активно расширяется на международные рынки. Ищем PM на стыке продукта и VIP-направления для работы с собственной валютой, уникальными игровыми режимами и большим комьюнити.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15859,7 +16442,7 @@
     "short_description": "Развитие платежных сервисов и услуг для розничного бизнеса. Внедрение платежных сервисов в системы ДБО и управление их развитием.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15901,7 +16484,7 @@
     "short_description": "Работа над in-app маркетинговыми инструментами в экосистеме сервисов Uzum, включающей e-commerce и финансовые продукты для жителей Узбекистана. Развитие высокотехнологичных продуктов в рамках технологичной платформы.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15937,7 +16520,7 @@
     "short_description": "Руководство направлением по разработке оборудования и комплектующих для авиационной техники, включая БПЛА и специализированные системы. Ответственность за все этапы от формирования коммерческого облика продукта до вывода на рынок.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1674506295,
