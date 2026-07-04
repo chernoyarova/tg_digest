@@ -1,5 +1,226 @@
 [
   {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13069,
+    "date_iso": "2026-07-04T07:08:41+00:00",
+    "text": "#вакансия #BA  #удаленка #работа \n\nКомпания: Unity Parent \nЛокация: РФ / возможна работа из любой точки мира\nФормат: полностью удалённо\nЗанятость: full-time\n\nВилка: 80 000 – 110 000 ₽ gross\n\nО компании \nUnity Parent — это мобильное приложение, которое помогает разведённым родителям оставаться вовлечёнными в жизнь ребёнка. Мы делаем совместное воспитание удобным, честным и прозрачным: планирование покупок, заказ товаров с маркетплейсов, прямые платежи продавцам — всё без лишних конфликтов и личных встреч.\n\nСейчас мы активно развиваем продукт и ищем бизнес-аналитика, который поможет нам улучшать пользовательский опыт, прорабатывать новые функции и обеспечивать эффективное взаимодействие между пользователями и командой разработки.\n\n Чем предстоит заниматься\n• Сбор, анализ и формализация бизнес-требований.\n• Общение с командой продукта, разработчиками и тестировщиками для уточнения требований.\n• Описание пользовательских сценариев и бизнес-процессов.\n• Подготовка технических заданий, User Story, Use Case и постановок для разработки.\n• Анализ текущих процессов внутри приложения и поиск точек роста продукта.\n• Проработка новых функций для родителей, финансовых операций и взаимодействия с маркетплейсами.\n• Участие в проектировании интеграций с платёжными сервисами и внешними системами.\n• Подготовка схем бизнес-процессов, пользовательских путей (User Flow) и диаграмм.\n• Контроль соответствия реализованного функционала поставленным требованиям.\n• Участие в приёмке нового функционала совместно с командой QA.\n\n Что мы ждём от кандидата:\n• Понимание жизненного цикла разработки программного обеспечения.\n• Опыт описания требований и бизнес-процессов.\n• Навыки работы с User Story, BPMN, UML или аналогичными инструментами моделирования.\n• Понимание принципов работы мобильных приложений, API и клиент-серверной архитектуры.\n• Умение структурировать информацию и превращать идеи в понятные требования для команды разработки.\n• Аналитическое мышление и внимание к деталям.\n• Навык выявления потребностей пользователей и поиска оптимальных решений.\n• Грамотная письменная коммуникация.\n• Желание развиваться в продуктовом направлении и влиять на развитие сервиса.\n \nБудет преимуществом\n• Опыт работы с мобильными продуктами.\n• Понимание финансовых процессов и онлайн-платежей.\n• Опыт работы с Jira, Confluence, Miro, Figma.\n• Базовые знания SQL и REST API.\n\n Условия работы:\n• Официальное трудоустройство по ТК РФ.\n• Испытательный срок — 3 месяца с окладом не менее 80 000 ₽.\n• После испытательного срока — оклад 110 000 ₽.\n• ДМС с первых месяцев работы.\n• Работа над социально значимым продуктом, который помогает семьям решать реальные задачи.\n• Наставничество и поддержка на старте.\n• Возможность профессионального роста до Middle Business Analyst, Product Owner или Product Manager.\n• Удалённый формат работы и гибкий график.\n\nДля связи: @dia_hrit\n\n\n--\n[< Подпишитесь на канал «Работа в ИТ» >]",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 2871,
+        "length": 33,
+        "url": "https://t.me/workayte"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13069",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Business Analyst",
+    "company": "Unity Parent",
+    "location": "РФ, удалённо",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "80 000 – 110 000 ₽",
+    "short_description": "Мобильное приложение для разведённых родителей, помогающее в совместном воспитании через планирование, заказы с маркетплейсов и платежи. Требуется аналитик для сбора требований, проработки новых функций, интеграций с платёжными сервисами и взаимодействия с командой разработки.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10097,
+    "date_iso": "2026-07-03T17:26:13+00:00",
+    "text": "Product Lead\nInworld is a research lab of top researchers and engineers, building the world’s top-ranked realtime voice models.\nHybrid (Mountain View, USA).\nJob description.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 157,
+        "length": 15,
+        "url": "https://inworld.ai/careers/71328e09-d549-46d3-b242-7dc9e447e388"
+      }
+    ],
+    "link": "https://t.me/forproducts/10097",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Lead",
+    "company": "Inworld",
+    "location": "Mountain View, USA, hybrid",
+    "grade": "Lead",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Inworld is a research lab of top researchers and engineers building world-leading realtime voice models. The Product Lead will work with a team focused on AI-driven voice technology and real-time applications.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10096,
+    "date_iso": "2026-07-03T15:29:57+00:00",
+    "text": "CPO\nв Instories — компания-разработчик мобильных приложений для редактирования фото и видео (Instories и Vids).\nКлючевые навыки: опыт на роли CPO в аналогичном продукте (фото- и видеоредактор), опыт в международном мобильном B2C-продукте.\nИщет Наталья Малкович, её пост на LinkedIn.\n \nБольше вакансий для ТОПов: @forchiefs",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 265,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/%D0%BD%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D1%8F-%D0%BC%D0%B0%D0%BB%D1%8C%D0%BA%D0%BE%D0%B2%D0%B8%D1%87_%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D1%83-%D0%BC%D0%B5%D0%BD%D1%8F-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D0%B8%D1%89%D1%83-share-7478357201825484800--mB5/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10096",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Chief Product Officer (CPO)",
+    "company": "Instories",
+    "location": null,
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Instories разрабатывает мобильные приложения для редактирования фото и видео. Требуется опыт на роли CPO в аналогичных продуктах (фото- и видеоредакторы) и опыт работы с международными мобильными B2C-продуктами.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10094,
+    "date_iso": "2026-07-03T14:20:57+00:00",
+    "text": "🔹 Старший менеджер продукта «Приведи друга»\n🔹 Старший менеджер продукта Идентификации (Онлайн-онбординг)\nв Ozon Банк — онлайн-банк группы Ozon, предоставляющий вклады, карты, переводы и финансовые сервисы для покупателей и продавцов маркетплейса.\nИщет Никита Гришин, его пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 3,
+        "length": 41,
+        "url": "https://career.ozon.ru/fintech/vacancy?id=134801556"
+      },
+      {
+        "type": "text_url",
+        "offset": 48,
+        "length": 58,
+        "url": "https://career.ozon.ru/fintech/vacancy?id=134109245&__rr=1&abt_att=1&origin_referer=www.linkedin.com"
+      },
+      {
+        "type": "text_url",
+        "offset": 273,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/nikita-grishin-547955233_%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%BC%D1%8B-%D0%B8%D1%89%D0%B5%D0%BC-2-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D0%B2-%D0%B2-ozon-%D0%B1%D0%B0%D0%BD%D0%BA-share-7478715604942696448-Qi9B/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10094",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Старший менеджер продукта",
+    "company": "Ozon Банк",
+    "location": null,
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Ozon Банк — онлайн-банк группы Ozon, предоставляющий вклады, карты, переводы и финансовые сервисы для покупателей и продавцов маркетплейса. Открыты позиции для работы с продуктами «Приведи друга» и Идентификации (Онлайн-онбординг).",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10093,
+    "date_iso": "2026-07-03T13:14:57+00:00",
+    "text": "🔹 Technical Project Manager (B2B-кредиты)\n🔹 Product Manager (мультифакторная платформа)\nв Wildberries — крупнейший российский маркетплейс.\nИщет Павел Р., его пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 160,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/pavelraz_%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D1%8F%D0%B5%D0%BC-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%83-%D1%84%D0%B8%D0%BD%D1%82%D0%B5%D1%85-%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0-wb-share-7476621927214809088-6P_l/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10093",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Technical Project Manager, B2B Loans",
+    "company": "Wildberries",
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Technical Project Manager role at Wildberries, Russia's largest marketplace, focusing on B2B credit products. Posted by Pavel R. on LinkedIn.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10092,
+    "date_iso": "2026-07-03T12:46:34+00:00",
+    "text": "Senior Product Manager\nв TrustMe — сервис для онлайн-подписания документов, помогающий тысячам предпринимателей вести бизнес быстрее и проще.\nОфис (Астана, Казахстан).\nИщет Алтынай Шаханова, её пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 194,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/altynay-shakhanova-517134352_telegram-a-new-era-of-messaging-share-7475490901973331968-HS_G/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10092",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "TrustMe",
+    "location": "Астана, Казахстан",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "TrustMe — сервис для онлайн-подписания документов. Компания помогает тысячам предпринимателей вести бизнес быстрее и проще.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13024,
+    "date_iso": "2026-07-03T12:34:54+00:00",
+    "text": "Growth product manager\nЕкатеринбург, удалённо\n\nКонтур — экосистема для бизнеса. Наши сервисы помогают каждой третьей компании России делать рабочие процессы проще и эффективнее: вести бухгалтерию, сдавать отчетность в госорганы, обмениваться документами без бумаги, общаться друг с другом на удаленке и многое другое. С нами жизнь 3,1 миллионов предпринимателей и их сотрудников становится легче.\n‍\nИщем менеджера по росту и развитию продукта, который обладает глубокими знаниями в управлении продуктом. Экстерн — сервис по учету и отчетности в государственные органы для бизнеса, который помогает бухгалтерам взаимодействовать с контролирующими органами в электронном виде.\n\nЗона ответственности менеджера — путь клиента с сайта до чека и активации в продукте. Необходимо соединять маркетинг, продажи, дизайн, аналитику и разработку в единый механизм. Основная задача — развитие сценариев и пересборка пути пользователя.\n\nЗадачи\n— Достигать финансовых метрик продукта через улучшение сквозного клиентского пути, от сайта, оплаты и активации в продукте.\n— Анализировать сегменты рынка, прямых и косвенных конкурентов.\n— Повышать эффективность УТП и УЦП.\n— Искать точки роста: формулировать и проверять гипотезы.\n— Управлять роадмапом: декомпозировать цели продукта до задач команды, приоритизировать, контролировать сроки качество, оценивать эффективность.\n— Управлять деревом метрик, анализировать динамику и обосновывать решения цифрами.\n— Управлять процессами и выстраивать коммуникации с командами разработки, маркетинга, продаж, технической поддержки. Управлять ожиданиями стейкхолдеров.\n\nМы ожидаем\n— Опыт в роли product manager, product owner или growth product manager в разработке IT-продуктов от пяти лет.\n— Опыт работы в продуктах с количеством клиентов от 500 тыс. в сегменте микро- и малого бизнеса.\n— Умение и готовность управлять продуктом: лидить процесс, управлять командами вне зоны прямого подчинения для достижения целей продукта.\n— Опыт применения активационных механик в бесплатных и платных версиях продукта.\n— Навыки сегментации целевой аудитории и определение ключевых сегментов.\n— Умение проводить исследования, валидировать данные, выводы, выдвигать гипотезы.\n— Опыт эффективной работы с метриками и понимание их влияния на продукт.\n— Навык уверенной коммуникации: умение договариваться с командой, с ЛПР вплоть до топ-менеджмента, аргументировать позицию и презентовать сложные решения. Умение ясно и лаконично излагать свою позицию, эффективно преодолевать возражения.\n\nСсылка на отклик: https://kontur.ru/career/vacancies/5144",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 2517,
+        "length": 39
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13024",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Growth Product Manager",
+    "company": "Контур",
+    "location": "Екатеринбург, удалённо",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Управление путем клиента для сервиса Экстерн по учету и отчетности. Требуется опыт в управлении IT-продуктами от 5 лет с навыками работы с активационными механиками, метриками и сегментацией аудитории. Необходимо соединять маркетинг, продажи, дизайн, аналитику и разработку для достижения финансовых метрик продукта.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 2823702878,
     "channel_username": "jobs_product_managers",
     "channel_title": "Вакансии продакт менеджеров",
@@ -50,7 +271,7 @@
     "salary": null,
     "short_description": "Разработка и развитие платежной платформы в модели B2B2C. Требуется опыт в финансовых продуктах, понимание платформенной архитектуры и готовность работать с техническими деталями.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -80,7 +301,7 @@
     "salary": null,
     "short_description": "Mindly — технологическая компания, специализирующаяся на разработке цифровых продуктов для психического здоровья. Ищем Technical Product Manager для работы с платежной системой компании. Гибкий график, удалённая работа.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -126,7 +347,7 @@
     "salary": "до 470 000 руб. gross",
     "short_description": "Ищем опытного продукт-менеджера для онлайн-сервиса бухгалтерии Контур.Экстерн. Задачи включают оптимизацию customer journey, анализ рынка и конкурентов, поиск точек роста через тестирование гипотез. Требуется 5+ лет опыта в IT-продуктах с аудиторией 500k+ в сегменте малого бизнеса.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -156,7 +377,7 @@
     "salary": null,
     "short_description": "X5 Tech разрабатывает цифровые решения для розничных сетей Пятёрочка, Перекрёсток и Чижик. Роль связана с разработкой агентных коммерческих решений.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -186,7 +407,7 @@
     "salary": null,
     "short_description": "Space307 is an international full-cycle product IT company specializing in fintech solutions with a high-load trading platform for retail brokers. The role requires upper-intermediate English and Russian language skills and offers flexible working hours.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -222,7 +443,7 @@
     "salary": null,
     "short_description": "Nebius is an AI cloud infrastructure platform for developers to build, train, and deploy generative AI apps and ML models. The role focuses on agentic search products in a secure, high-performance environment with flexible working hours.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -252,7 +473,7 @@
     "salary": "$1,5K",
     "short_description": "ITDEAL GROUP is a full-cycle international studio specializing in custom digital product development and business automation. The role involves working with a team dedicated to creating digital solutions for clients.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -282,7 +503,7 @@
     "salary": null,
     "short_description": "Поиск PM для платформы мультивалютных сервисов в одном из крупнейших онлайн-банков России. Контакт: Наталья Петрова через LinkedIn.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -317,7 +538,7 @@
     "salary": null,
     "short_description": "AI-стартап ищет опытного PM с фокусом на GenAI, LLM и AI-ассистентов. Требуется опыт с подписочными моделями, продуктовой аналитикой и метриками LTV, Retention, Churn, а также умение запускать продукты на ранних стадиях.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -361,7 +582,7 @@
     "salary": null,
     "short_description": "Поиск опытного Product Owner с 7+ лет в банковской сфере и 5+ лет с эмиссионными продуктами (карты, кошельки). Требуется управление разработкой и выводом на рынок банковских сервисов в мобильном приложении телекома, координация со стейкхолдерами и анализ продуктов после запуска.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -402,8 +623,16 @@
     "remote": true,
     "salary": "до 470 000 ₽",
     "short_description": "Ищут опытного PM для онлайн-сервиса для бухгалтеров в экосистеме Контур. Требуется 5+ лет опыта управления IT-продуктами с аудиторией 500k+ в сегменте малого бизнеса и опыт работы с активационными механиками.",
-    "duplicates": [],
-    "is_new": true,
+    "duplicates": [
+      {
+        "channel_username": "product_jobs",
+        "channel_title": "Вакансии для продактов и проджектов",
+        "link": "https://t.me/product_jobs/2082",
+        "date_iso": "2026-07-04T06:55:54+00:00",
+        "channel_id": 1205373966
+      }
+    ],
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -459,7 +688,7 @@
         "channel_id": 2667909413
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -14448,7 +14677,7 @@
     "short_description": "B2C product manager role requiring 3+ years of experience with proven successful cases. Must handle full product cycle, conduct customer development and user research, and work confidently with SQL and data.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -14478,7 +14707,7 @@
     "short_description": "Ищем опытного PM для направления Единый кредитный лимит. Требуется опыт разработки сложных технических платформ и работа с большими командами разработки. Необходимы навыки проведения клиентских исследований и анализа ключевых метрик продукта.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -14514,7 +14743,7 @@
     "short_description": "Ищем продакт-менеджера с опытом в ML/AI-продуктах (от 3 лет) или техническим бэкграундом для работы с направлением Computer-use agent. Требуется опыт внедрения продуктов с измеримым влиянием на бизнес-метрики и знание основ машинного обучения.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -14568,7 +14797,7 @@
     "short_description": "Компания разрабатывает аппаратную часть и ПО для телекоммуникационного оборудования: GPON, Ethernet-коммутаторы, сервисные маршрутизаторы, Wi-Fi оборудование, VoIP-шлюзы и решения для Умного дома.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -14598,7 +14827,7 @@
     "short_description": "Ищем опытного продакт-менеджера в команду Гастроном с более чем 3 годами опыта в роли PM. Требуется успешный опыт создания и реализации стратегии, работа с медиа, контентными продуктами или e-commerce. Необходимы навыки запуска фич, анализа данных и приоритизации бэклога.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -14640,7 +14869,7 @@
     "short_description": "Развитие B2B Enterprise продукта в кабинета управления организацией Яндекс 360. Требуется опыт более трёх лет в продуктовых ролях B2B или администрирования продукта.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -14670,7 +14899,7 @@
     "short_description": "Должность в системном интеграторе, специализирующемся на проектировании и внедрении государственных информационных систем для задач цифровизации в рамках федеральных проектов, включая критическую информационную инфраструктуру.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -14700,7 +14929,7 @@
     "short_description": "PayLater - финтех-сервис для оплаты товаров и услуг в рассрочку онлайн и офлайн. Микрофинансовая организация работает с POS-кредитами, кредитами наличными и платежами частями для более 400 клиентов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -14778,7 +15007,7 @@
     "short_description": "Владелец AI-продукта от идеи до запуска и коммерциализации. Требуется понимание технологий RAG и LLM, формирование стратегического видения и анализ рынка.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -14820,7 +15049,7 @@
     "short_description": "Формировать стратегию рекламного продукта в рекомендательных системах. Управлять жизненным циклом ML-рекомендаций от гипотез до A/B-тестов. Балансировать между бизнес-целями, пользовательским опытом и этичностью рекламы.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -14862,7 +15091,7 @@
     "short_description": "Развитие продукта «Вклады и накопительные счета» в финтех компании. Роль включает формирование продуктовой стратегии, управление бэклогом и сотрудничество с командой разработки на основе исследований и клиентских данных.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -14904,7 +15133,7 @@
     "short_description": "Команда работает над витриной первичной недвижимости в Домклике — продукте, обеспечивающем полный цикл операций с недвижимостью на Web, iOS и Android.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -14982,7 +15211,7 @@
     "short_description": "Разработка и актуализация стандартов цифровой концепции жилой и коммерческой недвижимости. Контроль соблюдения стандартов на всех этапах жизненного цикла проектов. Анализ рынка ПО для УК и умных зданий.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15018,7 +15247,7 @@
     "short_description": "Цифровой партнёр, специализирующийся на выводе брендов на рынки Латинской Америки. Ищем Head of P2P для расширения команды и усиления направления.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15054,7 +15283,7 @@
     "short_description": "Разработка развлекательного продукта на стыке ПО и аппаратного обеспечения. Формирование видения, дорожной карты, проработка пользовательских сценариев, интерфейсов и алгоритмов взаимодействия устройств. Управление внешними подрядчиками.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15084,7 +15313,7 @@
     "short_description": "Руководство направлением Ready for SberOS — программой подтверждения совместимости ПО, оборудования и технологических решений с SberOS. Систематизация существующей практики и трансформация процесса в промышленный стандарт внутри продуктовой команды.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -15120,7 +15349,7 @@
     "short_description": "Руководство полным циклом продукта в сегменте Partners & Distribution с командой из 3500+ агентов в 7000+ магазинах. Работа с командой Sales & Field Ops и P&D tech team, рост 3x YoY, запуск новых форматов магазинов и финансовых продуктов по Филиппинам.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15198,7 +15427,7 @@
     "short_description": "Развиваем комплексные решения по видеонаблюдению и видеоаналитике для В2В сегмента. Строим экосистему, которая объединяет все продукты рынка безопасности и помогает клиентам в оптимизации процессов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
@@ -15272,7 +15501,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -15332,7 +15561,7 @@
     "short_description": "CPO для развития финансовых продуктов МФО. Требуется опыт в финтехе, улучшение клиентского пути, повышение конверсии и влияние на ключевые продуктовые метрики.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -23997,6 +24226,13 @@
         "link": "https://t.me/forproducts/10086",
         "date_iso": "2026-07-02T13:55:57+00:00",
         "channel_id": 1093073202
+      },
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/13028",
+        "date_iso": "2026-07-03T12:54:56+00:00",
+        "channel_id": 2667909413
       }
     ],
     "is_new": false,
