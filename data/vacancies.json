@@ -1,5 +1,190 @@
 [
   {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 560,
+    "date_iso": "2026-07-06T09:27:39+00:00",
+    "text": "🚕 Product manager Яндекс Go\n\n▪️Компания Яндекс\n▪️Домен #BigTech \n▪️Грейд #Middle #Senior\n▪️Формат #ОфисМосква\n\nСнова ищу к себе в команду креативного и бодрого продакта, который будет драйвить рост сервисов внутри GO.\n\nТак что если вы сильны в Growth-механиках, шарите за персонализацию и любите комбинировать некомбинируемое, то велкам!\n\nМы ждём, что вы\n- Работали продактом от трёх лет, желательно с опытом в росте, активациях, онбордингах или кросс-сервисных продуктах\n- Обладаете хорошим продуктовым вкусом и умеете придумывать механики и поверхности с нуля\n- Умеете быстро и с минимальными затратами проверять гипотезы о проблемах, возможностях и решениях\n- Не боитесь брать в работу объёмные и сложные задачи с высокой степенью неопределённости\n- Уверены в необходимости тестирования каждого решения\n- Готовы нести ответственность за выпущенный продукт\n- Способны грамотно оценивать продуктовые возможности, стратегию и тактику развития\n- Эффективно взаимодействуете с fullstack-командами разработки, дизайна и маркетинга\n\nСсылка на пост LinkedIn  \nСсылка на вакансию\n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 6,
+        "url": "https://ya.ru/?npr=1&utm_referrer=https%3A%2F%2Fyandex.ru%2F"
+      },
+      {
+        "type": "text_url",
+        "offset": 1030,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/nikita-kozhukhanov-52607316a_%D0%B8-%D1%81%D0%BD%D0%BE%D0%B2%D0%B0-%D0%B8%D1%89%D1%83-%D0%BA-%D1%81%D0%B5%D0%B1%D0%B5-%D0%B2-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%83-%D0%BA%D1%80%D0%B5%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE-share-7473094347086024704-h992/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1056,
+        "length": 18,
+        "url": "https://yandex.ru/jobs/vacancies/prodaktmenedzher-vnutrenney-distributsii-servisov-v-komandu-superappa-yandeks-go-46424"
+      },
+      {
+        "type": "text_url",
+        "offset": 1078,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1079,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 1110,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/560",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Яндекс Go",
+    "company": "Яндекс",
+    "location": "Москва",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Ищу продакта в команду для драйва роста сервисов внутри Яндекс Go. Нужен опыт в growth-механиках, персонализации и кросс-сервисных продуктах. Работа с fullstack-командами разработки, дизайна и маркетинга на быстром тестировании гипотез и принятии ответственности за выпущенный продукт.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1456,
+    "date_iso": "2026-07-05T13:48:56+00:00",
+    "text": "2 вакансии Senior Продакт менеджера в Ozon Банк \n\nВсе для роста в профессии продакта – https://t.me/FreshProductGo/1808\n\nРеферальная программа \"Приведи друга\" (MGM)\nЗадачи:\n• Определять метрики продукта и строить гипотезы на основе полученных данных\n• Проводить полный цикл дискавери\n• Быстро тестировать гипотезы в формате MVP и проводить А/B-эксперименты\n• Полное управление стратегией направления\n\nОнлайн-идентификация (B2C/B2B)\nЗадачи:\n• Прямое влияние на результаты привлечения по всему банку\n• Руководить кросс-функциональной командой\n• Полное управление стратегией направления\n\nРекрутер: @anokhinaar\n\nКанал Вакансии в МАХ - https://max.ru/productjobgo",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 87,
+        "length": 32
+      },
+      {
+        "type": "url",
+        "offset": 631,
+        "length": 27
+      }
+    ],
+    "link": "https://t.me/productjobgo/1456",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "Ozon Bank",
+    "location": null,
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Два направления: онлайн-идентификация (B2C/B2B) и развитие продукта с полным управлением стратегией. Полный цикл дискавери, тестирование гипотез через MVP и A/B-эксперименты, руководство кросс-функциональной командой.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1674506295,
+    "channel_username": null,
+    "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+    "msg_id": 6180,
+    "date_iso": "2026-07-05T12:19:40+00:00",
+    "text": "Lead Product Manager, Data Sources в Truv: https://www.remocate.app/jobs/lead-product-manager-data-sources-truv\n\nМожно работать удалённо. Зарплата в валюте.\n\nПри отклике укажите, что нашли вакансию на Remocate.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 43,
+        "length": 68
+      }
+    ],
+    "link": "https://t.me/c/1674506295/6180",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Lead Product Manager, Data Sources",
+    "company": "Truv",
+    "location": null,
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Lead Product Manager role focused on data sources at Truv. Remote position with salary offered in currency.",
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/13120",
+        "date_iso": "2026-07-05T12:32:19+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 558,
+    "date_iso": "2026-07-05T11:05:26+00:00",
+    "text": "💳 Product Manager Ozon Банк\n\n▪️Компания Ozon Банк\n▪️Домен #FinTech\n▪️Грейд #Middle #Senior\n▪️Формат #ОфисМосква\n\nИщем 2 продактов в Ozon Банк\n- Реферальная программа \"Приведи друга\" \n- Онлайн-идентификация (B2C/B2B)\n\nТебя ждёт:\n— Прямое влияние на PnL: каждый процент конверсии моментально отражается на бизнес-результатах всего банка\n— Разработка и запуск инновационных способов идентификации\n— Полное управление стратегией направления, а не просто «запуск фичи»\n— Компенсация не ниже рынка\n\nМы ожидаем: \n— Опыт в продукте от 3 лет\n— Опыт самостоятельной постановки и выполнения целей\n— Опыт положительного влияния на PnL продукта\n— Прикладной опыт запуска A/B-тестов\n— Подтвержденный опыт управления кросс-функциональной командой и приоритизации бэклога \n\nЕсли хочешь делать большой продукт и видеть эффект от своих решений — пиши Саше в ТГ @anokhinaar\n\nСсылка на пост LinkedIn  \n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 9,
+        "url": "https://finance.ozon.ru/"
+      },
+      {
+        "type": "text_url",
+        "offset": 857,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/nikita-grishin-547955233_%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%BC%D1%8B-%D0%B8%D1%89%D0%B5%D0%BC-2-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D0%B2-%D0%B2-ozon-%D0%B1%D0%B0%D0%BD%D0%BA-share-7478715604942696448-Qi9B/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 886,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 887,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 918,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/558",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Middle/Senior",
+    "company": "Ozon Банк",
+    "location": "Москва",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Ищем двух продакт-менеджеров для работы с реферальной программой и онлайн-идентификацией в FinTech. Полное управление стратегией направления с прямым влиянием на PnL банка и разработкой инновационных решений идентификации.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 2667909413,
     "channel_username": "ITjobsFeed",
     "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
@@ -26,7 +211,7 @@
     "salary": null,
     "short_description": "CPO role for iGaming/betting company with focus on sportsbook vertical and Tier 1 European markets. Requires deep expertise in iGaming platforms, White Label solutions, affiliate marketing, and experience scaling high-volume products with strong data-driven and people management capabilities.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -74,7 +259,7 @@
     "salary": "до 300к ₽",
     "short_description": "International SaaS go-to-market specialist needed for Appbooster. Strong team with maximum impact and minimal bureaucracy. Seeking hands-on experience in B2B SaaS expansion, GTM strategy validation, content marketing, and data-driven growth with AI experimentation.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -122,7 +307,7 @@
     "salary": null,
     "short_description": "Два направления в финтех-департаменте WB: технический PM для B2B-кредитов (управление продуктами кредитования для селлеров) и PM для мультифакторной платформы (стратегия, метрики, бэклог). Требуется опыт в финтех/кредитных продуктах и умение работать со сложными бизнес-, регуляторными и техническими задачами.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -176,7 +361,7 @@
     "salary": null,
     "short_description": "Ищется CPO для развития продукта в категории Photo & Video с фокусом на интеграцию Gen AI и ML технологий. Задачи включают стратегию развития продукта, рост ключевых метрик (ARPU, C1, C2, LTV, Retention), монетизацию и построение продуктовой культуры в международном B2C мобильном приложении.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -205,7 +390,7 @@
     "salary": null,
     "short_description": "Game development company hiring an Associate Product Manager. Role offers flexibility with remote work globally or relocation options to US or UK offices.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -12773,7 +12958,7 @@
     "short_description": "Три вакансии для Product Manager в команде Цифра банка. Направления: платформа OMNI, ID + DWH, сайты, онбординг и дизайн-система. Уровень middle/middle+.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12803,7 +12988,7 @@
     "short_description": "Руководство продуктовым направлением «Доходность зарплатных проектов и кросс-продажи» в банковской сфере. Ответственность за формирование и приоритизацию продуктового бэклога, реализацию улучшений и анализ конкурентов для повышения доходности.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12833,7 +13018,7 @@
     "short_description": "Управление платформой Advisory для инвестиционных стратегий. Роль направлена на развитие продукта и достижение лидерства на рынке управления капиталом.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12869,7 +13054,7 @@
     "short_description": "Развитие AI-продуктов на стыке продукта, данных и инфраструктуры. Опыт работы с LLM, генеративными моделями и агентными системами требуется.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12923,7 +13108,7 @@
     "short_description": "Развитие инновационной продуктовой платформы. Запуск и поддержка продуктовых страниц, разработка сценариев использования и пользовательских путей, анализ поведения.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12965,7 +13150,7 @@
     "short_description": "Развитие инфраструктурного контейнерного облака Яндекса. Управление более 100 тысячами серверов и 50 тысячами приложений с миллионом контейнеров.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -12995,7 +13180,7 @@
     "short_description": "Zexter is an international IT company developing platforms for iGaming and betting. The role requires B2+ English proficiency, with Spanish or Portuguese as a bonus.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -13031,7 +13216,7 @@
     "short_description": "Разработка геймифицированных B2C-решений, рекламных форматов и интеграций для B2B-партнёров. Управление программой лояльности с баллами Плюса.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -13061,7 +13246,7 @@
     "short_description": "IT-компания, специализирующаяся на разработке высоконагруженных B2B веб-сервисов для автоматизации e-commerce. Гибкий график работы.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -13097,7 +13282,7 @@
     "short_description": "TBC Nasiya is a fast-growing BNPL business within TBC Uzbekistan, a leading digital banking ecosystem in Central Asia. The role requires fluency in Russian and Uzbek with English as an advantage.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -13127,7 +13312,7 @@
     "short_description": "GigaChat is a generative AI model and AI assistant developed by Sber, one of Russia's largest artificial intelligence projects. The role involves product management for a cutting-edge generative AI platform.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -13157,7 +13342,7 @@
     "short_description": "IT-компания, лидер в цифровых решениях для фармацевтического рынка. Разработка Enterprise SaaS-платформ, включая мобильную CRM-систему и платформу маркетинговой автоматизации.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -13198,7 +13383,7 @@
     "short_description": "Три позиции Senior/Lead Product Manager для GigaChat с опытом B2C на миллионы пользователей и работой с LLM-продуктами. Требуется доказанный импакт и лидерские навыки.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -13258,7 +13443,7 @@
     "short_description": "Ищем CPO для развития продукта Litebox. Необходимо выстроить систему развития продукта: диагностика текущего состояния, поиск точек роста и их монетизация.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -13294,7 +13479,7 @@
     "short_description": "Delivery Hero is one of the world leaders in online ordering and fast delivery. The role involves managing the quick commerce product vertical (DMarts). Additional details are available in the linked LinkedIn post.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -13324,7 +13509,7 @@
     "short_description": "Развитие продуктового vision нового мобильного приложения банка, определение целевой модели клиентского опыта и ключевых customer journeys. Управление backlog'ом продукта, приоритизация бизнес-требований и формирование roadmap.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -13372,7 +13557,7 @@
     "short_description": "Лидер core-бизнеса ЦИАН, ответственность за развитие сервисов вторичного рынка недвижимости и механизмов балансирования ликвидности, монетизации и пользовательского опыта.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
@@ -13416,7 +13601,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -13446,7 +13631,7 @@
     "short_description": "Лидер трайба по платежам и управлению денежными средствами в финтех-банке. Роль сочетает управление продуктом, стратегию и руководство командой с фокусом на рост доходов и опыт клиентов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -13482,7 +13667,7 @@
     "short_description": "Cleverbridge is an international ecommerce and billing platform. The role involves product management for their platform offerings.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -13524,7 +13709,7 @@
     "short_description": "Анализ и оптимизация цифрового пути B2B клиентов. Формирование технических требований и приоритизация бэклога совместно с командой разработки. Координация работы дизайнеров, аналитиков и маркетологов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -13578,7 +13763,7 @@
     "short_description": "Переосмысление внутренней поддержки (Helpy и Service Desk) с переходом от AI-Enabled к AI-First подходу. Работа с RAG, MCP, агентами и мультиагентными системами для поддержки десятков тысяч сотрудников Яндекса с учетом языковых, юридических и законодательных особенностей разных регионов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -13638,7 +13823,7 @@
     "short_description": "Аудит и оптимизация бизнес-процессов контактного центра. Формулирование гипотез по автоматизации и подготовка требований по доработкам CRM-системы.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -13674,7 +13859,7 @@
     "short_description": "Развитие AI-продукта для массового сегмента, который автоматизирует финансовые задачи клиентов. Продукт на стадии POC, требуется лидер для масштабирования от proof-of-concept к готовому решению.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -13704,7 +13889,7 @@
     "short_description": "Freedom Lifestyle Group ищет Middle Product Manager с опытом в MedTech для работы в экосистемном IT- и лайфстайл-дивизионе международного холдинга Freedom Holding Corp.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
