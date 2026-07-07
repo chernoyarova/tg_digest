@@ -3,6 +3,208 @@
     "channel_id": 2823702878,
     "channel_username": "jobs_product_managers",
     "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 563,
+    "date_iso": "2026-07-07T07:46:47+00:00",
+    "text": "👨‍💻 Product Manager Rooh Co\n\n▪️ Компания Rooh Co\n▪️Домен #HealthTech \n▪️Грейд #Middle #Senior\n▪️Формат #УдаленкаМир\n\nМы расширяем команду и сейчас ищем Product Manager в команду Rooh Co. \n\nМы развиваем мобильные и веб-продукты в нишах Lifestyle, Health и Utilities для глобальных рынков. Сейчас ищем продакта, который любит быстрые запуски, умеет работать с метриками и не боится брать ownership за продуктовые решения.\n\nЧто предстоит делать:\n— участвовать в запуске новых продуктов и направлений: от анализа ниши до первых метрик;\n— вести продуктовую воронку end-to-end: acquisition, activation, monetization, retention;\n— формулировать гипотезы, запускать A/B-тесты и делать выводы на основе данных;\n— работать с LTV/CAC, окупаемостью по странам и юнит-экономикой;\n— участвовать в решениях по paywall, pricing и upsell-механикам;\n— вести бэклог, приоритизировать задачи и координировать работу с дизайном и разработкой.\n\nЧто важно:\n— AI для тебя уже часть ежедневной работы, а не просто эксперимент;\n— ты быстро разбираешься в новых темах, инструментах и процессах;\n— умеешь самостоятельно доводить задачи до результата;\n— структурно работаешь с документацией, задачами и неопределенностью;\n— хорошо понимаешь продуктовую аналитику: events, funnels, conversion rates.\n\nБудет плюсом опыт с iOS-приложениями, PWA, web-to-app воронками, контентными продуктами.\n\nСо своей стороны предлагаем сильную команду, быстрый темп, реальное влияние на продуктовые решения и возможность запускать продукты, которые быстро проверяются рынком.\nФормат: remote, full-time.\n\nСсылка на пост LinkedIn  \nСсылка на вакансию\n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1559,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/yana-shcherbakova_%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%BC%D1%8B-%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D1%8F%D0%B5%D0%BC-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%83-%D0%B8-%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81-%D0%B8%D1%89%D0%B5%D0%BC-share-7478790235577974784-_w0u/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1585,
+        "length": 18,
+        "url": "https://rooh.peopleforce.io/careers/v/214706-product-manager-middle?source_id=45504"
+      },
+      {
+        "type": "text_url",
+        "offset": 1607,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1608,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 1639,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/563",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager (Middle/Senior)",
+    "company": "Rooh Co",
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Развитие мобильных и веб-продуктов в нишах Lifestyle, Health и Utilities для глобальных рынков. Участие в запуске новых продуктов, управление продуктовой воронкой end-to-end (acquisition, activation, monetization, retention), работа с метриками, A/B-тестами и юнит-экономикой. Требуется опыт с AI, аналитикой, iOS-приложениями и работой с неопределенностью.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 562,
+    "date_iso": "2026-07-06T15:56:18+00:00",
+    "text": "🛍 Продакт-менеджер Авито\n\n▪️Компания Авито\n▪️Домен #BigTech #Classified\n▪️Грейд #Middle #Senior\n▪️Формат #УдаленкаРФ\n\nИщу продакт-менеджера в свою команду, которая отвечает за опыт селлеров на Авито.\n\nКаждый день сотни тысяч продавцов на Авито решают: почему объявление не продаётся, стоит ли поднимать его в топ, куда уходит бюджет на продвижение. Мы делаем так, чтобы эти решения принимались на основе данных, а не интуиции. \nНаша ключевая задача - закрывать потребности продавцов в аналитических инструментах и помогать им понять, какие действия лучше всего растят их бизнес на Авито.\n\nЭто продукт на стыке аналитики, монетизации и глубокого понимания B2B/B2C-пользователя.\n\nСсылка на пост LinkedIn  \nСсылка на вакансию\n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 38,
+        "length": 5,
+        "url": "https://career.avito.com/"
+      },
+      {
+        "type": "text_url",
+        "offset": 679,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/prikhodkoo_%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D0%B2-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%83-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8-share-7478770468548743168-CcHk/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 705,
+        "length": 18,
+        "url": "https://career.avito.com/vacancies/upravlenie-produktom/19607/"
+      },
+      {
+        "type": "text_url",
+        "offset": 727,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 728,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 759,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/562",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Middle/Senior",
+    "company": "Авито",
+    "location": "Россия, удаленка",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Продакт-менеджер в команду, отвечающую за опыт селлеров. Команда разрабатывает аналитические инструменты, которые помогают сотням тысяч продавцов принимать решения о продвижении объявлений на основе данных. Продукт находится на пересечении аналитики, монетизации и B2B/B2C-опыта пользователя.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1457,
+    "date_iso": "2026-07-06T13:03:31+00:00",
+    "text": "Продакт-менеджер в стрим «сделка» в ЛЭТУАЛЬ\n\nГотовые фреймворки и исследования от команды редакции - по ссылке.\nРазборы в текстовом формате! Доступны тут https://boosty.to/sergekoloskov\n\nОсновные зоны ответственности: -повышение конверсии из корзины в покупку, за счет отсутствия барьеров к оформлению заказа, наличия удобных вариантов получения заказа и актуальных способы оплаты.\n-Способы получения, оплаты и пост сервисы). \n\nОбязателен опыт взаимодействия с подразделениями логистики и доставкой последней мили  (будет являться большим преимуществом), так как основные задачи ближайший год будут сконцентрированы в данной зоне.\nОсновными партнерами являются логистика, финансовый и юридический департамент.\n\nФормат: Гибридный формат работы (Москва, офис в БЦ «Лотос», м. Нахимовский проспект), 1-2 раза в неделю \n\nВопросы и резюме: @e_vetkasova\n\nКанал Вакансии в МАХ - https://max.ru/productjobgo",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 104,
+        "length": 6,
+        "url": "https://gem-shaker-6ab.notion.site/Product-market-Lab-1b855ffe314a8032a8d2ddbfc0db8717"
+      },
+      {
+        "type": "url",
+        "offset": 154,
+        "length": 31
+      },
+      {
+        "type": "url",
+        "offset": 872,
+        "length": 27
+      }
+    ],
+    "link": "https://t.me/productjobgo/1457",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Stream Deal",
+    "company": "ЛЭТУАЛЬ",
+    "location": "Москва, гибрид",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Стрим посвящен повышению конверсии из корзины в покупку через оптимизацию способов получения и оплаты заказа. Основные задачи сконцентрированы на логистике и доставке последней мили. Работа с подразделениями логистики, финансовым и юридическим департаментом.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 561,
+    "date_iso": "2026-07-06T12:18:49+00:00",
+    "text": "👨‍💻 Product Manager FinTech\n\n▪️Домен #FinTech\n▪️Грейд #Middle\n▪️Формат #УдаленкаРФ\n\nИщу к себе в команду Origination.\nMiddle Product Manager с опытом в Доставке в fintech / e-com. Опыт работы с партнерами / агрегаторами доставок - жирный плюс.\n\nОсновной вызов -  трансформация Delivery платформы для роста delivery rate при снижении стоимости\n\nСамое важно про вакансию:\n- Банк из топ 10\n- Несколько сильных IT команд Продуктовых инженеров\n- Удаленка есть, офис есть \n\nПишите, пжлста, в TG @Erofeeva_Anna\n\nСсылка на пост LinkedIn  \n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 507,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/%D0%BD%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D0%B5%D0%B2_%D0%B8%D1%89%D1%83-%D0%BA-%D1%81%D0%B5%D0%B1%D0%B5-%D0%B2-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%83-origination-middle-share-7478720249622597632-WZTd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 536,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 537,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 568,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/561",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle Product Manager, FinTech",
+    "company": null,
+    "location": "Россия, гибрид",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Поиск Middle Product Manager в команду Origination финтех-банка топ-10. Нужен опыт в доставке, работе с партнерами и агрегаторами. Основной фокус - трансформация Delivery платформы для увеличения delivery rate и снижения стоимости.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
     "msg_id": 560,
     "date_iso": "2026-07-06T09:27:39+00:00",
     "text": "🚕 Product manager Яндекс Go\n\n▪️Компания Яндекс\n▪️Домен #BigTech \n▪️Грейд #Middle #Senior\n▪️Формат #ОфисМосква\n\nСнова ищу к себе в команду креативного и бодрого продакта, который будет драйвить рост сервисов внутри GO.\n\nТак что если вы сильны в Growth-механиках, шарите за персонализацию и любите комбинировать некомбинируемое, то велкам!\n\nМы ждём, что вы\n- Работали продактом от трёх лет, желательно с опытом в росте, активациях, онбордингах или кросс-сервисных продуктах\n- Обладаете хорошим продуктовым вкусом и умеете придумывать механики и поверхности с нуля\n- Умеете быстро и с минимальными затратами проверять гипотезы о проблемах, возможностях и решениях\n- Не боитесь брать в работу объёмные и сложные задачи с высокой степенью неопределённости\n- Уверены в необходимости тестирования каждого решения\n- Готовы нести ответственность за выпущенный продукт\n- Способны грамотно оценивать продуктовые возможности, стратегию и тактику развития\n- Эффективно взаимодействуете с fullstack-командами разработки, дизайна и маркетинга\n\nСсылка на пост LinkedIn  \nСсылка на вакансию\n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
@@ -56,7 +258,7 @@
     "salary": null,
     "short_description": "Ищу продакта в команду для драйва роста сервисов внутри Яндекс Go. Нужен опыт в growth-механиках, персонализации и кросс-сервисных продуктах. Работа с fullstack-командами разработки, дизайна и маркетинга на быстром тестировании гипотез и принятии ответственности за выпущенный продукт.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -90,7 +292,7 @@
     "salary": null,
     "short_description": "Два направления: онлайн-идентификация (B2C/B2B) и развитие продукта с полным управлением стратегией. Полный цикл дискавери, тестирование гипотез через MVP и A/B-эксперименты, руководство кросс-функциональной командой.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -127,7 +329,7 @@
         "channel_id": 2667909413
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -181,7 +383,7 @@
     "salary": null,
     "short_description": "Ищем двух продакт-менеджеров для работы с реферальной программой и онлайн-идентификацией в FinTech. Полное управление стратегией направления с прямым влиянием на PnL банка и разработкой инновационных решений идентификации.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -12865,7 +13067,7 @@
     "short_description": "Монетизационный PM для игровой компании ChillBase. Отвечаете за стратегию и роадмап монетизации, работаете с данными поведения игроков, проводите эксперименты и развиваете команду. Требуется баланс между интересами игроков, экономикой игры и бизнес-результатами.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -12913,7 +13115,7 @@
     "short_description": "Экосистема с 91 млн пользователей в ВКонтакте, 45 млн в ВК Музыке и 2.7 млрд просмотров в ВК Видео ежедневно. Поиск опытных Product Manager и Product Lead для масштабных продуктов в B2B, B2C и Social E-commerce с фокусом на данные, понимание рынка и потребности пользователей.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
