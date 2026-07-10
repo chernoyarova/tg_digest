@@ -1,5 +1,368 @@
 [
   {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13387,
+    "date_iso": "2026-07-10T08:32:49+00:00",
+    "text": "Middle+/ Senior Product Manager в ATI. SU\n#MiddleProductManager #ProductManager #Middle+ #Senior #Гибрид #СанктПетербург #Офис #Job #Vacancy\n \nТребования:\nОпыт управления сложным B2C-продуктом с MAU > 20 000. Подтверждённые кейсы роста ключевых продуктовых и бизнес-метрик. Находить сильные продуктовые решения через исследование, гипотезы и их тестирование. Раскладывать продукт по юнит-экономике и вообще считать деньги и окупаемость своих инициатив. Сильны в аналитике и принимаете решения на данных. Будет большим плюсом, если вы: Работали с продуктами, где в принятии решений участвуют несколько сторон с разными интересами и ограничениями. Опыт формирования продуктовой стратегии в сложной среде. Разбираетесь в логистике, понимаете рынок автоперевозок, бизнес-процессы транспортных компаний и заказчиков разного масштаба.\n \nЛокация:📍Гибрид. Санкт-Петербург (2 дня в офисе).\n\nКонтакт для отклика: @hr_elenaatisu +CV\n \n👉 забрать special offer",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 928,
+        "length": 21,
+        "url": "https://t.me/JTBL_bot"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13387",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle+/Senior Product Manager",
+    "company": "ATI.SU",
+    "location": "Санкт-Петербург, гибрид",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Ищем опытного PM для управления сложным B2C-продуктом с 20k+ MAU. Требуется опыт с анализом юнит-экономики, формированием продуктовой стратегии в многостороннем окружении. Плюс будет опыт в логистике и транспортных рынках.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 566,
+    "date_iso": "2026-07-10T08:25:30+00:00",
+    "text": "❤ Product Manager Яндекс Путешествия\n\n▪️Компания Яндекс\n▪️Домен #BigTech #TravelTech\n▪️Грейд #Middle #Senior\n▪️Формат #ГибридМосква #ГибридСанктПетербург\n\nИщу к себе в команду Product Manager на международное направление Яндекс Путешествий.\n\nЧто в роли:\n— Отвечать за витрину из миллионов отелей в межнаре\n— Строить лучший на рынке клиентский опыт\n— Масштаб, при котором каждое продуктовое решение видно в метриках бизнеса\n\nОткликнуться по ссылке вакансии или напишите напрямую рекрутеру Галие в Telegram: @galiausmanova\n\nСсылка на пост LinkedIn  \nСсылка на вакансию\n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 49,
+        "length": 6,
+        "url": "https://ya.ru/?npr=1&utm_referrer=https%3A%2F%2Fyandex.ru%2F"
+      },
+      {
+        "type": "text_url",
+        "offset": 522,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/denlapaev_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0-%D0%B2-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5-share-7480565141269446656-35sM/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 548,
+        "length": 18,
+        "url": "https://www.linkedin.com/posts/denlapaev_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0-%D0%B2-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5-share-7480565141269446656-35sM/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 570,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 571,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 602,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/566",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Middle/Senior",
+    "company": "Яндекс",
+    "location": "Москва/Санкт-Петербург, гибрид",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Product Manager для международного направления Яндекс Путешествий. Отвечаете за витрину из миллионов отелей, строите клиентский опыт и работаете с масштабом, где каждое решение видно в метриках бизнеса.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13378,
+    "date_iso": "2026-07-10T07:13:32+00:00",
+    "text": "AI Product & Project Manager\nУдалённо\n\nСегодня AI является одним из ключевых направлений развития нашей компании. Мы активно внедряем AI-ассистентов, автоматизацию и интеллектуальные инструменты во внутренние процессы, а также разрабатываем AI-решения для наших клиентов.\nМы ищем AI Product Manager, который будет отвечать не только за успешную реализацию AI-проектов, но и за поиск наиболее ценных возможностей применения искусственного интеллекта, развитие AI-продуктов и достижение измеримых бизнес-результатов.\n\nТребования:\n— Опыт работы Product Manager, AI Product Manager, Project Manager или Operations Manager от 2 лет.\n— Практический опыт внедрения AI-решений или автоматизации бизнес-процессов.\n— Понимание возможностей и ограничений современных LLM (ChatGPT, Claude, Gemini и других).\n— Опыт проведения discovery и формирования продуктовых гипотез.\n— Умение определять MVP и приоритизировать развитие продукта.\n— Навык принятия решений на основе данных и бизнес-метрик.\n— Опыт взаимодействия с разработчиками, аналитиками и бизнес-стейкхолдерами.\n— Хорошие аналитические способности.\n— Опыт подготовки продуктовой и технической документации.\n— Разговорный английский язык - B2+ и выше.\n‍\nОбязанности:\n— Исследовать клиентские проекты, выявляя все возможности продукта, используя AI в своей работе.\n— Формировать продуктовые гипотезы и определять наиболее перспективные направления развития AI.\n— Проводить discovery и оценивать потенциальную бизнес-ценность AI-инициатив.\n— Определять MVP и roadmap развития клиентский продуктов.\n— Управлять полным жизненным циклом продуктов - от идеи до масштабирования.\n— Координировать работу разработчиков, инженеров, аналитиков и других участников команды.\n— Координация внедрения AI-ассистентов (ChatGPT, Claude, Gemini, кастомные AI-агенты) в свою работу и работу delivery команды.\n— Анализировать эффективность внедренных решений, используя продуктовые и бизнес-метрики (ROI, экономия времени, рост эффективности, пользовательская ценность).\n— Искать новые возможности применения AI для повышения эффективности бизнеса и создания конкурентных преимуществ.\n‍\nУсловия работы:\n— Интересные AI- и no-code проекты для международных клиентов.\n— Возможность влиять на развитие AI-направления компании.\n— Полностью удаленный формат работы с гибким началом рабочего дня.\n— Конкурентная заработная плата, привязанная к курсу доллара США; уровень дохода обсуждается индивидуально.\n— Возможности профессионального развития, обмена опытом и постоянного обучения современным AI-технологиям.\n\nОткликнуться в Telegram\nhttps://t.me/rapidev\n\n\nПонравилась вакансия?\n💛— да\n🌚— нет\n\n\n———\n\n💙 Удалёнка\n💚 Джунам\n💜 За рубежом\n🫶 Удалёнка джунам\n💚 Качнуть карьеру\n\nмы также есть там, куда всех хотят отправить — https://max.ru/it_vakansii_jobs",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 0,
+        "length": 28,
+        "url": "https://www.vseti.app/vakansii/3483348439340344304334344334"
+      },
+      {
+        "type": "url",
+        "offset": 2555,
+        "length": 20
+      },
+      {
+        "type": "text_url",
+        "offset": 2625,
+        "length": 8,
+        "url": "https://t.me/+WTtNhzCI17sxMWJh"
+      },
+      {
+        "type": "text_url",
+        "offset": 2637,
+        "length": 6,
+        "url": "https://t.me/+brT7qTygEw5iY2M6"
+      },
+      {
+        "type": "text_url",
+        "offset": 2647,
+        "length": 10,
+        "url": "https://t.me/+CFT5M4UKXF5mN2Ey"
+      },
+      {
+        "type": "text_url",
+        "offset": 2661,
+        "length": 15,
+        "url": "https://t.me/+-mVgBVugvv1jYmEy"
+      },
+      {
+        "type": "text_url",
+        "offset": 2680,
+        "length": 15,
+        "url": "https://mentors.vseti.app/"
+      },
+      {
+        "type": "url",
+        "offset": 2744,
+        "length": 31
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13378",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "AI Product Manager",
+    "company": null,
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Поиск AI Product Manager для разработки и внедрения AI-решений и автоматизации. Требуется опыт работы с LLM, проведение discovery, управление жизненным циклом продуктов от идеи до масштабирования, координация работы разработчиков и аналитиков для клиентских проектов.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13367,
+    "date_iso": "2026-07-09T17:05:07+00:00",
+    "text": "🔹 Chief Technology Officer / CTO\n🔹 Senior Backend Engineer\n🔹 Senior Product Manager\n🔹 Middle+ Product Designer\nMira is the first consumer AI agent inside Telegram, turning messaging into an execution layer — connecting memory, content creation, cryptographic tools, and real actions across apps and services.\nRemote work or office (Dubai, Yerevan, London, Belgrade).\nMore details in Daria Yakovleva's post on LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 0,
+        "length": 3,
+        "url": "https://top.co/careers/47093"
+      },
+      {
+        "type": "text_url",
+        "offset": 3,
+        "length": 30,
+        "url": "https://top.co/careers/45804"
+      },
+      {
+        "type": "text_url",
+        "offset": 37,
+        "length": 23,
+        "url": "https://top.co/careers/47069"
+      },
+      {
+        "type": "text_url",
+        "offset": 64,
+        "length": 22,
+        "url": "https://top.co/careers/47078"
+      },
+      {
+        "type": "text_url",
+        "offset": 90,
+        "length": 24,
+        "url": "https://top.co/careers/47093"
+      },
+      {
+        "type": "text_url",
+        "offset": 405,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/daria-yakovleva_mira-is-hiring-cto-backend-product-design-share-7479965704239255552-IFxl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13367",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "Mira",
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Mira is a consumer AI agent inside Telegram that turns messaging into an execution layer, connecting memory, content creation, cryptographic tools, and real actions across apps and services.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 565,
+    "date_iso": "2026-07-09T16:08:49+00:00",
+    "text": "🛍 Product Lead Avito\n\n▪️Компания Авито\n▪️Домен #BigTech #Classified\n▪️Грейд #Lead #Head\n▪️Формат #ГибридМосква\n\nИщу руководителя продуктового юнита опыта покупателя в Авито Товарах.\n\nЭто роль про полную ответственность за транзакционный путь покупателя на стыке продуктов Авито. Не про отдельный экран, фичу или локальную метрику, а про способность собрать разные сценарии, команды и ограничения в цельный опыт, который помогает пользователю дойти от интереса к товару до понятной, надежной и завершенной сделки.\n\nВ зоне ответственности: воронка, корзина, страница заказа, антифрод-механики и транзакционная платформа. Это один из ключевых продуктовых контуров Товаров: он влияет на миллионы покупателей и продавцов, экономику направления и способность Авито развивать транзакционную модель в масштабе.\n\nАвито — это территория, где классифайдные и транзакционные сценарии живут рядом. Здесь нельзя просто принести e-commerce playbook и ждать магии. Нужно строить собственный стандарт опыта покупателя: естественный для пользователя, масштабируемый для платформы и значимый для бизнеса.\n\nЭто роль для человека, которому интересно работать с продуктом уровня “почти всё уже придумано” и всё равно находить новые входы в воронку, новые механики покупки, новые способы повысить доверие, конверсию и завершенность сделки. Здесь цена решения сразу видна в поведении пользователей, деньгах и качестве опыта.\n\nВ прямом управлении: 3 команды и 3 продакта. Транзакционная платформа в личной ответственности: как конструктор для запуска транзакций в любом продукте Авито. Работа напрямую со мной: высокий уровень автономии, быстрый доступ к контексту и ожидание сильных самостоятельных решений.\n\nИщу зрелого лидера с амбициями, эмпатией, высокой скоростью погружения в контекст и мотивирующим менеджментом. Человека, который умеет видеть продукт как систему и превращать неопределенность в решения, команды и результат.\n\nЕсли узнали себя или хотите обсудить роль, пишите Наташе в Telegram: @NataliaGanyushkina\n\nСсылка на пост LinkedIn  \n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 34,
+        "length": 5,
+        "url": "https://career.avito.com/"
+      },
+      {
+        "type": "text_url",
+        "offset": 2001,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/alenamedvedeva_%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%B8%D1%89%D1%83-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-share-7480294108159217664-piQI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 2030,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 2031,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 2062,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/565",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Lead Product Manager, Customer Experience",
+    "company": "Avito",
+    "location": "Москва, гибрид",
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Руководство продуктовым юнитом опыта покупателя в Avito Товарах, отвечающим за полную транзакционную воронку: корзину, страницу заказа, антифрод-механики и транзакционную платформу. В управлении 3 продакта и 3 команды с высоким уровнем автономии и прямой работой с руководством.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13330,
+    "date_iso": "2026-07-09T10:36:55+00:00",
+    "text": "HEAD OF PRODUCT | RELOCATION TO SINGAPORE | AIRWALLEX #relocation #singapore #fulltime #itjob #product https://teletype.in/@courierus/6oiTlnbNYxS",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 103,
+        "length": 42
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13330",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of Product",
+    "company": "Airwallex",
+    "location": "Singapore",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Head of Product role at Airwallex requiring relocation to Singapore. Full-time position in the fintech/payments space.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10123,
+    "date_iso": "2026-07-09T10:20:04+00:00",
+    "text": "Senior Growth Product Manager\nв Контур — экосистема для бизнеса, помогающая каждой третьей компании России вести бухгалтерию, сдавать отчётность и обмениваться документами.\nУдалённая работа, гибрид или офис.\nОписание вакансии.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 208,
+        "length": 17,
+        "url": "https://kontur.ru/career/vacancies/5144"
+      }
+    ],
+    "link": "https://t.me/forproducts/10123",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Growth Product Manager",
+    "company": "Контур",
+    "location": "Россия, гибрид",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Экосистема для бизнеса, помогающая компаниям вести бухгалтерию, сдавать отчётность и обмениваться документами. Возможна удалённая работа, гибрид или работа в офисе.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10122,
+    "date_iso": "2026-07-09T09:59:58+00:00",
+    "text": "Chief Product Owner (кредитные продукты МСБ)\nв Bank CenterCredit — казахстанский коммерческий банк.\nИщет Адель Женгулова, её пост на LinkedIn.\n \nБольше вакансий для ТОПов: @forchiefs",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 125,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C-%D0%B6%D0%B5%D0%BD%D0%B3%D1%83%D0%BB%D0%BE%D0%B2%D0%B0-6711aa243_%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%B9-%D0%B4%D0%B5%D0%BD%D1%8C-%D0%B2%D1%81%D0%B5%D0%BC-%D0%BD%D0%B0%D1%85%D0%BE%D0%B6%D1%83%D1%81%D1%8C-%D0%B2-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B5-chief-share-7480568243380908032-uh7l/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10122",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Chief Product Owner, Кредитные продукты МСБ",
+    "company": "Bank CenterCredit",
+    "location": "Казахстан",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Развитие кредитных продуктов для малого и среднего бизнеса в казахстанском коммерческом банке. Руководство и стратегия продуктовой линии.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 1093073202,
     "channel_username": "forproducts",
     "channel_title": "Job for Products and Projects",
@@ -74,7 +437,7 @@
     "salary": null,
     "short_description": "ATI.SU создает инновационные IT-решения для логистического рынка, обслуживая грузовладельцев, перевозчиков, экспедиторов, водителей и владельцев складов. Компания ищет опытного PM для развития своей платформы в гибридном формате работы в Санкт-Петербурге.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -110,7 +473,7 @@
     "salary": null,
     "short_description": "Kolesa Group — крупная международная IT-компания, специализирующаяся на создании и развитии популярных онлайн-классифайдов. Ищет Middle Product Manager с фокусом на AI для работы в гибридном формате.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -140,7 +503,7 @@
     "salary": null,
     "short_description": "Zexter is a technology provider specializing in digital infrastructure for the entertainment industry. The role offers remote work and flexible schedule options.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -170,7 +533,7 @@
     "salary": null,
     "short_description": "X-Labs разрабатывает программное обеспечение для различных направлений бизнеса, включая искусственный интеллект, расширенную реальность и спорт.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -206,7 +569,7 @@
     "salary": null,
     "short_description": "Mira is the first consumer AI agent inside Telegram, turning messaging into an execution layer by connecting memory, content creation, cryptographic tools, and real actions across apps and services.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -236,7 +599,7 @@
     "salary": null,
     "short_description": "BigDataDuck is a software development company specializing in creating custom high-performance solutions. The company develops tailored software products with a focus on performance and scalability.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -266,7 +629,7 @@
     "salary": null,
     "short_description": "OSON — международный финтех-холдинг и система электронных платежей, предоставляющая решения для цифрового кошелька и онлайн-расчётов. Требуется свободное владение английским языком.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -308,7 +671,7 @@
     "salary": "до 470 000 ₽",
     "short_description": "Управление онлайн-сервисом Контур.Экстерн для бухгалтеров с фокусом на достижение финансовых метрик через оптимизацию клиентского пути. Требуется опыт 5+ лет в growth product management для крупных IT-продуктов с сегментом микро- и малого бизнеса.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -343,7 +706,7 @@
     "salary": null,
     "short_description": "Ищем Product Leader с 3+ годами опыта PM/PO для adult-проекта. Требуется владение Product-Led Growth подходом, продуктовой аналитикой (GA, Amplitude, Mixpanel) и опыт управления roadmap в Jira. Преимущество будет опыт в Dating, Mobile Apps или GameDev.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -384,7 +747,7 @@
     "salary": null,
     "short_description": "Развитие образовательных продуктов на стыке контента и AI: образование в Алисе, платформа ЕГЭ, тренажёры. Требуется опыт запуска B2C/B2B2C продуктов с ML/AI ядром и навыки в продуктовом discovery и работе с данными.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -413,7 +776,7 @@
     "salary": null,
     "short_description": "Growing B2C subscription product with AI-powered networking and collaboration matching. Work directly with CEO on activation, retention, and engagement metrics in a fast-iteration startup environment with high autonomy.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -449,7 +812,7 @@
     "salary": null,
     "short_description": "Яндекс Образование развивает бесплатные и коммерческие проекты в сфере IT, обучая программированию, анализу данных и технологическим профессиям. Позиция ориентирована на управление опытом пользователей в контексте образовательных продуктов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -491,7 +854,7 @@
     "salary": null,
     "short_description": "Bitlica is a developer and publisher of mobile applications in utilities and entertainment. The role focuses on product growth for web2web initiatives.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -11887,7 +12250,7 @@
     "short_description": "Управление конверсией и аналитикой воронок продаж. Разработка систем аналитики для управления конверсиями, внедрение стратегий роста на всех этапах клиентского пути, анализ и совершенствование пользовательских путей.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -11929,7 +12292,7 @@
     "short_description": "AI-лаборатория строит продукты с нуля, начиная с AI-репетитора по математике для ЕГЭ. Ищем Product Director/CPO с опытом запуска образовательных продуктов (ЕГЭ/ОГЭ), готового работать самостоятельно: CustDev, проектирование, прототипирование, тестирование гипотез и анализ метрик. AI-native подход, прямое влияние на развитие продукта.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -11952,7 +12315,7 @@
     "short_description": "Ассистент руководителя проектов в крупных IT и AI проектах Ближнего Востока. Работа включает поддержку PM, контроль сроков, подготовку документации, пресейл-активности и коммуникации с госсектором и корпорациями стран GCC. Позиция предполагает быстрый трек развития до полноценного PM или бизнес-аналитика в международной команде.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -12065,7 +12428,7 @@
     "short_description": "Стажировка в Яндексе на 3 месяца. Работа с данными, продуктовыми фичами, требованиями и метриками. Менторство и программа сопровождения стажировки в профессиональной команде.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12153,7 +12516,7 @@
     "short_description": "Компания разрабатывает CAD/CAM оборудование и цифровые протоколы для стоматологических клиник и зуботехнических лабораторий. Ищем специалиста, способного работать со сложными технологическими продуктами и длинными циклами продаж.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12183,7 +12546,7 @@
     "short_description": "Product Owner для R&D команды с опытом запуска и масштабирования продуктов. Требуется понимание полного цикла разработки продукта, работа с данными о пользователях и построение CJM.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12213,7 +12576,7 @@
     "short_description": "Разработка продуктовой стратегии AI-решений совместно с техническими лидерами. Управление метриками CSI пользователей и TTM, организация работы с обратной связью для оптимизации продукта.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12291,7 +12654,7 @@
     "short_description": "Развитие системы, автоматизирующей процесс регистрации и оценки технологических рисков. Сервис самооценки технорисков — инструмент аналитики и оценки рисков, направленный на снижение количества ручных операций и повышение прозрачности работы с рисками.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -12327,7 +12690,7 @@
     "short_description": "Lamoda — один из крупнейших в России и СНГ онлайн-ритейлеров. Ищет Senior AI Product Manager для развития AI-продуктов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -12369,7 +12732,7 @@
     "short_description": "Product Owner в быстрорастущий банк на два направления: daily banking и BNPL. Работа в мультинациональной команде с прямым влиянием на P&L продукта. Компания предоставляет поддержку в релокации.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1113141406,
@@ -12411,7 +12774,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12447,7 +12810,7 @@
     "short_description": "Стажировка в продуктовую команду компании, которая разрабатывает технологии и сервисы для российского медиарекламного рынка. Позиция предполагает подготовку будущего специалиста в области управления продуктом.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12495,7 +12858,7 @@
     "short_description": "Команда управления сохранением клиентской базы ищет специалиста для работы на стыке анализа данных, продуктов и стратегии. Роль фокусируется на влиянии на ключевую метрику бизнеса – отток, запуск инициатив с измеримым эффектом.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -12543,7 +12906,7 @@
     "short_description": "Разработка стратегии и управление внутренними AI-продуктами, включая AI-assisted development и интеграционный слой для работы с корпоративными данными. Работа с инженерными командами над архитектурой продуктов, определение метрик и управление roadmap.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12579,7 +12942,7 @@
     "short_description": "E-grocery-сервис с быстрой доставкой из дарксторов. Требуется опыт от двух лет для обеспечения роста Лавки и ключевых пользовательских сценариев.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -12633,7 +12996,7 @@
     "short_description": "Направление инфраструктурных решений на базе AI-агентов для автоматизации инженерных процессов. Разработка AI-assisted development продуктов (кодовые ассистенты, генерация кода), интеграционного слоя для работы AI-систем с корпоративными данными и внутренними платформами.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12669,7 +13032,7 @@
     "short_description": "Сбор и формализация требований по продуктам, формирование и ведение product roadmap. Координация работы между структурными подразделениями и подготовка бизнес-требований для ИТ.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12747,7 +13110,7 @@
     "short_description": "Дивизион 'Сделка с первичным жильем' ищет PM для анализа и оптимизации текущих ипотечных процессов, а также разработки новых продуктов в области ипотеки на новостройку.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12783,7 +13146,7 @@
     "short_description": "Управление продуктом Домашний интернет: тарификация, роутеры, приложение, личный кабинет. Фокус на росте выручки и доходности через работу с клиентами и оптимизацию предложения.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -12819,7 +13182,7 @@
     "short_description": "Разработка и оптимизация продуктов накопительного страхования жизни (НСЖ рассрочка, гибридные продукты). Определение стратегий развития продукта, постановка задач и контроль улучшений бизнес-процессов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
