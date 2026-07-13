@@ -1,5 +1,403 @@
 [
   {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13500,
+    "date_iso": "2026-07-13T07:38:11+00:00",
+    "text": "#Management\n\nMovavi has some fast and easy-to-use photo- and video-editing software for you – safe and trusted all over the world.\n\nWorldwide 🌏\n\nPRODUCT MANAGER (MOBILE APP)\nWorldwide\n\n\nLike it?\n💜— yep\n🌚 — nope\n\n\n———\n\n🖤 Post a job\n💙 Remote 🫶 Remote junior\n💚 Junior 💚 Developers\n💖 Designers 🟠 Marketing\n🖤 HR 💜 QA 🟡 Managers\n🔴 Analytics",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 146,
+        "length": 28,
+        "url": "https://www.vseti.app/vakansii/437348349439439394348334332"
+      },
+      {
+        "type": "text_url",
+        "offset": 223,
+        "length": 1,
+        "url": "http://ya.ru/"
+      },
+      {
+        "type": "text_url",
+        "offset": 224,
+        "length": 10,
+        "url": "https://www.vseti.app/b2b"
+      },
+      {
+        "type": "text_url",
+        "offset": 238,
+        "length": 6,
+        "url": "https://t.me/+Ocopwqix-uhhYTEx"
+      },
+      {
+        "type": "text_url",
+        "offset": 247,
+        "length": 1,
+        "url": "http://ya.ru/"
+      },
+      {
+        "type": "text_url",
+        "offset": 248,
+        "length": 13,
+        "url": "https://t.me/+E2q6ZujUtDk4ZTYy"
+      },
+      {
+        "type": "text_url",
+        "offset": 264,
+        "length": 1,
+        "url": "https://t.me/+BO4DcXIAKqg1ODYy"
+      },
+      {
+        "type": "text_url",
+        "offset": 265,
+        "length": 6,
+        "url": "https://t.me/+A_suEM_deZE0MTFi"
+      },
+      {
+        "type": "text_url",
+        "offset": 274,
+        "length": 1,
+        "url": "https://t.me/+QiDNhxIWmTUwMTdi"
+      },
+      {
+        "type": "text_url",
+        "offset": 275,
+        "length": 10,
+        "url": "https://t.me/+_Tj4vw4Zv-8yZDcy"
+      },
+      {
+        "type": "text_url",
+        "offset": 288,
+        "length": 1,
+        "url": "https://t.me/+9cosivWJhhE4M2Ri"
+      },
+      {
+        "type": "text_url",
+        "offset": 289,
+        "length": 9,
+        "url": "https://t.me/+9TVW_LvN_ftiM2Fi"
+      },
+      {
+        "type": "text_url",
+        "offset": 301,
+        "length": 1,
+        "url": "https://t.me/+vJsBiYSXJ65mNTky"
+      },
+      {
+        "type": "text_url",
+        "offset": 302,
+        "length": 9,
+        "url": "https://t.me/+1bfjHMLsu28yMzJi"
+      },
+      {
+        "type": "text_url",
+        "offset": 315,
+        "length": 2,
+        "url": "https://t.me/+HZEj32BMQ1A0YTEy"
+      },
+      {
+        "type": "text_url",
+        "offset": 321,
+        "length": 2,
+        "url": "https://t.me/+m89VgCgpsrU5Y2Ri"
+      },
+      {
+        "type": "text_url",
+        "offset": 327,
+        "length": 8,
+        "url": "https://t.me/+riZ3PFenvGJkNTAy"
+      },
+      {
+        "type": "text_url",
+        "offset": 339,
+        "length": 9,
+        "url": "https://t.me/+1duPuqNNoCQzODhi"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13500",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Mobile App",
+    "company": "Movavi",
+    "location": "Worldwide",
+    "grade": null,
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Movavi is seeking a Product Manager for mobile app development. The company creates fast and easy-to-use photo and video editing software trusted worldwide.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1469,
+    "date_iso": "2026-07-13T07:27:45+00:00",
+    "text": "Продакт менеджер в Яндекс Путешествия\n\nГотовые фреймворки и исследования от команды редакции - по ссылке.\n\nЗадачи:\n• Интеграция и онбординг партнёров\n• Поиск точек роста и улучшение пользовательского опыта\n• Работа с данными и матчинг объектов\n• Формирование контентной стратегии\n\nТребования:\n• Работали менеджером продукта не менее трёх лет\n• Имеете техническое образование и опыт работы с данными \n• Умеете проектировать и запускать сложные B2B-интеграции\n• Уверенно работаете с аналитикой\n\nРекрутер: @galiausmanova и ссылка\n\nСайт команды",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 98,
+        "length": 6,
+        "url": "https://gem-shaker-6ab.notion.site/Product-market-Lab-1b855ffe314a8032a8d2ddbfc0db8717"
+      },
+      {
+        "type": "text_url",
+        "offset": 520,
+        "length": 6,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7480565141978394625?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7480565141978394625%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29"
+      },
+      {
+        "type": "text_url",
+        "offset": 526,
+        "length": 1,
+        "url": "https://www.linkedin.com/in/ACoAABT2SxkB7KjDlWb2NEGugWFhARCjvJUSG_E?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABT2SxkB7KjDlWb2NEGugWFhARCjvJUSG_E&lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BmyOriM%2BBSo2bzr0GSWTEaA%3D%3D"
+      },
+      {
+        "type": "text_url",
+        "offset": 528,
+        "length": 12,
+        "url": "https://koloskoveducation.tilda.ws/"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1469",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager",
+    "company": "Яндекс Путешествия",
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Продакт для платформы путешествий, занимающейся интеграцией партнёров и контентной стратегией. Требуется опыт с B2B-интеграциями, работой с данными и аналитикой, техническое образование обязательно.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13490,
+    "date_iso": "2026-07-12T16:47:46+00:00",
+    "text": "Product Manager (D2C/B2C Health, Weight Loss)\n#ProductManager #Удаленно #Remote #Job #Vacancy\n \nТребования:\nОпыт управления продуктом целиком, а не отдельной частью воронки. Опыт с подписочной моделью и ключевыми продуктовыми метриками (MRR, LTV, Retention, Churn, Trial-to-Paid). Опыт в D2C HealthTech-продуктах: weight loss, telehealth, GLP-1, digital health, wellness, nutrition или смежных направлениях. Понимание web-воронок и D2C-продуктов. Практический опыт использования AI-инструментов и no-code для быстрого тестирования гипотез. Наличие сильного продуктового кейса, о котором вы готовы подробно рассказать: какую задачу решали, какую роль сыграли в развитии продукта и каких результатов достигли.\n \nЛокация:📍Удалённо.\n\nКонтакт для отклика: @Lena_Bekhtereva или bekhterevaelena10@gmail.com\n\n👉 забрать special offer",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 805,
+        "length": 21,
+        "url": "https://t.me/JTBL_bot"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13490",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager (D2C/B2C Health, Weight Loss)",
+    "company": null,
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Ищут Product Manager с опытом управления полным жизненным циклом продукта в D2C HealthTech (weight loss, telehealth, GLP-1, digital health). Требуется опыт с подписочными моделями, ключевыми метриками (MRR, LTV, Retention, Churn), веб-воронками и использованием AI-инструментов для быстрого тестирования гипотез.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 570,
+    "date_iso": "2026-07-12T13:49:50+00:00",
+    "text": "❤ Lead Product Owner Яндекс\n\n▪️Компания Яндекс\n▪️Домен #BigTech #B2B\n▪️Грейд #Lead\n▪️Формат #ГибридМосква #ГибридСанктПетербург\n\nLead Product Owner на линейку B2B продуктов для подписного бизнеса.\nЗадачи:\n- Управление командой PO (3-5 человек)\n- Разработка и выполнение продуктовой стратегии, позволяющей поддержать выполнение бизнес-стратегии юнита (B2B подписная платформа)\n\nПлюсом будет опыт в Яндексе.\nПрисылайте cv в личку, примеры решения вами подобных задач.\n\nСсылка на пост LinkedIn  \n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 40,
+        "length": 6,
+        "url": "https://ya.ru/?npr=1&utm_referrer=https%3A%2F%2Fyandex.ru%2F"
+      },
+      {
+        "type": "text_url",
+        "offset": 467,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/mikhail-markus_%D0%B8%D1%89%D1%83-%D0%BC%D0%BE%D1%89%D0%BD%D0%BE%D0%B3%D0%BE-lead-product-owner-%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BA%D1%83-activity-7481071431347527680-tn2N?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 496,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 497,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 528,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/570",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Lead Product Owner",
+    "company": "Яндекс",
+    "location": "Москва, гибрид; Санкт-Петербург, гибрид",
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Руководство командой PO (3-5 человек) для линейки B2B продуктов подписного бизнеса. Разработка и реализация продуктовой стратегии для B2B подписной платформы, поддерживающей бизнес-стратегию юнита.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 569,
+    "date_iso": "2026-07-12T11:53:39+00:00",
+    "text": "👨‍💻 Product Manager ATI.SU\n\n▪️Компания ATI.SU\n▪️Домен #Logistics  \n▪️Грейд #Middle #Senior\n▪️Формат #ГибридСанктПетербург\n\nПомогаю с поиском сильного Senior/Middle+ Product Manager к нам ATI.SU.\nКоманда делает основной продукт компании - Поиск грузов - на крупнейшей логистической платформе России и СНГ.\nИщем человека, которому интересны не только фичи, но и развитие зрелого продукта: поиск точек роста, работа с данными, сложной B2B-аудиторией, большим количеством зависимостей и продуктовых компромиссов.\nРаботаем в гибридном формате в Санкт-Петербурге (2 дня в офисе).\n\nЕсли интересно - пишите или сразу связывайтесь с @hr_elenaatisu.\n\nСсылка на пост LinkedIn  \nСсылка на вакансию\n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 22,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 41,
+        "length": 6
+      },
+      {
+        "type": "url",
+        "offset": 189,
+        "length": 6
+      },
+      {
+        "type": "text_url",
+        "offset": 643,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/robert-gumerov_%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D1%80%D0%B5%D0%B1%D1%8F%D1%82%D0%B0-%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%B0%D1%8E-%D1%81-%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%BC-%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-activity-7479907791638388736-txVq?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 666,
+        "length": 2,
+        "url": "https://www.linkedin.com/posts/osoncom_auiaugauqaugautauxauoavl-fintech-headofproduct-activity-7476222008196837376--ChD?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 669,
+        "length": 18,
+        "url": "https://job.ati.su/vacancy/69d756add25f73ba471db4c8.html"
+      },
+      {
+        "type": "text_url",
+        "offset": 691,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 692,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 723,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/569",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior/Middle Product Manager",
+    "company": "ATI.SU",
+    "location": "Санкт-Петербург, гибрид",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Ищем Product Manager для команды, разрабатывающей основной продукт - Поиск грузов на крупнейшей логистической платформе России и СНГ. Фокус на развитие зрелого продукта, поиск точек роста, работа с данными и сложной B2B-аудиторией. Гибридный формат в Санкт-Петербурге (2 дня в офисе).",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1468,
+    "date_iso": "2026-07-12T09:17:33+00:00",
+    "text": "Senior/Middle+ Продакт менеджер в ATI.SU\n\nРазборы кейсов, 76 разборов пришли, всего свыше 190 тестовых и реальных задач продактов. Плейлист доступен по ссылке, сайт разборов тут\n\nЗадачи:\n• Взять на себя часть сценариев и сервисов ключевого продукта компании: «Поиск грузов» \n• Находить точки роста продукта и бизнеса\n• Формулировать и проверять продуктовые гипотезы на основе данных, исследований и понимания рынка\n• Отвечать за продуктовые метрики направления и оценивать эффект запущенных решений\n\nТребования:\n• Имеете опыт управления сложным B2C-продуктом с MAU > 20 000\n• Имеете подтверждённые кейсы роста ключевых продуктовых и бизнес-метрик\n• Умеете находить сильные продуктовые решения через исследование, гипотезы и их тестирование;\n• Умеете раскладывать продукт по юнит-экономике \n• Сильны в аналитике\n\nРекрутер: @hr_elenaatisu, ссылка\n\nСайт команды, курсы и возможности.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 34,
+        "length": 6
+      },
+      {
+        "type": "text_url",
+        "offset": 42,
+        "length": 15,
+        "url": "https://t.me/productcasebar/"
+      },
+      {
+        "type": "text_url",
+        "offset": 131,
+        "length": 28,
+        "url": "https://docs.google.com/document/d/1_bq1zQtkfAJjf5O_QjpuMDFlkloNkF_VyTtpRv7oyZI/edit?tab=t.0"
+      },
+      {
+        "type": "text_url",
+        "offset": 174,
+        "length": 3,
+        "url": "https://koloskoveducation.tilda.ws/productcaseclub/"
+      },
+      {
+        "type": "text_url",
+        "offset": 838,
+        "length": 6,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7479907791638388736?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7479907791638388736%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29"
+      },
+      {
+        "type": "text_url",
+        "offset": 846,
+        "length": 12,
+        "url": "https://koloskoveducation.tilda.ws/"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1468",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior/Middle+ Product Manager",
+    "company": "ATI.SU",
+    "location": null,
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": null,
+    "salary": null,
+    "short_description": "Управление сложным B2C-продуктом \"Поиск грузов\" с MAU > 20 000. Поиск точек роста, формулирование и проверка продуктовых гипотез на основе данных, ответственность за метрики направления и оценку результатов запущенных решений.",
+    "duplicates": [],
+    "is_new": false,
+    "is_archived": false
+  },
+  {
     "channel_id": 1804835860,
     "channel_username": "zarubezhom_jobs",
     "channel_title": "Connectable Jobs",
@@ -64,7 +462,7 @@
         "channel_id": 2667909413
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -99,7 +497,7 @@
     "salary": null,
     "short_description": "Владение направлением поиска и бронирования авиа/ж/д-билетов, отелей и туров. Ответственность за ключевые продуктовые и бизнес-метрики, формирование видения и стратегии, работа с инженерами, аналитикой и дизайном. Требуется опыт PM в B2C e-commerce, желательно в travel-сегменте.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -1531,7 +1929,15 @@
     "remote": true,
     "salary": null,
     "short_description": "Growing B2C subscription product with AI-powered networking and collaboration matching. Work directly with CEO on activation, retention, and engagement metrics in a fast-iteration startup environment with high autonomy.",
-    "duplicates": [],
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/13496",
+        "date_iso": "2026-07-13T07:12:01+00:00",
+        "channel_id": 2667909413
+      }
+    ],
     "is_new": false,
     "is_archived": false
   },
@@ -5204,6 +5610,20 @@
         "link": "https://t.me/ITjobsFeed/12596",
         "date_iso": "2026-06-26T11:55:59+00:00",
         "channel_id": 2667909413
+      },
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/13487",
+        "date_iso": "2026-07-12T16:45:29+00:00",
+        "channel_id": 2667909413
+      },
+      {
+        "channel_username": null,
+        "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+        "link": "https://t.me/c/1674506295/6208",
+        "date_iso": "2026-07-12T09:05:00+00:00",
+        "channel_id": 1674506295
       }
     ],
     "is_new": false,
@@ -10878,7 +11298,7 @@
     "short_description": "Полная ответственность за управление продуктом по 4 брендам глобального масштаба. Управление командой из 15+ человек и портфелем из 300+ SKU с фокусом на стратегическое развитие и операционное совершенство на российском рынке.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -10943,7 +11363,7 @@
     "short_description": "Руководство продуктом поиска компаний в 2ГИС с фокусом на качество дискавери. Требуется опыт работы с большими данными, ML/AI продуктами, управление PM-командой и сотрудничество с дизайнерами для улучшения пользовательского опыта.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -10973,7 +11393,7 @@
     "short_description": "Разработка стратегии монетизации и подписок для AI-платформы для криейторов. Платформа находится в фазе роста с первыми пользователями, требуется PM для работы с моделями подписок и логикой, обеспечивающей жизнеспособность продукта.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -11003,7 +11423,7 @@
     "short_description": "B2C-продукт в автомобильной тематике с миллионами посетителей в сутки. Требуется опыт полного продуктового цикла, CustDev, работы с SQL и данными.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -11050,7 +11470,7 @@
     "short_description": "Компания разрабатывает CRM-систему для фармацевтического рынка, которая помогает медицинским представителям повышать эффективность визитов. Продукт на рынке более 3 лет с четким трэкшеном и отличными клиентами. Требуется опытный руководитель для формирования стратегии, управления PnL и фокусировки команды.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11098,7 +11518,7 @@
     "short_description": "Управление бэклогом, постановка задач командам дизайна и разработки, проведение исследований рынка и конкурентного анализа. Требуется хорошее понимание юнит-экономики, метрик и запуска экспериментов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
@@ -11166,7 +11586,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11223,7 +11643,7 @@
     "short_description": "Kolesa Group — международная IT-компания, строящая классифайды для 15,5 миллионов пользователей. Продукты помогают людям и бизнесам продавать, покупать и владеть авто, недвижимостью, товарами и услугами.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -11271,7 +11691,7 @@
     "short_description": "Ищем двух специалистов для усиления growth-направления в e-commerce на Amazon US. Роль фокусируется на A/B тестировании визуалов, оптимизации конверсии и анализе данных для прямого влияния на продажи через гипотезы, тесты и системную работу с метриками CTR и CR.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11301,7 +11721,7 @@
     "short_description": "Создание нового направления ESG-продуктов в крупнейшем банке. Разработка цифровых решений с AI-компонентами для клиентов, формирование трендов устойчивого развития.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -11331,7 +11751,7 @@
     "short_description": "Формирование стратегии и развитие внутренних AI-продуктов для автоматизации инженерных процессов, включая кодовые ассистенты, инструменты генерации кода и интеграционный слой для работы ИИ-систем с корпоративными данными. Требуется опыт в продукте, данных и инфраструктуре с практическим опытом запуска AI-продуктов и пониманием LLM и агентных систем.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -11366,7 +11786,7 @@
     "short_description": "Senior PM role for a FinTech startup focused on wallet and infrastructure products. Requires 5+ years in product with significant experience in FinTech, wallets, or digital assets, strong technical intuition, and ability to own products end-to-end from zero to production.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
