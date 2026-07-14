@@ -1,5 +1,406 @@
 [
   {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 574,
+    "date_iso": "2026-07-14T07:54:39+00:00",
+    "text": "👨‍💻 Product Manager (AI Apps & Subscriptions)\n\n▪️Компания Codabrasoft LLC\n▪️Домен #AI\n▪️Грейд #Middle #Senior\n▪️Формат #УдаленкаМир \n\nWe’re looking for a Product Manager who will own AI-powered mobile products with a strong focus on growth, subscriptions, monetization, and product analytics.\n\n What to expect in this position:\n- Take ownership of existing mobile products (iOS & Android), driving product growth and profitability;\n- Refine existing products to improve quality and stability;\n- Identify bottlenecks in product funnels and implement data-driven solutions to increase revenue and retention;\n- Collaborate with designers and developers to optimize onboarding, paywalls, and monetization flows;\n- Analyze key product metrics (CAC, LTV, retention) and make data-driven decisions;\n- Identify new monetization opportunities for existing features;\n- Plan, run, and analyze A/B tests to validate product hypotheses and improve key metrics.\n\nQualifications\n- 3+ years of experience as a Product Manager / Product Owner with subscription-based mobile products;\n- Strong understanding of software development principles;\n- Understanding and practical experience in writing product documentation (Confluence);\n- Knowledge and understanding of key product metrics;\n- Proven track record of using data to drive product decisions, experience with analytical systems;\n- Experience with A/B testing and experimentation to improve user engagement and revenue;\n- Ability to spot opportunities for feature monetization and growth.\n\nPlease send your CV via LinkedIn DM or to zlata.sokolovskaya@codabrasoft.com\n\nСсылка на пост LinkedIn  \n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1608,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/zlata-sokolovskaya-905ab41ba_hiring-vacancy-product-share-7480304177588531200-zRSK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1637,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1638,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 1669,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/574",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager (AI Apps & Subscriptions)",
+    "company": "Codabrasoft LLC",
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Own AI-powered mobile products (iOS & Android) focused on growth, subscriptions, and monetization. Drive product profitability through data-driven decisions, optimize onboarding and paywall flows, and run A/B tests to improve retention and revenue metrics.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1470,
+    "date_iso": "2026-07-14T07:26:56+00:00",
+    "text": "Product Leader Adult Project New Sky Group\n\nАктуальная классика про рост и карьеру в профессии продакта https://rutube.ru/video/2d0e595fc7208b131f0d861da4ce137b/?r=wd&t=81\n\nФормат: полная занятость, удалённо\nЗарплата: 2000 USDT + бонусы по результатам \nИспытательный срок: 1–2 месяца\n\nО компании\nNew Sky Group — независимая продуктовая команда, которая создаёт digital-продукты в сферах развлечений, social media, AI и web-технологий.\n\nСейчас мы масштабируем новый adult web-проект и ищем Product Leader / Growth Product Manager, который возьмёт на себя продуктовое управление, развитие продукта и рост ключевых метрик.\n\nКак откликнуться:\nПодробное описание вакансии и форма для отклика по ссылке.\n\nЕсли вас заинтересовала вакансия, заполните пожалуйста анкету. \nПосле заполнения анкеты с вами свяжутся в телеграм, для прохождения следующего этапа.\n\nКонтакт @MarTab55\n\nСайт команды, курсы и возможности.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 104,
+        "length": 67
+      },
+      {
+        "type": "text_url",
+        "offset": 687,
+        "length": 9,
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSe-9VXdRv1dHzUNolVjGg19hy509_BHOO1pd7LtFaAXoHhCfw/viewform"
+      },
+      {
+        "type": "text_url",
+        "offset": 869,
+        "length": 12,
+        "url": "https://koloskoveducation.tilda.ws/"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1470",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Leader / Growth Product Manager",
+    "company": "New Sky Group",
+    "location": "Remote",
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "2000 USDT + бонусы по результатам",
+    "short_description": "New Sky Group ищет Product Leader для масштабирования нового adult web-проекта. Роль включает продуктовое управление, развитие продукта и рост ключевых метрик в компании, создающей digital-продукты в сферах развлечений, social media, AI и web-технологий.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10138,
+    "date_iso": "2026-07-13T18:46:23+00:00",
+    "text": "T&S Product Manager, Product Builder\nTremau is a Trust & Safety solutions provider based in Paris, helping online services protect their users and comply with regulations through AI-powered moderation products and advisory services.\nLanguages: English (working language), French is welcome.\nRemote work. Flexible schedule.\nJob description.\nMore details in Carmen Valtierra de Luis's post on LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 323,
+        "length": 16,
+        "url": "https://jobs.world.luccasoftware.com/tremau/product-manager-dede7f09-96b8-4f44-9a21-2c37cf115fb2"
+      },
+      {
+        "type": "text_url",
+        "offset": 383,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/carmenvaltierra_trustandsafety-productmanagement-hiring-share-7480532170646695937-ILLk/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10138",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "T&S Product Manager",
+    "company": "Tremau",
+    "location": "Remote",
+    "grade": null,
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Tremau is a Trust & Safety solutions provider based in Paris offering AI-powered moderation products and advisory services to help online services protect users and comply with regulations. The role requires English as working language with French welcome, offering flexible remote work.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 573,
+    "date_iso": "2026-07-13T17:25:34+00:00",
+    "text": "👨‍💻 Product Manager (VR)\n\n▪️Компания Wisebits\n▪️Домен #VR\n▪️Грейд #Middle #Senior\n▪️Формат #УдаленкаМир\n\nWisebits — is an international IT holding with a strong technical team! \n\nOur key product is a high-load video hosting platform used by millions of people worldwide every day. With over 15 years on the market, we’ve built a professional team that values engagement and initiative.\n\nWe are currently looking for a Product Manager with experience launching and developing VR products. In this role, you will help take our VR product to the next level. If you know how to turn ideas into in-demand products and want to influence the development of the industry, join Wisebits!\n\nWho we're looking for:  Product Manager with strong product expertise and a genuine interest in VR technologies, user needs, and market trends.\n\nWhat you'll be working on:\n• Monitoring the VR market, competitors, headset manufacturers, and industry trends.\n• Analyzing the needs and behavior of VR content creators.\n• Adapting the product to market requirements and user expectations.\n• Turning ideas into detailed and well-thought-out product concepts.\n• Managing all stages of product development, from documentation to metrics analysis.\n• Developing product interfaces in close collaboration with a designer.\n• Analyzing product and feature success metrics.\n• Running A/B tests, validating hypotheses, and optimizing the product to improve conversion.\n \nСсылка на пост LinkedIn  \nСсылка на вакансию\n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1439,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/novikovandy_web-development-jobs-at-wisebits-share-7481346458747633665-lh7s/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1465,
+        "length": 18,
+        "url": "https://wisebits.com/vacancies/207-product-manager-vr"
+      },
+      {
+        "type": "text_url",
+        "offset": 1487,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1488,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 1519,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/573",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager (VR), Middle/Senior",
+    "company": "Wisebits",
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Wisebits is an international IT holding with a high-load video hosting platform used by millions worldwide. The VR product team needs a PM to develop VR products, analyze creator needs, manage product development from concept to metrics, and run A/B tests to optimize user experience.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1804835860,
+    "channel_username": "zarubezhom_jobs",
+    "channel_title": "Connectable Jobs",
+    "msg_id": 4033,
+    "date_iso": "2026-07-13T15:01:44+00:00",
+    "text": "AI Product Manager в Cortea\n\n📍Берлин\n💎4–7 лет опыта, 2+ года в продуктовой роли, опыт запуска B2B SaaS-продуктов\n🚀В компании работают русскоязычные ребята\n\nCortea — помогает аудиторам применять AI с большей надёжностью и контролем\n\nРазмер команды — 11-50 | Инвестиции — €12M\n\nУзнать подробнее и откликнуться: тут\n\n🤝 Ещё 200+ вакансий продактов и проджектов в компаниях с русскоговорящими фаундерами/командами — в нашей рассылке\n\nДругие вакансии в компании: \n— Product Marketing & Content Lead\n— Founding Talent Lead\n— Software Engineer, Data & AI Platform",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 159,
+        "length": 6,
+        "url": "https://www.cortea.ai/blog/cortea-raises-12-mil-to-improve-audit-quality-with-ai"
+      },
+      {
+        "type": "text_url",
+        "offset": 312,
+        "length": 3,
+        "url": "https://www.linkedin.com/jobs/view/ai-product-manager-m-f-x-at-cortea-4435820101/"
+      },
+      {
+        "type": "text_url",
+        "offset": 317,
+        "length": 3,
+        "url": "https://www.linkedin.com/company/1inchcom/people/"
+      },
+      {
+        "type": "text_url",
+        "offset": 415,
+        "length": 16,
+        "url": "https://t.me/zarubezhom_jobs/3459"
+      },
+      {
+        "type": "text_url",
+        "offset": 464,
+        "length": 32,
+        "url": "https://www.linkedin.com/jobs/view/4434030281"
+      },
+      {
+        "type": "text_url",
+        "offset": 499,
+        "length": 20,
+        "url": "https://www.linkedin.com/jobs/view/4435599978"
+      },
+      {
+        "type": "text_url",
+        "offset": 522,
+        "length": 37,
+        "url": "https://www.linkedin.com/jobs/view/4428155148/"
+      }
+    ],
+    "link": "https://t.me/zarubezhom_jobs/4033",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "AI Product Manager",
+    "company": "Cortea",
+    "location": "Берлин",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Cortea помогает аудиторам применять AI с большей надёжностью и контролем. Требуется опыт запуска B2B SaaS-продуктов и работы в продуктовой роли. Команда 11-50 человек, привлекла инвестиции €12M.",
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/13550",
+        "date_iso": "2026-07-13T15:04:22+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13544,
+    "date_iso": "2026-07-13T14:14:58+00:00",
+    "text": "#vacancy #remote #Вакансия #РуководительПроекта #ИТВакансия #PM #Маркировка #Удаленка #РФ \n\n🚀 ВАКАНСИЯ: Руководитель ИТ-проекта | компания TopSelection\nMiddle+ / Senior | Удаленно | РФ\n\n💰ЗП: 280-300К руб/мес\n🕒 Высокая нагрузка (~160 ч/мес).\n📅 Проект на 12 мес. (+ пролонгация).\n🌍 Локация: Россия \n📃Оформление: ИП\n\nКлючевое: Опыт интеграции «Честного знака» (маркировка) в ИТ-ландшафт — ОБЯЗАТЕЛЕН.\nЧТО ДЕЛАТЬ:\n▪️ Вести полный цикл PM (сроки/бюджет/риски).\n▪️ Управлять вендорами (ТЗ, контроль, приёмка).\n▪️ Сопровождать систему в эксплуатации и улучшать её.\n\nЧТО НУЖНО:\n✅ Реальный опыт управления внедрением ЧЗ.\n✅ Жесткие PM-скиллы (планирование, контроль).\n✅ Опыт работы с подрядчиками.\n\n📩 Отклик  в ТГ: @AllaDemHR",
+    "entities": [],
+    "link": "https://t.me/ITjobsFeed/13544",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель ИТ-проекта, Senior",
+    "company": "TopSelection",
+    "location": "Россия, удалённо",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "280–300к ₽",
+    "short_description": "Управление ИТ-проектом внедрения системы маркировки Честный знак на полный цикл. Требуется опыт интеграции маркировки, управление вендорами и сопровождение систем в эксплуатации. Проект на 12 месяцев с возможной пролонгацией.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1113141406,
+    "channel_username": "hireproproduct",
+    "channel_title": "Hire ProProduct - Продуктовые вакансии в России и за рубежом",
+    "msg_id": 1044,
+    "date_iso": "2026-07-13T12:23:20+00:00",
+    "text": "Product Leader Adult Project в New Sky Group\n\nКомпания: New Sky Group\nФормат: полная занятость, удалённо\nЗарплата: 2000 USDT + бонусы по результатам \nИспытательный срок: 1–2 месяца\n\nО компании\nNew Sky Group — независимая продуктовая команда, которая создаёт digital-продукты в сферах развлечений, social media, AI и web-технологий.\n\nСейчас мы масштабируем новый adult web-проект и ищем Product Leader / Growth Product Manager, который возьмёт на себя продуктовое управление, развитие продукта и рост ключевых метрик.\n\nОписание вакансии и форма для отклика\nhttps://docs.google.com/forms/d/e/1FAIpQLSe-9VXdRv1dHzUNolVjGg19hy509_BHOO1pd7LtFaAXoHhCfw/viewform?usp=pp_url&entry.1654585457=HireProProduct\nЕсли вас заинтересовала вакансия, заполните пожалуйста анкету. \nПосле заполнения анкеты с вами свяжутся в телеграм, для прохождения следующего этапа.\n\nКонтакт: @MarTab55",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 518,
+        "length": 38,
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSe-9VXdRv1dHzUNolVjGg19hy509_BHOO1pd7LtFaAXoHhCfw/viewform?usp=pp_url&entry.1654585457=HireProProduct"
+      },
+      {
+        "type": "url",
+        "offset": 556,
+        "length": 142
+      }
+    ],
+    "link": "https://t.me/hireproproduct/1044",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Leader / Growth Product Manager",
+    "company": "New Sky Group",
+    "location": "Remote",
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "2000 USDT + бонусы по результатам",
+    "short_description": "Independent product team creating digital products in entertainment, social media, AI, and web technologies. Seeking Product Leader to manage a new adult web project, drive product development, and scale key metrics.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13512,
+    "date_iso": "2026-07-13T10:05:37+00:00",
+    "text": "Head of product\nв Физикл — экосистема, которая помогает людям менять образ жизни системно: питание, тренировки, привычки и здоровье.\n400К — 600К. Удалённая работа.\nОписание вакансии на GeekJob.ru\n \nБольше вакансий для продактов и проджектов: @forproducts",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 164,
+        "length": 31,
+        "url": "https://geekjob.ru/vacancy/6a50d27cd9aaf7199a0d914d"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13512",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of Product",
+    "company": "Физикл",
+    "location": "Remote",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "400К — 600К ₽",
+    "short_description": "Физикл — экосистема для системного изменения образа жизни, охватывающая питание, тренировки, привычки и здоровье. Полностью удалённая позиция.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1205373966,
+    "channel_username": "product_jobs",
+    "channel_title": "Вакансии для продактов и проджектов",
+    "msg_id": 2086,
+    "date_iso": "2026-07-13T09:37:01+00:00",
+    "text": "Вакансия: Product Leader Adult Project\nКомпания: New Sky Group\nФормат: полная занятость, удалённо\nЗарплата: 2000 USDT + бонусы по результатам \nИспытательный срок: 1–2 месяца\n\n🔸О компании\nNew Sky Group — независимая продуктовая команда, которая создаёт digital-продукты в сферах развлечений, social media, AI и web-технологий.\n\nСейчас мы масштабируем новый adult web-проект и ищем Product Leader / Growth Product Manager, который возьмёт на себя продуктовое управление, развитие продукта и рост ключевых метрик.\n\n🔸Как откликнуться:\nПодробное описание вакансии и форма для отклика по ссылке.\n\nЕсли вас заинтересовала вакансия, заполните пожалуйста анкету. \nПосле заполнения анкеты с вами свяжутся в телеграм, для прохождения следующего этапа.\n\n🔸Контакт \n@MarTab55",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 581,
+        "length": 9,
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSe-9VXdRv1dHzUNolVjGg19hy509_BHOO1pd7LtFaAXoHhCfw/viewform"
+      }
+    ],
+    "link": "https://t.me/product_jobs/2086",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Leader, Adult Project",
+    "company": "New Sky Group",
+    "location": "Remote",
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "2000 USDT + бонусы",
+    "short_description": "Независимая продуктовая команда создаёт digital-продукты в развлечениях, социальных сетях и AI. Ищем Product Leader для масштабирования нового adult web-проекта с фокусом на продуктовое управление и рост ключевых метрик.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13510,
+    "date_iso": "2026-07-13T09:35:08+00:00",
+    "text": "🛒 Head of Product (Опыт покупателя) в Авито Товары\n\n📍 Москва (скорее всего, можно удалённо)\n💎 Полная ответственность за транзакционный путь покупателя в Авито Товарах: воронка, корзина, страница заказа, антифрод-механики и транзакционная платформа. Управление 3 командами и 3 продактами, поиск новых механик покупки, повышение доверия и конверсии на пути от интереса к завершенной сделке.\n💼 Зрелый продуктовый лидер с опытом управления несколькими командами, умение видеть продукт как систему и работать на стыке классифайдных и транзакционных сценариев, высокая скорость погружения в контекст, сильные самостоятельные решения в условиях неопределенности. Подробное описание\n\nПрямой контакт для отклика: @NataliaGanyushkina\n\n———\n\nНе подошла вакансия? Поделись с тем, кому пригодится ➡️",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 660,
+        "length": 18,
+        "url": "https://www.linkedin.com/posts/alenamedvedeva_%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%B8%D1%89%D1%83-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-share-7480294108159217664-piQI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADsVbVUBVqSv6AcnCCcbpqRXt80jj5iIuzg"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13510",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of Product, Customer Experience (Авито Товары)",
+    "company": "Авито",
+    "location": "Москва, гибрид",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Полная ответственность за транзакционный путь покупателя: воронка, корзина, страница заказа, антифрод-механики и платформа. Управление 3 командами, поиск новых механик покупки, повышение конверсии и доверия на пути от интереса к завершенной сделке.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 2667909413,
     "channel_username": "ITjobsFeed",
     "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
@@ -128,7 +529,7 @@
     "salary": null,
     "short_description": "Movavi is seeking a Product Manager for mobile app development. The company creates fast and easy-to-use photo and video editing software trusted worldwide.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -176,7 +577,7 @@
     "salary": null,
     "short_description": "Продакт для платформы путешествий, занимающейся интеграцией партнёров и контентной стратегией. Требуется опыт с B2B-интеграциями, работой с данными и аналитикой, техническое образование обязательно.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -206,7 +607,7 @@
     "salary": null,
     "short_description": "Ищут Product Manager с опытом управления полным жизненным циклом продукта в D2C HealthTech (weight loss, telehealth, GLP-1, digital health). Требуется опыт с подписочными моделями, ключевыми метриками (MRR, LTV, Retention, Churn), веб-воронками и использованием AI-инструментов для быстрого тестирования гипотез.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -260,7 +661,7 @@
     "salary": null,
     "short_description": "Руководство командой PO (3-5 человек) для линейки B2B продуктов подписного бизнеса. Разработка и реализация продуктовой стратегии для B2B подписной платформы, поддерживающей бизнес-стратегию юнита.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -335,7 +736,7 @@
     "salary": null,
     "short_description": "Ищем Product Manager для команды, разрабатывающей основной продукт - Поиск грузов на крупнейшей логистической платформе России и СНГ. Фокус на развитие зрелого продукта, поиск точек роста, работа с данными и сложной B2B-аудиторией. Гибридный формат в Санкт-Петербурге (2 дня в офисе).",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -11225,7 +11626,7 @@
     "short_description": "International Health & Fitness company with portfolio of mobile apps serving 10M+ users globally. Full product lifecycle management with focus on analytics, A/B testing, and Mobile First approach. Work with analytics, content, marketing, and design teams.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1674506295,
@@ -11262,7 +11663,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
