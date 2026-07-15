@@ -3,6 +3,285 @@
     "channel_id": 2823702878,
     "channel_username": "jobs_product_managers",
     "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 575,
+    "date_iso": "2026-07-14T17:06:32+00:00",
+    "text": "👨‍💻 Growth Product Manager Rino\n\n▪️Компания Rino\n▪️Домен #B2C\n▪️Грейд #Middle #Senior\n▪️Формат #УдаленкаМир\n\nI'm looking for a Growth Product Manager for web funnels to join Rino.\n\nA person who wants to have a real impact on business growth and grow professionally along the way.\n\nIf you're interested, or know someone who could be a good fit, send me a DM or leave a comment.\n\nСсылка на пост LinkedIn  \nСсылка на вакансию\n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 380,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/dmartyntsev_im-looking-for-a-growth-product-manager-share-7480878804618506240-jUiL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 406,
+        "length": 18,
+        "url": "https://www.linkedin.com/jobs/view/4435633859/"
+      },
+      {
+        "type": "text_url",
+        "offset": 428,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 429,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 460,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/575",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Growth Product Manager",
+    "company": "Rino",
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Growth Product Manager для веб-воронок. B2C компания ищет специалиста, который хочет оказать реальное влияние на рост бизнеса и развиваться профессионально.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13640,
+    "date_iso": "2026-07-14T16:09:26+00:00",
+    "text": "#vacancy #ProductManager #ЧестныйЗнак #TrackAndTrace #Middle #Senior\n\nProduct Manager (Маркировка «Честный знак» / L4 Track & Trace) 📦🔍\n\nID вакансии: 3479_BB \nСтавка: обсуждается. \nГрейд: Middle+ / Senior. \nЗагрузка: Full-time (полная занятость). \nСрок проекта: 12 месяцев. \nФормат: Удалённо. \nЛокация/Гражданство: РФ / РФ.\n\nИщем Product Manager для управления ключевым проектом внедрения системы L4 Track & Trace для прослеживаемости маркировки «Честный знак». Основная роль — фасилитация проекта, грамотное управление взаимодействием с вендорами и обеспечение своевременного запуска системы в соответствии с жесткими регуляторными сроками.\n🚀 Ключевые задачи:\nУправление проектом: фасилитация внедрения системы L4 Track & Trace, контроль сроков и координация всех участников процесса.\nРабота с вендорами: постановка корректных технических и бизнес-задач внешним подрядчикам, контроль качества и приемка результатов их работы.\nСоблюдение дорожной карты: обеспечение запуска системы к 1 марта 2027 года и завершение всех тестов к 1 июля 2027 года.\nЭксплуатация и развитие: контроль работы системы в период коммерческой эксплуатации (с 1 июля 2027 года) и управление процессами её непрерывного улучшения до конца контракта.\n\n🎯 Наши требования:\nОпыт: подтвержденный опыт ведения ИТ-проектов от идеи до внедрения.\nДоменная экспертиза: глубокое понимание сути маркировки «Честный знак» и нормативных требований.\nСистемное мышление: знание того, как маркировка должна отражаться в учетных системах, первичных документах и как она влияет на сквозные бизнес-процессы компании.\nУправление подрядчиками: навыки эффективной коммуникации с вендорами, умение «задавать правильные вопросы» и жестко контролировать приемку результатов.\n\n💡 Будет преимуществом (Nice to have):\nОпыт интеграции систем маркировки с ERP, WMS или другими учетными системами предприятия.\nНавыки работы по Agile/Scrum или другим гибким методологиям управления проектами.\n\n📲 Контакт для отклика: @hrwomenpro \n(При отклике, пожалуйста, сразу присылайте актуальное резюме, пишите ID вакансии: 3479_BB)",
+    "entities": [],
+    "link": "https://t.me/ITjobsFeed/13640",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, L4 Track & Trace (Middle+/Senior)",
+    "company": "Честный знак",
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Управление проектом внедрения системы L4 Track & Trace для маркировки «Честный знак». Фасилитация взаимодействия с вендорами, контроль сроков и запуска системы согласно регуляторным срокам. Требуется опыт управления ИТ-проектами, глубокое понимание маркировки и системное мышление.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13625,
+    "date_iso": "2026-07-14T13:17:38+00:00",
+    "text": "Head of Product (MENA Division)\n#HeadofProduct #Релокация #Офис #Дубай #Job #Vacancy\n \nТребования:\nБолее 7 лет опыта в Product Management, включая значительный опыт в финтехе, платежных сервисах или цифровом банкинге. Практический опыт запуска финансового продукта с нуля. Понимание требований регуляторов и опыт с compliance и лицензионными ограничениями. Опыт с платежной инфраструктурой: IBAN, Card Issuing, BaaS, KYC-процессами. Опыт взаимодействия на стыке бизнеса, разработки и compliance. Свободное владение английским языком; знание русского будет преимуществом. Опыт запуска цифрового банка, EMI или платежного продукта с нуля. Опыт в регулируемой среде (DFSA, FCA, ADGM, MAS). Понимание криптопродуктов. Опыт на рынке MENA/GCC.\n \nЛокация:📍Готовность к релокации. Офис в Дубае.\n\nКонтакт для отклика: a.minigalieva@oson.com или @HRMOSON\n \n👉 забрать special offer",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 851,
+        "length": 21,
+        "url": "https://t.me/JTBL_bot"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13625",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of Product, MENA Division",
+    "company": null,
+    "location": "Дубай, офис",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Ищем опытного Head of Product с 7+ годами в финтехе и платежных сервисах для запуска и развития финансовых продуктов на рынке MENA. Требуется глубокое понимание регулирования, платежной инфраструктуры и опыт работы в регулируемой среде (DFSA, FCA, ADGM, MAS).",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1205373966,
+    "channel_username": "product_jobs",
+    "channel_title": "Вакансии для продактов и проджектов",
+    "msg_id": 2088,
+    "date_iso": "2026-07-14T11:32:10+00:00",
+    "text": "Вакансия: Product Manager (Operations) \nКомпания: Salmon\nЛокация: Манила, Филиппины (релокационный пакет)\n\nSalmon - международная технологическая финансовая компания, которая создает современные банковские и кредитные продукты для рынка Филиппин. Сегодня нашими сервисами пользуются более 1,5 млн клиентов, а продуктовые команды напрямую влияют на развитие бизнеса и масштабирование компании.\n\nСейчас мы ищем Product Manager (Operations), который будет отвечать за развитие внутренних операционных продуктов и автоматизацию процессов.\n \n🔸Что для нас важно:\n– от 3 лет опыта Product Management;\n– опыт работы с Field Operations - развитие продуктов, связанных с мерчантами, торговыми точками, агентской сетью, ПВЗ, курьерами или другими офлайн-процессами;\n– опыт в финтехе, POS Lending, BNPL, платежных или e-commerce продуктах будет большим преимуществом;\n– разговорный английский.\n\n🔸Что предстоит делать:\n– находить узкие места в операционных процессах и превращать их в продуктовые решения;\n– автоматизировать процессы, связанные с агентской сетью, мерчантами и торговыми точками;\n– тесно работать с командами Operations, Engineering, Analytics и Business;\n– улучшать эффективность процессов и масштабировать операционные решения.\n\n🔸Как откликнуться:\nПиши в лс @iamlomtick",
+    "entities": [],
+    "link": "https://t.me/product_jobs/2088",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager (Operations)",
+    "company": "Salmon",
+    "location": "Манила, Филиппины",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Salmon - международная технологическая финансовая компания, создающая современные банковские и кредитные продукты для рынка Филиппин с более чем 1,5 млн клиентов. Разработка внутренних операционных продуктов и автоматизация процессов, связанных с агентской сетью, мерчантами и торговыми точками. Работа с командами Operations, Engineering, Analytics и Business для улучшения эффективности и масштабирования.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1471,
+    "date_iso": "2026-07-14T10:13:14+00:00",
+    "text": "Продакт в Спортмастер\n\nРазборы кейсов, 76 разборов пришли, всего свыше 190 тестовых и реальных задач продактов. Плейлист доступен по ссылке, сайт разборов тут\n\nSM Lab - ИТ компания. Ищут зрелого продакта для внутренних data-продуктов, нужен фокус на бизнес-пользователях, работа с болями в их бизнес-джобах и повышении зрелости работы с данными в компании в целом (естественно, не без развития направления AI)\n\nhttps://hh.ru/vacancy/134679037?hhtmFrom=employer_vacancies\n\nЗа всеми подробностями в тг к нанимающему - Роману @klovshot\n\nИнформация про Системный Курс по продакт-менеджменту",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 23,
+        "length": 15,
+        "url": "https://t.me/productcasebar/"
+      },
+      {
+        "type": "text_url",
+        "offset": 112,
+        "length": 28,
+        "url": "https://docs.google.com/document/d/1_bq1zQtkfAJjf5O_QjpuMDFlkloNkF_VyTtpRv7oyZI/edit?tab=t.0"
+      },
+      {
+        "type": "text_url",
+        "offset": 155,
+        "length": 3,
+        "url": "https://koloskoveducation.tilda.ws/productcaseclub/"
+      },
+      {
+        "type": "url",
+        "offset": 411,
+        "length": 59
+      },
+      {
+        "type": "text_url",
+        "offset": 559,
+        "length": 27,
+        "url": "https://gem-shaker-6ab.notion.site/1bc55ffe314a803694a0c142a0248da5"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1471",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Data Products",
+    "company": "SM Lab",
+    "location": null,
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "SM Lab ищет опытного продакта для внутренних data-продуктов с фокусом на бизнес-пользователей. Роль включает работу с болями в бизнес-джобах, повышение зрелости работы с данными в компании и развитие направления AI.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13594,
+    "date_iso": "2026-07-14T10:10:44+00:00",
+    "text": "#vacancy #CPO #work #fulltime #remote #вакансия \n\n\n🚀Chief Product Officer (CPO) iGaming 🚀\n🌎 Полная занятость, удаленный формат\n💰 до 7000€\n\n\nМы ищем Chief Product Officer, который возглавит развитие продуктового направления компании и будет отвечать за формирование продуктовой стратегии, развитие команды Product Management и рост ключевых бизнес-показателей.\nЭто роль для лидера, который умеет превращать идеи в успешные продукты, принимать решения на основе данных и эффективно взаимодействовать с бизнесом, разработкой и дизайном.\n \n📝 ТРЕБОВАНИЯ:\n• Формировать и реализовывать продуктовую стратегию компании.\n• Управлять полным жизненным циклом продуктов — от идеи до запуска и дальнейшего развития.\n• Развивать и управлять командой Product Management.\n• Определять приоритеты и управлять продуктовым roadmap.\n• Работать с Engineering, Design, Marketing и Business командами.\n• Анализировать рынок, потребности пользователей и продуктовые метрики.\n• Развивать процессы Product Management и внедрять лучшие практики.\n• Формировать систему KPI и оценивать эффективность продуктовых инициатив.\n• Возможность влиять на стратегию развития продуктов компании.\n\n🔎 ОЖИДАНИЯ:\n• Более 5 лет опыта в роли CPO, Head of Product или Director of Product.\n• Опыт управления несколькими продуктовыми командами.\n• Успешный опыт построения и реализации продуктовой стратегии.\n• Data-driven подход к принятию решений.\n• Отличные лидерские и коммуникационные навыки.\n• Опыт взаимодействия с C-level и кросс-функциональными командами.\n• Английский язык — Upper-Intermediate (B2+) или выше.\n\n✅БУДЕТ ПРЕИМУЩЕСТВОМ:\n• Опыт работы в международных продуктовых компаниях.\n• Опыт масштабирования продуктов и команд.\n• Опыт работы в быстрорастущих технологических компаниях или стартапах.\n• Опыт управления высоконагруженными цифровыми продуктами.\n\n\n📩@V_recruiting\n\n--\n[< Подпишитесь на канал «Работа в ИТ» >]",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1852,
+        "length": 33,
+        "url": "https://t.me/workayte"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13594",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Chief Product Officer (CPO), iGaming",
+    "company": null,
+    "location": "Remote",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "до 7000€",
+    "short_description": "Ищем Chief Product Officer для возглавления продуктового направления iGaming компании. Вы будете отвечать за стратегию, управление командой Product Management, полный жизненный цикл продуктов и взаимодействие с Engineering, Design и Business командами. Требуется 5+ лет опыта в роли CPO/Head of Product с успешным опытом управления несколькими продуктовыми командами и data-driven подходом.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10145,
+    "date_iso": "2026-07-14T09:42:57+00:00",
+    "text": "Chief Product Officer (дебетовые карты)\nв Bereke Bank — казахстанский коммерческий банк.\nИщет Виктория Панова, её пост на LinkedIn.\n \nБольше вакансий для ТОПов: @forchiefs",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 114,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/vstremetskaya-b6a215219_%D0%B2%D0%B8%D0%BA%D0%B0-%D0%BA%D0%B0%D0%BA-%D1%82%D0%B5%D0%B1%D0%B5-%D0%B0%D0%BE-bereke-bank-%D0%B5%D1%81%D0%BB%D0%B8-share-7482403355579965440-81Bt/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10145",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Chief Product Officer, дебетовые карты",
+    "company": "Bereke Bank",
+    "location": "Казахстан",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Роль Chief Product Officer в казахстанском коммерческом банке Bereke Bank, ответственный за развитие и стратегию дебетовых карт.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13584,
+    "date_iso": "2026-07-14T08:43:56+00:00",
+    "text": "#вакансия #job #vacancy #удалено #remote #product  \n\nProduct manager\nОплата: по договоренности \nФормат работы: Full time, remote \nКомпания: MySky\n*Локация неважна, гражданство тоже. \n\nWhat you'll do:\n\nOwn 0→1 product lifecycle: scope, roadmap, priorities\nLead cross-functional team proactively\nFlag risks early, ship in small pieces, show progress regularly\nDrive integrations with MySky ecosystem\nOwn B2C acquisition & conversion metrics — from roadmap to launch\n\nWho you are:\n\n3–5 years PM, with a 0→1 project you can detail\nProactive — flag issues before being asked\nComfortable without a spec\nDaily AI user (Claude, etc.)\nEnglish & Russian — C1+\nExcel, Jira, Confluence/Notion \n\n\nВакансия по ссылке: https://app.notion.com/p/mysky/Product-manager-3973771123da8027ac8ce5556c3a07cd\nРезюме можно отправить мне в личные сообщения 🙌  @svetlana_volkovaHR",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 140,
+        "length": 5,
+        "url": "https://app.notion.com/p/mysky/Join-MySky-Team-2f33b3f0bc4741318465878ebbfe723d"
+      },
+      {
+        "type": "text_url",
+        "offset": 704,
+        "length": 79,
+        "url": "https://app.notion.com/p/mysky/Product-manager-3973771123da8027ac8ce5556c3a07cd"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13584",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager",
+    "company": "MySky",
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Own 0→1 product lifecycle including scope, roadmap, and priorities. Lead cross-functional teams, drive integrations with MySky ecosystem, and own B2C acquisition and conversion metrics. Requires 3–5 years PM experience with a proven 0→1 project, daily AI tool usage, and C1+ English and Russian proficiency.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
     "msg_id": 574,
     "date_iso": "2026-07-14T07:54:39+00:00",
     "text": "👨‍💻 Product Manager (AI Apps & Subscriptions)\n\n▪️Компания Codabrasoft LLC\n▪️Домен #AI\n▪️Грейд #Middle #Senior\n▪️Формат #УдаленкаМир \n\nWe’re looking for a Product Manager who will own AI-powered mobile products with a strong focus on growth, subscriptions, monetization, and product analytics.\n\n What to expect in this position:\n- Take ownership of existing mobile products (iOS & Android), driving product growth and profitability;\n- Refine existing products to improve quality and stability;\n- Identify bottlenecks in product funnels and implement data-driven solutions to increase revenue and retention;\n- Collaborate with designers and developers to optimize onboarding, paywalls, and monetization flows;\n- Analyze key product metrics (CAC, LTV, retention) and make data-driven decisions;\n- Identify new monetization opportunities for existing features;\n- Plan, run, and analyze A/B tests to validate product hypotheses and improve key metrics.\n\nQualifications\n- 3+ years of experience as a Product Manager / Product Owner with subscription-based mobile products;\n- Strong understanding of software development principles;\n- Understanding and practical experience in writing product documentation (Confluence);\n- Knowledge and understanding of key product metrics;\n- Proven track record of using data to drive product decisions, experience with analytical systems;\n- Experience with A/B testing and experimentation to improve user engagement and revenue;\n- Ability to spot opportunities for feature monetization and growth.\n\nPlease send your CV via LinkedIn DM or to zlata.sokolovskaya@codabrasoft.com\n\nСсылка на пост LinkedIn  \n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
@@ -44,7 +323,7 @@
     "salary": null,
     "short_description": "Own AI-powered mobile products (iOS & Android) focused on growth, subscriptions, and monetization. Drive product profitability through data-driven decisions, optimize onboarding and paywall flows, and run A/B tests to improve retention and revenue metrics.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -85,7 +364,7 @@
     "salary": "2000 USDT + бонусы по результатам",
     "short_description": "New Sky Group ищет Product Leader для масштабирования нового adult web-проекта. Роль включает продуктовое управление, развитие продукта и рост ключевых метрик в компании, создающей digital-продукты в сферах развлечений, social media, AI и web-технологий.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -121,7 +400,7 @@
     "salary": null,
     "short_description": "Tremau is a Trust & Safety solutions provider based in Paris offering AI-powered moderation products and advisory services to help online services protect users and comply with regulations. The role requires English as working language with French welcome, offering flexible remote work.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -175,7 +454,7 @@
     "salary": null,
     "short_description": "Wisebits is an international IT holding with a high-load video hosting platform used by millions worldwide. The VR product team needs a PM to develop VR products, analyze creator needs, manage product development from concept to metrics, and run A/B tests to optimize user experience.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -249,7 +528,7 @@
         "channel_id": 2667909413
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -272,7 +551,7 @@
     "salary": "280–300к ₽",
     "short_description": "Управление ИТ-проектом внедрения системы маркировки Честный знак на полный цикл. Требуется опыт интеграции маркировки, управление вендорами и сопровождение систем в эксплуатации. Проект на 12 месяцев с возможной пролонгацией.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -307,7 +586,7 @@
     "salary": "2000 USDT + бонусы по результатам",
     "short_description": "Independent product team creating digital products in entertainment, social media, AI, and web technologies. Seeking Product Leader to manage a new adult web project, drive product development, and scale key metrics.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -337,7 +616,7 @@
     "salary": "400К — 600К ₽",
     "short_description": "Физикл — экосистема для системного изменения образа жизни, охватывающая питание, тренировки, привычки и здоровье. Полностью удалённая позиция.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -367,7 +646,7 @@
     "salary": "2000 USDT + бонусы",
     "short_description": "Независимая продуктовая команда создаёт digital-продукты в развлечениях, социальных сетях и AI. Ищем Product Leader для масштабирования нового adult web-проекта с фокусом на продуктовое управление и рост ключевых метрик.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -397,7 +676,7 @@
     "salary": null,
     "short_description": "Полная ответственность за транзакционный путь покупателя: воронка, корзина, страница заказа, антифрод-механики и платформа. Управление 3 командами, поиск новых механик покупки, повышение конверсии и доверия на пути от интереса к завершенной сделке.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -11368,7 +11647,7 @@
     "short_description": "Разработка ПО и технологий для FMCG производителей. Создание и доставка ценности продуктов для помощи в принятии важных решений по росту выручки и оптимизации затрат.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11398,7 +11677,7 @@
     "short_description": "Команда развития инвестиционного бизнеса ищет Chief Product Owner. Роль включает формулирование видения продукта и стратегии, анализ клиентских путей, сбор и анализ требований от бизнеса и пользователей.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11428,7 +11707,7 @@
     "short_description": "Команда развития инвестиционного бизнеса ищет Chief Product Owner для руководства стратегией продукта в инвестиционной сфере.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -11464,7 +11743,7 @@
     "short_description": "Looking for a Junior+ PM with strong grasp of product fundamentals (JTBD, value proposition, unit economics) and analytical thinking. Experience with analytics systems, mobile/web apps, Figma, and AI tools is a plus. English B1+ required.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1674506295,
@@ -11515,7 +11794,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11551,7 +11830,7 @@
     "short_description": "Ответственность за развитие стратегических продуктовых инициатив от исследования и формирования roadmap до запуска и масштабирования. Необходимо достигать измеримых бизнес-результатов на стыке различных функций.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -11587,7 +11866,7 @@
     "short_description": "Product Manager role requiring daily AI tool usage and autonomous task management. Strong understanding of product analytics, with preference for iOS/PWA and content product experience.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
