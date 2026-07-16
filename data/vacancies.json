@@ -1,5 +1,333 @@
 [
   {
+    "channel_id": 1804835860,
+    "channel_username": "zarubezhom_jobs",
+    "channel_title": "Connectable Jobs",
+    "msg_id": 4046,
+    "date_iso": "2026-07-16T08:00:27+00:00",
+    "text": "Technical Product Delivery Manager в Velvetech\n\n📍Remote\n💎5+ лет опыта в управлении разработкой ПО / проектами / программами / продуктами.\n🚀В компании работает много русскоговорящих ребят \n\nVelvetech — 20 лет разрабатывают ПО для клиентов по всему миру (среди партнеров — Microsoft).\n\nРазмер команды — 51-200\n\nУзнать подробнее и откликнуться: тут\n\n🤝 Ещё 200+ вакансий продактов и проджектов в компаниях с русскоговорящими фаундерами/командами — в нашей рассылке\n\nДругие вакансии в компании: \n— AI Product Manager\n— Senior Data Engineer\n— Business Analyst",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 192,
+        "length": 9,
+        "url": "https://velvetech.com/blog/top-software-development-companies-2022-techreviewer/"
+      },
+      {
+        "type": "text_url",
+        "offset": 345,
+        "length": 3,
+        "url": "https://velvetech.com/careers/technical-product-delivery-manager/"
+      },
+      {
+        "type": "text_url",
+        "offset": 349,
+        "length": 4,
+        "url": "https://www.linkedin.com/company/1inchcom/people/"
+      },
+      {
+        "type": "text_url",
+        "offset": 448,
+        "length": 16,
+        "url": "https://t.me/zarubezhom_jobs/3459"
+      },
+      {
+        "type": "text_url",
+        "offset": 497,
+        "length": 18,
+        "url": "https://velvetech.com/careers/ai-product-manager/"
+      },
+      {
+        "type": "text_url",
+        "offset": 518,
+        "length": 20,
+        "url": "https://velvetech.com/careers/senior-data-engineer/"
+      },
+      {
+        "type": "text_url",
+        "offset": 541,
+        "length": 16,
+        "url": "https://velvetech.com/careers/business-analyst/"
+      }
+    ],
+    "link": "https://t.me/zarubezhom_jobs/4046",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Technical Product Delivery Manager",
+    "company": "Velvetech",
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Velvetech разрабатывает программное обеспечение для клиентов по всему миру, работая с партнерами как Microsoft. Требуется опыт 5+ лет в управлении разработкой ПО, проектами или продуктами. В компании работает много русскоговорящих специалистов.",
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/13743",
+        "date_iso": "2026-07-16T08:03:51+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10157,
+    "date_iso": "2026-07-16T07:59:58+00:00",
+    "text": "Senior Product Manager\nв TrustMe — международная экосистема для электронного документооборота, которая упрощает подписание договоров, актов и накладных, делая его быстрым и удобным.\nОфис (Астана, Казахстан).\nИщет Сабина Умешева, её пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 232,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/%D1%81%D0%B0%D0%B1%D0%B8%D0%BD%D0%B0-%D1%83%D0%BC%D0%B5%D1%88%D0%B5%D0%B2%D0%B0-7577ba361_%D0%BC%D1%8B-%D0%B8%D1%89%D0%B5%D0%BC-%D0%BD%D0%B5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82%D0%B0-%D0%BC%D1%8B-%D0%B8%D1%89%D0%B5%D0%BC-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0-activity-7482729407426580481-rNKh"
+      }
+    ],
+    "link": "https://t.me/forproducts/10157",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "TrustMe",
+    "location": "Астана, Казахстан",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "TrustMe — международная экосистема для электронного документооборота. Компания упрощает подписание договоров, актов и накладных, делая процесс быстрым и удобным.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10152,
+    "date_iso": "2026-07-15T16:24:56+00:00",
+    "text": "Product Manager (AI Apps & Subscriptions)\nCodabrasoft is an international full-cycle boutique agency specializing in custom software development, including mobile apps, games, and web services for businesses of any scale.\nRemote work. Flexible schedule.\nMore details in Zlata Sokolovskaya's post on LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 291,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/zlata-sokolovskaya-905ab41ba_hiring-vacancy-product-activity-7480304180679766017-mSmo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10152",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, AI Apps & Subscriptions",
+    "company": "Codabrasoft",
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Full-cycle boutique agency specializing in custom software development including mobile apps, games, and web services. The PM will focus on AI applications and subscription products with flexible remote work arrangements.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 577,
+    "date_iso": "2026-07-15T16:01:19+00:00",
+    "text": "👨‍💻 Product Manager в TrustMe.kz\n\n▪️Компания TrustMe.kz \n▪️Домен #FinTech\n▪️Уровень #Middle\n▪️Формат #Казахстан #ОфисАстана \n\nTrustMe - удобный сервис для онлайн-подписания документов, который помогает тысячам предпринимателей вести бизнес быстрее и проще.\n\nЦифры, которые говорят за нас:\n— 3000+ бизнесов и 1.5 млн пользователей нам доверяют\n— В нас инвестировал сам Тим Дрейпер ($1M) — да, тот самый ранний инвестор Tesla и SpaceX\n— Мы прошли через StartX (Stanford University) и Hero Training от Draper University, попав в топ-10 стартапов мира!\n\nЭто не для красоты в презентации. Это значит, что у продукта есть амбиции выйти далеко за пределы Казахстана - и нам нужен человек, который поведёт его туда. Ближайшая цель - стать единорогом из Казахстана.\n\nОбязанности:\n- Смотреть дальше своего экрана: тренды, мировые игроки, ходы конкурентов\n- Писать ТЗ, после которых не задают вопросов:PRD и User Stories, по которым команда летит, а не спотыкается\n- Мыслить метриками: Activation, Retention, Conversion, ARPU - не отчёт, а твой пульс\n- Совместно с Top Management формировать продуктовую стратегию и долгосрочное видение\n- Докапываться до правды в CustDev: анализировать клиентский опыт и выявлять реальные проблемы пользователей\n- Не верить гипотезам, а проверять их экспериментами и A/B-тестами\n\nТребования:\n- Опыт работы Product Manager от 5 лет, из них желательно 2+ года на уровне Senior\n- Подтверждённый опыт запуска, развития или масштабирования цифровых продуктов с измеримыми результатами\n- Желателен опыт работы с B2B SaaS-продуктами\n- Глубокое понимание продуктовой аналитики, метрик роста, unit-экономики (LTV, CAC, ARPU и др.)\n- Опыт работы в быстрорастущих стартапах будет большим преимуществом\n- Умение принимать самостоятельные решения и брать ответственность за результат\n\nТелеграм: @sabi_u22\n\nСсылка на пост LinkedIn  \n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 24,
+        "length": 10
+      },
+      {
+        "type": "text_url",
+        "offset": 47,
+        "length": 11,
+        "url": "https://trustme.kz/"
+      },
+      {
+        "type": "text_url",
+        "offset": 1818,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/%D1%81%D0%B0%D0%B1%D0%B8%D0%BD%D0%B0-%D1%83%D0%BC%D0%B5%D1%88%D0%B5%D0%B2%D0%B0-7577ba361_%D0%BC%D1%8B-%D0%B8%D1%89%D0%B5%D0%BC-%D0%BD%D0%B5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82%D0%B0-%D0%BC%D1%8B-%D0%B8%D1%89%D0%B5%D0%BC-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0-activity-7482729407426580481-rNKh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1847,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1848,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 1879,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/577",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager",
+    "company": "TrustMe.kz",
+    "location": "Астана, офис",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "TrustMe - сервис для онлайн-подписания документов с 3000+ бизнес-клиентами и 1.5 млн пользователей. Команда работает над расширением на международные рынки с целью стать единорогом. Требуется PM с опытом 5+ лет для формирования продуктовой стратегии, работы с метриками роста и развития B2B SaaS продукта в быстрорастущем стартапе.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1473,
+    "date_iso": "2026-07-15T13:37:46+00:00",
+    "text": "THE CULTT ищет Product Manager\n\nВсе курсы от редакции https://t.me/productjobgo/1467\n\nTHE CULTT - это ресейл-платформа с кураторским отбором. В коллекции THE CULTT редкие ресейл-лоты от Hermès до The Row, а также абсолютно новые изделия. \n\nСейчас мы ищем человека, который будет отвечать за развитие всех наших продуктов: сайта, приложения и внутренних инструментов.\n\nВсе детали и отклик здесь: https://app.notion.com/p/theculttcom/Product-lead-BizDev-16b8a76c20f44f11b2177412f4060fad\n\nВсе курсы от редакции https://t.me/productjobgo/1467",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 54,
+        "length": 30
+      },
+      {
+        "type": "url",
+        "offset": 395,
+        "length": 89
+      },
+      {
+        "type": "url",
+        "offset": 508,
+        "length": 30
+      }
+    ],
+    "link": "https://t.me/productjobgo/1473",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager",
+    "company": "THE CULTT",
+    "location": null,
+    "grade": null,
+    "ml_ai": false,
+    "remote": null,
+    "salary": null,
+    "short_description": "THE CULTT — платформа ресейла премиум-вещей с кураторским отбором. Ищем PM, который будет отвечать за развитие всех продуктов: сайта, мобильного приложения и внутренних инструментов.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 576,
+    "date_iso": "2026-07-15T11:03:14+00:00",
+    "text": "✈ Product Manager Aviasales\n\n▪️Компания Aviasales\n▪️Домен #TravelTech\n▪️Грейд #Middle #Senior \n▪️Формат #УдаленкаМир\n\nПродолжаем укреплять наш Саппорт - ищем опытного Product Manager в команду Client Automation Team, которая развивает AI-ассистента поддержки. Предстоит запускать новые сценарии, улучшать качество ответов LLM, развивать клиентский путь после покупки билета и снижать нагрузку на поддержку за счет автоматизации.\nВажна высокая адаптивность к изменениям, умение быстро погружаться в новые предметные области, декомпозировать сложные процессы, принимать решения на основе данных и оценивать AI-решения через влияние на пользовательские и бизнес-метрики, а не через технологический хайп. Большим плюсом будет бэкграунд в бизнес-аналитике. \n\nСсылка на пост LinkedIn  \nСсылка на вакансию\n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 40,
+        "length": 9,
+        "url": "https://www.aviasales.ru/about"
+      },
+      {
+        "type": "text_url",
+        "offset": 754,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/daria-gubanova-83a436138_undefined-activity-7482775152972443649-sLu7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 780,
+        "length": 18,
+        "url": "https://www.aviasales.ru/about/vacancies/4269289"
+      },
+      {
+        "type": "text_url",
+        "offset": 802,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 803,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 834,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/576",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, AI-ассистент поддержки",
+    "company": "Aviasales",
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Развиваете AI-ассистента поддержки в Client Automation Team. Запускаете новые сценарии, улучшаете качество ответов LLM и развиваете клиентский путь после покупки билета. Требуется опыт в оценке AI-решений через метрики влияния на пользователей и бизнес, а также бэкграунд в бизнес-аналитике.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10151,
+    "date_iso": "2026-07-15T09:59:58+00:00",
+    "text": "Senior Product Manager (Client Automation Team)\nв Aviasales — метапоисковик авиабилетов, помогающий найти самые дешёвые рейсы по 2000+ авиакомпаниям и ведущим авиакассам.\nУдалённая работа.\nОписание вакансии.\nИщет Дарья Губанова, её пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 189,
+        "length": 18,
+        "url": "https://www.aviasales.ru/about/vacancies/4269289"
+      },
+      {
+        "type": "text_url",
+        "offset": 232,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/daria-gubanova-83a436138_undefined-share-7482775152108249088-Xp1t/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10151",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, Client Automation Team",
+    "company": "Aviasales",
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Aviasales is a flight metasearch engine helping users find the cheapest flights across 2000+ airlines and leading travel agencies. The Client Automation Team works on automating and optimizing client-facing features.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 2823702878,
     "channel_username": "jobs_product_managers",
     "channel_title": "Вакансии продакт менеджеров",
@@ -50,7 +378,7 @@
     "salary": null,
     "short_description": "Growth Product Manager для веб-воронок. B2C компания ищет специалиста, который хочет оказать реальное влияние на рост бизнеса и развиваться профессионально.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -73,7 +401,7 @@
     "salary": null,
     "short_description": "Управление проектом внедрения системы L4 Track & Trace для маркировки «Честный знак». Фасилитация взаимодействия с вендорами, контроль сроков и запуска системы согласно регуляторным срокам. Требуется опыт управления ИТ-проектами, глубокое понимание маркировки и системное мышление.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -103,7 +431,7 @@
     "salary": null,
     "short_description": "Ищем опытного Head of Product с 7+ годами в финтехе и платежных сервисах для запуска и развития финансовых продуктов на рынке MENA. Требуется глубокое понимание регулирования, платежной инфраструктуры и опыт работы в регулируемой среде (DFSA, FCA, ADGM, MAS).",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -126,7 +454,7 @@
     "salary": null,
     "short_description": "Salmon - международная технологическая финансовая компания, создающая современные банковские и кредитные продукты для рынка Филиппин с более чем 1,5 млн клиентов. Разработка внутренних операционных продуктов и автоматизация процессов, связанных с агентской сетью, мерчантами и торговыми точками. Работа с командами Operations, Engineering, Analytics и Business для улучшения эффективности и масштабирования.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -179,7 +507,7 @@
     "salary": null,
     "short_description": "SM Lab ищет опытного продакта для внутренних data-продуктов с фокусом на бизнес-пользователей. Роль включает работу с болями в бизнес-джобах, повышение зрелости работы с данными в компании и развитие направления AI.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -209,7 +537,7 @@
     "salary": "до 7000€",
     "short_description": "Ищем Chief Product Officer для возглавления продуктового направления iGaming компании. Вы будете отвечать за стратегию, управление командой Product Management, полный жизненный цикл продуктов и взаимодействие с Engineering, Design и Business командами. Требуется 5+ лет опыта в роли CPO/Head of Product с успешным опытом управления несколькими продуктовыми командами и data-driven подходом.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -239,7 +567,7 @@
     "salary": null,
     "short_description": "Роль Chief Product Officer в казахстанском коммерческом банке Bereke Bank, ответственный за развитие и стратегию дебетовых карт.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -275,7 +603,7 @@
     "salary": null,
     "short_description": "Own 0→1 product lifecycle including scope, roadmap, and priorities. Lead cross-functional teams, drive integrations with MySky ecosystem, and own B2C acquisition and conversion metrics. Requires 3–5 years PM experience with a proven 0→1 project, daily AI tool usage, and C1+ English and Russian proficiency.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -10795,7 +11123,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -10847,7 +11175,7 @@
     "short_description": "Развитие B2C мобильного подписочного продукта: формирование продуктовой стратегии, управление юнит-экономикой, запуск A/B тестов и масштабирование. Руководство командой PM, дизайна и аналитики с опытом GTM и UA планирования.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -10912,7 +11240,7 @@
     "short_description": "Bridge between business and development for Fintech and Insurtech products. Manage product backlogs, facilitate Agile ceremonies (Scrum/Kanban), and ensure alignment with compliance and security standards. Work with cross-functional teams of Product Managers, Designers, and Engineers in an async, remote environment.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -10954,7 +11282,7 @@
     "short_description": "Продакт с опытом в трейдинге и техническим бэкграундом. Формирование фич под бизнес-цели, приоритизация инициатив на основе данных, управление roadmap и бэклогом, взаимодействие с инженерной командой.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -10984,7 +11312,7 @@
     "short_description": "Работа над флагманским мобильным приложением Movavi для видеоредактирования. Цель - стать лидером на рынке мобильного видеомонтажа, находить новые возможности и внедрять передовые технологические решения.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11020,7 +11348,7 @@
     "short_description": "Build technology for omnichannel commerce. Shape the foundation of the Commerce Platform, Middleware & Integration ecosystem that enables scalable commerce across Fielmann markets.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11074,7 +11402,7 @@
     "short_description": "Создание и развитие нового продукта с нуля. Декомпозиция стратегии продукта в детальные планы, управление поставками, работа в сложных проектах.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11110,7 +11438,7 @@
     "short_description": "Разработка и внедрение подхода к базовому ценообразованию, создание админок для ценообразования, развитие пакетных тарифов. Мониторинг конкурентов и переработка риск-профиля клиента.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11145,7 +11473,7 @@
     "short_description": "Творческая компания, специализирующаяся на онлайн-школе по шитью и вязанию, а также производстве наборов для текстильного хобби. Команда состоит из творческих людей, требуется методолог для управления продуктом и процессами.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11223,7 +11551,7 @@
     "short_description": "Развитие цифровых продуктов для бизнес-банкинга, работа над улучшением end-to-end клиентских сценариев и оптимизацией процессов для B2B клиентов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -11289,7 +11617,7 @@
     "short_description": "Компания Rooh Co в сфере HealthTech ищет двух Product Managers для работы над мобильными и веб-приложениями на глобальный рынок. Junior+ PM будет писать ТЗ, вести аналитику и исследовать конкурентов; Middle/Middle+ PM займется гипотезами, глубокой аналитикой и приоритизацией. Требуется опыт с iOS/PWA, сложными системами аналитики (Amplitude/Mixpanel) и английский B1+.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11325,7 +11653,7 @@
     "short_description": "Работа с UX/UI продукта, анализ конкурентов и потребностей рынка, управление обратной связью клиентов. Генерация и проверка гипотез, работа с метриками и формирование бэклога.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11385,7 +11713,7 @@
     "short_description": "Формирование стратегии развития цифровых проектов и лидирование кросс-функциональных инициатив (Big Data, AI, Data Lab). Управление продуктовым бэклогом и приоритизацией задач, координация с топ-менеджментом организации.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11415,7 +11743,7 @@
     "short_description": "Руководитель направления по опционам в Prime направлении Сбербанка. Первичное интервью проводится с AI-рекрутером и ГигаРекрутером в Telegram.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11457,7 +11785,7 @@
     "short_description": "Развитие карточного бизнеса в крупном digital banking и fintech ecosystem игроке региона. Фокус на создании лучшего customer experience и ecosystem-подхода в финансовых сервисах.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11499,7 +11827,7 @@
     "short_description": "Стратегическое планирование развития учетных систем как продукта в портфеле IT-продуктов. Формирование стратегии развития, улучшение ключевых метрик продукта, анализ рыночных трендов и работа с заказчиками.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11552,7 +11880,7 @@
     "short_description": "Руководитель направления в крупной финансовой компании. Первый этап отбора проводится с AI-рекрутером и ГигаРекрутером в Telegram.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -11582,7 +11910,7 @@
     "short_description": "Вакансия в компании «Бюро цифровых проектов», участнике Московского инновационного кластера. Команда объединяет экспертов с глубокими знаниями в области телекоммуникационных технологий для разработки инновационных решений.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1205373966,
@@ -11605,7 +11933,7 @@
     "short_description": "Формирование видения продукта и разработка roadmap для игровой платформы, соединяющей функционал Web 2.0 и Web 3.0. Полный цикл работы: от гипотез и MVP до анализа метрик и оценки влияния на продукт. Работа с техническими командами, проведение исследований, запуск экспериментов и координация релизов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
