@@ -1,5 +1,337 @@
 [
   {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1476,
+    "date_iso": "2026-07-18T04:50:07+00:00",
+    "text": "Senior Product Manager КА Techlinks\n\nРазборы кейсов, 76 разборов пришли, всего свыше 190 тестовых и реальных задач продактов. Плейлист доступен по ссылке, сайт разборов тут\n\nФормат работы: полная занятость, удаленно \nЗП: обсуждаемо\n\nSenior Product Manager в международную fintech компанию \n\nКоманда строит B2B-платформу для трансграничных платежей на базе crypto + fiat rails. Цель — сделать быстрые, удобные и compliance-friendly платежи для бизнеса в разных юрисдикциях.\n\nЭто роль с большим ownership и возможностью реально влиять на продукт и развитие компании.\n\nЧто предстоит делать:\n– Развивать направление cross-border payments от идеи до масштабирования\n– Строить payment product с нуля: vision, roadmap, delivery\n– Работать с лицензированием и regulatory requirements (EU, Canada, Switzerland, UAE и др.)\n– Взаимодействовать напрямую с engineering-командой (5–15 человек)\n– Формировать PRD/BRD и управлять unit-экономикой\n– Работать на стыке business / compliance / legal / engineering\n\nБудет особенно релевантен такой опыт:\n– B2B crypto/payments\n– запуске payment-продуктов с нуля\n– свободный английский\n\nЧто предлагают:\n– Возможность строить продукт практически с нуля и влиять на стратегию компании.\n– Работа в международной crypto среде с фокусом на реальные B2B-платежи.\n– Небольшая сильная senior команда без бюрократии и лишних процессов.\n– Конкурентный уровень компенсации в USD/EUR.\n– Гибкий формат работы (удаленно или в офисе в Лимассол с оформлением в штат и рабочей визой).\n–  Высокий уровень самостоятельности и ownership\n\nКак откликнуться:\nЕсли вам интересно или знаете подходящих кандидатов — пишите в тг @foreverinlovewithsummer\n\nИнформация про Системный Курс по продакт-менеджменту",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 37,
+        "length": 15,
+        "url": "https://t.me/productcasebar/"
+      },
+      {
+        "type": "text_url",
+        "offset": 126,
+        "length": 28,
+        "url": "https://docs.google.com/document/d/1_bq1zQtkfAJjf5O_QjpuMDFlkloNkF_VyTtpRv7oyZI/edit?tab=t.0"
+      },
+      {
+        "type": "text_url",
+        "offset": 169,
+        "length": 3,
+        "url": "https://koloskoveducation.tilda.ws/productcaseclub/"
+      },
+      {
+        "type": "text_url",
+        "offset": 1680,
+        "length": 27,
+        "url": "https://gem-shaker-6ab.notion.site/1bc55ffe314a803694a0c142a0248da5"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1476",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, B2B Payments",
+    "company": "Techlinks",
+    "location": "Удалённо / Лимассол",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "обсуждаемо (USD/EUR)",
+    "short_description": "Разработка B2B-платформы для трансграничных платежей на базе crypto + fiat rails. Роль с полным ownership над payment product: от vision и roadmap до delivery, работа с лицензированием и regulatory requirements в разных юрисдикциях, взаимодействие с engineering-командой 5-15 человек.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 581,
+    "date_iso": "2026-07-17T16:16:49+00:00",
+    "text": "🛍 AI Product Manager Lamoda\n\n▪️Компания Lamoda\n▪️Домен #Ecom #AI\n▪️Грейд #Middle #Senior \n▪️Формат #ГибридМосква #ГибридСанктПетербург\n\nМы в Lamoda ищем новых людей 🚀  \n\nМы тут активно внедреяем GenAI — и это не про «давайте сделаем агента с ChatGPT». \nМы строим инфраструктуру, агентов и продукты, которые должны работать надёжно и менять то, как устроена разработка, поддержка и работа с данными внутри компании. Звучит амбициозно, согласна!\n\nУспешно зарелизили первых агентов, собрали пилоты, защитили новые кейсы и теперь нужно усиляться. Ищем людей, с которыми будем это всё делать\n\nAI Product Manager с техническим бэкграундом\nЗдесь фокус на внутренние инструменты: кодовые ассистенты, генерация кода, интеграции с корпоративными данными. Нужно формулировать стратегию, понимать, что реально принесёт пользу инженерам, а что — просто хайп. \nПо классике собирать гипотезы, проверять их, рулить роадмапом и быть связкой между командами. \n\nЕсли честно, мы ищем не просто специалистов, а тех, кто сам загорается от таких задач. У нас крутая команда, много свободы и желание строить AI-направление, за которое не стыдно.\n\nСсылка на пост LinkedIn  \n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 6,
+        "url": "https://www.lamoda.ru/women-home/"
+      },
+      {
+        "type": "text_url",
+        "offset": 1125,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/valeriia-breslava-79085921b_%D0%BC%D1%8B-%D0%B2-lamoda-%D0%B8%D1%89%D0%B5%D0%BC-%D0%BD%D0%BE%D0%B2%D1%8B%D1%85-%D0%BB%D1%8E%D0%B4%D0%B5%D0%B9-%D0%BC%D1%8B-%D1%82%D1%83%D1%82-activity-7483416911536422913-2Ui2?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1154,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1155,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 1186,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/581",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "AI Product Manager (Middle/Senior), внутренние инструменты",
+    "company": "Lamoda",
+    "location": "Москва / Санкт-Петербург, гибрид",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Lamoda ищет AI Product Manager с техническим фоном для развития внутренних AI-инструментов: кодовых ассистентов, генерации кода и интеграций с корпоративными данными. Роль включает формулирование стратегии, проверку гипотез, управление роадмапом и координацию между командами разработки.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13850,
+    "date_iso": "2026-07-17T11:52:32+00:00",
+    "text": "Senior / Principal Product Manager \n#SeniorPrincipalProductManager #Senior #ProductManager #Европа #Job #Vacancy\n \nТребования:\n10+ лет опыта в Product Management / Product Ownership. Полный цикл продукта: discovery → delivery → pilot → production → rollout. Опыт с enterprise или государственными заказчиками. Управление кросс-функциональными техническими командами (15+ человек). Работа с C-level, InfoSec, Compliance и Legal. Опыт сложных интеграций, enterprise security, RBAC, audit trail, data protection. Практический опыт использования AI-инструментов (Cursor, Claude Code, Codex и др.). Английский C1+, русский язык.\n \nЛокация:📍 Европа (GMT-GMT+3). Готовность к командировкам в ОАЭ.\n\nКонтакт для отклика: https://www.linkedin.com/in/yuliana-barysenka-740676238/ +CV\n \n👉 забрать special offer",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 713,
+        "length": 56
+      },
+      {
+        "type": "text_url",
+        "offset": 779,
+        "length": 21,
+        "url": "https://t.me/JTBL_bot"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13850",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": null,
+    "location": "Европа (GMT-GMT+3)",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Требуется опытный Product Manager с 10+ годами в управлении полным циклом продукта для enterprise и государственных заказчиков. Необходимо руководить кросс-функциональными техническими командами, работать с C-level и обеспечивать сложные интеграции, enterprise security, RBAC и data protection. Требуется практический опыт AI-инструментов и владение английским C1+ и русским языком.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13848,
+    "date_iso": "2026-07-17T11:49:56+00:00",
+    "text": "Product Manager\n#ProductManager #Гибрид #Москва #СанктПетербург #Job #Vacancy\n \nТребования:\nРаботать со сложной продуктовой логикой, high-load системами и техническими компромиссами, который умеет принимать решения на основе данных и запускать большие кросс-функциональные инициативы. Отдельный плюс-опыт в стриминге, UGC, социальных продуктах, WebRTC, CDN или монетизации.\n\nЛокация:📍Гибрид. Москва или Санкт-Петербург.\n\nКонтакт для отклика: https://www.linkedin.com/in/violetta-galushko/\n \n👉 забрать special offer",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 443,
+        "length": 46
+      },
+      {
+        "type": "text_url",
+        "offset": 495,
+        "length": 21,
+        "url": "https://t.me/JTBL_bot"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13848",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager",
+    "company": null,
+    "location": "Москва / Санкт-Петербург, гибрид",
+    "grade": null,
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Работа со сложной продуктовой логикой и high-load системами. Требуется опыт в принятии решений на основе данных и запуске кросс-функциональных инициатив. Приветствуется опыт в стриминге, UGC, социальных продуктах, WebRTC, CDN или монетизации.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2769347520,
+    "channel_username": "linked_jobs",
+    "channel_title": "LinkedIn Jobs",
+    "msg_id": 1935,
+    "date_iso": "2026-07-17T09:15:05+00:00",
+    "text": "Vibe Product Owner (AI-продукты)\n\nописание 🫴\n\n#ai #po",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 34,
+        "length": 8,
+        "url": "https://www.linkedin.com/posts/yuliana-barysenka-740676238_vibe-product-owner-ai-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B-%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-share-7483244027438350336-Wr9V/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACOENPsBser3o1XDvQkMrYJFJcjR4b2SLEc"
+      }
+    ],
+    "link": "https://t.me/linked_jobs/1935",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner, AI Products",
+    "company": null,
+    "location": null,
+    "grade": null,
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 580,
+    "date_iso": "2026-07-17T08:48:09+00:00",
+    "text": "👨‍💻 Vibe Product Owner AI \n\n▪️Домен #AI \n▪️Грейд #Middle #Senior\n▪️Формат #УдаленкаМир\n\nVibe Product Owner (AI-продукты)\nФормат работы: Full-time, удаленно\n\nЛокация: Европа (ЕС, Великобритания, Сербия, Молдова, Швейцария, Норвегия, Исландия, Турция и другие европейские страны), LATAM, США\n\nМы ищем Product Owner с опытом запуска продуктов с нуля (0→1).\n\nОбязателен опыт хотя бы в одном из доменов:\n• Corporate Messenger \n• EdTech \n• HealthTech \n\nЧто предстоит делать\n• Проводить Discovery и Customer Development.\n • Исследовать рынок, пользователей и конкурентов.\n • Проверять гипотезы и рассчитывать Unit Economics.\n • Создавать PoC и интерактивные прототипы.\n • Самостоятельно проектировать UX на ранних этапах продукта.\n • Работать с Founding Engineer до вывода продукта в production.\n • Управлять roadmap, приоритетами и релизами.\n • Запускать продукт и развивать первые каналы привлечения пользователей.\n • Автоматизировать продуктовые процессы с помощью AI-агентов.\n\nТребования\n• От 5 лет опыта в Product Management.\n • Опыт полного цикла 0→1.\n • Опыт в одном из указанных доменов.\n • Discovery, Customer Development, Product Analytics.\n • Unit Economics и работа с метриками.\n • SQL.\n • Сильные навыки UX и прототипирования.\n • Практический опыт работы с AI-продуктами.\n • Vibe Coding (Cursor, Claude Code, Windsurf или аналогичные инструменты).\n • Английский язык от уровня B2+\n\nБудет плюсом\n• Инженерный бэкграунд.\n • Опыт одновременного ведения нескольких продуктов.\nТехнологии\nCursor, Claude Code, Windsurf, Codex CLI, Claude, OpenAI, MCP, LangGraph, Pinecone, Replit Agent, Framer, Webflow, Figma, Linear, Notion, Slack, PostHog, Plausible.\n\nЕсли вы запускали продукты с нуля и у вас есть опыт в одном из указанных доменов, будем рады вашему отклику Yuliana Barysenka\n\nСсылка на пост LinkedIn  \n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1765,
+        "length": 17,
+        "url": "https://www.linkedin.com/in/yuliana-barysenka-740676238/"
+      },
+      {
+        "type": "text_url",
+        "offset": 1784,
+        "length": 25,
+        "url": "https://www.linkedin.com/posts/yuliana-barysenka-740676238_vibe-product-owner-ai-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B-%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-activity-7483244028281454592-i2B1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1813,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1814,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 1845,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/580",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Owner, AI-продукты",
+    "company": "Vibe",
+    "location": "Remote (Europe, LATAM, USA)",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Ищем Product Owner с опытом запуска продуктов 0→1 для работы на AI-продуктах. Требуется опыт в Corporate Messenger, EdTech или HealthTech, сильные навыки UX, аналитики и практический опыт с AI-инструментами (Cursor, Claude Code, Windsurf).",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2769347520,
+    "channel_username": "linked_jobs",
+    "channel_title": "LinkedIn Jobs",
+    "msg_id": 1932,
+    "date_iso": "2026-07-17T08:35:17+00:00",
+    "text": "вакансии в Bitlica:\n\n– Product Manager (Payments infrastructure) \n– Product Growth Manager (web2web) \n– Creative Producer \n\n#creative #producer #product #growth",
+    "entities": [],
+    "link": "https://t.me/linked_jobs/1932",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Payments infrastructure",
+    "company": "Bitlica",
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Bitlica ищет Product Manager для работы с платежной инфраструктурой. Также открыта позиция Product Growth Manager для web2web направления.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1475,
+    "date_iso": "2026-07-17T08:30:21+00:00",
+    "text": "Senior Продакт менеджер во ВкусВилл\n\nВсе для роста от редакции каналов, пока доступные цены и возможности - https://t.me/FreshProductGo/1808\n\nЗадачи:\n• Владеть продуктовой стратегией поиска\n• Совместно с ML-инженерами разрабатывать и итерировать модели ранжирования\n• Выстраивать культуру экспериментов в стриме\n• Обеспечивать измеримый вклад стрима в top-level бизнес-метрики \n• Взаимодействовать с командами рекомендаций, каталога и персонализации\n\nТребования:\n• 4+ лет опыта в продуктовой разработке, из них 2+ в поиске, ранжировании или рекомендательных системах в e-com\n• Разбираетесь в ML-системах \n• Имеете большой опыт работы с A/B-экспериментами.\n\nРекрутер:@Saya964, ссылка\n\nРазборы кейсов, 76 разборов пришли, всего свыше 190 тестовых и реальных задач продактов. Плейлист доступен по ссылке, сайт разборов тут",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 108,
+        "length": 32
+      },
+      {
+        "type": "text_url",
+        "offset": 676,
+        "length": 6,
+        "url": "https://hh.ru/vacancy/134683926"
+      },
+      {
+        "type": "text_url",
+        "offset": 684,
+        "length": 15,
+        "url": "https://t.me/productcasebar/"
+      },
+      {
+        "type": "text_url",
+        "offset": 773,
+        "length": 28,
+        "url": "https://docs.google.com/document/d/1_bq1zQtkfAJjf5O_QjpuMDFlkloNkF_VyTtpRv7oyZI/edit?tab=t.0"
+      },
+      {
+        "type": "text_url",
+        "offset": 816,
+        "length": 3,
+        "url": "https://koloskoveducation.tilda.ws/productcaseclub/"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1475",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, Search",
+    "company": "ВкусВилл",
+    "location": null,
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Развитие продуктовой стратегии поиска в e-commerce платформе. Работа с ML-инженерами над моделями ранжирования, проведение A/B-экспериментов и взаимодействие с командами рекомендаций и персонализации для повышения бизнес-метрик.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 2667909413,
     "channel_username": "ITjobsFeed",
     "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
@@ -115,7 +447,7 @@
     "salary": null,
     "short_description": "Команда Яндекс Фабрики создаёт и развивает собственные бренды в разных категориях. Работа над операционными задачами, развитием продуктовой линейки, запуском новых линеек, анализом пользовательского опыта и работой с аналитикой.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -163,7 +495,7 @@
     "salary": null,
     "short_description": "Команда строит B2B-платформу для трансграничных платежей на базе crypto + fiat rails. Роль предполагает развитие направления cross-border payments от идеи до масштабирования, взаимодействие с engineering-командой (5-15 человек) и работу с regulatory requirements в разных юрисдикциях.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -193,7 +525,7 @@
     "salary": null,
     "short_description": "VK ищет Product Manager для работы в крупнейшей российской технологической корпорации и экосистеме, объединяющей социальные сети, порталы, почту, облачные и корпоративные технологии.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -215,8 +547,16 @@
     "remote": false,
     "salary": null,
     "short_description": "Международная продуктовая компания в сфере маркетплейсов ищет Product Lead для запуска направления Trust & Safety. Вы будете формировать стратегию противодействия мошенничеству на международных рынках, строить команду и управлять продуктом для миллионов пользователей платформы.",
-    "duplicates": [],
-    "is_new": true,
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/13849",
+        "date_iso": "2026-07-17T11:51:50+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -270,7 +610,7 @@
     "salary": null,
     "short_description": "Команда работает над медиа-функциями крупного мессенджера: видео, сторисы, голосовые и видеосообщения, редактирование медиа. Требуется опыт с high-load системами, работа на основе данных и запуск кросс-функциональных проектов. Приветствуется опыт в стриминге, UGC, социальных продуктах, WebRTC, CDN или монетизации.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -318,7 +658,7 @@
     "salary": "до 350000 ₽",
     "short_description": "Компания развивает стриминговые сервисы viju и viju ТВ. Требуется PM для развития пользовательского опыта в мобильных приложениях, управления подписочной воронкой и оптимизации ретеншена на iOS/Android.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -348,7 +688,7 @@
     "salary": null,
     "short_description": "Kaspi — крупнейшая fintech экосистема Казахстана. Аналитик будет работать с продуктовыми метриками, проводить A/B-тесты, строить дашборды и взаимодействовать с продакт-командой, дизайнерами и исследователями для принятия решений, используемых миллионами пользователей.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -378,7 +718,7 @@
     "salary": null,
     "short_description": "Novakid is an online English language school for children aged 4–12 that uses gamification and virtual reality with native-speaking teachers. The role focuses on AI and game-based learning products in the edtech space.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -9690,7 +10030,7 @@
     "short_description": "Ищем опытного Product Manager для работы с веб-воронками в B2C-продукте. Требуется 5+ лет PM опыта с минимум 2+ годами в Growth для подписочной модели. Data-driven подход с навыками A/B-тестирования и юнит-экономики.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -9726,7 +10066,7 @@
     "short_description": "Вакансия на развитие продуктов форекс-дилера, лидера рынка. Команда Альфа-Банка ищет Product Owner'а для работы с сервисом торговли активами с кредитным плечом.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -9756,7 +10096,7 @@
     "short_description": "Nebius is building a full-stack AI cloud platform supporting developers and enterprises from data and model training through production deployment. The role focuses on the AI compute platform without the cost and complexity of in-house AI/ML infrastructure.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -9792,7 +10132,7 @@
     "short_description": "Внутренний продукт для отдела продаж, который повышает эффективность сейлзов через умную автоматизацию: подбор релевантных офферов, скидочные механики, LLM-подсказки во время звонков и коммуникации в чатах.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -9828,7 +10168,7 @@
     "short_description": "Команда строит Sphere Cinema - единое пространство для киноиндустрии, объединяющее режиссеров, актеров, продакшены, фестивали и зрителей. Продакт-менеджер должен довести макет до демонстрации и проверить гипотезы на реальном рынке.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -9864,7 +10204,7 @@
     "short_description": "Разработка единой технологической платформы инвестиционного бизнеса с программными решениями для поддержки направлений, обработки данных и оркестрации вызовов. Команда работает в Инвестиционном блоке.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -9918,7 +10258,7 @@
     "short_description": "Продуктовая команда экспертов в Health & Fitness, разработчик 5 приложений с более чем 20 млн пользователей. Ищем Lead Product Manager для реализации амбициозных планов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -9954,7 +10294,7 @@
     "short_description": "Роль в развитии платежных систем требует глубокого знания рынка платежных технологий, регуляторных аспектов финансового сектора и опыта с банковскими продуктами (карты, эквайринг, платежи, переводы). Необходимо проводить анализ рынка и понимать практики основных торговых партнеров.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -9996,7 +10336,7 @@
     "short_description": "Формирование продуктового видения и доставка ценности пользователям в B2B-продуктах сферы логистики. Работа на стыке технологий, бизнеса и автоматизации реальных процессов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -10032,7 +10372,7 @@
     "short_description": "Финтех-компания на Филиппинах, предоставляющая банковские услуги через мобильное приложение и сеть офлайн-точек. Возможны варианты удаленной и гибридной работы.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -10074,7 +10414,7 @@
     "short_description": "Динамичная команда, создающая мобильные и веб-приложения в нишах Lifestyle, Health и Utilities. Удалённая работа.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -10104,7 +10444,7 @@
     "short_description": "inDrive is a global platform for taxi and urban services booking. The platform offers intercity transportation, courier and freight delivery, fintech projects through inDrive.Money, and on-demand task execution.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -10140,7 +10480,7 @@
     "short_description": "Руководитель продукта в команде онлайн-кинотеатра Иви. Компания является лидером рынка легального видеоконтента в РФ и странах СНГ, работает на рынке более 16 лет.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -10170,7 +10510,7 @@
     "short_description": "GGorbit разрабатывает инновационную соревновательную игровую платформу. Ищем Senior Product Manager для развития продукта на пересечении IT и gamedev.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -10206,7 +10546,7 @@
     "short_description": "Лидер направления стратегии для команды, развивающей GenAI продукты на базе GigaChat для B2B. Требуется опыт 7+ лет в стратегическом консалтинге или корпоративной стратегии для выстраивания траектории развития сложного AI-продукта.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -10242,7 +10582,7 @@
     "short_description": "Команда разрабатывает GenAI продукты на базе GigaChat для B2B направления. Требуется лидер с опытом 7+ лет в стратегическом консалтинге для выстраивания траектории развития AI-продукта.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -10320,7 +10660,7 @@
     "short_description": "Платформа для фотографов, предоставляющая экосистему сервисов. Отвечаете за развитие галерей и конструктора сайтов, генерацию выручки и удержание фотографов на платформе.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -10398,7 +10738,7 @@
     "short_description": "Запуск и развитие международного платежного агрегатора с нуля. Формирование стратегии продукта, бизнес-модели и платежной инфраструктуры совместно с фаундером.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -10438,7 +10778,7 @@
     "short_description": "Запуск и развитие почтового сервиса для AI-агентов с применением сквозного шифрования. Ответственность за разработку требований, запуск на глобальном рынке, привлечение пользователей и контроль качества продукта.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1205373966,
@@ -10476,7 +10816,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
