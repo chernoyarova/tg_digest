@@ -1,5 +1,94 @@
 [
   {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 582,
+    "date_iso": "2026-07-18T14:59:55+00:00",
+    "text": "👨‍💻 Product Manager Paidax\n\n▪️Компания Paidax.kz\n▪️Домен #FinTech\n▪️Уровень #Middle #Senior\n▪️Формат #УдаленкаМир\n\nИщем продуктолога в Paidax\n\nМы в Paidax растим продукт и ищем человека, который будет им по-настоящему одержим.\n\nНе \"менеджера, который ведёт бэклог\", а того, кто просыпается с идеями, спорит за пользователя до последнего, обожает разбираться в метриках и не может пройти мимо плохого UX без внутреннего протеста.\n\nОдин из ключевых фокусов роли - адаптация продукта под требования и законодательство европейских стран (регуляторика, комплаенс, локализация под разные юрисдикции ЕС). Поэтому важен интерес не только к продукту, но и к тому, как он должен меняться под разные рынки и правовые рамки.\n\nЧто важно для нас:\n — Горящие глаза и реальный интерес к продукту\n — Готовность глубоко разбираться в проблеме\n — Опыт или готовность разбираться в регуляторных требованиях европейских стран\n — Смелость предлагать своё видение и брать за него ответственность\n — Желание расти вместе с продуктом, а не просто исполнять роль\n\nЕсли вы из тех, кто обсуждает продуктовые фичи в свободное время, следит за трендами и искренне кайфует от того, как продукт меняется благодаря вашим решениям - пишите на hr@paidax.kz\n\nСсылка на пост LinkedIn\n\n📱 Канал о поиске работы в ИТ\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 41,
+        "length": 9
+      },
+      {
+        "type": "text_url",
+        "offset": 1225,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/aizhan-anuarova-3a6656b5_auiaugauqaugautauxauoavl-productmanager-auvauwauuaukauzauqauyauuaurauuauj-share-7483108265778806784-lkgK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1252,
+        "length": 1,
+        "url": "https://forms.gle/ShLgYvn54G7EA2XL7"
+      },
+      {
+        "type": "text_url",
+        "offset": 1253,
+        "length": 26,
+        "url": "https://t.me/+PLiyUxATP4A0NGUy"
+      },
+      {
+        "type": "text_url",
+        "offset": 1284,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/582",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, FinTech",
+    "company": "Paidax",
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Paidax is a FinTech company seeking a product manager passionate about building and adapting products for European markets. The role focuses on regulatory compliance, localization across EU jurisdictions, and deep product ownership with strong user advocacy.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 13912,
+    "date_iso": "2026-07-18T11:02:49+00:00",
+    "text": "Vibe Product Owner (AI-продукты)\n#VibeProductOwner #ProductOwner #Удаленно #Европа #ЕС #Великобритания #Сербия #Молдова #Швейцария #Норвегия #Испания #Турция #LATAM #США #Remote #Job #Vacancy\n \nТребования:\nОбязателен опыт хотя бы в одном из доменов: Corporate Messenger, EdTech, HealthTech. От 5 лет опыта в Product Management. Опыт полного цикла 0→1. Опыт в одном из указанных доменов. Discovery, Customer Development, Product Analytics. Unit Economics и работа с метриками. SQL. Сильные навыки UX и прототипирования. Практический опыт с AI-продуктами. Vibe Coding (Cursor, Claude Code, Windsurf или аналогичные инструменты). Английский язык от уровня B2+. Будет плюсом: Инженерный бэкграунд. Опыт одновременного ведения нескольких продуктов. Технологии: Cursor, Claude Code, Windsurf, Codex CLI, Claude, OpenAI, MCP, LangGraph, Pinecone, Replit Agent, Framer, Webflow, Figma, Linear, Notion, Slack, PostHog, Plausible.\n \nЛокация:📍Удалённо. Европа (ЕС, Великобритания, Сербия, Молдова, Швейцария, Норвегия, Исландия, Турция и другие европейские страны), LATAM, США.\n\nКонтакт для отклика: linkedin.com/in/yuliana-barysenka-740676238 +CV\n\n👉 забрать special offer",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1090,
+        "length": 43,
+        "url": "https://www.linkedin.com/in/yuliana-barysenka-740676238/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQoj3VMv%2FS1K7DMF3u6cgFA%3D%3D"
+      },
+      {
+        "type": "text_url",
+        "offset": 1142,
+        "length": 21,
+        "url": "https://t.me/JTBL_bot"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/13912",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner, AI-продукты",
+    "company": null,
+    "location": "Remote, Europe, LATAM, USA",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Looking for an experienced Product Owner with 5+ years in PM to lead AI products. Required expertise in Corporate Messenger, EdTech, or HealthTech domains, plus hands-on experience with AI tools like Cursor, Claude Code, and LLMs. Focus on discovery, customer development, product analytics, and unit economics with strong UX and prototyping skills.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 1311743791,
     "channel_username": "productjobgo",
     "channel_title": "Вакансии для продакт-менеджеров",
@@ -44,7 +133,7 @@
     "salary": "обсуждаемо (USD/EUR)",
     "short_description": "Разработка B2B-платформы для трансграничных платежей на базе crypto + fiat rails. Роль с полным ownership над payment product: от vision и roadmap до delivery, работа с лицензированием и regulatory requirements в разных юрисдикциях, взаимодействие с engineering-командой 5-15 человек.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -98,7 +187,7 @@
     "salary": null,
     "short_description": "Lamoda ищет AI Product Manager с техническим фоном для развития внутренних AI-инструментов: кодовых ассистентов, генерации кода и интеграций с корпоративными данными. Роль включает формулирование стратегии, проверку гипотез, управление роадмапом и координацию между командами разработки.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -133,7 +222,7 @@
     "salary": null,
     "short_description": "Требуется опытный Product Manager с 10+ годами в управлении полным циклом продукта для enterprise и государственных заказчиков. Необходимо руководить кросс-функциональными техническими командами, работать с C-level и обеспечивать сложные интеграции, enterprise security, RBAC и data protection. Требуется практический опыт AI-инструментов и владение английским C1+ и русским языком.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -168,7 +257,7 @@
     "salary": null,
     "short_description": "Работа со сложной продуктовой логикой и high-load системами. Требуется опыт в принятии решений на основе данных и запуске кросс-функциональных инициатив. Приветствуется опыт в стриминге, UGC, социальных продуктах, WebRTC, CDN или монетизации.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -198,7 +287,7 @@
     "salary": null,
     "short_description": "",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -252,7 +341,7 @@
     "salary": null,
     "short_description": "Ищем Product Owner с опытом запуска продуктов 0→1 для работы на AI-продуктах. Требуется опыт в Corporate Messenger, EdTech или HealthTech, сильные навыки UX, аналитики и практический опыт с AI-инструментами (Cursor, Claude Code, Windsurf).",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -275,7 +364,7 @@
     "salary": null,
     "short_description": "Bitlica ищет Product Manager для работы с платежной инфраструктурой. Также открыта позиция Product Growth Manager для web2web направления.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -328,7 +417,7 @@
     "salary": null,
     "short_description": "Развитие продуктовой стратегии поиска в e-commerce платформе. Работа с ML-инженерами над моделями ранжирования, проведение A/B-экспериментов и взаимодействие с командами рекомендаций и персонализации для повышения бизнес-метрик.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -9525,7 +9614,7 @@
     "short_description": "Продуктовая роль в направлении инфраструктурных решений на базе AI-агентов в Lamoda. Возглавление развития AI-powered инфраструктурных продуктов и платформ.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -9560,7 +9649,7 @@
     "short_description": "Владелец продукта мобильного приложения Госуслуги, отвечающий за discovery, приоритизацию бэклога, метрики и качество. Команда разрабатывает масштабные цифровые сервисы для миллионов пользователей портала государственных услуг с использованием Agile и Scrum методологий.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -9596,7 +9685,7 @@
     "short_description": "Instories — компания-разработчик мобильных приложений для редактирования фото и видео. Ищут Senior Product Manager для работы с growth и web-воронками.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -9644,7 +9733,7 @@
     "short_description": "Развиваете платёжную инфраструктуру: обработка транзакций, интеграции с платёжными партнёрами, reconciliation, settlement и внутренние платёжные сервисы. Компания после раунда финансирования на $100M расширяет Payments-команду.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -9680,7 +9769,7 @@
     "short_description": "Островок — платформа для онлайн-бронирования отелей и путешествий, один из лидеров российского рынка travel-tech. Ищем Senior Product Manager для работы с направлением Hotels.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -9710,7 +9799,7 @@
     "short_description": "Product Owner role in the Unified Contact Center direction at X5. The position involves managing the product strategy and development for contact center solutions.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -9740,7 +9829,7 @@
     "short_description": "Halyk Market — ведущая e-commerce платформа в Казахстане. Открыта позиция Product Manager для работы над Shopping Experience.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -9782,7 +9871,7 @@
     "short_description": "Роль в направлении подписки WB клуба Wildberries. Работа с подписочным продуктом в одном из крупнейших российских маркетплейсов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -9818,7 +9907,7 @@
     "short_description": "Cobalt Lab — игровая платформа на рынке СНГ, специализирующаяся на Rust-gaming. Компания стремится изменить подход к онлайн-играм и сделать геймплей по-настоящему увлекательным.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -9848,7 +9937,7 @@
     "short_description": "01tech is an infrastructure platform for iGaming business. The company is seeking a B2C Product Manager for remote work.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -9878,7 +9967,7 @@
     "short_description": "TWINBY — сервис для проверки совместимости и поиска новых знакомств. Ищет руководителя продукта для развития платформы.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -9920,7 +10009,7 @@
     "short_description": "Развитие Единого Контактного Центра (ЕКЦ) в логистической платформе. Требуется опыт с Customer Journey Mapping, метриками поддержки (FCR, AHT, NPS, CSAT), внедрением AI для маршрутизации и прогнозов нагрузки, интеграцией с CRM и внешними сервисами.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
@@ -9994,7 +10083,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
