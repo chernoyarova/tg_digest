@@ -1,5 +1,143 @@
 [
   {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1479,
+    "date_iso": "2026-07-19T12:37:33+00:00",
+    "text": "Ищем Product Manager (Middle) в Pareto Lab\n\nPareto Lab - продуктовое бюро, которое помогает крупнейшим финтехам запускать новые продукты, проверять гипотезы и выходить на новые рынки.\n\nМы не делаем презентации ради презентаций. Мы проводим исследования, запускаем MVP, проверяем гипотезы и доводим продукты до первых результатов.\n\nСейчас ищем сильного Product Manager для работы над проектами в Узбекистане, преимущественно в офис. \n\nЧем предстоит заниматься\n\n🔍 Discovery\n• Проводить CustDev и глубинные интервью\n• Искать реальные боли пользователей\n• Формулировать JTBD и продуктовые гипотезы\n• Анализировать конкурентов и лучшие мировые практики\n• Искать новые возможности роста\n\n🚀 Delivery\n• Формировать MVP и продуктовые требования\n• Работать с дизайнерами и разработчиками\n• Приоритизировать backlog\n• Запускать новые продукты и функции\n• Отвечать за результат запуска\n\n📈 Growth\n• Работать с продуктовыми метриками\n• Искать точки роста активации, удержания и монетизации\n• Запускать эксперименты и анализировать результаты\n• Принимать решения на основе данных\n\n🤖 AI-направление\n• Искать AI-возможности внутри продукта\n• Тестировать новые AI-инструменты\n• Участвовать в запуске AI-first продуктов\n• Использовать современные инструменты (ChatGPT, Claude, Cursor и др.)\n\nКакие проекты могут быть\n\n• AI Assistant\n• Loyalty и удержание пользователей\n• Referral-механики\n• Персонализация главной страницы\n• Новые сценарии платежей и переводов\n• Split Bill\n• Wishlist\n• Финансовые помощники\n• Запуск новых рынков (например, Таджикистан)\n• Discovery новых продуктовых направлений\n\nЧто важно\n\n✔️ 2–5 лет опыта Product Manager\n✔️ Опыт запуска цифровых продуктов или крупных фич\n✔️ Умение работать с аналитикой и метриками\n✔️ Понимание полного продуктового цикла: Discovery → MVP → Growth\n✔️ Самостоятельность и умение двигать задачи без постоянного контроля\n\nБудет плюсом\n➕ Финтех\n➕ Growth / Retention\n➕ CustDev\n➕ SQL\n➕ AI-инструменты\n➕ Опыт запуска MVP с нуля\n\nКаким мы видим человека\n\n• Любит решать проблемы пользователей\n• Быстро разбирается в новых темах\n• Не боится неопределенности\n• Может самостоятельно вести направление\n• Умеет превращать идеи в работающие продукты\n• Хочет влиять на бизнес, а не только писать документы\n\nДля откликов - @ST802080",
+    "entities": [],
+    "link": "https://t.me/productjobgo/1479",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle Product Manager",
+    "company": "Pareto Lab",
+    "location": "Узбекистан, офис",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Продуктовое бюро, помогающее финтехам запускать новые продукты и проверять гипотезы. Работа над проектами, включающими AI-направление: Discovery, MVP, запуск новых фич. Требуется опыт полного продуктового цикла с фокусом на аналитику и growth.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1804835860,
+    "channel_username": "zarubezhom_jobs",
+    "channel_title": "Connectable Jobs",
+    "msg_id": 4056,
+    "date_iso": "2026-07-19T11:01:08+00:00",
+    "text": "Product Manager (Learning Experience) в TripleTen\n\n💙Наши читатели уже получили оффер в эту компанию\n📍Remote (Грузия — похожая вакансия в др. странах)\n💎Опыт работы продакт-менеджером в онлайн-образовании\n🚀CEO — Илья Залесский, ex руководитель образовательных сервисов Яндекса\n\nTripleTen — платформа обучения разработке и анализу данных на рынке Израиля, США, Индонезии, Бразилии и Мексики. Выпускники уже работают в Tesla, Spotify, Google и других компаниях. \n\nРазмер команды — 500+ | Входит в Nebius Group, которую возглавляет Аркадий Волож\n\nУзнать подробнее и откликнуться: тут\n\n🤝 Ещё 200+ вакансий продактов и проджектов в компаниях с русскоговорящими фаундерами/командами — в нашей рассылке\n\nДругие вакансии в компании: \n— AI Project Manager\n— Sales Development Representative EU (B2B)",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 280,
+        "length": 9,
+        "url": "https://tripleten.com/"
+      },
+      {
+        "type": "text_url",
+        "offset": 579,
+        "length": 3,
+        "url": "https://www.comeet.com/jobs/tripleten/98.008/product-manager-learning-experience/56.D62-33.602"
+      },
+      {
+        "type": "text_url",
+        "offset": 584,
+        "length": 3,
+        "url": "https://www.linkedin.com/company/1inchcom/people/"
+      },
+      {
+        "type": "text_url",
+        "offset": 682,
+        "length": 16,
+        "url": "https://t.me/zarubezhom_jobs/3459"
+      },
+      {
+        "type": "text_url",
+        "offset": 731,
+        "length": 18,
+        "url": "https://www.comeet.com/jobs/tripleten/98.008/ai-project-manager/9D.B6B"
+      },
+      {
+        "type": "text_url",
+        "offset": 752,
+        "length": 41,
+        "url": "https://www.comeet.com/jobs/tripleten/98.008/sales-development-representative-eu-b2b/C4.16C-37.508"
+      }
+    ],
+    "link": "https://t.me/zarubezhom_jobs/4056",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Learning Experience",
+    "company": "TripleTen",
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "TripleTen — платформа онлайн-образования по разработке и анализу данных. Требуется опыт продакт-менеджера в онлайн-образовании. Компания входит в Nebius Group и работает на рынках Израиля, США, Индонезии, Бразилии и Мексики.",
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/13944",
+        "date_iso": "2026-07-19T11:03:52+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1478,
+    "date_iso": "2026-07-19T08:48:19+00:00",
+    "text": "Руководитель цифрового продукта (мобильная чат-платформа) Centicore\n\nВсе для роста от редакции каналов, пока доступные цены и возможности - https://t.me/FreshProductGo/1808\n\nКоманда ждет, что у тебя есть:\n- Опыт работы в роли Product Owner / Product Manager / системного аналитика / project manager в цифровых продуктах от 3–5 лет.\n- Практический опыт развития B2B/B2C‑продукта с мобильным приложением и веб‑панелью (желательно — мессенджеры, чат‑платформы, SaaS‑сервисы).\n- Понимание рынка чат‑платформ, мессенджеров, диалоговых платформ, основных сценариев: client support, продажи, уведомления, маркетинговые кампании, автоматизация через чат‑боты. - Опыт работы с несколькими стейкхолдерами: бизнес‑заказчик, служба поддержки, маркетинг, ИТ, продажи, партнёры. Технические и продуктовые навыки\n- Понимание архитектуры веб/мобильных продуктов: фронт, бэк, API, интеграции с CRM, колл‑центром, внешними мессенджерами, платёжными сервисами.\n- Умение формулировать требования в формате user stories, сценариев, критериев приёмки, поддерживать живой беклог продукта.\n- Опыт работы с системами продуктовой и продуктовой/маркетинговой аналитики, BI‑панели, аналитика чатов и ботов.\n- Навык проведения CustDev, интервью, анализа поведения пользователей, построения CJM для чат‑сценариев и мобильного приложения.\n- Понимание базовых принципов UX/UI для мобильных продуктов: онбординг, навигация, нотификации, работа с правами, настройки. Методологии и управление\n- Практический опыт работы по Agile (Scrum/Kanban), участия в спринт‑планировании, демо, ретроспективах.\n- Умение управлять бэклогом: приоритизация по ценности (RICE, Kano, JTBD‑подход), баланс между фичами, стабильностью и техдолгом.\n- Навык работы с roadmap продукта, ведения релизного плана, синхронизации с другими командами/платформами.\n\nЧто тебе предстоит:\n- Формирование и актуализация видения продукта: зачем существует чат‑платформа, какие ключевые ценности даёт пользователям и бизнесу.\n- Определение целевых сегментов пользователей (клиенты, операторы, администраторы, маркетинг и т.д.) и их основных задач в продукте.\n- Разработка и поддержание продуктовой roadmap: крупные продуктовые инициативы, развитие мобильного приложения, интеграции, AI‑функции.\n- Сбор и анализ количественных метрик (активность пользователей, конверсия сценариев, удержание, скорость ответа, доля автоматизации диалогов).\n- Проведение CustDev/UX‑исследований: интервью с клиентами, операторами чата, владельцами процессов, анализ обратной связи из магазинов приложений и техподдержки.\n- Выявление продуктовых проблем и возможностей роста (где пользователи «ломаются», где бизнес теряет деньги, где чат‑платформа может дать эффект).\n- Формирование и приоритизация бэклога продукта: фичи мобильного приложения, сценарии чатов, настройки ботов, интеграции, аналитика.\n- Описание требований: постановка задач команде в виде user stories с чёткими критериями приёмки, сценариями и ограничениями.\n- Поддержание прозрачности бэклога для стейкхолдеров: понятная структура, приоритеты, статус задач, связь с метриками.\nРабота с командой разработки\n- Выступление внутренним заказчиком для команды: объяснение контекста, проблем, ожидаемой ценности каждой фичи.\n- Участие в планировании спринтов, оценке задач, согласовании релизов мобильного приложения и серверной части.\n- Приёмка результата: проверка реализации по критериям, запуск фичей в пилот/прод, организация A/B‑экспериментов, контроль качества релиза.\n- Взаимодействие со стейкхолдерами.\n\n• Формат работы: гибридный Москва, МО\n• ЗП: 300-400тр\n\nДля откликов: @o_zayarnaya\n\nРазборы кейсов, 76 разборов пришли, всего свыше 190 тестовых и реальных задач продактов. Плейлист доступен по ссылке, сайт разборов тут",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 140,
+        "length": 32
+      },
+      {
+        "type": "text_url",
+        "offset": 3568,
+        "length": 15,
+        "url": "https://t.me/productcasebar/"
+      },
+      {
+        "type": "text_url",
+        "offset": 3657,
+        "length": 28,
+        "url": "https://docs.google.com/document/d/1_bq1zQtkfAJjf5O_QjpuMDFlkloNkF_VyTtpRv7oyZI/edit?tab=t.0"
+      },
+      {
+        "type": "text_url",
+        "offset": 3700,
+        "length": 3,
+        "url": "https://koloskoveducation.tilda.ws/productcaseclub/"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1478",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель цифрового продукта (мобильная чат-платформа)",
+    "company": "Centicore",
+    "location": "Москва, гибрид",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": "300–400 тр",
+    "short_description": "Развитие B2B/B2C чат-платформы с мобильным приложением и веб-панелью. Работа со стейкхолдерами (бизнес, поддержка, маркетинг, ИТ), управление продуктовой roadmap, CustDev и аналитика для сценариев чатов, интеграции с CRM и платёжными сервисами.",
+    "duplicates": [],
+    "is_new": false,
+    "is_archived": false
+  },
+  {
     "channel_id": 2823702878,
     "channel_username": "jobs_product_managers",
     "channel_title": "Вакансии продакт менеджеров",
@@ -49,7 +187,7 @@
     "salary": null,
     "short_description": "Paidax is a FinTech company seeking a product manager passionate about building and adapting products for European markets. The role focuses on regulatory compliance, localization across EU jurisdictions, and deep product ownership with strong user advocacy.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -85,7 +223,7 @@
     "salary": null,
     "short_description": "Looking for an experienced Product Owner with 5+ years in PM to lead AI products. Required expertise in Corporate Messenger, EdTech, or HealthTech domains, plus hands-on experience with AI tools like Cursor, Claude Code, and LLMs. Focus on discovery, customer development, product analytics, and unit economics with strong UX and prototyping skills.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -9505,7 +9643,7 @@
     "short_description": "Senior Technical Product Manager role at Delivery Hero focusing on AI and agent technologies. Position requires relocation to Berlin, Germany with full-time commitment.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1674506295,
@@ -9542,7 +9680,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -9578,7 +9716,7 @@
     "short_description": "ChillBase — геймдев-студия, специализирующаяся на разработке мобильных мидкор-игр (Action RPG) и масштабных симуляторов жизни, например OneState.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
