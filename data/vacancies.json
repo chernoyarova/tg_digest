@@ -1,5 +1,142 @@
 [
   {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3247,
+    "date_iso": "2026-07-26T05:28:28+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nProduct Manager в GSG Technologies\nАлматы, удаленно\nО компании\nМы — IT-компания, разрабатывающая современную B2B-платформу для автоматизации бизнес-процессов организаций. Наш продукт объединяет сервисы электронного документооборота, согласования документов, управления задачами, мобильные приложения и другие корпоративные сервисы.\nСегодня платформой уже пользуются реальные корпоративные…\n250 000 — 300 000 ₸\n\nProduct Manager / CPO в Consort Group\nТашкент\nProduct Manager / CPO (с перспективой роста)\nМы ищем Product Manager, который в перспективе сможет вырасти до роли Chief Product Officer (CPO). Нам нужен человек, который любит развивать продукты, умеет работать с командой разработки и дизайна, понимает потребности бизнеса и пользователей, а также готов брать на себя все больше ответственности по…\nОт 10 000 000 so'm",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 34,
+        "url": "https://hh.ru/vacancy/135570870"
+      },
+      {
+        "type": "text_url",
+        "offset": 452,
+        "length": 37,
+        "url": "https://hh.ru/vacancy/135570037"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3247",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager",
+    "company": "GSG Technologies",
+    "location": "Алматы, удалённо",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "250 000 — 300 000 ₸",
+    "short_description": "IT-компания разрабатывает B2B-платформу для автоматизации бизнес-процессов. Продукт включает сервисы электронного документооборота, согласования документов, управления задачами и мобильные приложения.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3246,
+    "date_iso": "2026-07-25T17:28:26+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nРуководитель направления ЕГЭ в Прорыв\nМосква, удаленно\nОнлайн-школа подготовки к ЕГЭ.\nМы создаём образовательные продукты и собираем команду\nСегодня в экосистеме проекта:\n— 5000+ учеников\n— собственная образовательная платформа\n— AI-инструменты для преподавателей\n— статус резидента Сколково\nИщем руководителя, который сможет развивать направление подготовки к ЕГЭ как…\nОт 80 000 ₽",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 37,
+        "url": "https://hh.ru/vacancy/135568485"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3246",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель направления ЕГЭ",
+    "company": "Прорыв",
+    "location": "Москва, удаленно",
+    "grade": "Head",
+    "ml_ai": true,
+    "remote": true,
+    "salary": "от 80 000 ₽",
+    "short_description": "Онлайн-школа подготовки к ЕГЭ с собственной образовательной платформой и AI-инструментами для преподавателей. Команда работает с 5000+ учениками и является резидентом Сколково.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 596,
+    "date_iso": "2026-07-25T14:59:20+00:00",
+    "text": "👨‍💻 Senior Product Manager RedCore\n\n▪️ Компания #RedCore\n▪️Домен #FinTech \n▪️Грейд #Middle #Senior\n▪️Формат #Кипр #Грузия #Казахстан #Польша #Сербия\n\nSenior Product Manager с опытом технических интеграций платежных систем\n\nТребования:\n- более 3-х лет опыта работы менеджером по продуктам в продуктовой компании;\n- Опыт анализа требований, оценки трудозатрат, планирования проектов, управления рисками и изменениями;\n- Отличные коммуникативные навыки, умение улаживать споры и вести переговоры;\n- Знание SDLC и методологий управления проектами (scrum, scrumban, waterfall);\n- Опыт составления технического задания для команды разработчиков;\n- Понимание архитектуры клиент-сервер;\n- Навыки общения со сторонним программным обеспечением;\n- Опыт работы с документацией по API и платежными системами, биллингом;\n- Желательно знание английского языка на уровне Upper-Intermediate (B2);\n- Продвинутый пользователь Atlassian.\n\nСсылка на пост LinkedIn\nСсылка на вакансию\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 921,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/nataliaustilko_%D0%B8%D1%89%D1%83-senior-product-manager-%D1%81-%D0%BE%D0%BF%D1%8B%D1%82%D0%BE%D0%BC-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-share-7486411797126864897-RmsY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 945,
+        "length": 18,
+        "url": "https://redcore.group/vacancy/tag-3711/"
+      },
+      {
+        "type": "text_url",
+        "offset": 968,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/596",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "RedCore",
+    "location": "Кипр, Грузия, Казахстан, Польша, Сербия",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "FinTech компания ищет Senior Product Manager с опытом технических интеграций платежных систем. Требуется более 3 лет опыта в product management, знание API, биллинга и архитектуры клиент-сервер.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 14359,
+    "date_iso": "2026-07-25T10:03:52+00:00",
+    "text": "Product Owner\n#ProductOwner #ЕС #Азия #Польша #Сербия #Грузия #Мальта #Удаленно #Remote #Job #Vacancy #iGaming\n \nТребования:\nОт 3 лет Product Owner / Product Manager в iGaming. B2B-платформы (White Label для казино/букмекеров) или B2C на их базе. Полный цикл разработки (от идеи до релиза), управление бэклогом, написание документации. RTP, бонусы, провайдеры, лояльность, геймификация. A/B-тесты, проверка гипотез, оптимизация продуктовых метрик. Jira, Confluence, Tableau / Google Analytics, Figma, Miro. Английский B2. Будет Плюсом: iGaming: опыт в компаниях-поставщиках (SOFTSWISS, EveryMatrix и др.), знание беттинга (ставки, коэффициенты). API, интеграции, высокая нагрузка (Real-time data). Регуляторика: знание лицензий (MGA, Curacao и др.), комплаенс, Ответственная игра. Маркетинг: платежные шлюзы, CRM (Customer .io / Solitics).\n \nЛокация:📍Удалённо. ЕС, Азия. Офис в Польше, Сербии, Грузии и на Мальте.\n\nКонтакт для отклика: @dobrovolskajjja +CV\n\n\n📢 Источник: https://t.me/jtbl_vacancy/4022",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 973,
+        "length": 30
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/14359",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner, iGaming",
+    "company": null,
+    "location": "Remote, ЕС/Азия (офисы в Польше, Сербии, Грузии, Мальте)",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Ищем Product Owner с 3+ годами опыта в iGaming B2B/B2C платформах (White Label, казино, букмекеры). Требуется полный цикл разработки, управление бэклогом, работа с RTP, бонусами, геймификацией и A/B-тестированием. Знание регуляторики (MGA, Curacao лицензии) и платежных интеграций приветствуется.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 1311743791,
     "channel_username": "productjobgo",
     "channel_title": "Вакансии для продакт-менеджеров",
@@ -37,7 +174,7 @@
     "salary": null,
     "short_description": "Visible – растущая AdTech компания с собственной рекламной платформой и лидер рынка мобильного маркетинга и Connected TV (CTV). Ищут опытного PM для развития платформы работы с CTV-трафиком и клиентского аналитического дашборда.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -91,7 +228,7 @@
     "salary": "от 300 000 ₽",
     "short_description": "Федеральная компания по банкротству физических лиц ищет директора, который станет владельцем услуги и всего пути клиента от первого обращения до списания долгов. Роль предполагает доведение продукта до системного качества и управление полным циклом.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -127,7 +264,7 @@
     "salary": null,
     "short_description": "Управление B2B2C продуктами с опытом от 3 лет. Требуется навык работы с данными, техническая база, умение структурировать сложные процессы. Преимуществом является знание SQL и BI-инструментов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -163,7 +300,7 @@
     "salary": null,
     "short_description": "Управление клиентским опытом и развитием сервисов для семейного сегмента. Требуется опыт в управлении проектами клиентского опыта, понимание психологии семей с детьми и их возрастных потребностей.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -193,7 +330,7 @@
     "salary": null,
     "short_description": "Product Owner для команды маркировки в VVP Group. Компания входит в рейтинги лучших работодателей Forbes и HeadHunter, имеет 30+ лет опыта в дистрибьюции. Присоединение к команде с опытом и стабильностью на рынке.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -235,7 +372,7 @@
     "salary": null,
     "short_description": "HealthTech компания ищет опытного PM для независимого лидирования процессов. Роль включает end-to-end проверку гипотез, работу с аналитикой (Amplitude/Mixpanel/Appsflyer), приоритизацию бэклога и влияние на стабильность компании.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -271,7 +408,7 @@
     "salary": null,
     "short_description": "Стажерская позиция в блоке технологий VK. Команда OneData разрабатывает технологические решения для обслуживания IT-инфраструктуры продуктов и высоконагруженных систем.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -330,7 +467,7 @@
     "salary": null,
     "short_description": "Skyeng — крупная российская EdTech-компания, занимающаяся дистанционным обучением иностранным языкам и школьным предметам. Позиция предполагает работу в гибридном формате или удалённо с гибким графиком.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -366,7 +503,7 @@
     "salary": null,
     "short_description": "AdTech компания ищет опытного PM для развития CTV-платформы и клиентского аналитического дашборда. Требуется 5+ лет опыта в B2B-продуктах с фокусом на аналитические платформы и понимание данных. Будет плюсом опыт в AdTech/MarTech и знание digital video advertising рынка.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -402,7 +539,7 @@
     "salary": null,
     "short_description": "Skyeng — крупная российская EdTech-компания и онлайн-школа, специализирующаяся на дистанционном обучении иностранным языкам и школьным предметам. Позиция предполагает удалённую работу с гибким графиком или работу в офисе в Москве.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -432,7 +569,7 @@
     "salary": null,
     "short_description": "Actogram разрабатывает цифровой продукт для интерпретации индивидуальных биологических ритмов на основе данных об активности и сне. Ищем операционного менеджера, который будет связующим звеном между основателем, продуктом, данными и разработкой, превращая идеи в работающие решения.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -462,7 +599,7 @@
     "salary": null,
     "short_description": "Лидер продукта для семейного опыта в портфеле брендов Dodo Brands (Dodo Pizza, Drinkit). Компания развивает технологичные бренды в быстром питании через франчайзинг более 15 лет.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -498,7 +635,7 @@
     "salary": null,
     "short_description": "Развитие и сопровождение продукта «Сейфовые ячейки» с фокусом на повышение эффективности операционных процессов, улучшение клиентского пути и реализацию автоматизации. Участие в описании, анализе и оптимизации операционной деятельности продукта в банковском секторе.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -528,7 +665,7 @@
     "salary": null,
     "short_description": "Команда финтех-разработки в составе Альфа-Банка с независимым подходом к созданию финансовых сервисов. Гибкий подход к разработке продуктов, ориентированность на пользовательскую ценность и инновации.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -568,8 +705,16 @@
     "remote": true,
     "salary": null,
     "short_description": "Управление двумя внутренними on-prem-продуктами (helpdesk и CRM системы) с фокусом на стабильность, развитие и координацию между бизнесом и разработкой. Требуется опыт работы с корпоративными системами, управлением инцидентами и коммуникацией со стейкхолдерами.",
-    "duplicates": [],
-    "is_new": true,
+    "duplicates": [
+      {
+        "channel_username": "productjobgo",
+        "channel_title": "Вакансии для продакт-менеджеров",
+        "link": "https://t.me/productjobgo/1488",
+        "date_iso": "2026-07-25T12:41:44+00:00",
+        "channel_id": 1311743791
+      }
+    ],
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -598,7 +743,7 @@
     "salary": null,
     "short_description": "iGaming/Betting продукт. Требуется 2+ лет опыта в индустрии, работа с Jira, Confluence, Excel/Sheets. Знание аналитики, Google Analytics, Figma, понимание метрик казино и поведения игроков.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -675,7 +820,7 @@
     "salary": null,
     "short_description": "Анализ рынка и разработка стратегий новых корпоративных решений. Участие в формировании road-map и ведение проектов от планирования до улучшения.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -717,7 +862,7 @@
     "salary": null,
     "short_description": "Разработка и развитие продуктов Trade Finance. Анализ потребностей клиентов и рынка, формирование продуктовой стратегии. Взаимодействие с бизнес-подразделениями, рисками, операциями и ИТ при внедрении продуктов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -765,7 +910,7 @@
     "salary": null,
     "short_description": "Международная компания в сфере e-commerce и логистики, предоставляющая услуги доставки товаров из-за рубежа. Нужен Product Manager для развития собственных интернет-магазинов и объединения направлений в единую управляемую систему.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -794,7 +939,7 @@
     "salary": "$2880–3200",
     "short_description": "Project Manager для долгосрочного проекта — медицинское веб-приложение для рынка США. Распределённая международная команда (Backend, Frontend, QA). Требуется управление процессами, коммуникация с заказчиком, ведение Agile, контроль качества и сроков.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -860,7 +1005,7 @@
     "salary": null,
     "short_description": "inDrive — международная платформа транспортных и бытовых услуг, работающая в 46 странах. Требуется опыт 5+ лет в руководстве межфункциональными проектами в технологической среде.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -12180,7 +12325,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -12245,7 +12390,7 @@
     "short_description": "Ищем PM для B2B-продукта Commerce Analytics Tool (CAT), который помогает брендам анализировать данные о товарах на маркетплейсах. Продукт обрабатывает более 3 Тб данных ежедневно с использованием собственных ML-моделей и работает с крупнейшими клиентами. Требуется опыт 3+ лет в роли PM/PO с data-driven подходом и умением работать с клиентами.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -12297,7 +12442,7 @@
     "short_description": "Fast-growing fintech company in Latin America building lending, credit cards, BNPL, and payment solutions. Looking for Senior PM to drive growth on credit cards and credit lines products, improve customer experience, and scale the portfolio responsibly.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -12333,7 +12478,7 @@
     "short_description": "Global financial services company providing payment solutions and technology. Mastercard is seeking a Senior Product Manager to drive product strategy and execution in the payments ecosystem.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -12381,7 +12526,7 @@
     "short_description": "Ищется Product Manager в команду вертикали «Электроника и бытовая техника» в Шопинге Т-Банка. Высокий уровень ownership, работа с фичами, кросс-функциональные проекты на стыке продукта, e-commerce и финтеха.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
@@ -12431,7 +12576,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -12471,7 +12616,7 @@
     "short_description": "Senior PM with 8+ years of experience seeking proven 0→1 product expertise. Strong focus on end-to-end revenue model understanding and market discovery instincts. Native Russian and C1+ English required.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
