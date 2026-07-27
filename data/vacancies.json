@@ -1,5 +1,275 @@
 [
   {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 14422,
+    "date_iso": "2026-07-27T08:37:13+00:00",
+    "text": "Senior Product Manager в RedCore\n\n📍 Удалёнка (Кипр 🇨🇾, Грузия 🇬🇪, Казахстан 🇰🇿, Польша 🇵🇱, Сербия 🇷🇸)\n💎 Управление продуктом в продуктовой компании: анализ требований, оценка трудозатрат, планирование проектов и управление рисками, составление технических заданий для команды разработки, работа с платежными системами и биллингом.\n💼 3+ года опыта Product Manager в продуктовой компании, знание SDLC и методологий (Scrum, Scrumban, Waterfall), опыт работы с API-документацией, платежными системами и биллингом, понимание клиент-серверной архитектуры, английский B2+, уверенное владение Atlassian.\n\nОткликнуться на вакансию\n\n———\n\nНе подошла вакансия? Поделись с тем, кому пригодится ➡️\n\n📢 Источник: https://t.me/sparklesjobs/1092",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 610,
+        "length": 24,
+        "url": "https://redcore.group/vacancy/tag-3711/"
+      },
+      {
+        "type": "url",
+        "offset": 711,
+        "length": 30
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/14422",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "RedCore",
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Управление продуктом в продуктовой компании с фокусом на анализ требований, планирование проектов и работу с платежными системами и биллингом. Требуется опыт работы с API-документацией, пониманием клиент-серверной архитектуры и методологиями разработки (Scrum, Scrumban, Waterfall).",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1491,
+    "date_iso": "2026-07-27T07:31:39+00:00",
+    "text": "Product Manager Billz\n\nВсе для подготовки к откликам и собеседованиям на курсе Карьерный интенсив. \n\nВ BILLZ мы создаем платформу, которая помогает уже 6 000+ магазинам автоматизировать работу и развивать бизнес. Сейчас мы ищем Product менеджера, который будет отвечать за весь путь нового клиента - от регистрации до активации, получения первой ценности и конверсии в платную подписку, постоянно совершенствуя онбординг, обучение пользователей, и воронку активации с помощью продуктовых экспериментов. \n\nТвоя основная задача - сделать так, чтобы новый клиент максимально быстро достиг первого результата и захотел остаться с BILLZ.\n\nТы подходишь нам, если:\n-Имеешь от 3 лет опыта в Product Management.\n-Работал(а) с PLG-продуктами, онбордингом или активацией пользователей и понимаешь принципы Product-Led Growth\n-Уверенно работаешь с аналитикой (Mixpanel, Amplitude или аналоги).\n\nЧто предлагаем:\n- Реальное влияние на продукт и стратегию компании.\n- Сильную продуктовую команду и культуру экспериментов.\n- Конкурентную зарплату, ДМС и бюджет на обучение.\n- Минимум бюрократии и максимум возможностей для роста.\n\nПрисылай резюме или ссылку на LinkedIn в Telegram: @ikromovaferuza\n\nПолезные курсы от редакции: \n- Курс по продакт-менеджменту, базовый\n- Курс по аналитике, базовый\n- Курс по Продуктовой стратегии и защите инициативы",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 79,
+        "length": 18,
+        "url": "https://gem-shaker-6ab.notion.site/17255ffe314a80aea3afd663d5ac4024"
+      },
+      {
+        "type": "text_url",
+        "offset": 1212,
+        "length": 40,
+        "url": "https://gem-shaker-6ab.notion.site/1bc55ffe314a803694a0c142a0248da5"
+      },
+      {
+        "type": "text_url",
+        "offset": 1253,
+        "length": 18,
+        "url": "https://gem-shaker-6ab.notion.site/18b55ffe314a8019b423f6202497c457"
+      },
+      {
+        "type": "text_url",
+        "offset": 1280,
+        "length": 51,
+        "url": "https://gem-shaker-6ab.notion.site/18455ffe314a8076b0e7c509c7ffa7c2"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1491",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager",
+    "company": "Billz",
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": null,
+    "salary": null,
+    "short_description": "Billz создает платформу для автоматизации работы магазинов. Ищем PM, который будет отвечать за путь новых клиентов - от регистрации до активации и конверсии в платную подписку, совершенствуя онбординг и воронку активации через продуктовые эксперименты.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3250,
+    "date_iso": "2026-07-27T05:30:56+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nМенеджер продукта в Алма Телекоммуникейшнс Казахстан (almaPLUS)\nАлматы\nТы любишь кино и технологии? Тогда эта работа создана для тебя!\nОнлайн-кинотеатр almaPLUS — сервис, которым пользуются тысячи зрителей каждый день. И нам нужен человек, который станет архитектором продукта — от идей до релизов.\nЧем предстоит заниматься:\n• Развивать кинотеатр: стратегия, аналитика, улучшения;\n• Запускать новый функционал…\n350 000 ₸\n\nПроцессно-проектный менеджер (Мониторинг) в DNS Головной офис\nВладивосток\nDNS — один из лидеров рынка по продаже цифровой и бытовой техники в России. Федеральная сеть магазинов, расположенных по всей стране и в странах СНГ. Одни из немногих, кто развивался с востока на запад.\nМы находимся в поиске процессно-проектного менеджера в команду, которая развивает инструменты рыночного ценообразования и аналитики конкурентной…\n95 000 — 160 000 ₽",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 63,
+        "url": "https://hh.ru/vacancy/135581261"
+      },
+      {
+        "type": "text_url",
+        "offset": 463,
+        "length": 61,
+        "url": "https://hh.ru/vacancy/135577556"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3250",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Менеджер продукта",
+    "company": "Алма Телекоммуникейшнс Казахстан",
+    "location": "Алматы",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": "350 000 ₸",
+    "short_description": "Онлайн-кинотеатр almaPLUS ищет менеджера продукта для развития стратегии, аналитики и запуска нового функционала сервиса, которым пользуются тысячи зрителей ежедневно.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 597,
+    "date_iso": "2026-07-26T17:46:18+00:00",
+    "text": "👨‍💻 Product Manager Billz\n\n▪️Компания #Billz\n▪️Домен #Ecom \n▪️Грейд #Middle #Senior\n\nВ BILLZ мы создаем платформу, которая помогает уже 6 000+ магазинам автоматизировать работу и развивать бизнес. Сейчас мы ищем Product менеджера, который будет отвечать за весь путь нового клиента - от регистрации до активации, получения первой ценности и конверсии в платную подписку, постоянно совершенствуя онбординг, обучение пользователей, и воронку активации с помощью продуктовых экспериментов. \n\nТвоя основная задача - сделать так, чтобы новый клиент максимально быстро достиг первого результата и захотел остаться с BILLZ.\n\nТы подходишь нам, если:\n-Имеешь от 3 лет опыта в Product Management.\n-Работал(а) с PLG-продуктами, онбордингом или активацией пользователей и понимаешь принципы Product-Led Growth\n-Уверенно работаешь с аналитикой (Mixpanel, Amplitude или аналоги).\n\nЧто предлагаем:\n- Реальное влияние на продукт и стратегию компании.\n- Сильную продуктовую команду и культуру экспериментов.\n- Конкурентную зарплату, ДМС и бюджет на обучение.\n- Минимум бюрократии и максимум возможностей для роста.\n\nПрисылай резюме или ссылку на LinkedIn в Telegram: @ikromovaferuza\n\nСсылка на пост LinkedIn\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1169,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/billzpos_%D0%B8%D1%89%D0%B5%D0%BC-product-manager-%D0%B4%D0%BB%D1%8F-%D1%80%D0%BE%D1%81%D1%82%D0%B0-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D0%B8-activity-7485633505398505472-WNyF?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1197,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/597",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Middle/Senior",
+    "company": "Billz",
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Billz создает платформу для автоматизации работы электронных магазинов. Ищем PM, который будет отвечать за онбординг и активацию новых пользователей, совершенствуя воронку через продуктовые эксперименты и аналитику.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3249,
+    "date_iso": "2026-07-26T17:29:22+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nСтажер Product/Project менеджер (удаленно) в Рекруто\nСанкт-Петербург, удаленно\nДипра — аккредитованная IT-компания и резидент Сколково.\nМы делаем ИИ-рекрутера, который автоматизирует подбор — от скрининга резюме до интервью. Ищем стажера Product/Project менеджера для ведения этого проекта\nУникальная возможность получить полноценный самостоятельный опыт работы с инновационным продуктом полезным для рынка и…\n\nСтажёр Product/Project Manager (IT проекты) в Рекруто\nСанкт-Петербург\nДипра — аккредитованная IT-компания и резидент Сколково.\nМы делаем ИИ-рекрутера, который автоматизирует подбор — от скрининга резюме до интервью. Ищем стажера Product/Project менеджера для ведения этого проекта\nУникальная возможность получить полноценный самостоятельный опыт работы с инновационным продуктом полезным для рынка и…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 52,
+        "url": "https://hh.ru/vacancy/135575087"
+      },
+      {
+        "type": "text_url",
+        "offset": 452,
+        "length": 53,
+        "url": "https://hh.ru/vacancy/135574999"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3249",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Стажер Product Manager",
+    "company": "Дипра",
+    "location": "Санкт-Петербург, удаленно",
+    "grade": "Junior",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Разработка ИИ-рекрутера, который автоматизирует подбор персонала от скрининга резюме до интервью. Самостоятельная работа с инновационным продуктом на рынке рекрутинга.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1490,
+    "date_iso": "2026-07-26T11:13:07+00:00",
+    "text": "Продакт менеджер в Weeek\n\nРазборы кейсов, 76 разборов прошли, всего свыше 190 тестовых и реальных задач продактов. Плейлист доступен по ссылке\n\nРасширяем команду и ищем человека, который возьмёт на себя развитие мобильного приложения.\n\nТребования:\n• Опыт работы продактом от трёх лет \n• Опыт работы с мобильными приложениями\n• Опыт работы с B2B SaaS \n• Умееешь работать с пользовательскими исследованиями\n• Уверенно работаешь с продуктовой аналитикой\n• Умеешь приоритизировать \n• Умеешь содержательно работать с инженерами и обсуждать технически насыщенные решения \n\nотклик через форму\n\nГотовые фреймворки и исследования от команды редакции - по ссылке.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 26,
+        "length": 15,
+        "url": "https://t.me/productcasebar/"
+      },
+      {
+        "type": "text_url",
+        "offset": 115,
+        "length": 27,
+        "url": "https://docs.google.com/document/d/1_bq1zQtkfAJjf5O_QjpuMDFlkloNkF_VyTtpRv7oyZI/edit?tab=t.0"
+      },
+      {
+        "type": "text_url",
+        "offset": 580,
+        "length": 5,
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeg0vB9lkVXLCS6W3UBMZVhyoEPs0bmjwjgFlrj807StkVTpw/viewform"
+      },
+      {
+        "type": "text_url",
+        "offset": 646,
+        "length": 6,
+        "url": "https://gem-shaker-6ab.notion.site/Product-market-Lab-1b855ffe314a8032a8d2ddbfc0db8717"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1490",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, мобильное приложение",
+    "company": "Weeek",
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Развитие мобильного приложения B2B SaaS продукта. Требуется опыт работы продактом от 3 лет с мобильными приложениями, пользовательскими исследованиями и продуктовой аналитикой.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1205373966,
+    "channel_username": "product_jobs",
+    "channel_title": "Вакансии для продактов и проджектов",
+    "msg_id": 2096,
+    "date_iso": "2026-07-26T08:55:43+00:00",
+    "text": "Вакансия: Senior Product Manager (B2B Platform / Analytics / CTV)\nКомпания: Visible\nФормат работы: гибрид в Москве \nЗП: по итогам собеседования\n\nVisible — молодая AdTech-компания. Мы работаем с рекламными технологиями, данными и трафиком и строим продукты, которые помогают клиентам лучше понимать эффективность рекламы и принимать более точные решения.\n\nСейчас мы ищем Product Manager, который возьмёт на себя развитие:\n– платформы для работы с CTV-трафиком\n– клиентского аналитического дашборда\n\nНаша задача простая, но амбициозная: сделать продукт, который будет не просто \"ещё одной аналитической платформой\", а реально сильным инструментом для клиентов, драйвером продаж и нашим конкурентным преимуществом.\n\n🔸Нам нужен сильный специалист, который:\n– работает Продактом уже более 5 лет;\n– успешно развивал B2B-продукты — аналитические платформы, BI, клиентские кабинеты и дашборды;\n– умеет разбираться в данных и принимать решения не только на основе ощущений;\n– понимает, что удобный продукт — это не про \"красивые кнопки\", а про решение реальных задач клиента;\n– может самостоятельно вести продукт и двигать его вперёд;\n– умеет говорить с разработкой и дизайном на одном языке;\n– уже использует AI в работе и понимает, как с его помощью становиться эффективнее.\n\n🔸Будет огромным плюсом:\n– опыт в AdTech / MarTech;\n– понимание CTV и рынка digital video advertising.\n\n🔸Что будет в зоне ответственности:\n– продуктовая стратегия и понимание, куда развивать продукт дальше;\n– исследование рынка и конкурентов;\n– формирование и приоритизация бэклога;\n– работа с разработкой и дизайном от идеи до релиза;\n– продуктовые метрики, аналитика и поиск точек роста;\n– запуск новых фич и проверка их влияния на пользователей и бизнес;\n– активное использование AI в исследованиях, аналитике и ежедневной продуктовой работе.\n\n🔸Что предлагаем:\n– гибридный формат работы (офис в центре Москвы): пн, ср, пт — офис, вт и чт — удалёнка;\n– начало рабочего дня с 9:00 до 11:00;\n– MacOS или Windows на выбор;\n– кофе, фрукты, снеки и всё, что помогает пережить сложный понедельник;\n– сильная команда IT и Digital;\n– возможность влиять на продукт, а не просто закрывать задачи из бэклога;\n– минимум бюрократии, максимум нормальной человеческой коммуникации.\n\n🔸Как откликнуться:\nОткликайтесь, приложив резюме и (желательно) краткое сопроводительное: @eleonora_soboleva",
+    "entities": [],
+    "link": "https://t.me/product_jobs/2096",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, B2B Platform / Analytics / CTV",
+    "company": "Visible",
+    "location": "Москва, гибрид",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "AdTech-компания ищет опытного PM для развития CTV-платформы и аналитического дашборда. Требуется 5+ лет опыта в B2B-продуктах, понимание данных и работа с AI. Команда IT и Digital, гибридный офис в центре Москвы.",
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/14409",
+        "date_iso": "2026-07-27T07:12:33+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": false,
+    "is_archived": false
+  },
+  {
     "channel_id": 2298616665,
     "channel_username": "product_jobmeister",
     "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
@@ -32,7 +302,7 @@
     "salary": "250 000 — 300 000 ₸",
     "short_description": "IT-компания разрабатывает B2B-платформу для автоматизации бизнес-процессов. Продукт включает сервисы электронного документооборота, согласования документов, управления задачами и мобильные приложения.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -62,7 +332,7 @@
     "salary": "от 80 000 ₽",
     "short_description": "Онлайн-школа подготовки к ЕГЭ с собственной образовательной платформой и AI-инструментами для преподавателей. Команда работает с 5000+ учениками и является резидентом Сколково.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -104,7 +374,7 @@
     "salary": null,
     "short_description": "FinTech компания ищет Senior Product Manager с опытом технических интеграций платежных систем. Требуется более 3 лет опыта в product management, знание API, биллинга и архитектуры клиент-сервер.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -133,7 +403,7 @@
     "salary": null,
     "short_description": "Ищем Product Owner с 3+ годами опыта в iGaming B2B/B2C платформах (White Label, казино, букмекеры). Требуется полный цикл разработки, управление бэклогом, работа с RTP, бонусами, геймификацией и A/B-тестированием. Знание регуляторики (MGA, Curacao лицензии) и платежных интеграций приветствуется.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -11698,7 +11968,7 @@
     "short_description": "Лидер для двух B2C продуктов с аудиторией более 2 млн MAU. Требуется опыт от 4 лет, владение аналитикой и SQL, работа с большими данными и управление командой.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1674506295,
@@ -11735,7 +12005,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -11787,7 +12057,7 @@
     "short_description": "Развитие HR Tech-направления, которое поддерживает полный жизненный цикл сотрудников и кандидатов. Команда формирует стратегию и видение для офисных и операционных команд, объединяя ключевые HR-процессы и автоматизируя управление массовым персоналом.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -11831,7 +12101,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -11867,7 +12137,7 @@
     "short_description": "Factorial is a business management software for SMEs that automates HR, finance, and talent workflows. The role focuses on product-led growth strategy for the platform serving small and medium-sized enterprises.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -11897,7 +12167,7 @@
     "short_description": "Ищется Middle Product Manager в направлении электроники и бытовой техники для Шопинга в Т-Банке, одного из крупнейших онлайн-банков России.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
@@ -11959,7 +12229,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -11995,7 +12265,7 @@
     "short_description": "Позиция в HR Tech направлении. Lamoda — один из крупнейших онлайн-ритейлеров России и СНГ. Вакансия открыта в офисах Москвы или Санкт-Петербурга.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -12039,7 +12309,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -12068,7 +12338,7 @@
     "short_description": "Senior Technical Project Manager role in AI/ML and iGaming sector. Position starts remote with option to relocate to Cyprus.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1674506295,
@@ -12119,7 +12389,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -12173,7 +12443,7 @@
     "short_description": "Направление HRTech, фокус на управлении операционными сотрудниками (80% персонала компании). Разработка целевой картины и общей стратегии HR процессов и продуктов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -12222,7 +12492,7 @@
     "short_description": "Развитие рекламных продуктов и масштабных платформ на российском рынке с работой с ML-моделями, аукционами и большими данными. Требуется опыт в AdTech, навыки аналитики и управления кросс-функциональными командами для продуктов с многомиллионной аудиторией.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -12245,7 +12515,7 @@
     "short_description": "Senior Regional Project Manager for international iGaming product (Casino + Sportsbook). Required expertise in regional markets (Africa, LATAM, or SEA + South Korea) with deep product iGaming experience. Cross-functional collaboration with Product, Marketing, CRM, Payments, Affiliate and Support teams to drive regional growth initiatives.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
@@ -22762,7 +23032,15 @@
     "remote": false,
     "salary": null,
     "short_description": "Лидер трайба по платежам и управлению денежными средствами в финтех-банке. Роль сочетает управление продуктом, стратегию и руководство командой с фокусом на рост доходов и опыт клиентов.",
-    "duplicates": [],
+    "duplicates": [
+      {
+        "channel_username": "product_jobmeister",
+        "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+        "link": "https://t.me/product_jobmeister/3248",
+        "date_iso": "2026-07-26T09:29:21+00:00",
+        "channel_id": 2298616665
+      }
+    ],
     "is_new": false,
     "is_archived": true
   },
