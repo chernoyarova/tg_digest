@@ -1,5 +1,1024 @@
 [
   {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3271,
+    "date_iso": "2026-07-28T08:01:18+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nПомощник управляющего в ПАО Сбербанк\nг Курган, Курганская область\nИщем амбициозного специалиста способного комплексно подойти к аналитике бизнес-показателей и стать лидером в реализации цифровых проектов на стыке с бизнесом. Если у тебя есть опыт запуска цифровых инициатив, ты владеешь аналитическими инструментами (Excel, Power BI, SQL), умеешь работать с данными и общаться с бизнес-заказчиками — тебе к нам!",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 36,
+        "url": "https://rabota.sber.ru/search/4548238"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3271",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Помощник управляющего",
+    "company": "ПАО Сбербанк",
+    "location": "Курган",
+    "grade": "Junior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Поиск амбициозного специалиста для аналитики бизнес-показателей и реализации цифровых проектов. Требуется опыт запуска цифровых инициатив, владение Excel, Power BI, SQL и работа с бизнес-заказчиками.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 601,
+    "date_iso": "2026-07-28T07:14:49+00:00",
+    "text": "👨‍💻 Product Manager Monix\n\n▪️Компания #Monix\n▪️Домен #FinTech\n▪️Грейд #Middle #Senior\n▪️Формат #Узбекистан\n\nВладелец продукта мобильного банковского приложения MONIX (дебетово-кредитная карта Visa, iOS/Android) отвечает за полный цикл карточного продукта — от регуляторных согласований и бухгалтерских моделей до детальных технических требований и приёмочного тестирования.\n\nКоординирует работу между банковскими подразделениями (Риск, ИБ, Комплаенс, УТДК, Операционный центр), внешними вендорами (Wings, ScoreHub, Tieto, RIDERS, Webitel, Paynet) и командой разработки (Backend, iOS, Android, QA).\n\nОбязательные компетенции\n- Банковский / финтех продукт — 3+ лет с картами и кредитными линиями\n- Регуляторный опыт — требования ЦБ, KYC/AML\n- Кредитный процесс — скоринг, KDN, биллинг\n- Написание требований — ТЗ, edge-кейсы, acceptance criteria\n- SQL и работа с данными\n- Мобильный банкинг — push, deep links, OTP, биометрия\n\nСсылка на пост LinkedIn\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 927,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/puznyak_joinmonix-ugcPost-7487381733059878913-XAtT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 955,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/601",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, Мобильный банкинг (Middle/Senior)",
+    "company": "Monix",
+    "location": "Узбекистан",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Владелец продукта мобильного банковского приложения MONIX с дебетово-кредитной картой Visa. Координирует работу между банковскими подразделениями (Риск, ИБ, Комплаенс), внешними вендорами и командой разработки. Требуется опыт 3+ лет с карточными продуктами, регуляторный опыт, знание кредитных процессов и мобильного банкинга.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3269,
+    "date_iso": "2026-07-28T05:32:30+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nРуководитель цифрового продукта (CRM-решения по юридическим лицам) в Альфа-Банк\nМосква\nProduct Owner в части развития CRM-решений в сегменте юридических лиц в рамках процессов продажи и обслуживания карточных продуктов.\nЧем предстоит заниматься:\n• Управление командой разработки в фреймворке SCRUM;\n• Ведение и приоритизация бэклога задач;\n• Согласование приоритетов и результатов с бизнес-заказчиками;\n• Декомпозиция задач, описание user…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 79,
+        "url": "https://hh.ru/vacancy/135624965"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3269",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель цифрового продукта (CRM-решения)",
+    "company": "Альфа-Банк",
+    "location": "Москва",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Руководство командой разработки CRM-решений для юридических лиц в Альфа-Банке. Управление бэклогом, согласование приоритетов с бизнес-заказчиками, декомпозиция задач в рамках SCRUM процессов для карточных продуктов.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3267,
+    "date_iso": "2026-07-27T22:30:46+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nСтарший менеджер продукта в отдел управления продуктами развития Эйчартеха в Яндекс\nСанкт-Петербург, Москва\nВ Эйчартехе мы создаём и поддерживаем экосистему внутренних сервисов — ими ежедневно пользуются более 30 тысяч коллег. Ищем старшего менеджера продукта, которому предстоит взять в продуктовое владение три ключевые платформы в отделе управления продуктами развития.\n\nТехнический менеджер продукта Аналитическая платформа в МагнитТех\n• Умение уверенно защищать ресурсы и видеть бизнес-ценность за техническими задачами\n• Опыт в управлении техническими продуктами или проектами; опыт в data- и ML-средах будет плюсом\n• Опыт работы с high-load системами в e-commerce, fintech или подобных доменах\n• Понимание базовой архитектуры, умение общаться с инженерами на одном языке\n• Умение работать с…\n\nМенеджер продукта в команду привлечения Яндекс Аренды в Яндекс\nМосква\nАренда — молодой технологичный продукт на исторически офлайновом рынке аренды. Ищем продакт-менеджера в команду привлечения. Приходите, если умеете работать в быстро меняющихся условиях, можете запускать инициативы, увеличивающие выручку, управлять их жизненным циклом, понимаете аналитику продукта.\n\nВладелец продукта (Магнит Косметик) в МагнитТех\nМагнит.Косметик — это не просто магазины у дома, это бьюти-экосистема, которой пользуются миллионы. Мы уже лидеры рынка, но видим потенциал кратного роста. Мы ищем Владельца продукта (Product Owner), который знает бьюти-индустрию изнутри и готов превратить наши цифровые решения в главный инструмент красоты для каждого клиента.\nЕсли вы понимаете разницу…\n\nМенеджер по MarTech и автоматизации роста в Алису AI в Яндекс\nМосква\nАлиса AI — самый популярный AI‑сервис в России. Мы ищем специалиста, который объединит задачи по росту, данные и технологии и создаст единую систему автоматизации. Вы станете владельцем MarTech‑контура и сможете напрямую влиять на скорость работы команды и развитие ключевых метрик Алисы AI.\n\nВладелец продукта (Магнит Аптеки) в МагнитТех\nРынок фармритейла меняется, и Магнит.Аптека готовится к запуску принципиально новых цифровых сервисов, которых еще нет на рынке. Мы не просто улучшаем существующее — мы создаем новое. Поэтому нам нужен Владельца продукта (Product Owner) с ДНК предпринимателя: человек, который уже проходил путь от идеи до первого релиза и масштабирования.\nЕсли вы умеете…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 83,
+        "url": "https://yandex.ru/jobs/vacancies/starshiy-menedzher-produkta-v-otdel-upravleniya-produktami-razvitiya-eycharteha-47413"
+      },
+      {
+        "type": "text_url",
+        "offset": 415,
+        "length": 65,
+        "url": "https://magnit.tech/vacancies/2968"
+      },
+      {
+        "type": "text_url",
+        "offset": 841,
+        "length": 62,
+        "url": "https://yandex.ru/jobs/vacancies/menedzher-produkta-v-komandu-privlecheniya-yandeks-arendi-47398"
+      },
+      {
+        "type": "text_url",
+        "offset": 1212,
+        "length": 47,
+        "url": "https://magnit.tech/vacancies/2969"
+      },
+      {
+        "type": "text_url",
+        "offset": 1617,
+        "length": 61,
+        "url": "https://yandex.ru/jobs/vacancies/menedzher-po-martech-i-avtomatizatsii-rosta-v-alisu-ai-47392"
+      },
+      {
+        "type": "text_url",
+        "offset": 1979,
+        "length": 45,
+        "url": "https://magnit.tech/vacancies/2970"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3267",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Старший менеджер продукта",
+    "company": "Яндекс",
+    "location": "Санкт-Петербург, Москва",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Управление тремя ключевыми платформами в отделе управления продуктами развития Эйчартеха. Продукты используют более 30 тысяч внутренних пользователей ежедневно.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3265,
+    "date_iso": "2026-07-27T21:30:45+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nМенеджер продукта в IT / Создатель продукта в Мой Класс\nСамара, удаленно\nМой Класс - не просто CRM-продукт для образования, а надежное плечо для бизнеса.\nНаша команда глубоко вовлечена в процессы клиентов, оказывает системную поддержку и развивает продукт вместе с рынком. Сегодня нам доверяют более 3 000 школ, а вокруг платформы сформировано профессиональное сообщество, которые решают схожие задачи и обмениваются опытом.\nНаша…\n150 000 — 230 000 ₽\n\nМенеджер продукта в iFuture\nСанкт-Петербург, удаленно\niFuture – это продуктовая IT-компания, которая разрабатывает собственный международный продукт с многомиллионной аудиторией в сфере спортивной аналитики и развлечений уже на протяжении 28 лет.\nЧем предстоит заниматься:\n• управлять Team Backlog и обеспечивать выполнение PI Objectives;\n• декомпозировать фичи и поддерживать backlog в актуальном…\n\nМенеджер/руководитель продукта в робототехнике в МФТИ\nМосква\nИнститут ИИ МФТИ – ведущий институт по искусственному интеллекту в России. В состав Института входят сильнейшие ученые и ключевые лаборатории Физтеха по направлениям: оптимизация для ИИ, Робототехника, Генеративный ИИ, Компьютерное зрение и Математическое моделирование. Цель Института - создание прорывных научных исследований и прикладных разработок…\n220 000 — 280 000 ₽\n\nSenior Product Manager (доходность) в Maxim technology\nСанкт-Петербург, удаленно\nПривет! Мы - аккредитованная IT компания Maxim Technology. Занимаемся разработкой платформы для пассажирских и грузовых поездок. Самый крупный из наших заказчиков - сервис заказа такси «Максим», который входит в топ-3 агрегаторов такси в России. Мы первыми начали менять рынок такси, создав для maxim цифровую платформу для связи пассажира и водителя раньше…\n\nCPO / Бизнес-менеджер (product owner) в ВИМ Инвестиции\nМосква\nМы ищем инициативного и аналитически настроенного бизнес-менеджера для работы в продуктовой команде. Сотрудник будет играть ключевую роль в управлении продуктами, исследовании рынка и аналитике, а также обеспечивать взаимодействие между командой разработки и бизнес-подразделениями.\nОбязанности:\n• Оценка запросов бизнес-подразделений, взаимодействие…\n\nВладелец продукта Тендерный конвейер/Product Owner Tender Office в VVP Group\nМосква\nПрисоединяйтесь к команде VVP Group:\n• В Рейтинге лучших работодателей Forbes — 2024 и 2025 года в группе \"золото\",*\n• ТОП-30** за 2025 год в Рейтинге работодателей HeadHunter,\n• Группа I*** рейтинга работодателей РБК 2025,\n• ТОП-10*** среди крупнейших дистрибьюторских компаний России,\n• 30+ лет опыта,\n• 1000+ активных и мотивиро­ванных…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 55,
+        "url": "https://hh.ru/vacancy/135624932"
+      },
+      {
+        "type": "text_url",
+        "offset": 493,
+        "length": 27,
+        "url": "https://hh.ru/vacancy/135624248"
+      },
+      {
+        "type": "text_url",
+        "offset": 893,
+        "length": 53,
+        "url": "https://hh.ru/vacancy/135623279"
+      },
+      {
+        "type": "text_url",
+        "offset": 1328,
+        "length": 54,
+        "url": "https://hh.ru/vacancy/135620405"
+      },
+      {
+        "type": "text_url",
+        "offset": 1769,
+        "length": 54,
+        "url": "https://hh.ru/vacancy/135622419"
+      },
+      {
+        "type": "text_url",
+        "offset": 2184,
+        "length": 76,
+        "url": "https://hh.ru/vacancy/135621751"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3265",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Менеджер продукта",
+    "company": "Мой Класс",
+    "location": "Самара, удалённо",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "150 000 — 230 000 ₽",
+    "short_description": "CRM-продукт для образования с 3000+ школ-клиентов. Команда работает системно с клиентами и развивает продукт вместе с рынком. Вокруг платформы сформировалось профессиональное сообщество.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3264,
+    "date_iso": "2026-07-27T21:00:45+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nSenior Product Manager (доходность) в Maxim technology\nЕкатеринбург, удаленно\nПривет! Мы - аккредитованная IT компания Maxim Technology. Занимаемся разработкой платформы для пассажирских и грузовых поездок. Самый крупный из наших заказчиков - сервис заказа такси «Максим», который входит в топ-3 агрегаторов такси в России. Мы первыми начали менять рынок такси, создав для maxim цифровую платформу для связи пассажира и водителя раньше…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 54,
+        "url": "https://hh.ru/vacancy/135620406"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3264",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "Maxim Technology",
+    "location": "Екатеринбург, удалёнка",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Разработка платформы для пассажирских и грузовых поездок. Работа с сервисом заказа такси «Максим», входящим в топ-3 агрегаторов такси в России. Цифровая платформа для связи пассажира и водителя.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10201,
+    "date_iso": "2026-07-27T18:42:00+00:00",
+    "text": "🔹 Миддл ML-продакт-менеджер\n🔹 Сеньор ML-продакт-менеджер\n🔹 Лид ML-продакт-менеджер\nв Т-Банк — один из крупнейших онлайн-банков России.\nКлючевые навыки: управление продуктом, ML/AI, A/B-тестирование, работа с данными.\nИщет Александр Черников, его пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 249,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/frankegoesdown_career-tbank-ml-share-7487420324356014083-Q2AW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10201",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "ML Product Manager (Middle, Senior, Lead levels)",
+    "company": "Т-Банк",
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Ищет ML Product Manager разного уровня (Middle, Senior, Lead). Требуется опыт в управлении ML/AI продуктами, A/B-тестировании и работе с данными для одного из крупнейших онлайн-банков России.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10200,
+    "date_iso": "2026-07-27T18:38:17+00:00",
+    "text": "Middle Product Manager\nLemon.io is a platform that connects startups and small companies with vetted IT developers.\nLanguages: English (fluent).\nRemote work and flexible schedule.\nJob description.\nMore details in Pavlo Pedenko's post on LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 23,
+        "length": 8,
+        "url": "https://lemon.io/"
+      },
+      {
+        "type": "text_url",
+        "offset": 180,
+        "length": 15,
+        "url": "https://lemonio.bamboohr.com/careers/55"
+      },
+      {
+        "type": "text_url",
+        "offset": 229,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/pavlo-pedenko-7a02061b_my-close-friends-at-lemonio-are-looking-share-7486057011483418624-uIUb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10200",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle Product Manager",
+    "company": "Lemon.io",
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Lemon.io is a platform connecting startups and small companies with vetted IT developers. The role requires fluent English and offers remote work with a flexible schedule.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10199,
+    "date_iso": "2026-07-27T18:31:25+00:00",
+    "text": "Senior Product Manager\nв RedCore — международная бизнес-группа, создающая технологические решения для цифровых рынков.\nУдалённая работа. Локация: Кипр, Грузия, Казахстан, Польша, Сербия.\nИщет Натали У., её пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 206,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/nataliaustilko_%D0%B8%D1%89%D1%83-senior-product-manager-%D1%81-%D0%BE%D0%BF%D1%8B%D1%82%D0%BE%D0%BC-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-share-7486411797126864897-RmsY/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10199",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "RedCore",
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "RedCore — международная бизнес-группа, создающая технологические решения для цифровых рынков. Доступна удалённая работа для кандидатов из Кипра, Грузии, Казахстана, Польши и Сербии.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3263,
+    "date_iso": "2026-07-27T18:30:45+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nРуководитель направления POS-кредитования в ЮMoney\nМосква\nВам предстоит:\n• продвигать продукт POS-кредитование;\n• проводить переговоры с крупнейшими представителями бизнеса — мягко убеждать, работать с возражениями;\n• искать новые каналы дистрибуции и анализировать эффективность текущих;\n• готовить презентации и другие материалы для продажи продукта;\n• формировать продуктовый бэклог на основе обратной…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 50,
+        "url": "https://hh.ru/vacancy/135610637"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3263",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель направления POS-кредитования",
+    "company": "ЮMoney",
+    "location": "Москва",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Развитие продукта POS-кредитования, работа с ключевыми партнёрами и каналами дистрибуции, управление продуктовым бэклогом. Требуется проведение переговоров, анализ эффективности каналов и подготовка презентаций для продаж.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3262,
+    "date_iso": "2026-07-27T18:00:47+00:00",
+    "text": "Chief Product Officer / CPO (AdTech) в Lofty.\nМосква, удаленно\nОдин из наших ключевых продуктов — международная мультиформатная рекламная сеть, предоставляющая комплексные решения для маркетинговых задач в сферах Programmatic-рекламы и Affiliate-маркетинга. Мы работаем с прямыми источниками трафика, обеспечиваем более 5 миллиардов показов в сутки, предлагаем RTB-возможности, быструю модерацию и поддержку fully…\n\nProduct manager в НТехЛаб\nМосква\nNtechlab — мировой лидер в сфере интеллектуальной видеоаналитики\nМы создаём технологии, которые в режиме реального времени «понимают», что происходит в кадре: от распознавания лиц, силуэтов и объектов до анализа действий. Наши алгоритмы признаны одними из лучших в мире по результатам международных тестов\nИщем в команду Product manager!\nНаше…\n\nМенеджер продукта / product manager в ТД АСК\nКемерово\nПривет! Мы - дружная и амбициозная команда ТД \"Автоматизированные Системы Контроля\" - это специалисты, которые сплоченной и заинтересованной командой болеют за свое дело и активно продвигают на Российский рынок и ближнее зарубежье свое программное обеспечение: «АСК-Горная логистика», «АСК-Пассажирский транспорт», «АСК-Бетон».\nНаши клиенты…\n65 000 — 75 000 ₽\n\nTechnical Product Manager в AdGuard\nМосква, удаленно\nМы в AdGuard уже 17 лет создаём и развиваем линейку продуктов для защиты от интернет-рекламы, трекинга, фишинга и других веб-угроз. Экосистема продуктов состоит из множества браузерных расширений, десктопных и мобильных приложений. Более 100 млн человек по всему миру используют наше ПО на 20+ языках.\nСейчас мы ищем Senior Product Manager,…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 0,
+        "length": 45,
+        "url": "https://hh.ru/vacancy/135605867"
+      },
+      {
+        "type": "text_url",
+        "offset": 416,
+        "length": 25,
+        "url": "https://hh.ru/vacancy/135605464"
+      },
+      {
+        "type": "text_url",
+        "offset": 794,
+        "length": 44,
+        "url": "https://hh.ru/vacancy/135603634"
+      },
+      {
+        "type": "text_url",
+        "offset": 1209,
+        "length": 35,
+        "url": "https://hh.ru/vacancy/135602479"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3262",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Chief Product Officer (AdTech)",
+    "company": "Lofty",
+    "location": "Москва, удалённо",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Руководство ключевым продуктом — международной мультиформатной рекламной сетью, обслуживающей более 5 миллиардов показов в сутки. Работа с Programmatic-рекламой и Affiliate-маркетингом, RTB-решениями и модерацией трафика.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3261,
+    "date_iso": "2026-07-27T18:00:46+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nProduct Owner (Дебетовые карты и платежные сервисы) в Bereke Bank\nАлматы\nОбязанности:\n• Управление бэклогом IT-задач и обеспечение непрерывной поставки ценности для развития карточных продуктов и клиентского опыта;\n• Развитие и совершенствование клиентских путей (CJM) в онлайн- и офлайн-каналах;\n• Инициирование клиентских исследований, участие в интервью, анализ продуктовых метрик и конверсии, формирование гипотез для…\n\nProduct Owner лизинг / автолизинг в Банк ВТБ (ПАО)\nМосква\nОбязанности:\n• выстраивание процесса принятия решений по лизинговым сделкам на стороне Банка и лизинговой компании;\n• контроль показателей качества лизингового портфеля;\n• формирование предложений по корректировке продуктовых условий, процессов и системы принятия решений на основании результатов портфельного анализа;\n• взаимодействие с ИТ-командой,…\n\nProduct Hacker / AI Product Builder в WaiWai\nМосква\nИщем Product Hacker в WaiWai × Trinity Monsters\nНужен человек, который горит AI-инструментами и уже собирает с их помощью продукты, прототипы или автоматизации\nЭто может быть продакт, освоивший Claude Code, Codex и Kimi Code, разработчик со вкусом к продуктам или начинающий специалист с сильными собственными проектами\nЧто предстоит делать:\n—…\n\nВладелец продукта (мобильное приложение, банк) в Recruitment Boutique S.M.Art\nМосква\nОбязанности:\n• Разработка и реализация стратегии развития мобильного банка на основе данных, карты клиентского пути, экономической эффективности и обратной связи пользователей;\n• Анализ рынка банковских приложений в России и за рубежом, проверка новых идей и внедрение функций, повышающих лояльность клиентов и эффективность продукта;\n• Управление…\n\nВладелец продукта ДБО в ГЕТ ЭКСПЕРТС РЕКРУТМЕНТ\nМосква\nо компании:\nКрупный российский банк находится в поиске Владельца продукта платформы дистанционного банковского обслуживания.\nЦель роли: реализовать лучший цифровой канал на рынке для корпоративных клиентов крупного бизнеса обязанности:\n• анализировать рынок, тренды, лучшие практики и трансформировать их в ценные продуктовые фичи.\n•…\n\nДиректор по продукту (CPO) в Платёжный сервис А3\nМосква\nО компании\nГруппа компаний A3 - российский бысрорастущий финтех. Три юрлица в структуре: РНКО, A3 Платежный сервис, A3 Лаб. Компания работает в B2B-сегменте: транзакционные сервисы, процессинг, продукты с нетранзакционной монетизацией. Выручка растёт, коммерческий pipeline живой. Продуктовая функция есть - три PM в команде, продуктовый комитет…\n\nChief Product Owner (CPO)/Руководитель продукта в Paylater в PAYLATER\nТашкент\nО нас:\nPaylater - финтех-сервис, позволяющий оплачивать товар или услугу в рассрочку как онлайн, так и офлайн.\nМы, микрофинансовая организация, существуем с 2022 года и уже зарекомендовали себя на рынке. Мы стремимся к дальнейшему росту и развитию, предлагая кредитные продукты POS, кредиты наличными и оплату частями для более 400…\n\nProduct Manager в команду Дополнительного образования в Онлайн-школа Фоксфорд\nМосква, удаленно\nПривет! На связи команда онлайн-школы «Фоксфорд».\n«Фоксфорд» — это продуктовая EdTech-компания. Уже 16 лет мы делаем онлайн-обучение для школьников, их родителей и учителей. У нас более 10 млн пользователей на платформе, 4 формата занятий, 1300 сотрудников в штате.\nПо итогам 2024 года мы стали топ-1 компанией детского EdTech-рынка по выручке…\n\nHead of Product Growth/Head of Growth в Онлайн-школа Фоксфорд\nМосква,…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 65,
+        "url": "https://hh.ru/vacancy/135616052"
+      },
+      {
+        "type": "text_url",
+        "offset": 465,
+        "length": 50,
+        "url": "https://hh.ru/vacancy/135614107"
+      },
+      {
+        "type": "text_url",
+        "offset": 876,
+        "length": 44,
+        "url": "https://hh.ru/vacancy/135610657"
+      },
+      {
+        "type": "text_url",
+        "offset": 1274,
+        "length": 77,
+        "url": "https://hh.ru/vacancy/135610152"
+      },
+      {
+        "type": "text_url",
+        "offset": 1709,
+        "length": 47,
+        "url": "https://hh.ru/vacancy/135609451"
+      },
+      {
+        "type": "text_url",
+        "offset": 2100,
+        "length": 48,
+        "url": "https://hh.ru/vacancy/135608543"
+      },
+      {
+        "type": "text_url",
+        "offset": 2504,
+        "length": 69,
+        "url": "https://hh.ru/vacancy/135607944"
+      },
+      {
+        "type": "text_url",
+        "offset": 2916,
+        "length": 77,
+        "url": "https://hh.ru/vacancy/135607188"
+      },
+      {
+        "type": "text_url",
+        "offset": 3357,
+        "length": 61,
+        "url": "https://hh.ru/vacancy/135607154"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3261",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner (Дебетовые карты и платежные сервисы)",
+    "company": "Bereke Bank",
+    "location": "Алматы",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Управление бэклогом IT-задач и развитием карточных продуктов. Совершенствование клиентских путей в онлайн- и офлайн-каналах, проведение исследований и анализ продуктовых метрик.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10198,
+    "date_iso": "2026-07-27T17:56:29+00:00",
+    "text": "Middle / Middle+ Product Manager\nв Rooh Co. — динамичная команда, создающая мобильные и веб-приложения в нишах Lifestyle, Health и Utilities.\nУдалённая работа с гибким графиком.\nОписание вакансии.\nИщет Алёна Дюрд, её пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 178,
+        "length": 17,
+        "url": "https://rooh.peopleforce.io/careers/v/214706-product-manager-middle"
+      },
+      {
+        "type": "text_url",
+        "offset": 217,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/alena-dyurd-a78074167_hiring-productmanager-remote-share-7485993816513077249-JSh9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAClX-tUBKHoUZwCujxq4Qf2VESA4UISoRsg"
+      }
+    ],
+    "link": "https://t.me/forproducts/10198",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager Middle/Middle+",
+    "company": "Rooh Co.",
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Динамичная команда, создающая мобильные и веб-приложения в нишах Lifestyle, Health и Utilities. Удалённая работа с гибким графиком.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10197,
+    "date_iso": "2026-07-27T17:52:46+00:00",
+    "text": "Senior Product Manager (B2B Platform / Analytics / CTV)\nв Visible — растущая AdTech-компания с собственной рекламной платформой, один из лидеров рынка мобильного маркетинга и Connected TV (CTV).\nМосква. Гибридный формат. Гибкое начало рабочего дня (с 9:00 до 11:00).\nИщет Элеонора Соболева, её пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 294,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/eleonora-soboleva-62b266379_%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%B0-%D1%83-%D0%BC%D0%B5%D0%BD%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%B0%D1%81-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F-product-share-7485726339732410369-rIZB/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10197",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, B2B Platform / Analytics / CTV",
+    "company": "Visible",
+    "location": "Москва, гибрид",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Visible — растущая AdTech-компания с собственной рекламной платформой, один из лидеров рынка мобильного маркетинга и Connected TV (CTV). Гибридный формат работы с гибким началом рабочего дня с 9:00 до 11:00.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10196,
+    "date_iso": "2026-07-27T17:47:30+00:00",
+    "text": "Middle / Senior Product Manager (Activation)\nв BILLZ — компания, предоставляющая комплексное решение для управления розничной торговлей, включающее POS, аналитику, электронную коммерцию, финансовые инструменты и обучение для малого бизнеса.\nОфис (Ташкент, Алматы).\nПост компании на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 265,
+        "length": 26,
+        "url": "https://www.linkedin.com/posts/%D0%B8%D1%89%D0%B5%D0%BC-product-manager-%D0%B4%D0%BB%D1%8F-%D1%80%D0%BE%D1%81%D1%82%D0%B0-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D0%B8-share-7485633504282759168-j3Q4/"
+      }
+    ],
+    "link": "https://t.me/forproducts/10196",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle / Senior Product Manager (Activation)",
+    "company": "BILLZ",
+    "location": "Ташкент, Алматы",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "BILLZ предоставляет комплексное решение для управления розничной торговлей, включая POS, аналитику, электронную коммерцию и финансовые инструменты для малого бизнеса. Ищем опытного PM для работы над активацией и ростом пользователей.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 600,
+    "date_iso": "2026-07-27T16:41:53+00:00",
+    "text": "💳 ML Product Manager Т-Банк\n\n▪️Компания Т-Банк\n▪️Домен #FinTech #ML\n▪️Грейд #Middle #Senior #Lead\n▪️Формат #ГибридМосква\n\nТ-Банк ищет ML-продакт-менеджеров: от мидл-специалистов до\nопытных лидов\n\nВакансии для продактов, которым интересно работать на стыке\nпродукта, данных и технологий. Откликайтесь, если хотите запускать\nАI-продукты — от постановки задачи до их внедрения в продакшен.\nВас ждет много экспериментов и амбициозных задач. И все это рядом с\nсильными командами, которые строят AI-решения для миллионов\nклиентов и тысяч сотрудников.\nС каким опытом ищут кандидатов\n— Работали продакт-менеджером больше 3 лет.\n— Проводили A/B-тесты с ML-моделями.\n— Выстраивали процесс разметки данных.\n— Контролировали модель от идеи до продакшена.\nЧем сможете заниматься\n— Создавать LLM-агентов и голосовых помощников, улучшать речевую\nаналитику.\n— Разрабатывать AI-фичи для сервисов в приложении Т-Банка.\n— Развивать продукт, с которым можно самостоятельно создавать и\nмасштабировать AI-сервисы.\nКакие бенефиты вас ждут\nДМС, страховка, курсы для развития скиллов, поддержка менторов и\nнаставников, компенсация затрат на спорт и многое другое —\nподробности расскажут на собеседовании.\nЧтобы откликнуться или узнать больше, переходите на карьерный сайт\n\nСсылка на пост LinkedIn\nСсылка на вакансии\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 40,
+        "length": 7,
+        "url": "https://www.tbank.ru/career/"
+      },
+      {
+        "type": "text_url",
+        "offset": 1249,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/frankegoesdown_career-tbank-ml-share-7487420324356014083-Q2AW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1273,
+        "length": 18,
+        "url": "https://www.tbank.ru/career/vacancies/it/?utm_source=tgame&utm_medium=prt.fix&utm_campaign=crr-it.vacancies-mlpm&utm_content=frankegoesdown&cityId=0c5b2444-70a0-4932-980c-b4dc0d3f02b5&profession=product-management&specialization=ai"
+      },
+      {
+        "type": "text_url",
+        "offset": 1296,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/600",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "ML Product Manager (Middle/Senior/Lead)",
+    "company": "Т-Банк",
+    "location": "Москва, гибрид",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Т-Банк ищет ML-продакт-менеджеров для разработки AI-решений в финтехе. Роль включает создание LLM-агентов, голосовых помощников, AI-фич для приложения и платформы для масштабирования AI-сервисов. Требуется опыт более 3 лет, работа с ML-моделями от постановки задачи до продакшена.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3259,
+    "date_iso": "2026-07-27T16:30:44+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nProduct Manager в Техносити\nКраснодар\n\"Техносити- компания, успешно работающая с 2009 года на рынке глобальной навигации. Основные наши клиенты - автотранспортные предприятия. В настоящий момент мы активно занимаемся цифровой трансформацией бизнеса и приступили к созданию новых программных продуктов для наших клиентов. Не смотря на продолжительное время нахождения на рынке услуг,…\n\nСРО в Дивизион \"Авто\" в СБЕР\nМосква\nМы строим платформу жизненного цикла автомобилиста — от покупки автомобиля до ежедневных сценариев владения.\nНаша цель — сделать владение автомобилем проще, удобнее и выгоднее для миллионов клиентов и превратить автомобильные сценарии в один из драйверов удержания и роста LTV внутри экосистемы. Обязанности\n• развивать раздел «авто» как…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 27,
+        "url": "https://hh.ru/vacancy/135603888"
+      },
+      {
+        "type": "text_url",
+        "offset": 426,
+        "length": 28,
+        "url": "https://hh.ru/vacancy/135603665"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3259",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager",
+    "company": "Техносити",
+    "location": "Краснодар",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Компания работает на рынке глобальной навигации с 2009 года, основные клиенты - автотранспортные предприятия. Активно занимаются цифровой трансформацией и созданием новых программных продуктов.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3258,
+    "date_iso": "2026-07-27T16:00:48+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nРуководитель проектов по электронному мерчандайзингу в Лемана ПРО\nМосква\nЧем предстоит заниматься:\n• Создание единого Клиентского Опыта в категории Онлайн;\n• Определение правил презентации товаров категории в цифровых каналах Улучшение конверсии от визита в покупку по товарам категории (PLP Views, PDP Views, CC A2C);\n• Увеличение показателей товарооборота и маржинальности;\n• Анализ сайтов конкурентов и лучших мировых…\n\nProduct Manager в Международный холдинг\nМосква\nПродуктовая IT компания, которая занимается разработкой и поддержкой высоконагруженных проектов для крупных компаний, в том числе с мировой известностью, основная часть которых представляет собой B2B решения развлекательной, игровой и спортивной тематики, находится в поисках Product Manager!\nЧем предстоит заниматься:\n• Управлением полным…\n\nСРО в Дивизион \"Авто\" в СБЕР\nМосква\nМы строим платформу жизненного цикла автомобилиста — от покупки автомобиля до ежедневных сценариев владения.\nНаша цель — сделать владение автомобилем проще, удобнее и выгоднее для миллионов клиентов и превратить автомобильные сценарии в один из драйверов удержания и роста LTV внутри экосистемы. Обязанности\n• развивать раздел «авто» как…\n\nProject Manager в Международный холдинг\nИспания\nПродуктовая IT компания, которая занимается разработкой и поддержкой высоконагруженных проектов для крупных компаний, в том числе с мировой известностью, основная часть которых представляет собой B2B решения развлекательной, игровой и спортивной тематики, находится в поисках Project Manager!\nЧем предстоит заниматься:\n• Управлением полным…\n\nПомощник управляющего в СБЕР\nКурган\nИщем амбициозного специалиста способного комплексно подойти к аналитике бизнес-показателей и стать лидером в реализации цифровых проектов на стыке с бизнесом. Если у тебя есть опыт запуска цифровых инициатив, ты владеешь аналитическими инструментами (Excel, Power BI, SQL), умеешь работать с данными и общаться с бизнес-заказчиками — тебе к нам!Чем…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 65,
+        "url": "https://hh.ru/vacancy/135609085"
+      },
+      {
+        "type": "text_url",
+        "offset": 464,
+        "length": 39,
+        "url": "https://hh.ru/vacancy/135604023"
+      },
+      {
+        "type": "text_url",
+        "offset": 853,
+        "length": 28,
+        "url": "https://hh.ru/vacancy/135603665"
+      },
+      {
+        "type": "text_url",
+        "offset": 1229,
+        "length": 39,
+        "url": "https://hh.ru/vacancy/135603630"
+      },
+      {
+        "type": "text_url",
+        "offset": 1619,
+        "length": 28,
+        "url": "https://hh.ru/vacancy/135601440"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3258",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель проектов по электронному мерчандайзингу",
+    "company": "Лемана ПРО",
+    "location": "Москва",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Управление клиентским опытом в онлайн-категориях, оптимизация конверсии и товарооборота через улучшение презентации товаров в цифровых каналах. Анализ конкурентов и внедрение лучших мировых практик.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10194,
+    "date_iso": "2026-07-27T15:49:09+00:00",
+    "text": "Middle Product Manager\nEasybrain is a mobile game developer specializing in brain puzzle and logic games like Sudoku, Nonogram, and Blockudoku.\nFull support in relocating to countries where the offices are located.\nJob description.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 215,
+        "length": 15,
+        "url": "https://easybrain.com/careers/vacancy/product-manager"
+      }
+    ],
+    "link": "https://t.me/forproducts/10194",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle Product Manager",
+    "company": "Easybrain",
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Easybrain is a mobile game developer specializing in brain puzzle and logic games like Sudoku, Nonogram, and Blockudoku. The company offers full support for relocation to countries where offices are located.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3257,
+    "date_iso": "2026-07-27T15:30:44+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nРуководитель продуктового направления в Центр Сервис\nМосква\n«Консул Прайм» — сервисная компания, оказывающая содействие российским гражданам в получении консульских услуг за рубежом и являющаяся официальным партнером Консульских учреждений РФ.\nНаша ключевая технологическая основа бизнеса — Автоматизированная информационная система «Консул Прайм» (АИС).\nАИС включает в себя:\n• портал для самостоятельной…\n\nProduct manager в Т-Банк\nСанкт-Петербург\nВ Т-Банке продуктовые команды разрабатывают более 50 продуктов для миллионов клиентов. Мы развиваем финансовые продукты, такие как банковские карты, кредиты, вклады и счета, оплату онлайн-покупок, и нефинансовые — от подписок до бронирования авиабилетов и отелей.\nМы быстро развиваемся и ищем продакт-менеджеров в разные направления.\nЧто вас ждет:\n— Работа в…\n\nВладелец продукта (клиентский опыт) в СК Ренессанс Жизнь\nМосква\nМы трансформируем клиентский сервис: переходим от управления операционными процессами к управлению потребностями клиента, качеством клиентского опыта и бизнес-результатом.\nНам нужен владелец продукта, который сможет смотреть на клиентский сервис как на продукт: понимать боли клиентов, находить точки роста, формировать целевое видение, приоритизировать…\n\nПродакт менеджер (онлайн школу Moscow Digital School) в Ultimate Education\nМосква, удаленно\nUltimate Education - образовательный холдинг, в состав которого входят школы-лидеры в сегменте ДПО с фокусом на глубокую индустриальную экспертизу и формирование отраслевых сообществ, а в цифрах, это:\n• более 800 тысяч студентов за все время;\n• более 1,7 млн. - размер профильного сообщества школ;\n• ТОП-5 в рейтинге крупнейших EdTech-компаний в…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 52,
+        "url": "https://hh.ru/vacancy/135610706"
+      },
+      {
+        "type": "text_url",
+        "offset": 448,
+        "length": 24,
+        "url": "https://hh.ru/vacancy/135609338"
+      },
+      {
+        "type": "text_url",
+        "offset": 850,
+        "length": 56,
+        "url": "https://hh.ru/vacancy/135612339"
+      },
+      {
+        "type": "text_url",
+        "offset": 1270,
+        "length": 74,
+        "url": "https://hh.ru/vacancy/135604323"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3257",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель продуктового направления",
+    "company": "Консул Прайм",
+    "location": "Москва",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Руководство продуктовым направлением в компании, предоставляющей консульские услуги. Основной продукт — Автоматизированная информационная система «Консул Прайм» (АИС), включающая портал для граждан и инструменты для работы с консульскими учреждениями РФ.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 14474,
+    "date_iso": "2026-07-27T15:05:21+00:00",
+    "text": "Product Manager (Capture) в Apron\n\n📍Лондон\n💎3-5 лет опыта работы, из которых 0-2 года могут быть связаны с производством.\n🚀СEO и фаундер — Богдан Узбеков, ex Product lead в Revolut\n\nApron — финтех-стартап, упрощающий оплату счетов для малого бизнеса.\n\nРазмер команды — 50- 100 | Инвестиции — $29M\n\nУзнать подробнее и откликнуться: тут\n\n\nДругие вакансии в компании: \n— Staff Product Designer | Payments\n— Technical Recruiter\n\n📢 Источник: https://t.me/zarubezhom_jobs/4081",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 185,
+        "length": 5,
+        "url": "https://www.indexventures.com/perspectives/the-perfect-fit-how-apron-tailors-finance-for-small-businesses/"
+      },
+      {
+        "type": "text_url",
+        "offset": 334,
+        "length": 3,
+        "url": "https://jobs.ashbyhq.com/apron/bb50986f-894b-4dfb-b0ae-fadba14359d7"
+      },
+      {
+        "type": "text_url",
+        "offset": 371,
+        "length": 33,
+        "url": "https://jobs.ashbyhq.com/apron/0b260d1c-5d28-4aba-afc4-1923f7389cc3"
+      },
+      {
+        "type": "text_url",
+        "offset": 407,
+        "length": 19,
+        "url": "https://jobs.ashbyhq.com/apron/df36154f-8804-4850-b25d-fbfbff0423a5"
+      },
+      {
+        "type": "url",
+        "offset": 441,
+        "length": 33
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/14474",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager (Capture)",
+    "company": "Apron",
+    "location": "Лондон",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Apron — финтех-стартап, упрощающий оплату счетов для малого бизнеса. Команда 50-100 человек, привлекла $29M инвестиций. CEO и фаундер Богдан Узбеков — экс Product Lead в Revolut.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 599,
+    "date_iso": "2026-07-27T13:27:51+00:00",
+    "text": "👨‍💻 Product Manager B2C EdTech\n\n▪️Домен #EdTech\n▪️Грейд #Middle #Senior\n▪️Формат #УдаленкаМир \n\nСейчас я ищу в EdTech стартап опытных специалистов на удаленную работу, фуллтайм.\nProduct Manager B2C. \nНа развитие платформы, сервисов и фичей сообщества. \nОбязательно: опыт проведения продуктовых исследований и формирования БФТ.\n\nКакой опыт наиболее важен для нас: \nOBS-подобные приложения.\nscreen recording.\nвидеоконференции.\nстриминг.\nудалённый доступ.\nголосовые ассистенты.\ndesktop overlay.\nигровые overlay.\nкроссплатформенные системные утилиты.\n\nСсылка на пост LinkedIn\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 550,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/paskinakristina_%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81-%D1%8F-%D0%B8%D1%89%D1%83-%D0%B2-edtech-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF-%D0%BE%D0%BF%D1%8B%D1%82%D0%BD%D1%8B%D1%85-share-7487154508163158016-mt2H/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 578,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/599",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager B2C EdTech",
+    "company": null,
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "EdTech стартап ищет опытного Product Manager для развития B2C платформы, сервисов и фичей сообщества. Требуется опыт проведения продуктовых исследований, формирования БФТ и работы с OBS-подобными приложениями, screen recording, видеоконференциями, стримингом и системными утилитами.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3255,
+    "date_iso": "2026-07-27T12:00:44+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nProduct Manager в Периодика Пресс\nМосква, удаленно\nПериодика — бренд семейных фотокниг и фотопродуктов, которые помогают сохранять важные моменты жизни.\nМы ищем в команду Product Manager который будете отвечать за пользовательский путь от визита на сайт или открытия приложения до создания проекта в конструкторе.\nВместе с дизайном, разработкой и маркетингом будете искать точки роста, проводить исследования,…\n\nМенеджер по продукту в ценообразование (Департамент Медиа) в RWB (Wildberries & Russ)\nМосква\nВам предстоит:\n• Разрабатывать и развивать механизм формирования минимальных ставок для рекламного аукциона (резервные цены и т.д.) с балансом между доходом платформы и удовлетворённостью продавцов;\n• Участвовать в создании эвристик и алгоритмов ранжирования/продвижения, влияющих на cost-per-action и ROI рекламодателей;\n• Управлять командой из…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 33,
+        "url": "https://hh.ru/vacancy/135344207"
+      },
+      {
+        "type": "text_url",
+        "offset": 453,
+        "length": 85,
+        "url": "https://hh.ru/vacancy/135593517"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3255",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager",
+    "company": "Периодика Пресс",
+    "location": "Москва, удалённо",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Отвечаете за пользовательский путь от визита на сайт или открытия приложения до создания проекта в конструкторе. Работаете с дизайном, разработкой и маркетингом для поиска точек роста и проведения исследований.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3253,
+    "date_iso": "2026-07-27T10:31:47+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nДиректор по продукту / CPO / Head of Product в МАФО\nСанкт-Петербург, удаленно\nТы строишь продукт, за который платят миллионы, и который меняет жизни людей?\nТы способен превратить экспертные знания в технологическое ядро, удерживающее пользователей годами?\nТы готов взять на себя ответственность за всю экосистему — от первого касания до многолетней подписки?\nТогда это твой вызов!\nMindBodyFace — международный лидер в…\n200 000 — 300 000 ₽\n\nЭксперт по управлению качеством и развитию сервисов в СБЕР\nМосква\nСбер в поиске эксперта по управлению качеством и развитию сервисов. Обязанности\n• контроль SLA и стандартов предоставления услуг и сервисов подразделениями блока \"Сервисы\" на уровне ТБ: мониторинг, контроль исполнения, работа с отклонениями и метриками качества\n• проведение исследования функционирования процессов сервисного…\n182 100 ₽",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 51,
+        "url": "https://hh.ru/vacancy/135586196"
+      },
+      {
+        "type": "text_url",
+        "offset": 481,
+        "length": 58,
+        "url": "https://hh.ru/vacancy/135588108"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3253",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of Product / CPO",
+    "company": "МАФО",
+    "location": "Санкт-Петербург, удалённо",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "200 000 — 300 000 ₽",
+    "short_description": "Строишь продукт, за который платят миллионы и который меняет жизни людей. Ты способен превратить экспертные знания в технологическое ядро, удерживающее пользователей годами. Отвечаешь за всю экосистему — от первого касания до многолетней подписки.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3252,
+    "date_iso": "2026-07-27T10:00:46+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nHead of CRM (Руководитель цифровых платформ для покупателей и потребителей) в ГЕТ ЭКСПЕРТС РЕКРУТМЕНТ\nМосква\nВ крупной производственной компании открыта вакансия Head of CRM.\nОбязанности:\n• Управлять eCommerceкак внутренним продуктом (стратегия, бэклог, развитие).\n• Нанимать и развивать команду из front-end, back-endи UX разработчиков.\n• Отвечать за CRM и Field Sales (аналоги): архитектура, интеграции, кастомизация, внедрение.\n• Вести смежные продукты:…\n\nProduct Owner / Delivery Lead (SberCIB Terminal) в СБЕР\nМосква\nО проекте и команде:\nSberCIB Terminal — это флагманская B2B веб-платформа корпоративно-инвестиционного бизнеса СберБанка, фактически заменившая российским компаниям и банкам западные торговые терминалы. Это универсальное «единое окно» для корпоративных клиентов и финансовых институтов, предоставляющее прямой онлайн-доступ к инструментам валютного,…\n\nPresale Architect в Флант\nМосква, удаленно\nО компании\n«Флант» — лидер российского рынка DevOps и Kubernetes. С 2008 года мы занимаемся созданием и обслуживанием инфраструктуры любого масштаба. С 2017 года развиваем продукты Deckhouse, которые упрощают разработку, доставку и эксплуатацию приложений. А ещё консультируем по DevOps-практикам и технологиям.\nБолее 260 компаний доверяют нам свои…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 101,
+        "url": "https://hh.ru/vacancy/135591486"
+      },
+      {
+        "type": "text_url",
+        "offset": 500,
+        "length": 55,
+        "url": "https://hh.ru/vacancy/135592179"
+      },
+      {
+        "type": "text_url",
+        "offset": 915,
+        "length": 25,
+        "url": "https://hh.ru/vacancy/135594709"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3252",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of CRM",
+    "company": "ГЕТ ЭКСПЕРТС РЕКРУТМЕНТ",
+    "location": "Москва",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Руководство eCommerce платформой как внутренним продуктом, включая стратегию и развитие. Управление командой разработчиков, ответственность за CRM и Field Sales системы, интеграции и внедрение.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 2667909413,
     "channel_username": "ITjobsFeed",
     "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
@@ -79,7 +1098,7 @@
     "salary": null,
     "short_description": "Billz создает платформу для автоматизации работы магазинов. Ищем PM, который будет отвечать за путь новых клиентов - от регистрации до активации и конверсии в платную подписку, совершенствуя онбординг и воронку активации через продуктовые эксперименты.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -115,7 +1134,7 @@
     "salary": "350 000 ₸",
     "short_description": "Онлайн-кинотеатр almaPLUS ищет менеджера продукта для развития стратегии, аналитики и запуска нового функционала сервиса, которым пользуются тысячи зрителей ежедневно.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -151,7 +1170,7 @@
     "salary": null,
     "short_description": "Billz создает платформу для автоматизации работы электронных магазинов. Ищем PM, который будет отвечать за онбординг и активацию новых пользователей, совершенствуя воронку через продуктовые эксперименты и аналитику.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -187,7 +1206,7 @@
     "salary": null,
     "short_description": "Разработка ИИ-рекрутера, который автоматизирует подбор персонала от скрининга резюме до интервью. Самостоятельная работа с инновационным продуктом на рынке рекрутинга.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -235,7 +1254,7 @@
     "salary": null,
     "short_description": "Развитие мобильного приложения B2B SaaS продукта. Требуется опыт работы продактом от 3 лет с мобильными приложениями, пользовательскими исследованиями и продуктовой аналитикой.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -599,7 +1618,15 @@
     "remote": true,
     "salary": null,
     "short_description": "Product Owner для команды маркировки в VVP Group. Компания входит в рейтинги лучших работодателей Forbes и HeadHunter, имеет 30+ лет опыта в дистрибьюции. Присоединение к команде с опытом и стабильностью на рынке.",
-    "duplicates": [],
+    "duplicates": [
+      {
+        "channel_username": "product_jobmeister",
+        "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+        "link": "https://t.me/product_jobmeister/3266",
+        "date_iso": "2026-07-27T22:00:46+00:00",
+        "channel_id": 2298616665
+      }
+    ],
     "is_new": false,
     "is_archived": false
   },
@@ -11835,7 +12862,7 @@
     "short_description": "Группа компаний MAST (Абу-Даби, AdTech) ищет продакта для запуска и развития AI-first движка компании. Технология обеспечивает прирост доходности паблишеров на 30%+. Требуется опыт в AdTech 3+ лет и наличие собственной развернутой агентской системы.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -11877,7 +12904,7 @@
     "short_description": "Развитие ключевых направлений платформенного ядра XRM-системы. Управление продуктовым бэклогом, работа с OKR и стратегией, исследование потребностей пользователей и валидация гипотез в области AI/ML и low-code решений. Требуется опыт с B2B платформами, CRM/ERP-системами и сложной бизнес-логикой.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -11921,7 +12948,7 @@
     "short_description": "Лидер для управления двумя B2C продуктами с аудиторией более 2 млн активных пользователей. Требуется опыт более 4 лет и глубокие навыки в аналитике с владением SQL для работы с большими объемами данных.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
