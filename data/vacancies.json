@@ -1,5 +1,163 @@
 [
   {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 14838,
+    "date_iso": "2026-08-01T14:32:20+00:00",
+    "text": "Senior Product Manager в Dealfront: https://www.remocate.app/jobs/senior-product-manager-dealfront\n\nМожно работать удалённо. Зарплата в валюте.\n\n\n📢 Источник: https://t.me/evacuatejobs/6275",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 36,
+        "length": 62
+      },
+      {
+        "type": "url",
+        "offset": 159,
+        "length": 30
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/14838",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "Dealfront",
+    "location": null,
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Senior Product Manager position at Dealfront. Remote work available. Salary provided in currency (specific amount not mentioned in the post).",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1674506295,
+    "channel_username": null,
+    "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+    "msg_id": 6275,
+    "date_iso": "2026-08-01T14:28:58+00:00",
+    "text": "Senior Product Manager в Dealfront: https://www.remocate.app/jobs/senior-product-manager-dealfront\n\nМожно работать удалённо. Зарплата в валюте.\n\nПри отклике укажите, что нашли вакансию на Remocate.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 36,
+        "length": 62
+      }
+    ],
+    "link": "https://t.me/c/1674506295/6275",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "Dealfront",
+    "location": null,
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Senior Product Manager role at Dealfront with remote work option. Salary provided in currency.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3340,
+    "date_iso": "2026-08-01T13:32:50+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nChief Product Officer (CPO)/Директор по продукту в Edtech в Айтигенио\nМосква, удаленно\nАйтигенио — это больше, чем просто онлайн-школа.\nМы создаём новую образовательную систему для детей, в центре которой - интерес ребёнка и его выбор. Какими направлениями заниматься, какие модули проходить и с каким преподавателем, на каких метапредметных навыках сделать упор - отвечая на эти вопросы, каждая семья в Айтигенио составляет…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 69,
+        "url": "https://hh.ru/vacancy/135801048"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3340",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Chief Product Officer (CPO), Директор по продукту",
+    "company": "Айтигенио",
+    "location": "Москва, удалённо",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Онлайн-школа, создающая новую образовательную систему для детей с фокусом на персональный выбор и интерес ребёнка. Роль предполагает стратегическое руководство продуктом в EdTech-сегменте.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 14825,
+    "date_iso": "2026-08-01T12:33:51+00:00",
+    "text": "Product / Project Manager\n#ProductManager #ProjectManager #Удаленно #iGaming #Remote #Job #Vacancy\n \nТребования:\nУправление командой разработки 10+ специалистов (Backend, Frontend, QA, DevOps, Mobile) в продуктовой компании (Fintech / E-commerce / iGaming). Стек-Node.js / TypeScript, проекты с высокой нагрузкой и транзакционностью. Опыт управления командой 10+ чел. от 3–5 лет. Полное ведение IT-проектов, владение Jira/Confluence. Понимание SDLC, опыт управления несколькими проектами. Лидерские и организационные навыки. Плюсом будет: технический бэкграунд, опыт в iGaming/FinTech, управление распределёнными командами.\n\nЛокация:📍Удалённо (из любого региона).\n\nКонтакт для отклика: @arteem_mi7 +CV\n\n\n📢 Источник: https://t.me/jtbl_vacancy/4110",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 718,
+        "length": 30
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/14825",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager / Project Manager, iGaming",
+    "company": null,
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Управление командой 10+ специалистов (Backend, Frontend, QA, DevOps, Mobile) в продуктовой компании iGaming/FinTech/E-commerce. Стек Node.js/TypeScript, высоконагруженные системы с транзакционностью. Полное ведение IT-проектов через Jira, управление несколькими проектами одновременно.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 614,
+    "date_iso": "2026-08-01T10:13:19+00:00",
+    "text": "👨‍💻 Менеджер продукта X5\n\n▪️Компания #X5\n▪️Домен #Ecom\n▪️Грейд #Middle #Senior\n\nЯ работаю в Клиентском опыте Х5 и строю маркетинговую платформу \"Персональное промо\". Сейчас мы в КО находимся в поисках опытного продакта на смежные продукты - Кампейнер и RTM. Нужен синьор/лид с сильной продуктовой/бизнесовой экспертизой в области марктех/адтех/смежных доменах. Руководителем будет CPO Valentina Larina. \n\nПродукты сложные технически и бизнесово, с сотнями миллионов эффектов и большими амбициями.\n\nЕсли вам интересно, пишите мне или Вале, будет рады релевантным откликам. Если пост может быть полезен вашим друзьям и знакомым - пожалуйста, поделитесь. При личном общении с кандидатами поделимся подробной информацией.\n\nСсылка на пост LinkedIn\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 721,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/lekarev_%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%BB%D0%B8%D0%BD%D0%BA-%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D1%8E-%D0%B2-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%BE%D0%BC-%D0%BE%D0%BF%D1%8B%D1%82%D0%B5-share-7488307601185759232-KebW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 749,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/614",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Менеджер продукта (Senior/Lead), MarTech платформа",
+    "company": "X5",
+    "location": null,
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Строящаяся маркетинговая платформа 'Персональное промо' ищет опытного PM для работы со сложными продуктами Кампейнер и RTM. Требуется экспертиза в MarTech/AdTech с пониманием больших объемов данных и амбициозных целей. Руководство: CPO Valentina Larina.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 2298616665,
     "channel_username": "product_jobmeister",
     "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
@@ -26,7 +184,7 @@
     "salary": null,
     "short_description": "Руководитель направления по работе с ВУЗами для продвижения Platform V и построения студенческого комьюнити. Platform V - набор более 50 программных продуктов для создания новых приложений и услуг с лучшим клиентским опытом.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -67,7 +225,7 @@
     "salary": null,
     "short_description": "Волонтерская платформа, созданная за 12 лет. Мощное волонтерское движение с высокой долей участия россиян в социальных проектах.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -97,7 +255,7 @@
     "salary": null,
     "short_description": "Развитие продуктов фиксированной связи и конвергентные предложения, объединяющие домашний интернет и мобильную связь. Участие в создании сервисов для миллионов клиентов, изучение потребностей клиентов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -133,7 +291,7 @@
     "salary": null,
     "short_description": "Билайн — компания телеком и digital рынков. Команда, объединённая общей целью быть лидером, предоставляя клиентам новейшие продукты и услуги высокого уровня.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -175,7 +333,7 @@
     "salary": null,
     "short_description": "Продуктовый лидер направления робототехники в крупной телеком-компании. Требуется управление полным жизненным циклом IT решений для роботизации и автоматизации бизнес-процессов с взаимодействием бизнес-заказчиков, IT-команд и аналитиков.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -209,7 +367,7 @@
     "salary": null,
     "short_description": "Ищут опытного Product Manager для работы над косметикой в Teamfight Tactics. Компания помогает с релокацией в Сингапур.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -238,7 +396,7 @@
     "salary": null,
     "short_description": "Role focuses on cosmetics product management for Teamfight Tactics. Relocation assistance provided to Singapore.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -280,7 +438,7 @@
     "salary": "от 80000 ₽",
     "short_description": "Аккредитованная IT-компания в топ-10 разработчиков e-commerce в России. Разрабатывают и развивают B2B-, B2C- и D2C-сервисы, обучающие платформы и корпоративные порталы для производителей и торговых компаний.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -316,7 +474,7 @@
     "salary": null,
     "short_description": "Развитие и управление карточными продуктами банка (дебетовые/кредитные карты Visa), включая жизненный цикл продуктов, управление тарифами и условиями. Работа над транзакционными сервисами (P2P, QR, онлайн-платежи) и развитие эквайринга.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -370,7 +528,7 @@
     "salary": null,
     "short_description": "Ищем продакта на онлайн-воронку M.Косметик. Роль требует плотного взаимодействия с продактами екома команды: согласование приоритетов, совместные запуски, снятие зависимостей. Нужны проактивные лидеры, готовые разбирать воронку и считать эффект изменений.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -400,7 +558,7 @@
     "salary": null,
     "short_description": "Владелец продукта в направлении розничного кредитования в Финтех. RWB — международная технологическая компания, образованная в результате слияния Wildberries и Russ.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -478,7 +636,7 @@
     "salary": "до 250 000 ₽",
     "short_description": "Разработка мобильных приложений, онлайн-сервисов и цифровых платежей для MVNO. Компания входит в группу не банковских операторов и работает с тысячами пользователей ежедневно.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -514,7 +672,7 @@
     "salary": null,
     "short_description": "Разработка и реализация fin-tech решений. Генерация идей, разработка ТЗ, реализация проектов, анализ данных и мониторинг результатов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -548,7 +706,7 @@
     "salary": "3500–5000€",
     "short_description": "Развитие международной платёжной платформы, объединяющей Payment Gateway, Open Banking, карточный эквайринг и альтернативные способы оплаты. Управление полным жизненным циклом продукта, формирование продуктовой стратегии и работа с командами разработки, бизнеса, продаж и интеграций.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -577,7 +735,7 @@
     "salary": null,
     "short_description": "Growth Product Manager for utility apps with focus on subscriptions and web2app/web2web funnels. Required 3+ years of PM/Product Owner experience in mobile utilities and subscription products. Strong background with web-to-app funnel optimization, data-driven decision making, and A/B testing.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -606,7 +764,7 @@
     "salary": null,
     "short_description": "Ищем Senior PM с 4+ годами опыта в Data/ML продуктах для работы с антифродом, рисками и скорингом. Требуется SQL, знание ML-метрик, опыт запуска внутренних data-продуктов и вывода решений на внешний рынок.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -636,7 +794,7 @@
     "salary": "от 15 000 000 so'm",
     "short_description": "Управление жизненным циклом IT-проектов (информационные системы, веб-платформы, мобильные приложения) от инициации до внедрения и постпроектной поддержки. Работа по методологии Agile/Scrum с формированием и приоритизацией Product Backlog.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -14695,7 +14853,7 @@
     "short_description": "Mindly — технологическая компания, специализирующаяся на разработке цифровых продуктов для психического здоровья. Ищем Technical Product Manager для работы с платежной системой компании. Гибкий график, удалённая работа.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -14741,7 +14899,7 @@
     "short_description": "Ищем опытного продукт-менеджера для онлайн-сервиса бухгалтерии Контур.Экстерн. Задачи включают оптимизацию customer journey, анализ рынка и конкурентов, поиск точек роста через тестирование гипотез. Требуется 5+ лет опыта в IT-продуктах с аудиторией 500k+ в сегменте малого бизнеса.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -14771,7 +14929,7 @@
     "short_description": "X5 Tech разрабатывает цифровые решения для розничных сетей Пятёрочка, Перекрёсток и Чижик. Роль связана с разработкой агентных коммерческих решений.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -14801,7 +14959,7 @@
     "short_description": "Space307 is an international full-cycle product IT company specializing in fintech solutions with a high-load trading platform for retail brokers. The role requires upper-intermediate English and Russian language skills and offers flexible working hours.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -14837,7 +14995,7 @@
     "short_description": "Nebius is an AI cloud infrastructure platform for developers to build, train, and deploy generative AI apps and ML models. The role focuses on agentic search products in a secure, high-performance environment with flexible working hours.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -14867,7 +15025,7 @@
     "short_description": "ITDEAL GROUP is a full-cycle international studio specializing in custom digital product development and business automation. The role involves working with a team dedicated to creating digital solutions for clients.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -14897,7 +15055,7 @@
     "short_description": "Поиск PM для платформы мультивалютных сервисов в одном из крупнейших онлайн-банков России. Контакт: Наталья Петрова через LinkedIn.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -14932,7 +15090,7 @@
     "short_description": "AI-стартап ищет опытного PM с фокусом на GenAI, LLM и AI-ассистентов. Требуется опыт с подписочными моделями, продуктовой аналитикой и метриками LTV, Retention, Churn, а также умение запускать продукты на ранних стадиях.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -14976,7 +15134,7 @@
     "short_description": "Поиск опытного Product Owner с 7+ лет в банковской сфере и 5+ лет с эмиссионными продуктами (карты, кошельки). Требуется управление разработкой и выводом на рынок банковских сервисов в мобильном приложении телекома, координация со стейкхолдерами и анализ продуктов после запуска.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1113141406,
@@ -15026,7 +15184,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
@@ -15082,7 +15240,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
