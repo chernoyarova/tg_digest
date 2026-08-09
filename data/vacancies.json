@@ -3,6 +3,290 @@
     "channel_id": 2667909413,
     "channel_username": "ITjobsFeed",
     "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 15303,
+    "date_iso": "2026-08-08T14:02:19+00:00",
+    "text": "Lead Product Manager, Data Sources в Truv: https://www.remocate.app/jobs/lead-product-manager-data-sources-truv\n\nМожно работать удалённо. Зарплата в валюте.\n\n\n📢 Источник: https://t.me/evacuatejobs/6309",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 43,
+        "length": 68
+      },
+      {
+        "type": "url",
+        "offset": 172,
+        "length": 30
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/15303",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Lead Product Manager, Data Sources",
+    "company": "Truv",
+    "location": "Remote",
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Lead Product Manager role focused on Data Sources at Truv. Remote position with salary offered in currency.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1804835860,
+    "channel_username": "zarubezhom_jobs",
+    "channel_title": "Connectable Jobs",
+    "msg_id": 4116,
+    "date_iso": "2026-08-08T13:20:15+00:00",
+    "text": "Senior Product Manager (VCS Ecosystem) в Jetbrains\n\nПомогают с релокацией🔥\n\n💙Наша читательница уже получила оффер в эту компанию\n📍Амстердам/Белград/Берлин/др.\n💎Опыт работы в области определения направления развития и стратегии продукта для технически сложных инструментов разработки, систем управления версиями (SCM), CI/CD или ПО для совместной работы над кодом\n🚀Фаундеры — Сергей Дмитриев, Евгений Беляев и Валентин Кипятков\n\nJetBrains — делают IntelliJ IDEA и другие инструменты для разработки с 11 млн. пользователей. Среди клиентов - Google, Tesla, Visa и другие топовые компании.\n\nРазмер команды — 2200+ | Компания оценивается в $7B🔥\n\nУзнать подробнее и откликнуться: тут\n\n🤝 Ещё 200+ вакансий продактов и проджектов в компаниях с русскоговорящими фаундерами/командами — в нашей рассылке\n\nДругие вакансии в компании: \n— Project Manager (Software Engineering Research)\n— Growth manager (JetBrains AI)\n— Lead Product Designer (FlySto)",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 433,
+        "length": 9,
+        "url": "https://www.jetbrains.com/lp/annualreport-2024/?_gl=1*18wnnfu*_gcl_au*MTI5NzUzNDA3NS4xNzM0OTY3OTI2*FPAU*MTI5NzUzNDA3NS4xNzM0OTY3OTI2*_ga*MTQ2NDY5NTk3Ni4xNzM0OTY3OTI0*_ga_9J976DJZ68*MTczNjg0NTc5MS40LjEuMTczNjg0NjE0MC40OS4wLjA"
+      },
+      {
+        "type": "text_url",
+        "offset": 680,
+        "length": 3,
+        "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4881707101"
+      },
+      {
+        "type": "text_url",
+        "offset": 685,
+        "length": 3,
+        "url": "https://www.linkedin.com/company/1inchcom/people/"
+      },
+      {
+        "type": "text_url",
+        "offset": 783,
+        "length": 16,
+        "url": "https://t.me/zarubezhom_jobs/3459"
+      },
+      {
+        "type": "text_url",
+        "offset": 832,
+        "length": 47,
+        "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4695328101"
+      },
+      {
+        "type": "text_url",
+        "offset": 882,
+        "length": 29,
+        "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4895059101"
+      },
+      {
+        "type": "text_url",
+        "offset": 914,
+        "length": 30,
+        "url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4790552101"
+      }
+    ],
+    "link": "https://t.me/zarubezhom_jobs/4116",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager, VCS Ecosystem",
+    "company": "JetBrains",
+    "location": "Амстердам/Белград/Берлин",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Senior Product Manager для экосистемы систем управления версиями в JetBrains. Требуется опыт работы с технически сложными инструментами разработки, SCM, CI/CD и ПО для совместной работы над кодом. Компания разрабатывает IntelliJ IDEA и другие инструменты с 11 млн. пользователей.",
+    "duplicates": [
+      {
+        "channel_username": "ITjobsFeed",
+        "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+        "link": "https://t.me/ITjobsFeed/15302",
+        "date_iso": "2026-08-08T13:33:20+00:00",
+        "channel_id": 2667909413
+      }
+    ],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 15300,
+    "date_iso": "2026-08-08T11:32:19+00:00",
+    "text": "Technical Product Manager (AI) - Veeva Quality Cloud в Veeva Systems: https://www.remocate.app/jobs/technical-product-manager-ai-veeva-quality-cloud-veeva-systems\n\nМожно работать удалённо. Зарплата в валюте.\n\n\n📢 Источник: https://t.me/evacuatejobs/6308",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 70,
+        "length": 92
+      },
+      {
+        "type": "url",
+        "offset": 223,
+        "length": 30
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/15300",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Technical Product Manager (AI), Veeva Quality Cloud",
+    "company": "Veeva Systems",
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Technical Product Manager role for Veeva Quality Cloud with focus on AI capabilities. Remote position with opportunity to work from anywhere.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1674506295,
+    "channel_username": null,
+    "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+    "msg_id": 6308,
+    "date_iso": "2026-08-08T11:31:36+00:00",
+    "text": "Technical Product Manager (AI) - Veeva Quality Cloud в Veeva Systems: https://www.remocate.app/jobs/technical-product-manager-ai-veeva-quality-cloud-veeva-systems\n\nМожно работать удалённо. Зарплата в валюте.\n\nПри отклике укажите, что нашли вакансию на Remocate.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 70,
+        "length": 92
+      }
+    ],
+    "link": "https://t.me/c/1674506295/6308",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Technical Product Manager (AI), Veeva Quality Cloud",
+    "company": "Veeva Systems",
+    "location": null,
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Technical Product Manager role focused on AI features within Veeva Quality Cloud. The position supports remote work arrangement.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 627,
+    "date_iso": "2026-08-08T10:09:08+00:00",
+    "text": "💳 Head of Product в Т‑Банк \n\n▪️Компания Т-Банк\n▪️Домен #FinTech\n▪️Грейд #Lead #Head\n▪️Формат #ГибридМосква\n\nHead of Product в Т‑Банк — стратегия и P&L крупного направления.\nСемейные сервисы: совместные счета, созаёмное кредитование, шаринг накоплений, семейная связь, детско‑родительские продукты. \n\nПортфель — несколько миллионов клиентов. \nКоманда — 11 человек, 4 продакта в прямом подчинении.\n\nКлючевые задачи:\n— Расставлять приоритеты на уровне портфеля — фокус на том, что двигает бизнес\n— Растить прибыль через оптимизацию костов и максимизацию NPV‑позитивных продуктов\n— Формировать стратегию на 1–3–5 лет и целеполагание смежных команд\n— Развивать команду и выстраивать процессы\n\nЧто важно:\n— Опыт в крупном финтехе или IT с управлением P&L‑продуктом\n— Умение управлять командой от 10 + человек и выстраивать процессы без реинжиниринга с нуля\n— Успешные кейсы роста LTV и монетизации\n— Умение работать с топ‑менеджментом — чётко, по делу, без лишнего\n— Мышление на уровне экосистемных метрик, а не локальных конверсий\n\nИщу лидера, который умеет превращать экосистемные продукты в устойчивый финансовый результат.\n\nСсылка на пост LinkedIn\nСсылка на вакансию\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 31,
+        "length": 16,
+        "url": "https://www.tbank.ru/career/"
+      },
+      {
+        "type": "text_url",
+        "offset": 1123,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/iksueng_%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%B8%D1%89%D1%83-head-of-product-%D0%B2-activity-7491725738769993728-2M9L?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1147,
+        "length": 18,
+        "url": "https://www.tbank.ru/career/it/vacancy/moscow/rukovoditel-produkta-semejnyj-banking/478f6203-ff65-47fb-9f1f-901cc633ca8d/"
+      },
+      {
+        "type": "text_url",
+        "offset": 1170,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/627",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of Product",
+    "company": "Т-Банк",
+    "location": "Москва, гибрид",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Руководство направлением семейных сервисов (совместные счета, созаёмное кредитование, шаринг накоплений) с портфелем в несколько миллионов клиентов. Управление командой из 11 человек и 4 продакт-менеджеров, ответственность за P&L, стратегию на 1-3-5 лет и оптимизацию прибыльности.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 15284,
+    "date_iso": "2026-08-08T08:05:26+00:00",
+    "text": "Head of Product\n#HeadofProduct #Гибрид #Офис #Москва #СанктПетербург #Job #Vacancy\n \nТребования:\nОпыт управления командой продукта в должности head of product / CPO / VP of product. Data driven подход. Опыт создания продуктов, решающих реальные проблемы пользователей. Знание продуктовой аналитики и опыт расчета экономики продукта.Умение за минимальное количество времени и средств получить бизнес-результат. Умение заинтересовывать, договариваться и вести за собой коллег. Глубокое понимание индустрии беттинга. Опыт работы в БК обязателен.\n\nЛокация:📍Гибрид/ офис в г. Москва, Санкт-Петербург.\n \nКонтакт для отклика: linkedin.com/in/тамара-нестерова +CV\n\n\n📢 Источник: https://t.me/jtbl_vacancy/4190",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 620,
+        "length": 32,
+        "url": "https://www.linkedin.com/in/%D1%82%D0%B0%D0%BC%D0%B0%D1%80%D0%B0-%D0%BD%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B2%D0%B0/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8fP6E74VSiSMOJ6U2hX7bg%3D%3D"
+      },
+      {
+        "type": "url",
+        "offset": 672,
+        "length": 30
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/15284",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of Product",
+    "company": null,
+    "location": "Москва, Санкт-Петербург, гибрид",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Ищем Head of Product для беттинг-компании с опытом управления продуктовой командой. Требуется data-driven подход, глубокое понимание индустрии беттинга и опыт работы в букмекерских конторах. Нужно уметь создавать продукты, решающие реальные проблемы пользователей, с фокусом на экономику и быстрые бизнес-результаты.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 15281,
+    "date_iso": "2026-08-08T07:12:59+00:00",
+    "text": "#вакансия\nПродуктовый аналитик\n\nЛокация: Удалённо , только на территории РФ, гражданство РФ\nЗП:  300000 - 315000 Гросс\nЗанятость: Полная\nКто нам нужен\nПродукт: информационно-аналитическая веб-платформа для профессиональных участников финансового рынка (биржевые данные, аналитика, новости)\nЧто критично (обязательные требования)\n1. Продуктовое мышление и аналитический фундамент\nКоммерческий опыт продуктовой аналитики от 3 лет\nОтличное владение SQL и понимание принципов хранения аналитических данных\nПонимание продуктовых метрик (DAU, WAU, MAU, Retention и др.)\nОпыт проведения продуктовых исследований\nБазовое понимание статистики и A/B-тестирования\n2. Построение системы продуктовой аналитики\nОпыт проектирования событий и продуктовой аналитики\nПостроение единой системы продуктовых метрик\nВнедрение процессов работы с аналитикой\nПостановка требований к трекингу и контроль качества данных\nУчастие в выборе аналитического стека и развитии DWH\n3. Работа с продуктом\nПартнерство с PO\nСамостоятельный поиск точек роста\nПроектирование событий и подготовка ТЗ\nКонтроль корректности аналитической разметки\nСовместное принятие решений по A/B-тестам\n4. AI-first\nЕжедневное использование Claude, ChatGPT, Cursor или аналогов.\nАвтоматизация исследований и написания SQL.\nСоздание внутренних инструментов и MVP с помощью AI.\nУмение получать результат с помощью AI.\n5. Ownership\nСамостоятельное построение процессов.\nОтветственность за результат.\nРабота с продактом, разработчиками и дата-инженерами.\n6. Soft skills\nКритическое мышление.\nПроактивность.\nСамостоятельность.\nБыстрая обучаемость.\n\nНужен человек, который прийдёт, проведет аудит текущих процессов, определит их эффективность , найдет узкие места и усилит эти процессы. Внести продуктовую культуру и разработать с нуля. Это важно. \n\nКонтакт по вакансии: @HRITrofimova",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1807,
+        "length": 13,
+        "url": "https://t.me/HRITrofimova"
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/15281",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Продуктовый аналитик",
+    "company": null,
+    "location": "Remote, РФ",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "300000 - 315000 ₽ Gross",
+    "short_description": "Информационно-аналитическая веб-платформа для профессиональных участников финансового рынка (биржевые данные, аналитика, новости). Требуется построить систему продуктовой аналитики с нуля, провести аудит процессов, внедрить аналитический стек и развивать DWH.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
     "msg_id": 15277,
     "date_iso": "2026-08-07T18:04:36+00:00",
     "text": "#Вакансия #ProductManager #Web3 #Fintech #Fulltime #СанктПетербург #Тбилиси\n\nТребуется Product Manager (офис, СПб \\ Тбилиси)\n\nО компании: \n13 лет строим свободное и безопасное будущее в финтех и web3!\n\nМы активно растем и приглашаем тебя присоединиться к нашей амбициозной команде специалистов!\n\nМы развиваем финансовый сервис мирового уровня. Сейчас мы ищем Product Manager-а, который умеет считать экономику, доводит до результата и берёт комплексную ответственность за продукт.\n\n▪️Что предстоит делать:\n▫️Строить роадмап и доводить инициативы до результата.\n▫️Отвечать за деньги: считать окупаемость фич, прогнозировать рост, оценивать риски и на лету менять стратегию, если что-то не сходится.\n▫️Расширять продуктовую линейку — опираясь на рынок и реальные потребности партнёров, а не на догадки.\n▫️Дорабатывать продукт по фидбеку от партнёров, маркетинга, BD и аккаунтов. Быстро и по делу.\n▫️Улучшать UX личного кабинета и лендингов — для тех, кто уже с нами, и для тех, кто только приходит.\n▫️Координировать дизайн, разработку и маркетинг на запуске — без потери скорости.\n\n▪️Мы ожидаем:\n▫️Опыт в роли Product Manager в IT от 2 лет\n▫️Умение считать: окупаемость, риски, финансовые последствия решений.\n▫️Опыт работы с живыми пользователями и проверки продуктовых гипотез — не только ведение бэклога.\n▫️Фокус на бизнес-результате в деньгах, а не на vanity-метриках.\n▫️Опыт взаимодействия с командой разработки.\n▫️Самостоятельность и проактивность — не на словах, а по факту.\n\n▪️Будет плюсом:\n▫️Опыт в B2B-продуктах.\n▫️Бэкграунд в финтех или инфраструктурных проектах\n\nКонтакты: @madame_ntsama\n\n\n📢 Источник: https://t.me/cryptoheadhunter/6089",
@@ -25,7 +309,7 @@
     "salary": null,
     "short_description": "Финтех и Web3 компания ищет Product Manager для развития финансового сервиса. Требуется опыт в расчете экономики продукта, работе с пользователями и координации между дизайном, разработкой и маркетингом.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -85,7 +369,7 @@
     "salary": null,
     "short_description": "Google is hiring multiple Product Managers across Agentic AI, Content Automation, Partner Solutions, and Operations teams. Roles span various product domains with opportunities for Senior-level positions focused on AI-driven platforms and solutions.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -121,7 +405,7 @@
     "salary": null,
     "short_description": "STRONG Team is a product, design, and engineering partner working with banks, fintech, and high-growth product companies across the UK, Central Asia, and the UAE. The role requires fluent English, with Arabic language skills as a plus.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -151,7 +435,7 @@
     "salary": null,
     "short_description": "",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -181,7 +465,7 @@
     "salary": null,
     "short_description": "BILLZ — платформа для управления розничным бизнесом, объединяющая POS, аналитику, e-commerce, финансовые инструменты и обучение для малого бизнеса. Требуется Middle Product Manager, специализирующийся на активизации пользователей.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -211,7 +495,7 @@
     "salary": null,
     "short_description": "TRAFMASTERS разрабатывает и масштабирует технологические проекты в сфере азартных игр и спортивных ставок. Требуется опыт CPO/Head of Product в iGaming/betting с экспертизой в sportsbook vertical.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -253,7 +537,7 @@
     "salary": null,
     "short_description": "RegTech компания с 11 млн трафика в месяц на подписочной модели ищет опытного Core Product Manager для роста продукта через создание новой ценности. Работа в команде с дизайнерами, аналитиками и исследователями в частной компании с экспертами из продукта, разработки и бизнеса.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -287,7 +571,7 @@
     "salary": null,
     "short_description": "Staff Product Manager role focused on AI products at Webflow. Responsible for leading AI product strategy and execution for the platform.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -316,7 +600,7 @@
     "salary": null,
     "short_description": "Staff Product Manager role focused on AI products at Webflow. Remote position available.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -345,7 +629,7 @@
     "salary": "200–250K ₽ net",
     "short_description": "Ищем Middle Product Manager для B2C-продукта с миллионами пользователей. Роль фокусируется на deep research, CustDev, валидации болей пользователей и A/B-тестировании гипотез. Требуется опыт 2–3+ года с массовыми продуктами, знание SQL и навыки принятия решений на основе данных.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -387,7 +671,7 @@
     "salary": null,
     "short_description": "HealthTech компания ищет Payments Product Manager для управления всем платёжным направлением. Требуется опыт с процессингом платежей, рекуррентными списаниями, оптимизацией Acceptance Rate и управлением Dispute Rate.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -421,7 +705,7 @@
     "salary": null,
     "short_description": "Отвечаете за повышение конверсии из корзины в покупку через оптимизацию процесса оформления, способов получения и оплаты. Работаете с логистикой, финансовым и юридическим департаментом, основной фокус на развитие доставки последней мили.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -16663,7 +16947,7 @@
     "short_description": "Mira is a consumer AI agent inside Telegram that turns messaging into an execution layer, connecting memory, content creation, cryptographic tools, and real actions across apps and services.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -16717,7 +17001,7 @@
     "short_description": "Руководство продуктовым юнитом опыта покупателя в Avito Товарах, отвечающим за полную транзакционную воронку: корзину, страницу заказа, антифрод-механики и транзакционную платформу. В управлении 3 продакта и 3 команды с высоким уровнем автономии и прямой работой с руководством.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -16746,7 +17030,7 @@
     "short_description": "Head of Product role at Airwallex requiring relocation to Singapore. Full-time position in the fintech/payments space.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16776,7 +17060,7 @@
     "short_description": "Экосистема для бизнеса, помогающая компаниям вести бухгалтерию, сдавать отчётность и обмениваться документами. Возможна удалённая работа, гибрид или работа в офисе.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16806,7 +17090,7 @@
     "short_description": "Развитие кредитных продуктов для малого и среднего бизнеса в казахстанском коммерческом банке. Руководство и стратегия продуктовой линии.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16842,7 +17126,7 @@
     "short_description": "Yandex Travel is a metasearch platform for trip planning that allows users to search and book hotels, as well as purchase airline, train, and bus tickets. This PM role focuses on the international direction of the platform.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16884,7 +17168,7 @@
     "short_description": "ATI.SU создает инновационные IT-решения для логистического рынка, обслуживая грузовладельцев, перевозчиков, экспедиторов, водителей и владельцев складов. Компания ищет опытного PM для развития своей платформы в гибридном формате работы в Санкт-Петербурге.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16920,7 +17204,7 @@
     "short_description": "Kolesa Group — крупная международная IT-компания, специализирующаяся на создании и развитии популярных онлайн-классифайдов. Ищет Middle Product Manager с фокусом на AI для работы в гибридном формате.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16950,7 +17234,7 @@
     "short_description": "Zexter is a technology provider specializing in digital infrastructure for the entertainment industry. The role offers remote work and flexible schedule options.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16980,7 +17264,7 @@
     "short_description": "X-Labs разрабатывает программное обеспечение для различных направлений бизнеса, включая искусственный интеллект, расширенную реальность и спорт.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -18044,6 +18328,13 @@
         "link": "https://t.me/ITjobsFeed/13120",
         "date_iso": "2026-07-05T12:32:19+00:00",
         "channel_id": 2667909413
+      },
+      {
+        "channel_username": null,
+        "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+        "link": "https://t.me/c/1674506295/6309",
+        "date_iso": "2026-08-08T13:48:45+00:00",
+        "channel_id": 1674506295
       }
     ],
     "is_new": false,
