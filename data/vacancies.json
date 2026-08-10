@@ -3,6 +3,111 @@
     "channel_id": 2667909413,
     "channel_username": "ITjobsFeed",
     "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 15332,
+    "date_iso": "2026-08-09T14:09:06+00:00",
+    "text": "Senior Technical Product Manager, Swap в 1inch Network: https://www.remocate.app/jobs/senior-technical-product-manager-swap-1inch-network\n\nМожно работать удалённо. Зарплата в валюте.\n\n\n📢 Источник: https://t.me/evacuatejobs/6313",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 56,
+        "length": 81
+      },
+      {
+        "type": "url",
+        "offset": 198,
+        "length": 30
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/15332",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Technical Product Manager, Swap",
+    "company": "1inch Network",
+    "location": null,
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Senior Technical Product Manager role for Swap product at 1inch Network. Remote position with salary in currency.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1674506295,
+    "channel_username": null,
+    "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+    "msg_id": 6313,
+    "date_iso": "2026-08-09T11:32:22+00:00",
+    "text": "Senior Technical Product Manager, Swap в 1inch Network: https://www.remocate.app/jobs/senior-technical-product-manager-swap-1inch-network\n\nМожно работать удалённо. Зарплата в валюте.\n\nПри отклике укажите, что нашли вакансию на Remocate.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 56,
+        "length": 81
+      }
+    ],
+    "link": "https://t.me/c/1674506295/6313",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Technical Product Manager, Swap",
+    "company": "1inch Network",
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Senior Technical Product Manager role focused on the Swap product at 1inch Network. The position offers remote work flexibility with compensation in foreign currency.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 628,
+    "date_iso": "2026-08-09T11:02:31+00:00",
+    "text": "👨‍💻 Product Manager inDrive\n\n▪️Компания #inDrive\n▪️Домен #DriveTech \n▪️Грейд #Senior\n▪️Формат #Кипр\n\nWe're hiring a Senior Product Manager to lead verification automation and operational efficiency. You'll own products that combine AI/ML, OCR, government integrations, and internal operational tooling to help decide who can safely join our platform across 48 countries.\n\nIf you enjoy building platform products, solving complex operational problems, and working at the intersection of AI/ML, engineering, and business, I'd love to connect.\n\nСсылка на пост LinkedIn\nСсылка на вакансию\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 544,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/andreev-nv_hiring-activity-7491427219739938817-NVLb?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 568,
+        "length": 18,
+        "url": "https://www.linkedin.com/jobs/view/4450235270/"
+      },
+      {
+        "type": "text_url",
+        "offset": 591,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/628",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "inDrive",
+    "location": "Кипр",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": false,
+    "salary": null,
+    "short_description": "Lead verification automation and operational efficiency products combining AI/ML, OCR, and government integrations. Own platform products that help ensure safe user onboarding across 48 countries.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
     "msg_id": 15303,
     "date_iso": "2026-08-08T14:02:19+00:00",
     "text": "Lead Product Manager, Data Sources в Truv: https://www.remocate.app/jobs/lead-product-manager-data-sources-truv\n\nМожно работать удалённо. Зарплата в валюте.\n\n\n📢 Источник: https://t.me/evacuatejobs/6309",
@@ -30,7 +135,7 @@
     "salary": null,
     "short_description": "Lead Product Manager role focused on Data Sources at Truv. Remote position with salary offered in currency.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -104,7 +209,7 @@
         "channel_id": 2667909413
       }
     ],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -138,7 +243,7 @@
     "salary": null,
     "short_description": "Technical Product Manager role for Veeva Quality Cloud with focus on AI capabilities. Remote position with opportunity to work from anywhere.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -167,7 +272,7 @@
     "salary": null,
     "short_description": "Technical Product Manager role focused on AI features within Veeva Quality Cloud. The position supports remote work arrangement.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -215,7 +320,7 @@
     "salary": null,
     "short_description": "Руководство направлением семейных сервисов (совместные счета, созаёмное кредитование, шаринг накоплений) с портфелем в несколько миллионов клиентов. Управление командой из 11 человек и 4 продакт-менеджеров, ответственность за P&L, стратегию на 1-3-5 лет и оптимизацию прибыльности.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -250,7 +355,7 @@
     "salary": null,
     "short_description": "Ищем Head of Product для беттинг-компании с опытом управления продуктовой командой. Требуется data-driven подход, глубокое понимание индустрии беттинга и опыт работы в букмекерских конторах. Нужно уметь создавать продукты, решающие реальные проблемы пользователей, с фокусом на экономику и быстрые бизнес-результаты.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -280,7 +385,7 @@
     "salary": "300000 - 315000 ₽ Gross",
     "short_description": "Информационно-аналитическая веб-платформа для профессиональных участников финансового рынка (биржевые данные, аналитика, новости). Требуется построить систему продуктовой аналитики с нуля, провести аудит процессов, внедрить аналитический стек и развивать DWH.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -2175,7 +2280,15 @@
     "remote": true,
     "salary": "$4,000–$8,000",
     "short_description": "Technical Product Manager для реализации малых и средних продуктовых решений в технической SaaS-компании. Требуется опыт hands-on разработчика (DevOps, QA, Data), работы с техническими SaaS-продуктами (API, JSON, интеграции) и минимум 4 года в роли Technical PdM. Стек: C#, .NET, API, PostgreSQL, GitHub Actions, Kibana, Grafana.",
-    "duplicates": [],
+    "duplicates": [
+      {
+        "channel_username": "productjobgo",
+        "channel_title": "Вакансии для продакт-менеджеров",
+        "link": "https://t.me/productjobgo/1505",
+        "date_iso": "2026-08-09T06:52:01+00:00",
+        "channel_id": 1311743791
+      }
+    ],
     "is_new": false,
     "is_archived": false
   },
@@ -16199,7 +16312,7 @@
     "short_description": "Lead a product unit in e-commerce/marketplace with a focus on complex catalogs and auto parts. Develop product strategy aligned with business goals, launch category initiatives, and manage a team of 5 product managers.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16229,7 +16342,7 @@
     "short_description": "Cacao Mobile разрабатывает инновационные iOS приложения в сферах здоровья, благополучия, развлечений и повседневных задач.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16259,7 +16372,7 @@
     "short_description": "IT-компания разработчик стримингового музыкального сервиса для прослушивания треков, подкастов и радио с библиотекой миллионов композиций. Требуется опыт в B2C-продуктах: стриминги, маркетплейсы, лайфстайл, медиа и цифровые сервисы.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16295,7 +16408,7 @@
     "short_description": "Яндекс Путешествия — онлайн-агрегатор, помогающий организовать поездку. Объединяет предложения от авиакомпаний, перевозчиков и систем бронирования.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16331,7 +16444,7 @@
     "short_description": "Wisebits is an international IT holding specializing in high-load entertainment video hosting platforms, streaming services and advertising networks. The company is looking for a Product Manager to work on VR products.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16361,7 +16474,7 @@
     "short_description": "Bitlica is a developer and publisher of mobile applications in utilities and entertainment sectors. The role focuses on payment infrastructure products.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16391,7 +16504,7 @@
     "short_description": "Работа над Яндекс Плюс — единой экосистемной подпиской Яндекса. Руководство продуктом в растущей команде.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16421,7 +16534,7 @@
     "short_description": "Роль для ML-продакт-менеджера в одном из крупнейших онлайн-банков России. Вакансия опубликована Владимиром Кучиным.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -16481,7 +16594,7 @@
     "short_description": "Т-Банк ищет ML-продакт-менеджеров для работы на стыке продукта, данных и технологий. Вы будете запускать AI-продукты от постановки задачи до внедрения в продакшен, создавать LLM-агентов, голосовых помощников и AI-фичи для приложения Т-Банка. Требуется опыт работы продакт-менеджером более 3 лет с проведением A/B-тестов ML-моделей и контролем моделей в продакшене.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1804835860,
@@ -16555,7 +16668,7 @@
       }
     ],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16585,7 +16698,7 @@
     "short_description": "Физикл — экосистема, помогающая людям менять образ жизни системно через питание, тренировки, привычки и здоровье.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -16621,7 +16734,7 @@
     "short_description": "Full-time remote Product Manager position at MySky. Citizenship and location are not requirements.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -16681,7 +16794,7 @@
     "short_description": "Команда отвечает за удержание и вовлеченность постоянных пользователей аудиосервиса Звук. В роли необходимо искать точки роста, формировать и проверять продуктовые гипотезы, развивать пользовательские сценарии и работать с персонализацией и метриками. Требуется опыт от 3 лет в B2C-продуктах (стриминги, маркетплейсы, лайфстайл, медиа).",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -16727,7 +16840,7 @@
     "short_description": "Develop transactional products for SMBs (corporate cards, acquiring, RKO). Own P&L, build strategy, and launch tariff lines from MVP to scaling within an integrated fintech ecosystem serving 3.1M entrepreneurs across Russia.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -16757,7 +16870,7 @@
     "short_description": "Ищем опытного PM для управления сложным B2C-продуктом с 20k+ MAU. Требуется опыт с анализом юнит-экономики, формированием продуктовой стратегии в многостороннем окружении. Плюс будет опыт в логистике и транспортных рынках.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -16817,7 +16930,7 @@
     "short_description": "Product Manager для международного направления Яндекс Путешествий. Отвечаете за витрину из миллионов отелей, строите клиентский опыт и работаете с масштабом, где каждое решение видно в метриках бизнеса.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -16887,7 +17000,7 @@
     "short_description": "Поиск AI Product Manager для разработки и внедрения AI-решений и автоматизации. Требуется опыт работы с LLM, проведение discovery, управление жизненным циклом продуктов от идеи до масштабирования, координация работы разработчиков и аналитиков для клиентских проектов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
