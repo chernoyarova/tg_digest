@@ -1,5 +1,495 @@
 [
   {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 15666,
+    "date_iso": "2026-08-14T07:13:10+00:00",
+    "text": "Технический продакт-менеджер\nМосква, гибрид\n\nКоманда B2B Tech создаёт продукты для профессиональных продавцов. Они помогают привлекать покупателей, управлять продажами, автоматизировать рутинные задачи и развивать бизнес на Авито. Мы строим набор цифровых инструментов, с которыми продавцы смогут быстрее решать рабочие задачи и эффективнее управлять продажами.\n\nКакие задачи вас ждут:\n— отвечать за видение B2B Tech-продуктов и их долгосрочные цели;\n— проводить кастдев с пользователями, проверять гипотезы проблем и решений;\n— проводить исследования и конкурентный анализ, обосновывать, какие подходы могут быть полезны Авито;\n— управлять бэклогом и наполнять его ценными элементами;\n— выстраивать метрики продукта и отвечать за них;\n— делать продукты полезнее и понятнее для пользователей;\n— развивать продуктовую культуру в команде;\n— искать и внедрять новые технологические решения.\n\nМы ждём, что вы:\n— имеете опыт управления продуктом от 3 лет или обладаете сильным техническим бэкграундом и готовы развиваться как продакт-менеджер;\n— участвовали в разработке B2B-продуктов;\n— оцениваете продукт с точки зрения рынка, пользователей и их потребностей;\n— умеете формировать стратегию развития продукта на основе исследований, данных и текущего положения на рынке;\n— самостоятельно анализируете данные;\n— умеете находить общий язык с командой разработки и вовлекать её в создание и развитие продукта;\n— умеете самостоятельно создавать прототипы с помощью AI-инструментов.\n\nРабота у нас — это:\n— масштабные задачи и возможность напрямую влиять на бизнес;\n— высокий уровень самостоятельности и открытая культура;\n— возможность работать в гибридном формате или в комфортном офисе;\n— конкурентная зарплата, ДМС со стоматологией и вся необходимая техника для работы.\n‍\n\n\n📢 Источник: https://t.me/products_jobs_projects/686",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 0,
+        "length": 28,
+        "url": "https://www.vseti.app/vakansii/4343843943043043434343434343"
+      },
+      {
+        "type": "url",
+        "offset": 1782,
+        "length": 39
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/15666",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Технический Product Manager",
+    "company": "Авито",
+    "location": "Москва, гибрид",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Команда B2B Tech создаёт продукты для профессиональных продавцов на Авито. Вы будете отвечать за видение продуктов, проводить кастдев, управлять бэклогом и выстраивать метрики. Требуется опыт разработки B2B-продуктов и умение работать с данными и прототипированием.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2298616665,
+    "channel_username": "product_jobmeister",
+    "channel_title": "Вакансии для продактов | Product manager jobs | Jobmeister",
+    "msg_id": 3388,
+    "date_iso": "2026-08-14T06:28:38+00:00",
+    "text": "Новые вакансии продакт-менеджеров и CPO\n\nРуководитель направления фронт-офисных бизнес-процессов в Совкомбанк Лизинг\nМосква\nВАШИ ЗАДАЧИ:\n• Отвечать за развитие фронт-офисных бизнес-процессов и систем: видеть целевую картину, определять направление развития и доводить изменения до внедрения;\n• Формировать и вести бэклог задач по фронт-офисным процессам и системам;\nПринимать решения по приоритетам: понимать, какие задачи нужно делать в первую очередь, какие дадут…",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 41,
+        "length": 75,
+        "url": "https://hh.ru/vacancy/136145208"
+      }
+    ],
+    "link": "https://t.me/product_jobmeister/3388",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель направления фронт-офисных бизнес-процессов",
+    "company": "Совкомбанк Лизинг",
+    "location": "Москва",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Руководство развитием фронт-офисных бизнес-процессов и систем. Определение стратегии развития, управление бэклогом задач и принятие решений по приоритизации.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10287,
+    "date_iso": "2026-08-13T16:36:34+00:00",
+    "text": "Миддл Product Manager (Портал «Рамблер»)\nв «Мой Рамблер» — проект компании Рамблер, представляющий собой профиль и личное пространство пользователя, с уже готовой концепцией и роадмапом, которые предстоит развивать и внедрять.\nОфис или гибрид (Москва).\nИщет Александр Лысков, его пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 280,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/alexander-lyskov_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F-middle-product-manager-%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB-activity-7493268692475199488-4NND?"
+      }
+    ],
+    "link": "https://t.me/forproducts/10287",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Миддл Product Manager",
+    "company": "Рамблер",
+    "location": "Москва, гибрид",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Развитие и внедрение портала «Мой Рамблер» — профиля и личного пространства пользователя с готовой концепцией и роадмапом. Проект компании Рамблер.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1509,
+    "date_iso": "2026-08-13T16:21:49+00:00",
+    "text": "Product Manager | ApexPlay | Remote\n\nРазборы кейсов, 76 разборов прошли, всего свыше 190 тестовых и реальных задач продактов. Плейлист доступен по ссылке\n\nМы ApexPlay — международная AI-платформа (Telegram Mini Apps и Web), где пользователи генерируют контент с помощью AI.\n\nИщем hands-on Product Manager с 3+ годами опыта, который возьмёт ownership за развитие пользовательской воронки и рост ключевых метрик.\n\nЧто предстоит делать:\n• Анализировать воронку, user behavior и drop-off points\n• Находить growth points и формировать hypothesis backlog\n• Улучшать conversion, ARPU/средний чек и LTV\n• Прорабатывать user flow и экраны в Figma\n• Проводить A/B-тесты и анализировать результаты\n• Готовить ТЗ и вести гипотезы от идеи до production\n• Исследовать конкурентов и механики монетизации\n\nЧто важно:\n• 3+ года опыта Product Manager в digital-продуктах\n• Кейсы с измеримым влиянием на продуктовые/коммерческие метрики\n• Сильный data-driven подход\n• Опыт работы с monetization, subscription/freemium, credits или in-app purchases будет плюсом\n• Готовность работать с продуктами и контентом 18+\n• Преимущественно рассматриваем кандидатов с опытом в Adult / Dating / 18+ продуктах\n\n🌍 Full Remote\n💰 Конкурентная зарплата + бонусы за результат\n⚡ Минимум бюрократии и возможность напрямую влиять на продукт\n\n@katrintov\n\nВсе для роста от редакции канала, продуктивный контент для выходных - https://t.me/FreshProductGo/1808",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 37,
+        "length": 15,
+        "url": "https://t.me/productcasebar/"
+      },
+      {
+        "type": "text_url",
+        "offset": 126,
+        "length": 27,
+        "url": "https://docs.google.com/document/d/1_bq1zQtkfAJjf5O_QjpuMDFlkloNkF_VyTtpRv7oyZI/edit?tab=t.0"
+      },
+      {
+        "type": "url",
+        "offset": 1386,
+        "length": 32
+      }
+    ],
+    "link": "https://t.me/productjobgo/1509",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager",
+    "company": "ApexPlay",
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "ApexPlay is an international AI platform (Telegram Mini Apps and Web) where users generate content with AI. You will own user funnel development and growth of key metrics, analyzing user behavior, running A/B tests, and optimizing conversion, ARPU, and LTV.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 637,
+    "date_iso": "2026-08-13T15:26:57+00:00",
+    "text": "💙 Product Manager VK Игры\n\n▪️Компания VK\n▪️Домен #BigTech #GameDev\n▪️Грейд #Middle #Senior\n▪️Формат #УдаленкаРФ\n\nProduct Manager (Senior/Middle) в команду игр в VK \n\n​Главный фокус роли: развитие игровой платформы, проверка гипотез, внедрение ML-моделей (рекомендательные системы, персонализация офферов) и рост ключевых бизнес-метрик.\n\n​Кого мы ищем:\n- 3+ года опыта в продукте (игры, соцсети, B2C, рекомендательные сервисы)\n- Опыт работы с массовой аудиторией и сложными аналитическими механиками.\n- Опыт работы с ML/AI в продукте.\n\nСсылка на пост LinkedIn\nСсылка на вакансию\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 39,
+        "length": 2,
+        "url": "https://team.vk.company/company/"
+      },
+      {
+        "type": "text_url",
+        "offset": 536,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/annakrasilnikova567_%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0-%D0%B2-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%83-%D0%B8%D0%B3%D1%80-activity-7493237947014758401-fj5V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 560,
+        "length": 18,
+        "url": "https://team.vk.company/vacancy/45412/"
+      },
+      {
+        "type": "text_url",
+        "offset": 583,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/637",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Manager, VK Игры",
+    "company": "VK",
+    "location": "Удалённо РФ",
+    "grade": "Senior",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Развитие игровой платформы VK с фокусом на проверку гипотез и внедрение ML-моделей для рекомендательных систем и персонализации офферов. Команда работает с массовой аудиторией и сложными аналитическими механиками.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 15645,
+    "date_iso": "2026-08-13T15:06:12+00:00",
+    "text": "🔹 Продакт-менеджер\n🔹 Senior Creative Strategist\nв Scentbird — популярный зарубежный сервис ежемесячной подписки на парфюмерию и косметику.\nУдалённая работа.\nИщет Олег Попов, его пост на Facebook*.\n\n*Facebook принадлежит компании Meta, которая признана экстремистской организацией и запрещена в РФ.\n\n📢 Источник: https://t.me/geekjobs/10263",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 180,
+        "length": 17,
+        "url": "https://www.facebook.com/olej.popowski/posts/pfbid02SSGD13Q4WurRzvHoczNR7ZUZ82C1pwBg4Pb8wiQyUyT4J6RhqwMNSDh4e4DoqCYsl"
+      },
+      {
+        "type": "url",
+        "offset": 314,
+        "length": 27
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/15645",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "Scentbird",
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Scentbird is a popular international monthly subscription service for perfumes and cosmetics. The role involves product management for a consumer subscription platform.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10286,
+    "date_iso": "2026-08-13T14:08:14+00:00",
+    "text": "Product Lead — AI Solutions (SaaS B2B / eCommerce)\nNative Commerce is a company building a composable e‑commerce platform that unifies frontend, WMS, OMS, logistics, and BI, while also developing AI‑native solutions for businesses.\nLanguages: Russian, English (C1).\n€4,5К — €5,5К. Remote work (Lisbon preferred) or hybrid.\nJob description on GeekJob.ru",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 323,
+        "length": 29,
+        "url": "https://geekjob.ru/vacancy/6a7c9eb1b43c167d6b03a748"
+      }
+    ],
+    "link": "https://t.me/forproducts/10286",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Lead, AI Solutions",
+    "company": "Native Commerce",
+    "location": "Remote (Lisbon preferred) / Hybrid",
+    "grade": "Lead",
+    "ml_ai": true,
+    "remote": true,
+    "salary": "€4,500–€5,500",
+    "short_description": "Native Commerce is building a composable e-commerce platform integrating frontend, WMS, OMS, logistics, and BI, with a focus on AI-native solutions for businesses. The role requires fluency in Russian and English (C1).",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 15625,
+    "date_iso": "2026-08-13T13:01:57+00:00",
+    "text": "CPO (цифровой бизнес, розница, ФИНТЕХ)\n#CPO #FinTech\n \nТребования:\nСтратегия и P&L: Полное управление продуктом, финансовыми показателями, бизнес-планированием и стратегией монетизации цифровых каналов. Управление командами: Руководство крупными кросс-функциональными командами (100+ сотрудников: PO, разработка, аналитика, дизайн, маркетинг). Развитие платформы: Управление цифровой платформой продаж, проектным бэклогом, продажами и ключевыми метриками эффективности.\n \nКонтакт для отклика: afedosova@c-ex.ru или @sashafedosova +CV\n \n\n📢 Источник: https://t.me/jtbl_vacancy/4247",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 550,
+        "length": 30
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/15625",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Chief Product Officer, Digital Business",
+    "company": null,
+    "location": null,
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "CPO role managing digital sales platform, P&L, and monetization strategy for fintech/retail. Lead large cross-functional teams (100+ people) including product owners, engineers, analysts, designers, and marketing. Responsible for platform development, project backlog, sales metrics, and KPI management.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 15622,
+    "date_iso": "2026-08-13T12:33:57+00:00",
+    "text": "Head of CRM Retention  (iGaming)\n#HeadofCRMRetention #iGaming #Удаленно\n \nТребования:\nОпыт в iGaming: уровень Head / Senior Management с глубоким пониманием продукта и поведения игроков. Retention и маркетинг: создание промо, акций, турниров и программ лояльности. Знание CRM/Retention метрик, экономики игрока и работа с цифрами. Уверенное знание софта и софтверного стека для iGaming. Опыт руководства командой, построения процессов и создания планов роста. Большой плюс: Опыт работы Product Manager / Product Owner в iGaming. Построение retention-направления с нуля. Опыт с LatAm. Испанский язык. Опыт с VIP / Loyalty / Customer Operations.\n \nЛокация:📍Удалённо.\n\nКонтакт для отклика: @anastasiia_rush +CV\n \n\n📢 Источник: https://t.me/jtbl_vacancy/4255",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 725,
+        "length": 30
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/15622",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of CRM Retention, iGaming",
+    "company": null,
+    "location": "Remote",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Head-level position managing CRM retention strategy for an iGaming company. Responsible for creating promotions, loyalty programs, and retention initiatives while leading a team and driving growth through player retention economics and metrics.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 15615,
+    "date_iso": "2026-08-13T12:01:34+00:00",
+    "text": "🚀 Head of CRM Retention | iGaming\n\nPampas Casino ищет Head of CRM Retention — сильного iGaming-маркетолога, который сможет построить retention-направление как полноценный инструмент роста выручки казино.\n\nНам нужен человек, который глубоко понимает казино как продукт: игры, механику, поведение игроков, триггеры, мотивацию и причины, по которым игроки возвращаются или уходят.\n\n🎯 Что предстоит делать\n\n• Строить CRM Retention стратегию и отвечать за рост выручки направления;\n• Разрабатывать промоплан, турниры, акции, loyalty-механики и специальные события, которые привлекают и возвращают игроков;\n• Понимать, какие механики и коммуникации работают для разных типов игроков;\n• Разрабатывать стратегии для разных сегментов: New Players, FTD, Active, Inactive, VIP, High Value и др.;\n• Выстраивать Welcome, Reactivation, Loyalty, Win-back и другие CRM-цепочки;\n• Работать с Email, Push, SMS, WhatsApp и другими CRM-каналами;\n• Анализировать поведение игроков, воронки и результаты кампаний;\n• Формировать гипотезы, тестировать их и масштабировать то, что приносит результат;\n• Управлять CRM Retention командой, выстраивать процессы и KPI;\n• Взаимодействовать с Product, VIP, Support, Traffic, Risk и другими командами.\n\n🧠 Кого мы ищем\n\nНам нужен структурный, системный и одновременно креативный человек.\n\nС одной стороны — человек, у которого данные, сегменты, отчеты и процессы разложены по полочкам, который понимает цифры и может сформировать конкретный план роста направления.\n\nС другой — сильный маркетолог, который умеет генерировать нестандартные идеи, придумывать интересные механики, события и кампании, способные привлечь внимание игроков и увеличить их активность.\n\n🔥 Обязательно\n\n• Сильный опыт в iGaming и глубокое понимание казино-продукта;\n• Опыт именно внутри iGaming на пути до уровня Head / Senior Management;\n• Отличное понимание механики казино, игр и паттернов поведения игроков;\n• Опыт создания промопланов, акций, турниров, loyalty-механик и других активностей;\n• Сильные аналитические навыки и умение работать с цифрами;\n• Понимание ключевых CRM / Retention метрик и экономики игрока;\n• Техническая экспертиза и уверенное знание необходимого software stack для iGaming Retention;\n• Опыт управления командой и построения процессов;\n• Способность самостоятельно сформировать конкретный, оцифрованный план роста retention-направления.\n\n⭐ Большой плюс\n\n• Опыт работы Product Manager / Product Owner в iGaming;\n• Опыт работы с LatAm;\n• Испанский язык;\n• Опыт построения retention-направления с нуля;\n• Опыт работы с VIP / Loyalty / Customer Operations.\n\n💼 Что предлагаем\n\n✨ Возможность напрямую влиять на продукт и коммерческий результат;\n✨ Полный ownership за CRM Retention направление;\n✨ Возможность реализовывать собственные идеи и строить систему под свое видение;\n✨ Возможность развивать команду и масштабировать направление;\n✨ Работа с сильным iGaming-продуктом и большим количеством данных для принятия решений.\n\n📩 Если вы глубоко понимаете iGaming + CRM + продукт + поведение игроков и умеете превращать это понимание в рост выручки — пишите в личные сообщения @anastasiia_rush\n\n📢 Источник: https://t.me/GameDev_and_Tech_vacancy/2222",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 3126,
+        "length": 42
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/15615",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of CRM Retention",
+    "company": "Pampas Casino",
+    "location": null,
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": null,
+    "salary": null,
+    "short_description": "iGaming компания ищет лидера для построения CRM Retention стратегии и управления направлением роста выручки казино. Требуется глубокое понимание игровых механик, поведения игроков и опыт создания промопланов, loyalty-программ и CRM-кампаний. Полный ownership за развитие retention-направления и управление командой.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10285,
+    "date_iso": "2026-08-13T10:07:58+00:00",
+    "text": "Руководитель продукта антифрода\nв HeadHunter — ведущая российская онлайн-платформа по поиску работы и сотрудников.\nУдалённая работа, гибрид или офис (Москва). Гибкий график.\nИщет Катерина Московка, её пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 201,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/katerina-moskovka-1b154a20_%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D0%BB%D0%BE-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9-%D0%B8-%D0%B2%D0%BE%D1%82-%D1%8F-%D0%BF%D0%B8%D1%88%D1%83-%D1%81%D0%B2%D0%BE%D0%B9-activity-7492926025224470528-3DII?"
+      }
+    ],
+    "link": "https://t.me/forproducts/10285",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Руководитель продукта антифрода",
+    "company": "HeadHunter",
+    "location": "Москва, гибрид",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Руководство продуктом в области антифрода на платформе HeadHunter. Возможна работа удалённо, гибридно или из офиса в Москве с гибким графиком.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10284,
+    "date_iso": "2026-08-13T09:14:58+00:00",
+    "text": "Ведущий продакт-менеджер в команду Распродаж\nв Авито — крупнейшая российская платформа объявлений для покупки, продажи товаров, недвижимости, авто и услуг.\nУдалённая работа, гибрид или офис (Москва).\nОписание вакансии.\nИщет Станислав Прушинский, его пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 200,
+        "length": 18,
+        "url": "https://career.avito.com/vacancies/upravlenie-produktom/20076/"
+      },
+      {
+        "type": "text_url",
+        "offset": 250,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/stanislav-prushinsky_%D0%B2%D0%B5%D0%B4%D1%83%D1%89%D0%B8%D0%B9-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80-%D0%B2-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%83-%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6-activity-7492868982866104320-l_9H?"
+      }
+    ],
+    "link": "https://t.me/forproducts/10284",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Ведущий продакт-менеджер",
+    "company": "Авито",
+    "location": "Москва, гибрид",
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Ведущий продакт-менеджер в команду Распродаж на крупнейшей российской платформе объявлений для покупки, продажи товаров, недвижимости, авто и услуг. Возможны варианты удалённой работы, гибрида или офиса в Москве.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 15591,
+    "date_iso": "2026-08-13T08:03:28+00:00",
+    "text": "🪪 Role: Product Lead - AI Solutions (SaaS B2B / eCcommerce)\n🏡 Company: Native Commerce\n💻 Work format: Full-time, remote\n📍 Location: Lisbon preferred (hybrid: 3 days/week in a coworking space). \nRemote candidates are also welcome.\n📝 Contract: Contractor agreement\n💷 Salary: €4500-5500 month (open to discussion, paid in GBP via Deel)\n🗣️ Language: Proficient communication skills in Rus & Eng (C1)\n\n🚀 About Native Commerce:\nNative Commerce develops mission-critical software for modern e-commerce businesses, including website and web app frontends, warehouse management (WMS), order management (OMS), logistics, and real-time BI - all unified in a modular, composable platform.\n\nAlongside our core SaaS business, we’re also building our own AI-native commerce platform, designed to help businesses automate operations, reduce costs, and grow revenue using AI.\n\n💡 We’re looking for a Product Lead to own Native Commerce AI from early-stage product development through scale.\n\n👉 We are looking for someone who can combine three things:\n• Product builder - can personally take a product from idea to market.\n• Business owner - thinks in revenue, retention, economics, and customer value, not just features.\n• Product leader - can create product direction, lead teams, and build the product organisation as Native Commerce AI scales.\n\n👉 What you’ll do:\n-Own product strategy, roadmap, and key business/product metrics.\n-Define the ICP, priority use cases, and product positioning together with the founders.\n-Lead products from 0→1 (build and launch from scratch): discovery, validation, MVP, launch, and iteration.\n-Scale successful products from 1→100 (scale what already works): improving activation, retention, monetisation, and unit economics.\n-Work hands-on with engineering, design, AI/data, commercial, and operations teams.\n-Talk directly to customers and turn their problems into scalable product solutions.\n-Identify where AI/LLMs/agents create real customer value and where traditional product approaches work better.\n-Define requirements and quality metrics for AI-powered features.\n-Make prioritisation decisions based on customer value, commercial impact, and delivery cost.\n-Kill or change initiatives when customer evidence or economics do not support them.\n-Build and lead the product team as the business grows.\n\n👉 What we’re looking for:\n• 8+ years in product, with experience owning significant products or business areas.\n-Strong track record of both 0→1 launches and scaling existing products.\n-Experience owning business outcomes: revenue, margin, conversion, retention, or P&L.\n-Experience with complex products involving multiple systems, integrations, workflows, or user types.\n-Strong analytical and commercial mindset.\n-Ability to work effectively with engineering teams on APIs, data, architecture, and integrations.\n-Hands-on experience using AI/ML/LLMs/agents in products or internal workflows.\n-Strong customer discovery and product judgement.\n-Experience leading product or cross-functional teams.\n-Comfortable operating in an early-stage environment with high ownership and limited process.\n\n👉 Relevant backgrounds:\nExperience in one or more of the following is useful:\n-E-commerce / retail tech\n-Marketplaces\n-B2B SaaS\n-Payments / fintech (fintech experience is not required)\n-Logistics / operations software\n-AI-native products\n\n🌟 Why join:\n-Real ownership and direct impact on product and company results.\n-AI-forward: GitHub Copilot, Claude, Cursor.\n-Fully remote, flexible hours.\n-GBP salary, official contractor agreement.\n-20 days paid vacation, plus 5 extra days after probation. UK holiday calendar.\n\nAPPLY: @Irina_Andrievskaia",
+    "entities": [],
+    "link": "https://t.me/ITjobsFeed/15591",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Lead, AI Solutions",
+    "company": "Native Commerce",
+    "location": "Lisbon (hybrid), Remote",
+    "grade": "Lead",
+    "ml_ai": true,
+    "remote": true,
+    "salary": "€4500-5500/month",
+    "short_description": "Own Native Commerce AI platform from early-stage development through scale. Lead product strategy, roadmap, and metrics for AI-native commerce software helping businesses automate operations and grow revenue. Work hands-on with engineering, design, AI/data, and commercial teams on 0→1 launches and scaling existing products.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 15585,
+    "date_iso": "2026-08-13T07:34:26+00:00",
+    "text": "Head of Product / Lead Product\n#HeadofProduct #LeadProduct #Москва #FinTech\n \nТребования:\nС опытом в финтех. Лидер, который возглавит стратегическое развитие и курирование всей продуктовой линейки Изибанка по всем вертикалям. Запускать продукты с нуля, глубоко погружаться в ниши и тесно работать с партнерами.\n \nЛокация:📍Москва.\n \nКонтакт для отклика: @Patanyaa +CV\n\n\n📢 Источник: https://t.me/jtbl_vacancy/4245",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 383,
+        "length": 30
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/15585",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Head of Product",
+    "company": "Изибанк",
+    "location": "Москва",
+    "grade": "Head",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Лидер для стратегического развития всей продуктовой линейки финтех-компании по всем вертикалям. Требуется опыт в финтехе, умение запускать продукты с нуля, глубоко погружаться в ниши и работать с партнерами.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 636,
+    "date_iso": "2026-08-13T07:31:46+00:00",
+    "text": "👨‍💻 Senior Product Manager SkyCoach\n\n▪️Компания #SkyCoach\n▪️Домен #GameDev\n▪️Грейд #Senior\n▪️Формат #УдаленкаМир\n\nSkyСoach — это большой сервис внутриигровых услуг, помогающий в развитии аккаунтов WoW, Destiny 2, Call of Duty, FIFA, Genshin Impact и десятках других популярных игр.\n\nИщем Senior Product Manager (важен опыт с маркетплейсами и богатый игровой бэкграунд).\n\nТребования:\n· Сильные коммуникационные навыки и умение организовать командную работу.\n· Продуктовое мышление: понимание бизнес-целей и желание реально влиять на результат.\n· Принимать решения, опираясь на продуктовую аналитику.\n· Любовь к играм и активное погружение в игровое сообщество.\n· Опыт запуска и анализа A/B-тестов, проведения CustDev для поиска инсайтов и точек роста.\n· Быть инициативным и доводить задачи до результата.\n· Будет плюсом, если у тебя есть опыт в быстрорастущих компаниях и стартапах.\n\nСсылка на пост LinkedIn\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 885,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/yuliya-kazakova-13b9ab1b9_%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%B8%D1%89%D1%83-senior-product-manager-activity-7493242602012512256-cibK?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 913,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/636",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager",
+    "company": "SkyCoach",
+    "location": "Remote",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "SkyCoach is a large in-game services platform helping players develop accounts across WoW, Destiny 2, Call of Duty, FIFA, Genshin Impact and other popular games. The role requires marketplace experience and strong gaming background, with focus on A/B testing, customer development, and product analytics.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 1093073202,
     "channel_username": "forproducts",
     "channel_title": "Job for Products and Projects",
@@ -26,7 +516,7 @@
     "salary": null,
     "short_description": "ВкусВилл is one of Russia's largest retailers developing a network of healthy food stores and digital services for customers. The role focuses on loyalty product development and digital services.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -56,7 +546,7 @@
     "salary": null,
     "short_description": "Cloud provider offering network services, computing, storage, data processing, PaaS solutions, cybersecurity tools, professional services and AI solutions. Leading product strategy for a comprehensive cloud platform.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -98,7 +588,7 @@
     "salary": null,
     "short_description": "Разработка инструментов лояльности и промо с использованием ML для мобильного приложения с 4,5 млн MAU. Управление стратегией и бэклогом нескольких продуктов в команде Лояльности на расширение.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -128,7 +618,7 @@
     "salary": null,
     "short_description": "Scentbird - популярный зарубежный сервис ежемесячной подписки на парфюмерию и косметику. Удалённая работа.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -164,7 +654,7 @@
     "salary": null,
     "short_description": "Руководство продуктом семейных сервисов Т-Банка: совместные счета, созаёмное кредитование, шаринг накоплений, семейная связь, детско-родительские продукты.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -212,7 +702,7 @@
     "salary": null,
     "short_description": "Mayflower — технологическая компания, создающая высоконагруженные продукты, которыми пользуются миллионы людей по всему миру. Доступны позиции Area Product Manager и Product Manager (Monetization). Помощь при переезде.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -235,7 +725,7 @@
     "salary": null,
     "short_description": "Ранний продукт: iOS + Android приложение и десктоп-версия. Требуется опыт в B2C, мобильной разработке и работе с данными. Ключевой навык: ежедневное использование AI инструментов (ChatGPT, Claude, Gemini) для прототипирования и автоматизации.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -283,7 +773,7 @@
     "salary": null,
     "short_description": "Развитие направления Распродаж в вертикали Товары Avito. Управление стримом селлеров, увеличение ассортимента и качества предложений, работа с точками контакта селлеров, рекомендациями по товарам и скидкам.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -325,7 +815,7 @@
     "salary": null,
     "short_description": "Развитие рекламного инструментария VK. Формирование и реализация стратегии, управление KPI, управление продуктовой командой, взаимодействие со стейкхолдерами и смежными командами.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -361,7 +851,7 @@
     "salary": null,
     "short_description": "VK — российская интернет-компания, объединяющая популярные сервисы для общения, развлечений, учебы и работы. Ищет Product Manager для работы с ML-направлением.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -401,7 +891,7 @@
     "salary": null,
     "short_description": "Развитие рекламного инструментария VK. Формирование и реализация стратегии, управление KPI, управление продуктовой командой, взаимодействие со стейкхолдерами.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -437,7 +927,7 @@
     "salary": null,
     "short_description": "Присоединиться к команде Ad Core в рекламном подразделении Авито. Разработка и развитие рекламных продуктов для пользователей платформы и внешних рекламодателей крупнейшей российской платформы объявлений.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -16715,7 +17205,7 @@
     "short_description": "Growth Product Manager для веб-воронок. B2C компания ищет специалиста, который хочет оказать реальное влияние на рост бизнеса и развиваться профессионально.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -16738,7 +17228,7 @@
     "short_description": "Управление проектом внедрения системы L4 Track & Trace для маркировки «Честный знак». Фасилитация взаимодействия с вендорами, контроль сроков и запуска системы согласно регуляторным срокам. Требуется опыт управления ИТ-проектами, глубокое понимание маркировки и системное мышление.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -16768,7 +17258,7 @@
     "short_description": "Ищем опытного Head of Product с 7+ годами в финтехе и платежных сервисах для запуска и развития финансовых продуктов на рынке MENA. Требуется глубокое понимание регулирования, платежной инфраструктуры и опыт работы в регулируемой среде (DFSA, FCA, ADGM, MAS).",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1205373966,
@@ -16791,7 +17281,7 @@
     "short_description": "Salmon - международная технологическая финансовая компания, создающая современные банковские и кредитные продукты для рынка Филиппин с более чем 1,5 млн клиентов. Разработка внутренних операционных продуктов и автоматизация процессов, связанных с агентской сетью, мерчантами и торговыми точками. Работа с командами Operations, Engineering, Analytics и Business для улучшения эффективности и масштабирования.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -16844,7 +17334,7 @@
     "short_description": "SM Lab ищет опытного продакта для внутренних data-продуктов с фокусом на бизнес-пользователей. Роль включает работу с болями в бизнес-джобах, повышение зрелости работы с данными в компании и развитие направления AI.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -16874,7 +17364,7 @@
     "short_description": "Ищем Chief Product Officer для возглавления продуктового направления iGaming компании. Вы будете отвечать за стратегию, управление командой Product Management, полный жизненный цикл продуктов и взаимодействие с Engineering, Design и Business командами. Требуется 5+ лет опыта в роли CPO/Head of Product с успешным опытом управления несколькими продуктовыми командами и data-driven подходом.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -16904,7 +17394,7 @@
     "short_description": "Роль Chief Product Officer в казахстанском коммерческом банке Bereke Bank, ответственный за развитие и стратегию дебетовых карт.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -16940,7 +17430,7 @@
     "short_description": "Own 0→1 product lifecycle including scope, roadmap, and priorities. Lead cross-functional teams, drive integrations with MySky ecosystem, and own B2C acquisition and conversion metrics. Requires 3–5 years PM experience with a proven 0→1 project, daily AI tool usage, and C1+ English and Russian proficiency.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -16988,7 +17478,7 @@
     "short_description": "Own AI-powered mobile products (iOS & Android) focused on growth, subscriptions, and monetization. Drive product profitability through data-driven decisions, optimize onboarding and paywall flows, and run A/B tests to improve retention and revenue metrics.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -17029,7 +17519,7 @@
     "short_description": "New Sky Group ищет Product Leader для масштабирования нового adult web-проекта. Роль включает продуктовое управление, развитие продукта и рост ключевых метрик в компании, создающей digital-продукты в сферах развлечений, social media, AI и web-технологий.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
