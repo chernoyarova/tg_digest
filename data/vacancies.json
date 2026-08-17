@@ -1,5 +1,140 @@
 [
   {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 643,
+    "date_iso": "2026-08-16T14:47:50+00:00",
+    "text": "👨‍💻 Product Owner The Vault\n\n▪️Компания #TheVault\n▪️Домен #FinTech #Crypto\n▪️Уровень #Middle #Senior\n▪️Формат #УдаленкаМир #Кипр\n\nProduct Owner | Crypto Custody Platform.\n\nThe Vault — криптофинансовая компания из Лимассола, которая разрабатывает MPC-based платформу для хранения криптоактивов и управления кошельками для институциональных и retail-клиентов.\n\nИщем Product Owner, который возьмёт на себя продукт целиком: vision, roadmap, backlog и требования.\n\nЧто важно:\n- опыт Product Owner / Product Manager в техническом продукте — особенно crypto custody, fintech, security или cryptography;\n- понимание MPC / threshold signatures, HSM, hardware wallets, key management;\n- способность работать с криптографами, security engineers и аудиторами;\n- сильные навыки написания требований и acceptance criteria;\n- опыт работы с regulatory и audit requirements;\n- отличный английский.\n\nБудет плюсом:\n• опыт с blockchain / wallets / Web3;\n• опыт security-аудитов и penetration testing;\n• опыт работы одновременно с institutional и retail сегментами.\n\nСсылка на пост LinkedIn\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1048,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/julia-kuzemkina_%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B0-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D1%8F-%D0%B2-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-activity-7493969609763536897-3TU8?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1076,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/643",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner, Crypto Custody Platform",
+    "company": "The Vault",
+    "location": "Лимассол, Кипр, удалённо",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "MPC-based платформа для хранения криптоактивов и управления кошельками для институциональных и retail-клиентов. Требуется Product Owner с опытом в crypto custody, fintech, security и пониманием MPC, threshold signatures, HSM и key management.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 15758,
+    "date_iso": "2026-08-16T13:34:15+00:00",
+    "text": "Staff Product Manager, Cloud Namespace & Capacity в Temporal: https://www.remocate.app/jobs/staff-product-manager-cloud-namespace-capacity-temporal\n\nМожно работать удалённо. Зарплата в валюте.\n\n\n📢 Источник: https://t.me/evacuatejobs/6345",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 62,
+        "length": 85
+      },
+      {
+        "type": "url",
+        "offset": 208,
+        "length": 30
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/15758",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Staff Product Manager, Cloud Namespace & Capacity",
+    "company": "Temporal",
+    "location": "Remote",
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Staff Product Manager role at Temporal focused on Cloud Namespace and Capacity management. The position involves leading product strategy for cloud infrastructure components.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 642,
+    "date_iso": "2026-08-16T11:56:43+00:00",
+    "text": "👨‍💻 Product Managers Fundraise Up\n\n▪️Компания #FundraiseUp\n▪️Домен #FinTech\n▪️Уровень #Middle #Senior\n▪️Формат #УдаленкаМир\n\nWe currently have multiple open Product roles:\n\nSenior Product Manager, New Products — lead strategic 0→1 bets end-to-end, starting with major giving \n\nSenior Product Manager, Lab — 0→1 IC role turning ambiguous bets into shipped pilots and clear decisions\n\nSenior Group Product Manager — lead a team of PMs across a Core Product domain\n\nPlus, we're growing our Core Product team with several openings:\nSenior Product Manager, Gift Cart — end-to-end product ownership experience, comfortable building a 12-24 month roadmap and writing specs engineers can build straight from\n\nSenior Product Manager, OX Retention & Expansion — 5+ years in Product Management, ideally in B2B SaaS, retention, monetization, or growth, with a strong discovery and analytics background\n\nProduct Manager, Billing — 4-7 years in Product Management with experience owning a technically complex domain, ideally payments, payouts, or fee models\n\nProduct Manager, Dashboard Platform — 4-6+ years in Product Management in B2B SaaS or Platform products, with experience owning mission-critical infrastructure and managing enterprise clients\n\nFully remote — but we can only work with candidates based in Spain, Poland, Portugal, Georgia, Armenia, Serbia, Turkey, or Cyprus. \nFluent English is a must \n\nСсылка на пост LinkedIn\n\n🔴 Бесплатная карьерная консультация",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 1399,
+        "length": 23,
+        "url": "https://www.linkedin.com/posts/olga-sazonova_were-growing-the-product-team-at-fundraise-activity-7493957795420061696-KlKi?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      },
+      {
+        "type": "text_url",
+        "offset": 1427,
+        "length": 33,
+        "url": "https://forms.gle/TMqRfP6sJ2qhYXp87"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/642",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager (Multiple Roles)",
+    "company": "FundraiseUp",
+    "location": "Remote (Spain, Poland, Portugal, Georgia, Armenia, Serbia, Turkey, Cyprus)",
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "FundraiseUp (FinTech) is hiring multiple Senior Product Managers for strategic 0→1 projects, core product domains including Gift Cart, Billing, and Dashboard Platform. Roles involve end-to-end product ownership, building roadmaps, and working with technically complex payment and retention features in B2B SaaS.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1674506295,
+    "channel_username": null,
+    "channel_title": "Remocate: релокация, удалёнка, работа и вакансии",
+    "msg_id": 6345,
+    "date_iso": "2026-08-16T07:33:45+00:00",
+    "text": "Staff Product Manager, Cloud Namespace & Capacity в Temporal: https://www.remocate.app/jobs/staff-product-manager-cloud-namespace-capacity-temporal\n\nМожно работать удалённо. Зарплата в валюте.\n\nПри отклике укажите, что нашли вакансию на Remocate.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 62,
+        "length": 85
+      }
+    ],
+    "link": "https://t.me/c/1674506295/6345",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Staff Product Manager, Cloud Namespace & Capacity",
+    "company": "Temporal",
+    "location": "Remote",
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": true,
+    "salary": null,
+    "short_description": "Staff Product Manager role at Temporal focused on Cloud Namespace and Capacity products. Remote position with opportunity to shape infrastructure and scaling features for the Temporal platform.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 1311743791,
     "channel_username": "productjobgo",
     "channel_title": "Вакансии для продакт-менеджеров",
@@ -37,7 +172,7 @@
     "salary": "250 000 ₽",
     "short_description": "Ищем PM для развития пользовательского пути от визита на сайт до создания проекта в конструкторе фотокниг. Работа с дизайном, разработкой и маркетингом на повышение конверсии, проведение A/B-тестов и анализ пользовательского поведения. Фокус на связь цифрового продукта с физическим производством и доставкой.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -66,7 +201,7 @@
     "salary": null,
     "short_description": "Product Manager role at Photoroom with relocation to France. Full-time position focused on product development.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -108,7 +243,7 @@
     "salary": null,
     "short_description": "Развитие gen-ai продукта с фокусом на подписочные приложения. Требуется опыт с поиском product-market fit, retention, юнит-экономикой и A/B тестированием. Команда работает с фото/видео обработкой и social media трендами.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -149,7 +284,7 @@
     "salary": null,
     "short_description": "Геоплатформа Яндекс Go ищет опытного Android-разработчика для работы с картами и определением местоположения. Вы будете разрабатывать фичи, оптимизировать приложение и определять техническое направление развития команды. Требуется опыт с production-приложениями, глубокое знание платформы Android и понимание геосервисов.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -208,7 +343,7 @@
     "salary": null,
     "short_description": "Velvetech разрабатывает ПО для клиентов по всему миру на протяжении 20 лет, сотрудничает с Microsoft. Требуется опыт 5+ лет, знание Agile и английского языка. В компании работает много русскоговорящих сотрудников.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -274,7 +409,7 @@
     "salary": null,
     "short_description": "Velvetech разрабатывает ПО для клиентов по всему миру, включая Microsoft. Требуется 5+ лет опыта в Agile, свободный английский язык.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -322,7 +457,7 @@
     "salary": null,
     "short_description": "Ищем опытного Lead PM для управления тремя направлениями: Афиша (сайт развлечений), Афиша Daily и Афиша Рестораны. Требуется 3+ лет опыта в продакте, управление несколькими продуктами, сильная аналитика и опыт с A/B-тестами. Плюсом будут знания рекомендательных систем и AI в UX.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -356,7 +491,7 @@
     "salary": null,
     "short_description": "Principal Product Manager роль в PandaDoc, отвечающий за Document Domain. Возможность полностью удалённой работы с зарплатой в валюте.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -385,7 +520,7 @@
     "salary": null,
     "short_description": "Principal Product Manager role focused on document domain at PandaDoc. Remote position available. Salary provided in foreign currency.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -17030,7 +17165,7 @@
     "short_description": "Разработка B2B-платформы для трансграничных платежей на базе crypto + fiat rails. Роль с полным ownership над payment product: от vision и roadmap до delivery, работа с лицензированием и regulatory requirements в разных юрисдикциях, взаимодействие с engineering-командой 5-15 человек.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -17084,7 +17219,7 @@
     "short_description": "Lamoda ищет AI Product Manager с техническим фоном для развития внутренних AI-инструментов: кодовых ассистентов, генерации кода и интеграций с корпоративными данными. Роль включает формулирование стратегии, проверку гипотез, управление роадмапом и координацию между командами разработки.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -17119,7 +17254,7 @@
     "short_description": "Требуется опытный Product Manager с 10+ годами в управлении полным циклом продукта для enterprise и государственных заказчиков. Необходимо руководить кросс-функциональными техническими командами, работать с C-level и обеспечивать сложные интеграции, enterprise security, RBAC и data protection. Требуется практический опыт AI-инструментов и владение английским C1+ и русским языком.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -17154,7 +17289,7 @@
     "short_description": "Работа со сложной продуктовой логикой и high-load системами. Требуется опыт в принятии решений на основе данных и запуске кросс-функциональных инициатив. Приветствуется опыт в стриминге, UGC, социальных продуктах, WebRTC, CDN или монетизации.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2769347520,
@@ -17184,7 +17319,7 @@
     "short_description": "",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -17238,7 +17373,7 @@
     "short_description": "Ищем Product Owner с опытом запуска продуктов 0→1 для работы на AI-продуктах. Требуется опыт в Corporate Messenger, EdTech или HealthTech, сильные навыки UX, аналитики и практический опыт с AI-инструментами (Cursor, Claude Code, Windsurf).",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2769347520,
@@ -17261,7 +17396,7 @@
     "short_description": "Bitlica ищет Product Manager для работы с платежной инфраструктурой. Также открыта позиция Product Growth Manager для web2web направления.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1311743791,
@@ -17314,7 +17449,7 @@
     "short_description": "Развитие продуктовой стратегии поиска в e-commerce платформе. Работа с ML-инженерами над моделями ранжирования, проведение A/B-экспериментов и взаимодействие с командами рекомендаций и персонализации для повышения бизнес-метрик.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -17433,7 +17568,7 @@
     "short_description": "Команда Яндекс Фабрики создаёт и развивает собственные бренды в разных категориях. Работа над операционными задачами, развитием продуктовой линейки, запуском новых линеек, анализом пользовательского опыта и работой с аналитикой.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
