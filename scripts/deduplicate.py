@@ -23,6 +23,7 @@ from __future__ import annotations
 import json
 import re
 import unicodedata
+from collections import Counter
 from difflib import SequenceMatcher
 from pathlib import Path
 
@@ -31,6 +32,10 @@ ENRICHED_PATH = ROOT / "data" / "enriched.json"
 VACANCIES_PATH = ROOT / "data" / "vacancies.json"
 
 THRESHOLD = 0.9
+# SequenceMatcher.ratio() <= 2 * min(la, lb) / (la + lb), so two texts whose
+# lengths differ by more than this factor can never reach THRESHOLD. Cheap
+# guard that lets us skip the expensive comparison outright.
+LEN_RATIO_FLOOR = THRESHOLD / (2 - THRESHOLD)
 PUNCT_RE = re.compile(r"[^\w\s]", re.UNICODE)
 WS_RE = re.compile(r"\s+")
 
@@ -48,8 +53,42 @@ def _normalize(text: str) -> str:
     return text
 
 
-def _similarity(a: str, b: str) -> float:
-    return SequenceMatcher(None, a, b).ratio()
+class _Doc:
+    """A normalized text plus what the cheap similarity bounds need.
+
+    Comparing every pair with SequenceMatcher.ratio() is far too slow once a
+    backlog builds up, so each pair passes two O(alphabet) filters first:
+    length, then shared-character count (the same bound as
+    SequenceMatcher.quick_ratio, but with the counts computed once per text
+    instead of once per comparison). Both are upper bounds on ratio(), so
+    anything they reject is genuinely below THRESHOLD — the pairs that do get
+    compared score exactly as they did before.
+
+    The comparisons themselves keep difflib's defaults and argument order:
+    autojunk treats popular elements in the *second* sequence as junk, so
+    swapping the two texts or disabling it would shift the scores and change
+    which posts get merged.
+    """
+
+    __slots__ = ("norm", "length", "counts")
+
+    def __init__(self, norm: str) -> None:
+        self.norm = norm
+        self.length = len(norm)
+        self.counts = Counter(norm)
+
+    def may_match(self, other: "_Doc") -> bool:
+        if not self.length or not other.length:
+            return False
+        if min(self.length, other.length) / max(self.length, other.length) < LEN_RATIO_FLOOR:
+            return False
+        smaller, larger = (
+            (self.counts, other.counts)
+            if len(self.counts) <= len(other.counts)
+            else (other.counts, self.counts)
+        )
+        shared = sum(min(n, larger.get(ch, 0)) for ch, n in smaller.items())
+        return 2.0 * shared / (self.length + other.length) >= THRESHOLD
 
 
 def _post_key(p: dict) -> tuple:
@@ -103,14 +142,20 @@ def run() -> None:
     print(f"[dedup] existing primaries: {len(existing)}, new posts: {len(new_posts)}")
 
     # Phase 1: try to attach each new post to an existing primary.
+    existing_docs = [_Doc(v["_norm"]) for v in existing]
     leftover: list[dict] = []
     attached = 0
+    matcher = SequenceMatcher()
     for p in new_posts:
-        norm_p = _normalize(p.get("text", ""))
+        doc_p = _Doc(_normalize(p.get("text", "")))
+        matcher.set_seq1(doc_p.norm)
         best = None
         best_score = 0.0
-        for v in existing:
-            score = _similarity(norm_p, v["_norm"])
+        for v, doc_v in zip(existing, existing_docs):
+            if not doc_p.may_match(doc_v):
+                continue
+            matcher.set_seq2(doc_v.norm)
+            score = matcher.ratio()
             if score > best_score:
                 best_score = score
                 best = v
@@ -118,7 +163,7 @@ def run() -> None:
             best["duplicates"].append({**_dup_entry(p), "channel_id": p.get("channel_id")})
             attached += 1
         else:
-            p["_norm"] = norm_p
+            p["_norm"] = doc_p.norm
             leftover.append(p)
     print(f"[dedup] {attached} new posts attached to existing primaries; {len(leftover)} leftover")
 
@@ -137,22 +182,17 @@ def run() -> None:
         if ra != rb:
             parent[rb] = ra
 
-    # Fast prefilter: if the normalized lengths differ by more than (1 - THRESHOLD),
-    # SequenceMatcher.ratio() can't reach THRESHOLD. Skip the expensive call.
-    norm_lens = [len(p["_norm"]) for p in leftover]
-    len_tol = 1.0 - THRESHOLD
+    docs = [_Doc(p["_norm"]) for p in leftover]
 
     for i in range(n):
-        li = norm_lens[i]
-        if li == 0:
-            continue
+        matcher.set_seq1(docs[i].norm)
         for j in range(i + 1, n):
             if find(i) == find(j):
                 continue
-            lj = norm_lens[j]
-            if lj == 0 or abs(li - lj) / max(li, lj) > len_tol:
+            if not docs[i].may_match(docs[j]):
                 continue
-            if _similarity(leftover[i]["_norm"], leftover[j]["_norm"]) >= THRESHOLD:
+            matcher.set_seq2(docs[j].norm)
+            if matcher.ratio() >= THRESHOLD:
                 union(i, j)
 
     clusters: dict[int, list[int]] = {}
