@@ -16,4 +16,4 @@ new_window_hours: 24
 
 # GoatCounter site name for visit/click stats, i.e. the "xxx" of
 # xxx.goatcounter.com. Empty means no analytics script on the page at all.
-goatcounter_site: ""
+goatcounter_site: "tgdigest"
