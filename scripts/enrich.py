@@ -228,6 +228,19 @@ PROMO_RE = re.compile(
 )
 
 
+# Inside a roundup the stage-1 role regex is too narrow: it misses "Владелец
+# продукта" (Product Owner) or "Руководитель по развитию продукта", which used
+# to stay visible in the merged card's text. A product word in the headline is
+# enough there, while "Project Manager" or "Руководитель направления Логопедия"
+# still drop out.
+PRODUCT_HINT_RE = re.compile(r"продукт|продакт|product|\bcpo\b", re.IGNORECASE | re.UNICODE)
+
+
+def _is_product_role(text: str) -> bool:
+    first = _clean_line(text.split("\n", 1)[0])
+    return bool(PRODUCT_HINT_RE.search(first))
+
+
 def is_vacancy(text: str, *, in_digest: bool = False) -> bool:
     """Rule-based stand-in for the old LLM classifier.
 
@@ -238,7 +251,7 @@ def is_vacancy(text: str, *, in_digest: bool = False) -> bool:
     text = text or ""
     if len(text) < (DIGEST_BLOCK_MIN_LEN if in_digest else MIN_TEXT_LEN):
         return False
-    if not VACANCY_RE.search(text):
+    if not VACANCY_RE.search(text) and not (in_digest and _is_product_role(text)):
         return False
     if SEEKER_RE.search(text):
         return False
