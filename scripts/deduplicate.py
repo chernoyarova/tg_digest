@@ -12,8 +12,8 @@ The previous data/vacancies.json acts as a persistent cache. On each run:
   3. Cluster the leftover new posts among themselves.
   4. Output = existing primaries (with updated duplicates) + new clusters.
 
-This keeps the cost of subsequent runs proportional to *new* posts only,
-avoiding re-enrichment via Haiku for posts we've already seen.
+This keeps the work on subsequent runs proportional to *new* posts only:
+posts we've already seen are not re-processed.
 
 Input:  data/enriched.json
 Output: data/vacancies.json (also reads previous version as cache)

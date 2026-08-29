@@ -1,7 +1,8 @@
 """Stage-1 filter: regex-match posts that look like Product/PM vacancies.
 
 False positives (articles about PMs, courses for PMs, memes) are filtered out
-later by Claude Haiku in enrich.py. This stage is intentionally permissive.
+later by the rule-based stage-2 filter in enrich.py. This stage is
+intentionally permissive.
 
 Input:  data/raw_tg.json
 Output: data/parsed.json
@@ -64,7 +65,7 @@ _PATTERNS: list[str] = [
     r"\bvp\s+(?:of\s+)?product\b",
     r"\bchief\s+product\s+officer\b",
 
-    # --- Abbreviations (loose; Haiku filters false positives) ---
+    # --- Abbreviations (loose; enrich.py filters false positives) ---
     # PM / CPO / APM / SPM / GPM / TPM / PdM — avoid matching inside digits like "8pm"
     r"(?<!\d)\b(?:pm|cpo|apm|spm|gpm|tpm|pdm)\b(?!\d)",
 ]
