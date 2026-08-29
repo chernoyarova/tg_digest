@@ -33,6 +33,10 @@ DESC_MAX_LEN = 320
 
 # --- text cleaning -----------------------------------------------------------
 
+# Variation selectors are marks, not symbols, so they survive the emoji strip
+# and would linger at the start of a title.
+VARIATION_SELECTORS = {chr(c) for c in range(0xFE00, 0xFE10)}
+
 MD_LINK_RE = re.compile(r"\[([^\]]+)\]\((?:[^)]+)\)")
 URL_RE = re.compile(r"https?://\S+|t\.me/\S+|@[A-Za-z0-9_]{4,}")
 MD_MARKS_RE = re.compile(r"[*_~`]{1,3}")
@@ -46,7 +50,8 @@ def _strip_symbols(text: str) -> str:
     return "".join(
         ch for ch in text
         if ch in "\n\t "
-        or not unicodedata.category(ch) in ("So", "Sk", "Cf", "Cs", "Co")
+        or (unicodedata.category(ch) not in ("So", "Sk", "Cf", "Cs", "Co")
+            and ch not in VARIATION_SELECTORS)
     )
 
 
@@ -251,7 +256,14 @@ def is_vacancy(text: str, *, in_digest: bool = False) -> bool:
     text = text or ""
     if len(text) < (DIGEST_BLOCK_MIN_LEN if in_digest else MIN_TEXT_LEN):
         return False
-    if not VACANCY_RE.search(text) and not (in_digest and _is_product_role(text)):
+    if in_digest:
+        # Judge a roundup block by its own headline: the body may name a role
+        # in passing ("опыт Product Owner от 2 лет") while the vacancy itself
+        # is for a business analyst, and that is not what this digest is for.
+        headline = text.split("\n", 1)[0]
+        if not VACANCY_RE.search(headline) and not _is_product_role(text):
+            return False
+    elif not VACANCY_RE.search(text):
         return False
     if SEEKER_RE.search(text):
         return False
@@ -262,6 +274,15 @@ def is_vacancy(text: str, *, in_digest: bool = False) -> bool:
 
 # --- field extraction --------------------------------------------------------
 
+BULLET_PREFIX_RE = re.compile(r"^\s*[-–—•·▪✔✅➡👉>»]")
+LOWER_CYRILLIC_START_RE = re.compile(r"^[а-яё]", re.UNICODE)
+# Lines out of the body that must never become a title, however much they look
+# like one — a requirement bullet naming a role is the classic trap.
+NOT_TITLE_RE = re.compile(
+    r"опыт работы|не менее|от \d+ лет|обязанност|требовани|мы предлагаем|условия|ожидани",
+    re.IGNORECASE | re.UNICODE,
+)
+
 TITLE_NOISE_RE = re.compile(
     r"^(?:вакансия|ваканси[яи]|новая вакансия|открыта вакансия|ищем|ищется|job|vacancy|position)"
     r"\s*[:\-–—]?\s*",
@@ -269,13 +290,38 @@ TITLE_NOISE_RE = re.compile(
 )
 
 
-def _title(text: str) -> str:
-    candidates = _lines(text)[:6]
-    for line in candidates:
-        line = TITLE_NOISE_RE.sub("", line).strip()
-        if 3 <= len(line) <= TITLE_MAX_LEN and VACANCY_RE.search(line):
-            return line
-    for line in candidates:
+def _is_title_like(raw: str) -> bool:
+    """Could this line be the post's title, rather than body text?"""
+    line = _clean_line(raw)
+    if not 3 <= len(line) <= TITLE_MAX_LEN:
+        return False
+    if BULLET_PREFIX_RE.match(raw) or line[-1] in ";:,":
+        return False
+    if SECTION_HEADER_RE.match(line) or NOT_TITLE_RE.search(line):
+        return False
+    # A lowercase Cyrillic start means the line continues a sentence ("в
+    # Salmon — финтех-компания…"). Latin lowercase is usually a brand: iOS,
+    # eCommerce.
+    return not LOWER_CYRILLIC_START_RE.match(line)
+
+
+def _title(text: str, *, headline_first: bool = False) -> str:
+    raw = [line for line in (text or "").splitlines() if _clean_line(line)][:6]
+    titles = [_clean_line(line) for line in raw if _is_title_like(line)]
+    titles = [TITLE_NOISE_RE.sub("", line).strip() for line in titles]
+    titles = [line for line in titles if len(line) >= 3]
+
+    # A vacancy split out of a roundup always opens with its own headline, so
+    # there is nothing to look for further down — and looking would find the
+    # requirement bullets, which is how "Высшее образование, опыт работы на
+    # позиции Product Owner не менее 2 лет" once became a card title.
+    if not headline_first:
+        for line in titles:
+            if VACANCY_RE.search(line):
+                return line
+    if titles:
+        return titles[0][:TITLE_MAX_LEN].rstrip()
+    for line in _lines(text)[:6]:
         line = TITLE_NOISE_RE.sub("", line).strip()
         if len(line) >= 3:
             return line[:TITLE_MAX_LEN].rstrip()
@@ -532,10 +578,10 @@ def _strip_company_suffix(title: str, company: str | None) -> str:
     return trimmed if len(trimmed) >= 3 else title
 
 
-def extract(text: str) -> dict:
+def extract(text: str, *, headline_first: bool = False) -> dict:
     """Derive the vacancy card fields from the post text. No API calls."""
     body = _body(text)
-    title = _title(body)
+    title = _title(body, headline_first=headline_first)
     remote = _remote(body)
     company = _company(body, title)
     title = _strip_company_suffix(title, company)
@@ -569,7 +615,7 @@ def run() -> None:
         for part, (start, block) in enumerate(blocks):
             if not is_vacancy(block, in_digest=len(blocks) > 1):
                 continue
-            entry = {**post, **extract(block)}
+            entry = {**post, **extract(block, headline_first=len(blocks) > 1)}
             if len(blocks) > 1:
                 # Each vacancy of a roundup becomes its own card. They share
                 # the message link, so `part` is what keeps them distinct
