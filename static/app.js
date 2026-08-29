@@ -43,7 +43,9 @@ function relativeTime(iso) {
   return `${Math.floor(d / 30)}MO AGO`;
 }
 
-function vUid(v) { return `${v.channel_id}:${v.msg_id}`; }
+// Vacancies split out of one roundup message share channel_id + msg_id,
+// so `part` is what keeps their cards addressable separately.
+function vUid(v) { return `${v.channel_id}:${v.msg_id}:${v.part || 0}`; }
 
 function matchesLocation(v) {
   if (state.location === 'all') return true;

@@ -27,6 +27,7 @@ PARSED_PATH = ROOT / "data" / "parsed.json"
 ENRICHED_PATH = ROOT / "data" / "enriched.json"
 
 MIN_TEXT_LEN = 120
+DIGEST_BLOCK_MIN_LEN = 60
 TITLE_MAX_LEN = 120
 DESC_MAX_LEN = 320
 
@@ -78,6 +79,111 @@ HEADER_RE = re.compile(
 )
 
 
+BLANK_LINE_RE = re.compile(r"\n[^\S\n]*\n")
+HEADLINE_MAX_LEN = 110
+DIGEST_PREAMBLE_MAX_LEN = 200
+LOCATION_LINE_MAX_LEN = 60
+
+# Only a plural header announces a roundup. "Вакансия Operations Product
+# Manager" is one post's own title; "Вакансии продакт-менеджеров" is a list.
+DIGEST_HEADER_RE = re.compile(
+    r"^(?:нов\w+|свеж\w+|актуальн\w+|топ)?\s*"
+    r"(?:ваканси(?:и|й|ям|ями|ях)|подборк\w+|дайджест)\b",
+    re.IGNORECASE | re.UNICODE,
+)
+# Calls to action and links between vacancies are not headlines.
+NOT_HEADLINE_RE = re.compile(
+    r"\?|https?://|t\.me/|^(?:хотите|хочешь|ищешь|нужн\w+|подпис\w+|все возможности|где еще|где ещё)",
+    re.IGNORECASE | re.UNICODE,
+)
+
+
+def _is_header_chunk(chunk: str) -> bool:
+    first = _clean_line(chunk.split("\n", 1)[0])
+    return bool(first) and len(first) <= 60 and bool(DIGEST_HEADER_RE.match(first))
+
+
+def _is_headline(chunk: str) -> bool:
+    """True when a chunk opens a vacancy inside a roundup.
+
+    Either the first line names a role, or it is a short line followed by a
+    short line of its own — the "<title>\n<city>" shape these roundups use.
+    That second form catches roles the stage-1 regex does not know, e.g.
+    "Менеджер по внедрению ИИ в бизнес-процессы".
+    """
+    lines = chunk.split("\n")
+    first = _clean_line(lines[0])
+    if not first or len(first) > HEADLINE_MAX_LEN:
+        return False
+    if NOT_HEADLINE_RE.search(first) or DIGEST_HEADER_RE.match(first):
+        return False
+    if VACANCY_RE.search(first):
+        return True
+    # A bare "Удалёнка" or "Гибрид/офис" heads a section of a link roundup,
+    # not a vacancy: a real headline names a role, so it runs to a few words.
+    if len(first) < 12 or len(first.split()) < 2:
+        return False
+    second = _clean_line(lines[1]) if len(lines) > 1 else ""
+    return bool(second) and len(second) <= LOCATION_LINE_MAX_LEN and second[-1] not in ".!:;"
+
+
+def split_digest(text: str) -> list[tuple[int, str]]:
+    """Split a digest post into its vacancies as (offset, block) pairs.
+
+    Some channels post one message per vacancy, others publish a roundup: a
+    header line, then several vacancies separated by blank lines, each opening
+    with a "<role> в <company>" headline. Those roundups used to become a
+    single card carrying the first vacancy's title, which left the rest
+    invisible to search and filters.
+
+    Only a post that both announces itself as a roundup and holds two or more
+    headline blocks is split; anything else is returned whole, so ordinary
+    posts (which also use blank lines) are never chopped up. Offsets are into
+    the original text, so callers can re-base the message entities.
+    """
+    chunks: list[tuple[int, str]] = []
+    pos = 0
+    for match in BLANK_LINE_RE.finditer(text):
+        chunks.append((pos, text[pos:match.start()]))
+        pos = match.end()
+    chunks.append((pos, text[pos:]))
+    chunks = [(start, chunk) for start, chunk in chunks if chunk.strip()]
+
+    if not chunks or not _is_header_chunk(chunks[0][1]):
+        return [(0, text)]
+    starts = [start for start, chunk in chunks[1:] if _is_headline(chunk)]
+    if len(starts) < 2:
+        return [(0, text)]
+    # Splitting drops whatever sits between the header and the first headline
+    # (channel promos, links). Anything longer than that is real content, so
+    # the post is not the clean roundup this assumes — leave it whole.
+    if starts[0] - chunks[0][0] - len(chunks[0][1]) > DIGEST_PREAMBLE_MAX_LEN:
+        return [(0, text)]
+
+    blocks = []
+    for i, start in enumerate(starts):
+        end = starts[i + 1] if i + 1 < len(starts) else len(text)
+        blocks.append((start, text[start:end].rstrip()))
+    return blocks
+
+
+def _utf16_len(text: str) -> int:
+    """Length in UTF-16 code units — the unit Telegram entity offsets use."""
+    return len(text.encode("utf-16-le")) // 2
+
+
+def _rebase_entities(entities: list[dict] | None, text: str, start: int, block: str) -> list[dict]:
+    """Move entity offsets from the whole post onto one of its blocks."""
+    shift = _utf16_len(text[:start])
+    limit = _utf16_len(block)
+    out = []
+    for ent in entities or []:
+        offset = ent["offset"] - shift
+        if 0 <= offset and offset + ent["length"] <= limit:
+            out.append({**ent, "offset": offset})
+    return out
+
+
 def _body(text: str) -> str:
     """Post text without the channel's boilerplate header line."""
     lines = (text or "").split("\n")
@@ -122,10 +228,15 @@ PROMO_RE = re.compile(
 )
 
 
-def is_vacancy(text: str) -> bool:
-    """Rule-based stand-in for the old LLM classifier."""
+def is_vacancy(text: str, *, in_digest: bool = False) -> bool:
+    """Rule-based stand-in for the old LLM classifier.
+
+    A block taken out of a roundup is held to a lower bar: the roundup itself
+    already vouches that these are openings, and the blocks are short because
+    the channel truncates them.
+    """
     text = text or ""
-    if len(text) < MIN_TEXT_LEN:
+    if len(text) < (DIGEST_BLOCK_MIN_LEN if in_digest else MIN_TEXT_LEN):
         return False
     if not VACANCY_RE.search(text):
         return False
@@ -133,7 +244,7 @@ def is_vacancy(text: str) -> bool:
         return False
     if PROMO_RE.search(text[:200]):
         return False
-    return bool(HIRING_RE.search(text))
+    return True if in_digest else bool(HIRING_RE.search(text))
 
 
 # --- field extraction --------------------------------------------------------
@@ -436,11 +547,24 @@ def run() -> None:
         return
 
     enriched: list[dict] = []
+    split_posts = 0
     for i, post in enumerate(posts, 1):
         text = post.get("text", "")
-        if not is_vacancy(text):
-            continue
-        enriched.append({**post, **extract(text)})
+        blocks = split_digest(text)
+        if len(blocks) > 1:
+            split_posts += 1
+        for part, (start, block) in enumerate(blocks):
+            if not is_vacancy(block, in_digest=len(blocks) > 1):
+                continue
+            entry = {**post, **extract(block)}
+            if len(blocks) > 1:
+                # Each vacancy of a roundup becomes its own card. They share
+                # the message link, so `part` is what keeps them distinct
+                # downstream (dedup keys, NEW state, the frontend's uid).
+                entry["part"] = part
+                entry["text"] = block
+                entry["entities"] = _rebase_entities(post.get("entities"), text, start, block)
+            enriched.append(entry)
         if i % 50 == 0:
             print(f"[enrich] {i}/{len(posts)} processed, kept={len(enriched)}")
 
@@ -448,7 +572,10 @@ def run() -> None:
         json.dumps(enriched, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-    print(f"[enrich] kept {len(enriched)}/{len(posts)} as vacancies -> {ENRICHED_PATH}")
+    print(
+        f"[enrich] kept {len(enriched)} vacancies from {len(posts)} posts "
+        f"({split_posts} roundups split) -> {ENRICHED_PATH}"
+    )
 
 
 if __name__ == "__main__":

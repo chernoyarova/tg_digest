@@ -3,7 +3,8 @@
 Reads data/vacancies.json, mutates it in place by adding is_new + is_archived
 flags, and updates data/history.json with the set of known post IDs.
 
-History is keyed by stable ID `channel_id:msg_id`. Entries older than the
+History is keyed by stable ID `channel_id:msg_id` (plus `#part` for the
+individual vacancies of a roundup message). Entries older than the
 archive window are pruned to keep the file small.
 """
 from __future__ import annotations
@@ -23,7 +24,12 @@ HISTORY_TTL_DAYS = 60
 
 
 def _post_uid(vacancy: dict) -> str:
-    return f"{vacancy.get('channel_id')}:{vacancy.get('msg_id')}"
+    # Roundup messages contribute several vacancies under one msg_id; `part`
+    # keeps their NEW state separate. Absent (or 0) for ordinary posts, so
+    # ids already in history keep matching.
+    uid = f"{vacancy.get('channel_id')}:{vacancy.get('msg_id')}"
+    part = vacancy.get("part", 0)
+    return f"{uid}#{part}" if part else uid
 
 
 def _parse_iso(s: str) -> datetime:

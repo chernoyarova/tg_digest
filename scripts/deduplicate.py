@@ -92,7 +92,9 @@ class _Doc:
 
 
 def _post_key(p: dict) -> tuple:
-    return (p.get("channel_id"), p.get("msg_id"))
+    # A roundup message yields one post per vacancy, all sharing msg_id, so
+    # `part` is what tells them apart. Posts predating the split have none.
+    return (p.get("channel_id"), p.get("msg_id"), p.get("part", 0))
 
 
 def _dup_entry(p: dict) -> dict:
@@ -101,6 +103,7 @@ def _dup_entry(p: dict) -> dict:
         "channel_title": p.get("channel_title"),
         "link": p.get("link"),
         "date_iso": p.get("date_iso"),
+        "part": p.get("part", 0),
     }
 
 
@@ -137,7 +140,7 @@ def run() -> None:
                 pass
             channel_id = d.get("channel_id")
             if channel_id is not None and msg_id is not None:
-                known_keys.add((channel_id, msg_id))
+                known_keys.add((channel_id, msg_id, d.get("part", 0)))
     new_posts = [p for p in new_posts if _post_key(p) not in known_keys]
     print(f"[dedup] existing primaries: {len(existing)}, new posts: {len(new_posts)}")
 
