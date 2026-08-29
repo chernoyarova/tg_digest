@@ -6,6 +6,11 @@ initial_backfill_days: 30
 # Vacancies older than this move to the Archive tab.
 archive_after_days: 30
 
+# Vacancies older than this are dropped from the store for good. Nothing else
+# deletes them, so without this the page grows without limit. Must be larger
+# than archive_after_days, or the Archive tab has nothing to show.
+purge_after_days: 90
+
 # A post is marked NEW if it appeared within this window (hours).
 new_window_hours: 24
 

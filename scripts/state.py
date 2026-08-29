@@ -1,7 +1,11 @@
-"""Mark vacancies as NEW (within 24h and unseen) and persist history.
+"""Mark vacancies as NEW (within 24h and unseen), drop stale ones, persist history.
 
 Reads data/vacancies.json, mutates it in place by adding is_new + is_archived
 flags, and updates data/history.json with the set of known post IDs.
+
+This is also the only step that removes vacancies: dedup carries the whole
+store forward on every run, so without a purge here the file — and the page,
+which embeds it — would grow without limit.
 
 History is keyed by stable ID `channel_id:msg_id` (plus `#part` for the
 individual vacancies of a roundup message). Entries older than the
@@ -40,9 +44,23 @@ def run() -> None:
     config = yaml.safe_load(CONFIG_PATH.read_text(encoding="utf-8"))
     new_window = timedelta(hours=config.get("new_window_hours", 24))
     archive_after = timedelta(days=config.get("archive_after_days", 30))
+    purge_after_days = config.get("purge_after_days")
 
     vacancies = json.loads(VACANCIES_PATH.read_text(encoding="utf-8"))
     now = datetime.now(timezone.utc)
+
+    if purge_after_days:
+        if purge_after_days <= config.get("archive_after_days", 30):
+            print(
+                f"[state] warning: purge_after_days={purge_after_days} is not above "
+                f"archive_after_days={config.get('archive_after_days', 30)}; "
+                "the Archive tab will be empty"
+            )
+        purge_after = timedelta(days=purge_after_days)
+        kept = [v for v in vacancies if now - _parse_iso(v["date_iso"]) <= purge_after]
+        if len(kept) != len(vacancies):
+            print(f"[state] purged {len(vacancies) - len(kept)} vacancies older than {purge_after_days}d")
+        vacancies = kept
 
     history: dict = {"last_run_at": None, "known_post_ids": {}}
     if HISTORY_PATH.exists():

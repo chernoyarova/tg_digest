@@ -29,6 +29,7 @@ Twelve Telegram channels post 50+ job posts a day. Maybe two of them are actuall
 | **Cross-channel dedup** | Same vacancy in 4 channels = one card with a `×4` badge listing all sources. |
 | **Extracted metadata** | Company, grade (Junior → Head), location, salary, remote flag, ML/AI flag — parsed out of the post text by rules in `enrich.py`. No LLM, nothing generated. |
 | **Full text + clickable links** | Tap a card → modal with the full TG post and every link (including hidden `[text](url)` ones) preserved. |
+| **Bounded store** | Vacancies drop out after `purge_after_days`. Nothing else deletes them, so without it the page grows for ever — the data is embedded in it. |
 | **NEW badge for fresh posts** | Anything posted in the last 24h gets a NEW tag, so you spot what changed since yesterday. |
 | **Mobile-first** | The whole UI works on a phone. The desktop layout is the bonus, not the other way around. |
 | **Free to run** | GitHub Pages + GitHub Actions free tier. No paid API at all. |
@@ -120,6 +121,7 @@ The included GitHub Actions workflow runs the pipeline daily, commits the regene
 tg_folder_name: vacancy        # the Telegram folder to watch
 initial_backfill_days: 30      # how far back the first run reaches
 archive_after_days: 30         # vacancies older than this move to Archive tab
+purge_after_days: 90           # ...and older than this are dropped for good
 new_window_hours: 24           # how recent counts as NEW
 ```
 
