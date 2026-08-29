@@ -80,8 +80,11 @@ function showVisitorCount() {
   fetch(endpoint.replace(/\/count$/, '/counter/TOTAL.json'))
     .then(r => (r.ok ? r.json() : null))
     .then(data => {
-      if (!data || !data.count) return;
-      el.textContent = `${data.count} посещений · ${data.count_unique || data.count} читателей`;
+      // count_unique is visitors; count sums every hit, events included, so it
+      // would read far higher than the number of people who came.
+      const readers = data.count_unique || data.count;
+      if (!readers) return;
+      el.textContent = `${readers} читателей`;
       el.hidden = false;
     })
     .catch(() => { /* no counter, no line */ });

@@ -508,6 +508,12 @@ em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 40
   letter-spacing: 0.04em;
 }
 
+/* Visitor total: a quiet second line, shown only when GoatCounter serves it. */
+#visitor-count {
+  margin-top: 10px;
+  opacity: 0.7;
+}
+
 .empty {
   padding: 80px 16px;
   text-align: center;
