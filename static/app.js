@@ -47,6 +47,52 @@ function relativeTime(iso) {
 // so `part` is what keeps their cards addressable separately.
 function vUid(v) { return `${v.channel_id}:${v.msg_id}:${v.part || 0}`; }
 
+// --- stats -----------------------------------------------------------------
+// Counted only when the page was built with a GoatCounter site configured; the
+// script is absent otherwise and every call here is a no-op. Nothing is stored
+// on the reader's device and no personal data is sent — just which vacancy was
+// opened, so it is visible which ones people actually go for.
+function slug(text) {
+  return (text || '')
+    .toLowerCase()
+    .replace(/[^\p{L}\p{N}]+/gu, '-')
+    .replace(/^-|-$/g, '')
+    .slice(0, 60);
+}
+
+function countEvent(path, title) {
+  try {
+    if (window.goatcounter && typeof window.goatcounter.count === 'function') {
+      window.goatcounter.count({ path, title: title || path, event: true });
+    }
+  } catch (e) {
+    /* stats must never break the page */
+  }
+}
+
+// Visitor total for the page footer. GoatCounter serves it only once public
+// counts are switched on for the site, so the line stays hidden by default —
+// and on any failure, rather than showing a broken or zero count.
+function showVisitorCount() {
+  const el = document.getElementById('visitor-count');
+  const endpoint = window.GOATCOUNTER_ENDPOINT;
+  if (!el || !endpoint) return;
+  fetch(endpoint.replace(/\/count$/, '/counter/TOTAL.json'))
+    .then(r => (r.ok ? r.json() : null))
+    .then(data => {
+      if (!data || !data.count) return;
+      el.textContent = `${data.count} посещений · ${data.count_unique || data.count} читателей`;
+      el.hidden = false;
+    })
+    .catch(() => { /* no counter, no line */ });
+}
+
+function countVacancy(kind, v) {
+  if (!v) return;
+  const label = [v.title, v.company].filter(Boolean).join(' — ');
+  countEvent(`${kind}/${slug(v.title) || vUid(v)}`, label);
+}
+
 function matchesLocation(v) {
   if (state.location === 'all') return true;
   if (state.location === 'remote') return v.remote === true;
@@ -530,6 +576,7 @@ let modalOpenerEl = null;
 function openModal(uid) {
   const v = byUid.get(uid);
   if (!v) return;
+  countVacancy('card-open', v);
   modalOpenerEl = document.activeElement instanceof HTMLElement ? document.activeElement : null;
   modalContentEl.innerHTML = renderModalContent(v);
   overlayEl.hidden = false;
@@ -591,11 +638,17 @@ function renderModalContent(v) {
     ${tags ? `<div class="v-tags modal-tags">${tags}</div>` : ''}
     <div class="modal-text">${renderTextWithLinks(v.text || '', v.entities)}</div>
     <div class="modal-actions">
-      <a class="btn-open" href="${escapeHtml(v.link)}" target="_blank" rel="noopener">Открыть в Telegram →</a>
+      <a class="btn-open" href="${escapeHtml(v.link)}" target="_blank" rel="noopener"
+         data-count-uid="${escapeHtml(vUid(v))}">Открыть в Telegram →</a>
     </div>
     ${dupes ? `<div class="modal-dupes"><div class="modal-dupes-label mono">Также в:</div>${dupes}</div>` : ''}
   `;
 }
+
+modalContentEl.addEventListener('click', e => {
+  const link = e.target.closest('[data-count-uid]');
+  if (link) countVacancy('tg-open', byUid.get(link.dataset.countUid));
+});
 
 modalCloseEl.addEventListener('click', closeModal);
 overlayEl.addEventListener('click', e => {
@@ -621,3 +674,4 @@ data.forEach(v => byUid.set(vUid(v), v));
 
 syncPeriodUI(pickInitialTab());
 render();
+showVisitorCount();

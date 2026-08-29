@@ -123,6 +123,27 @@ archive_after_days: 30         # vacancies older than this move to Archive tab
 new_window_hours: 24           # how recent counts as NEW
 ```
 
+### Visit stats (optional, off by default)
+
+The page can report how many people open it and which vacancies they click
+through to. It uses [GoatCounter](https://www.goatcounter.com): free for
+personal sites, ~3 KB, no cookies and so no consent banner.
+
+1. Register a site at https://www.goatcounter.com — you pick a name, and get
+   `<name>.goatcounter.com`.
+2. Put that name in `config/sources.yml` as `goatcounter_site`.
+
+The next run picks it up. While the field is empty no analytics script is
+added to the page at all, and nothing is sent anywhere.
+
+Two events are recorded besides the page visit: `card-open/<vacancy>` when a
+card is opened, and `tg-open/<vacancy>` when the reader follows the link to
+Telegram — so the dashboard shows which vacancies people actually go for.
+
+The footer can also show the visitor total to everyone. That needs
+**Settings → "Allow adding visitor counts to your site"** switched on in
+GoatCounter; until then (or if the request fails) the line stays hidden.
+
 `scripts/enrich.py` — the stage-2 filter and all field extraction live here: `HIRING_RE` / `PROMO_RE` decide what counts as a vacancy, `CITIES`, `GRADE_PATTERNS`, `ML_RE`, `MONEY_RE` and friends do the extraction. Tune these lists for your channels.
 
 Because extraction is rule-based, some fields stay empty more often than an LLM would leave them — most visibly `grade`, which is only set when the post actually names a level. Cards without a grade still show up under the "Все" filter.

@@ -132,6 +132,7 @@
 
 <footer class="page-footer">
   <p class="mono">tg_digest · собрано из папки Telegram, обновляется ежедневно в 09:00 МСК</p>
+  <p class="mono" id="visitor-count" hidden></p>
 </footer>
 
 <div class="modal-overlay" id="modal-overlay" hidden>
@@ -142,6 +143,11 @@
 </div>
 
 <script type="application/json" id="vacancies-data">{{ data_json | safe }}</script>
+{%- if goatcounter_site %}
+<script>window.GOATCOUNTER_ENDPOINT = "https://{{ goatcounter_site }}.goatcounter.com/count";</script>
+<script data-goatcounter="https://{{ goatcounter_site }}.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+{%- endif %}
 <script src="static/app.js?v={{ asset_v }}" defer></script>
 </body>
 </html>
