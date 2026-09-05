@@ -1,5 +1,328 @@
 [
   {
+    "channel_id": 1311743791,
+    "channel_username": "productjobgo",
+    "channel_title": "Вакансии для продакт-менеджеров",
+    "msg_id": 1538,
+    "date_iso": "2026-09-05T08:08:56+00:00",
+    "text": "Senior Product Manager / Product Lead в Donate Open\n\nНовый пост на основном канале про рост в профессии - https://t.me/FreshProductGo/1842\n\nИщем сильного продуктолога на full-time для операционного управления двумя продуктами: Donate Open и corecs.ai.\n\nЧто предстоит делать:\n\n• вести операционный roadmap двух продуктов;\n• управлять приоритетами, загрузкой инженеров, сроками и зависимостями;\n• декомпозировать инициативы в понятные задачи и ТЗ;\n• самостоятельно принимать тактические продуктовые решения: flows, UX, dashboards, логика функций и интерфейсов;\n• работать с продуктовой аналитикой и user research там, где это необходимо;\n• собирать и структурировать feedback от Sales и Growth;\n• при необходимости самостоятельно общаться с пользователями;\n• контролировать релизы и готовить release recap;\n• готовить понятную документацию, roadmap, диаграммы Ганта и stakeholder reporting;\n• презентовать новые функции и изменения продукта.\n\nПродукты:\n\nDonate Open — платформа для донатов и взаимодействия креаторов с аудиторией. Продукт уже работает и имеет первых пользователей.\n\ncorecs.ai — независимый рекомендательный сервис нового поколения, который ищет для пользователя то, что ему действительно интересно читать и смотреть. Основной MVP уже работает.\n\nДополнительная зона работы — рейтинги: донатные рейтинги, связанные с Donate Open, и рейтинги качества внутри corecs.ai.\n\nКоманда:\n\n2 full-stack AI engineers, отдельный инженер по рейтингам, штатный дизайнер и CTO.\n\nИнженеры самостоятельные и используют AI-assisted development, поэтому важно хорошо понимать современные AI-инструменты и подходы вроде vibe coding.\n\nПри этом глубокое знание конкретного технологического стека не требуется. Мы ищем именно продуктового, а не технического Product Manager.\n\nЧто важно:\n\n• 5+ лет в Product Management;\n• опыт самостоятельного ведения продуктов;\n• опыт работы в стартапах или небольших командах будет большим плюсом;\n• сильная организованность;\n• хорошее понимание UX и продуктовой разработки;\n• способность работать с аналитикой и проводить user research;\n• понимание современных AI-инструментов;\n• высокий уровень английского;\n• очень сильная коммуникация на русском.\n\nПоследнее особенно важно: нужно уметь объяснять сложные продуктовые концепции стейкхолдерам ясно, структурированно и без лишнего профессионального жаргона.\n\nФормально позиция подчиняется CPO, но предполагает прямую и регулярную коммуникацию с Founder. Когда CPO находится в Сан-Франциско, взаимодействие с Founder становится ещё более плотным.\n\nФормат: full-time, remote, СНГ. Команда работает преимущественно по московскому времени, но ±2–3 часа от Москвы — нормально. График гибкий, без формального time tracking.\n\nЕсли вам интересна такая роль, напишите в личку @zoomdolgin с коротким рассказом о себе и опыте работы с продуктами.\n\nСайт команды\nРазборы кейсов, 76 разборов пришли, всего свыше 190 тестовых и реальных задач продактов.",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 106,
+        "length": 32
+      },
+      {
+        "type": "url",
+        "offset": 241,
+        "length": 9
+      },
+      {
+        "type": "url",
+        "offset": 1081,
+        "length": 9
+      },
+      {
+        "type": "url",
+        "offset": 1370,
+        "length": 9
+      },
+      {
+        "type": "text_url",
+        "offset": 2811,
+        "length": 12,
+        "url": "https://koloskoveducation.tilda.ws/"
+      },
+      {
+        "type": "text_url",
+        "offset": 2824,
+        "length": 15,
+        "url": "https://t.me/productcasebar/"
+      }
+    ],
+    "link": "https://t.me/productjobgo/1538",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager / Product Lead",
+    "company": "Donate Open",
+    "location": "full-time, remote, СНГ. Команда работает преимущественно по",
+    "grade": "Lead",
+    "ml_ai": true,
+    "remote": true,
+    "salary": null,
+    "short_description": "Новый пост на основном канале про рост в профессии Ищем сильного продуктолога на full-time для операционного управления двумя продуктами: Donate Open и corecs.ai.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10394,
+    "date_iso": "2026-09-04T18:07:58+00:00",
+    "text": "Middle Product Manager\nв MyFinishLine — международная платформа виртуальных квестов для активных людей.\nДо 270К. Удалённая работа.\nОписание вакансии на GeekJob.ru.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 131,
+        "length": 31,
+        "url": "https://geekjob.ru/vacancy/6a9aba74ea81a1a87b078ea0"
+      }
+    ],
+    "link": "https://t.me/forproducts/10394",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Middle Product Manager",
+    "company": null,
+    "location": "Remote",
+    "grade": "Middle",
+    "ml_ai": false,
+    "remote": true,
+    "salary": "270К",
+    "short_description": "в MyFinishLine — международная платформа виртуальных квестов для активных людей.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1093073202,
+    "channel_username": "forproducts",
+    "channel_title": "Job for Products and Projects",
+    "msg_id": 10390,
+    "date_iso": "2026-09-04T16:47:58+00:00",
+    "text": "🔹 Senior Product Manager (Рекламодатели)\n🔹 Senior Product Manager (Авторы)\n🔹 Senior Product Manager (Расширение за рамки ВКонтакте)\nв VK AdBlogger — официальная платформа от VK, которая работает как автоматизированная биржа рекламы для блогеров и рекламодателей.\nИщет Елизавета Пескова, её пост на LinkedIn.",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 293,
+        "length": 16,
+        "url": "https://www.linkedin.com/posts/elizaveta-peskova-1167b21a9_%D0%B8%D1%89%D1%83-%D1%81%D1%80%D0%B0%D0%B7%D1%83-%D1%82%D1%80%D1%91%D1%85-%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-senior-product-managers-activity-7501220294070607872-dTUN"
+      }
+    ],
+    "link": "https://t.me/forproducts/10390",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Senior Product Manager (Рекламодатели)",
+    "company": null,
+    "location": null,
+    "grade": "Senior",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "в VK AdBlogger — официальная платформа от VK, которая работает как автоматизированная биржа рекламы для блогеров и рекламодателей. Ищет Елизавета Пескова, её пост на LinkedIn.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 17020,
+    "date_iso": "2026-09-04T16:00:32+00:00",
+    "text": "Product Owner (Back Office) в Unlimit\n\n💙Наш читатель уже получил оффер в эту компанию\n📍Белград\n💎4+ года опыта в сфере платежей / PSP / эквайринга / e-money / финтеха / банковского дела, Fluent English\n🚀В компании работают русскоговорящие ребята\n\nUnlimit — разрабатывают платежную B2B платформу для международных расчетов.\n\nРазмер команды — 500+ | Компания прибыльна и развивается с 2009 года 🔥\n\nУзнать подробнее и откликнуться: тут\n\n\nДругие вакансии в компании: \n— IT Recruiter/ Talent Acquisition Manager\n— Marketing Specialist (Email, Reputation & Affiliate)\n\n📢 Источник: https://t.me/zarubezhom_jobs/4195",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 250,
+        "length": 7,
+        "url": "https://techcrunch.com/sponsor/unlimit/fintech-a-driving-force-in-financial-inclusion-powered-by-unlimit/"
+      },
+      {
+        "type": "text_url",
+        "offset": 433,
+        "length": 3,
+        "url": "https://jobs.lever.co/unlimit/2e7ca1d4-2ad2-49ab-b7ee-f244d8efc309"
+      },
+      {
+        "type": "text_url",
+        "offset": 470,
+        "length": 40,
+        "url": "https://jobs.lever.co/unlimit/b1e6bb62-cadc-4e86-9220-000748bd8bc3"
+      },
+      {
+        "type": "text_url",
+        "offset": 513,
+        "length": 52,
+        "url": "https://jobs.lever.co/unlimit/56d9f75c-c372-43a6-94cd-7d0b8d92d856"
+      },
+      {
+        "type": "url",
+        "offset": 580,
+        "length": 33
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/17020",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner (Back Office)",
+    "company": "Unlimit",
+    "location": "Белград",
+    "grade": null,
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Наш читатель уже получил оффер в эту компанию 4+ года опыта в сфере платежей / PSP / эквайринга / e-money / финтеха / банковского дела, Fluent English В компании работают русскоговорящие ребята Unlimit — разрабатывают платежную B2B платформу для международных расчетов.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 1804835860,
+    "channel_username": "zarubezhom_jobs",
+    "channel_title": "Connectable Jobs",
+    "msg_id": 4195,
+    "date_iso": "2026-09-04T15:02:03+00:00",
+    "text": "Product Owner (Back Office) в Unlimit\n\n💙Наш читатель уже получил оффер в эту компанию\n📍Белград\n💎4+ года опыта в сфере платежей / PSP / эквайринга / e-money / финтеха / банковского дела, Fluent English\n🚀В компании работают русскоговорящие ребята\n\nUnlimit — разрабатывают платежную B2B платформу для международных расчетов.\n\nРазмер команды — 500+ | Компания прибыльна и развивается с 2009 года 🔥\n\nУзнать подробнее и откликнуться: тут\n\n🤝Прямой контакт HR и ещё 200+ вакансий продактов и проджектов в компаниях с русскоговорящими фаундерами/командами — в нашей рассылке\n\nДругие вакансии в компании: \n— IT Recruiter/ Talent Acquisition Manager\n— Marketing Specialist (Email, Reputation & Affiliate)",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 250,
+        "length": 7,
+        "url": "https://techcrunch.com/sponsor/unlimit/fintech-a-driving-force-in-financial-inclusion-powered-by-unlimit/"
+      },
+      {
+        "type": "text_url",
+        "offset": 433,
+        "length": 3,
+        "url": "https://jobs.lever.co/unlimit/2e7ca1d4-2ad2-49ab-b7ee-f244d8efc309"
+      },
+      {
+        "type": "text_url",
+        "offset": 555,
+        "length": 16,
+        "url": "https://t.me/zarubezhom_jobs/3459"
+      },
+      {
+        "type": "text_url",
+        "offset": 604,
+        "length": 40,
+        "url": "https://jobs.lever.co/unlimit/b1e6bb62-cadc-4e86-9220-000748bd8bc3"
+      },
+      {
+        "type": "text_url",
+        "offset": 647,
+        "length": 52,
+        "url": "https://jobs.lever.co/unlimit/56d9f75c-c372-43a6-94cd-7d0b8d92d856"
+      }
+    ],
+    "link": "https://t.me/zarubezhom_jobs/4195",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Owner (Back Office)",
+    "company": "Unlimit",
+    "location": "Белград",
+    "grade": null,
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Наш читатель уже получил оффер в эту компанию 4+ года опыта в сфере платежей / PSP / эквайринга / e-money / финтеха / банковского дела, Fluent English В компании работают русскоговорящие ребята Unlimit — разрабатывают платежную B2B платформу для международных расчетов.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2823702878,
+    "channel_username": "jobs_product_managers",
+    "channel_title": "Вакансии продакт менеджеров",
+    "msg_id": 689,
+    "date_iso": "2026-09-04T14:32:37+00:00",
+    "text": "🛍 Product Lead Avito\n\n▪️Компания Авито\n▪️Домен #BigTech #Ecom\n▪️Грейд #Lead\n▪️Формат #ГибридМосква\n\nУ меня в команде стартует новое направление, куда я ищу Product Lead, который построит его с нуля.\nМы развиваем контентные и UGC-механики, которые превратят Авито из места для сделок в пространство для взаимодействия. Это про социальные связи, лайки, подписки, полезный контент — всё то, что заставляет пользователя открывать приложение не только, когда нужно купить или продать что-то конкретное, а потому, что там вдохновляет и помогает выбирать.\n\nСсылка на вакансию\nПодробнее в посте LinkedIn",
+    "entities": [
+      {
+        "type": "text_url",
+        "offset": 34,
+        "length": 5,
+        "url": "https://career.avito.com/"
+      },
+      {
+        "type": "text_url",
+        "offset": 551,
+        "length": 18,
+        "url": "https://career.avito.com/vacancies/upravlenie-produktom/19560/"
+      },
+      {
+        "type": "text_url",
+        "offset": 570,
+        "length": 26,
+        "url": "https://www.linkedin.com/posts/mosipova_%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D1%83-%D0%BC%D0%B5%D0%BD%D1%8F-%D0%B2-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B5-%D1%81%D1%82%D0%B0%D1%80%D1%82%D1%83%D0%B5%D1%82-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5-%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-activity-7501302489015701504-bb2G?utm_source=share&utm_medium=member_ios&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
+      }
+    ],
+    "link": "https://t.me/jobs_product_managers/689",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Product Lead Avito",
+    "company": "Авито",
+    "location": null,
+    "grade": "Lead",
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "У меня в команде стартует новое направление, куда я ищу Product Lead, который построит его с нуля. Мы развиваем контентные и UGC-механики, которые превратят Авито из места для сделок в пространство для взаимодействия.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 17003,
+    "date_iso": "2026-09-04T12:40:13+00:00",
+    "text": "#караганда #pm \n\nWooppay - финтех-компания, которая делает платежи проще и удобнее. Мы развиваем эквайринг, интегрируем банки и обеспечиваем бесперебойную работу платёжных решений.\n\nВакансия: Onboarding Project Manager\nРабота в офисе в городе Караганда \n\nМы ищем человека, который станет проводником для наших новых партнёров: поможет пройти все этапы подключения и сделает так, чтобы запуск прошёл быстро и без лишних сложностей.\n\nЧем предстоит заниматься:\n— Проверять партнёров и документы на соответствие законодательству РК и требованиям компании\n— Собирать и вести клиентскую документацию\n— Готовить и согласовывать договоры по готовым шаблонам\n— Координировать настройку и запуск новых клиентов\n— Контролировать процесс интеграции и сроки подключения\n— Взаимодействовать с командой эквайринга по вопросам настройки POS-терминалов\n— Участвовать в нестандартных интеграциях и специальных проектах\n— Готовить отчётность и работать с данными совместно с Data-командой\n\nЧто для нас важно:\n— Опыт работы в финтехе, банке, эквайринге или сфере платёжных решений\n— Понимание рынка финансовых продуктов и платёжных сервисов\n— Внимательность при работе с документами\n— Умение координировать несколько процессов одновременно\n— Развитые коммуникативные и организационные навыки\n— Уверенное владение компьютером и готовность осваивать новые инструменты\n— Ориентация на результат и умение доводить задачи до завершения\n\nЧто мы предлагаем:\n— Работу в офисе с 9:00 до 18:00\n— Официальное трудоустройство согласно ТК РК\n— Понятный онбординг и поддержку на этапе адаптации\n— Обучение за счёт компании\n— Частичную оплату спортивного зала и корпоративные активности\n\nРезюме отправляйте по номеру: +7 778 976 1221\n\n📢 Источник: https://t.me/devkz_jobs/7988",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 1713,
+        "length": 28
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/17003",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Onboarding Project Manager",
+    "company": null,
+    "location": null,
+    "grade": null,
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "Мы ищем человека, который станет проводником для наших новых партнёров: поможет пройти все этапы подключения и сделает так, чтобы запуск прошёл быстро и без лишних сложностей.",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
+    "channel_id": 2667909413,
+    "channel_username": "ITjobsFeed",
+    "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
+    "msg_id": 16995,
+    "date_iso": "2026-09-04T11:02:35+00:00",
+    "text": "Ищем Producer/Product Owner (FTUE) в мобильную multiplayer midcore игру с открытым миром!\n(Просим откликаться с опытом в мобильных мидкор играх // казуальный опыт не подойдет)❗️\n\n🔻Что делать:\n— развивать FTUE и метрики первого дня\n— фичи от концепта до релиза\n— вести и развивать ГДД\n— работать в связке с разработкой, тестом, артом и аналитикой\n— деконструировать похожие игры\n\n 🔻Ждём, если у тебя:\n— 6+ лет в геймдизайне\n— портфолио f2p с хотя бы одним успешным мидкор-проектом\n— решения на основе аналитики\n— любовь к созданию сложных миров\nОпыт с  racing / sandbox — большой плюс.\n\n🔻Условия:\n— белая зп и оформление\n— Оплата больничного\n— оплата конференций и бонусы за релизы\n— мощный Mac/PC\n— команда единомышленников без бюрократии и monkey work\n\nОтклик - @anastadr\n\n📢 Источник: https://t.me/GameDev_and_Tech_vacancy/2280",
+    "entities": [
+      {
+        "type": "url",
+        "offset": 790,
+        "length": 42
+      }
+    ],
+    "link": "https://t.me/ITjobsFeed/16995",
+    "regex_matched": true,
+    "is_vacancy": true,
+    "title": "Producer/Product Owner (FTUE) в мобильную multiplayer midcore игру с открытым миром!",
+    "company": null,
+    "location": null,
+    "grade": null,
+    "ml_ai": false,
+    "remote": false,
+    "salary": null,
+    "short_description": "(Просим откликаться с опытом в мобильных мидкор играх // казуальный опыт не подойдет) работать в связке с разработкой, тестом, артом и аналитикой портфолио f2p с хотя бы одним успешным мидкор-проектом команда единомышленников без бюрократии и monkey work",
+    "duplicates": [],
+    "is_new": true,
+    "is_archived": false
+  },
+  {
     "channel_id": 2667909413,
     "channel_username": "ITjobsFeed",
     "channel_title": "Jobs Feed IT & Digital Вакансии Агрегатор",
@@ -31,7 +354,7 @@
     "salary": null,
     "short_description": "Уверенный опыт с SAP FI (S/4HANA-огромный плюс) от 2-3 лет на стороне бизнеса или IT. Понимание принципов БУ и НК Узбекистана (НСБУ, НК РУз). Понимание процессов казначейства (cash flow, банковские интеграции). Опыт работы BA/PM (сбор требований, ФТ/ТЗ, бэклог). Будет плюсом: Опыт в ритейле.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -67,7 +390,7 @@
     "salary": null,
     "short_description": "Мы ищем сильного продакта в команду к Roman Davydov Ищем человека, который готов доводить задачу до конца, умеет работать с метриками и понимает пользователей. Особенно ждём ребят с опытом в финтехе, телекоме или сервисах для бизнеса - эти сферы нам ближе всего.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -96,7 +419,7 @@
     "salary": null,
     "short_description": "Atomic Wallet — международная компания в сфере Blockchain. Наш флагманский продукт входит в топ-10 популярных криптокошельков в мире: 10+ млн установок и 1,5 млн активных пользователей в месяц. Ищем Product Manager в команду Atomic Wallet.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -155,7 +478,7 @@
     "salary": null,
     "short_description": "3–5 года полного цикла подбора персонала в IT, желательно в сфере облачной инфраструктуры, SaaS или open-source В компании работают русскоязычные специалисты Mirantis — IT-компания, которая разрабатывает решения для облачной и AI-инфраструктуры.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -215,7 +538,7 @@
     "salary": null,
     "short_description": "3–5 года полного цикла подбора персонала в IT, желательно в сфере облачной инфраструктуры, SaaS или open-source В компании работают русскоязычные специалисты Mirantis — IT-компания, которая разрабатывает решения для облачной и AI-инфраструктуры.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -251,7 +574,7 @@
     "salary": null,
     "short_description": "в Uzum — экосистема цифровых сервисов, включающая маркетплейс, финансовые и логистические решения.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -285,7 +608,7 @@
     "salary": null,
     "short_description": "Можно работать удалённо. Зарплата в валюте.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -314,7 +637,7 @@
     "salary": null,
     "short_description": "Можно работать удалённо. Зарплата в валюте. При отклике укажите, что нашли вакансию на Remocate.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -350,7 +673,7 @@
     "salary": null,
     "short_description": "Ищем продакт менеджера / тимлида методистов. У нас уже есть линейка образовательных продуктов (офисные, IT и диджитал профессии). Сейчас нам нужен человек, который поможет развивать существующие продукты и запускать новые. Важно владение языками: английский B2+, немецкий B1+",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -380,7 +703,7 @@
     "salary": null,
     "short_description": "в Каналсервис — компания, специализирующаяся на обслуживании инженерных систем, прочистке и диагностике канализации для жилых, коммерческих и промышленных объектов. Ищет Вероника Яковлева, её пост на LinkedIn.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -410,7 +733,7 @@
     "salary": null,
     "short_description": "в Createx — продуктовая IT-компания, которая разрабатывает мобильные приложения для iOS и Android (фитнес и здоровье, стиль жизни, локация).",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -439,7 +762,7 @@
     "salary": null,
     "short_description": "Немецкий B2+/C1, английский B2+. Опыт PM / аналитика в IT и работы с клиентами из DACH. Опыт pre-sale: discovery, оценка, коммерческие предложения, презентации. Понимание процессов разработки, Jira / Confluence, базовое понимание UX/UI и архитектуры приложений.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -468,7 +791,7 @@
     "salary": "225 000 руб",
     "short_description": "Ставка: до 225 000 руб. на руки в месяц. Срок актуальности вакансии: до 04.09.2026. Важно: рассматриваются кандидаты с релевантностью опыта от 85% (аутстаффинговая позиция). О проекте: IT-проект, требующий сопровождения команд и повышения эффективности реализации.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -497,7 +820,7 @@
     "salary": null,
     "short_description": "Мы - команда, развивающая современную платёжную инфраструктуру и процессинговые решения для бизнеса: эквайринг, выплаты, переводы и другие финансовые сервисы. Работаем с крупными e-commerce и digital-проектами и активно развиваем собственные платёжные продукты.",
     "duplicates": [],
-    "is_new": true,
+    "is_new": false,
     "is_archived": false
   },
   {
@@ -22913,7 +23236,7 @@
     "short_description": "Развитие метрик беттинг-платформы: конверсия в депозит, удержание, LTV, GGR. Работа с roadmap, экспериментами и данными в условиях реальной монетизации и масштаба. Требуется опыт в беттинге и знание индустрийных метрик (GGR, NGR, CPA, LTV).",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -22967,7 +23290,7 @@
     "short_description": "Команда развивает массовые продукты для малого и среднего бизнеса в Финтехе Яндекса. Ищут Lead Growth-направления, отвечающего за стратегию роста GMV партнёров, расчёт ROI и управление удержанием, а также Lead of Acquisition для активации партнёров.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -22997,7 +23320,7 @@
     "short_description": "Управление платформой A/B тестирования. Требуется 2+ года опыта с технологическими или аналитическими дата-продуктами, знание методологии A/B тестирования и умение выстраивать партнёрства с внутренними заказчиками.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23028,7 +23351,7 @@
     "duplicates": [],
     "part": 6,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23059,7 +23382,7 @@
     "duplicates": [],
     "part": 5,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23090,7 +23413,7 @@
     "duplicates": [],
     "part": 4,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23121,7 +23444,7 @@
     "duplicates": [],
     "part": 3,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23152,7 +23475,7 @@
     "duplicates": [],
     "part": 2,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23183,7 +23506,7 @@
     "duplicates": [],
     "part": 1,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23214,7 +23537,7 @@
     "duplicates": [],
     "part": 0,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23244,7 +23567,7 @@
     "short_description": "Оплачиваемая стажировка в управлении цифровых помощников ВТБ. С первых дней работа над серьезными проектами в бизнесе, решение сложных бизнес-задач в головном офисе банка.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23274,7 +23597,7 @@
     "short_description": "Руководитель направления персонализации в Альфа-Трэвел. Требуется опыт работы с CRM, клиентскими сегментами, проведение AB-тестов и пилотов. Нужны навыки финансового моделирования и понимание P&L продуктов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23304,7 +23627,7 @@
     "short_description": "Развитие UX/UI ленты Одноклассников, оптимизация пользовательского пути для повышения эффективности взаимодействия с контентом. Проведение быстрых итераций и тестирования.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23335,7 +23658,7 @@
     "duplicates": [],
     "part": 0,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23366,7 +23689,7 @@
     "duplicates": [],
     "part": 0,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23397,7 +23720,7 @@
     "duplicates": [],
     "part": 1,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23428,7 +23751,7 @@
     "duplicates": [],
     "part": 0,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -23458,7 +23781,7 @@
     "short_description": "Динамичная команда создаёт мобильные и веб-приложения в нишах Lifestyle, Health и Utilities. Позиция с гибким графиком работы.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -23488,7 +23811,7 @@
     "short_description": "International beauty brand and Amazon US bestseller with over 3 million customers. Role involves IT product management and R&D oversight. Relocation support provided after probation period including visa assistance, flights, and housing.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -23518,7 +23841,7 @@
     "short_description": "WannaPlay is a mobile game developer and publisher creating casual, hypercasual, and midcore games with a global audience. The role focuses on growth and monetization with experience required in subscription-based web products.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 1093073202,
@@ -23554,7 +23877,7 @@
     "short_description": "Kolesa Group создает онлайн-классифайды для миллионов пользователей. Ищется Product Manager для работы над монетизацией платформы в режиме гибридной работы.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23585,7 +23908,7 @@
     "duplicates": [],
     "part": 1,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23616,7 +23939,7 @@
     "duplicates": [],
     "part": 0,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -23658,7 +23981,7 @@
     "short_description": "Ищем Product Manager с опытом работы в веб продуктах по подписочной модели. Требуется уверенная работа с аналитикой, проверка гипотез и принятие решений на основе данных.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -23693,7 +24016,7 @@
     "short_description": "inDrive is a global ride-hailing and urban services platform offering rides, intercity travel, courier and freight delivery, fintech via inDrive.Money, and on-demand tasks.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23723,7 +24046,7 @@
     "short_description": "Руководитель направления Growth в компании, разрабатывающей цифровой сервис для автомобильной отрасли. Задача — оптимизировать путь клиента от первого знакомства с продуктом до долгосрочного использования и построить систему роста.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23754,7 +24077,7 @@
     "duplicates": [],
     "part": 0,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -23783,7 +24106,7 @@
     "short_description": "Международная iGaming-компания ищет Product Manager с опытом в Sportsbook/Betting (опыт в Casino также рассматривается). Требуется проживание в Беларуси с возможностью приезда в офис несколько дней раз в квартал.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23813,7 +24136,7 @@
     "short_description": "Создание комплексного ИИ-агента для молодежных акселераторов. Работа с нейронными сетями, созданием баз данных для обучения, постановкой задач для DS/ML команды. Обновление образовательной программы по технологическому предпринимательству.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -23842,7 +24165,7 @@
     "short_description": "International gaming company seeking PM with 3+ years experience in B2C product development. Requires expertise in product metrics (retention, DAU/MAU, LTV, ARPU), A/B testing, user journey, and gaming mechanics. Gaming/GameDev, Web3, and Telegram Mini Apps experience is a plus.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -23876,7 +24199,7 @@
     "short_description": "Senior Product Manager role for Aqua product at 1inch Network. Position available for remote work with salary in currency.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23907,7 +24230,7 @@
     "duplicates": [],
     "part": 1,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -23938,7 +24261,7 @@
     "duplicates": [],
     "part": 0,
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -23980,7 +24303,7 @@
     "short_description": "FindMyKids is a growing mobile app with $50M ARR and 7M MAU that helps parents track their children's location globally. The role involves developing the product holistically, improving UX/UI, connecting user scenarios, and running 30+ experiments monthly with full autonomy.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2667909413,
@@ -24015,7 +24338,7 @@
     "short_description": "Ясно — лидер российского рынка Mental Health с сервисом видеоконсультаций. Ежегодно проходит более 1 млн сессий с более чем 4 тысячами психологов.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2298616665,
@@ -24045,7 +24368,7 @@
     "short_description": "Команда кросс-доменной координации Глобал и СНГ, реализующая ИТ-проекты, связанные с международным развитием Ozon. Отвечаете за продвижение Ozon в других странах (центральная Азия, Китай, Турция), локализацию и разработку собственных таможенных решений.",
     "duplicates": [],
     "is_new": false,
-    "is_archived": false
+    "is_archived": true
   },
   {
     "channel_id": 2823702878,
@@ -58388,102 +58711,6 @@
     "remote": false,
     "salary": "от 50 000 сом",
     "short_description": "Develop and maintain CRM system for microfinance organization. Collect and prioritize requirements from business divisions (underwriting, collections, customer service). Manage product backlog, write user stories, and collaborate with development team on releases and quality control.",
-    "duplicates": [],
-    "is_new": false,
-    "is_archived": true
-  },
-  {
-    "channel_id": 2823702878,
-    "channel_username": "jobs_product_managers",
-    "channel_title": "Вакансии продакт менеджеров",
-    "msg_id": 514,
-    "date_iso": "2026-06-06T19:02:50+00:00",
-    "text": "👨‍💻 Monetization Product Manager GameDev\n\n▪️Компания ChillBase\n▪️Домен #GameDev\n▪️Грейд #Senior #Head\n▪️Формат #Кипр #ГибридЛимассол\n\nВ ChillBase ищем Monetization Product Manager, который умеет находить баланс между интересами игроков, игровой экономикой и бизнес-результатом.\n\nЭта роль про гипотезы, эксперименты и постоянный поиск новых возможностей для роста. Нужно будет глубоко погружаться в поведение игроков, работать с данными и исследованиями, проверять идеи на практике и понимать, какие изменения действительно двигают продукт вперед.\nВ твоей зоне ответственности — монетизационное направление от формирования стратегии и роадмапа до развития команды и запуска новых решений. \n\nСсылка на пост LinkedIn\nСсылка на вакансию\n\n📱 Канал о карьере и поиске работы\n\n🔴 Бесплатная карьерная консультация",
-    "entities": [
-      {
-        "type": "text_url",
-        "offset": 692,
-        "length": 23,
-        "url": "https://www.linkedin.com/posts/chillgaming-ltd_%D0%B2-chillbase-%D0%B8%D1%89%D0%B5%D0%BC-monetization-product-manager-activity-7468585388366872577-UQZ3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
-      },
-      {
-        "type": "text_url",
-        "offset": 716,
-        "length": 18,
-        "url": "https://chillbase.net/ru/vacancies/monetization-product-manager/"
-      },
-      {
-        "type": "text_url",
-        "offset": 739,
-        "length": 31,
-        "url": "https://t.me/+PLiyUxATP4A0NGUy"
-      },
-      {
-        "type": "text_url",
-        "offset": 775,
-        "length": 33,
-        "url": "https://forms.gle/W76EseaonH3z7QsP8"
-      }
-    ],
-    "link": "https://t.me/jobs_product_managers/514",
-    "regex_matched": true,
-    "is_vacancy": true,
-    "title": "Senior Monetization Product Manager, GameDev",
-    "company": "ChillBase",
-    "location": "Лимассол, Кипр, гибрид",
-    "grade": "Senior",
-    "ml_ai": false,
-    "remote": false,
-    "salary": null,
-    "short_description": "Монетизационный PM для игровой компании ChillBase. Отвечаете за стратегию и роадмап монетизации, работаете с данными поведения игроков, проводите эксперименты и развиваете команду. Требуется баланс между интересами игроков, экономикой игры и бизнес-результатами.",
-    "duplicates": [],
-    "is_new": false,
-    "is_archived": true
-  },
-  {
-    "channel_id": 2823702878,
-    "channel_username": "jobs_product_managers",
-    "channel_title": "Вакансии продакт менеджеров",
-    "msg_id": 513,
-    "date_iso": "2026-06-06T17:17:35+00:00",
-    "text": "💙 Product Manager и Product Lead VK \n\n▪️Компания VK\n▪️Домен #BigTech \n▪️Грейд #Senior #Lead\n▪️Формат #УдаленкаРФ #ГибридМосква\n\nVK – это экосистема, которая объединяет 91 млн пользователей в Вконтакте, 45 млн — в ВК Музыке и 2.7 млрд просмотров в ВК Видео ежедневно. Мы строим технологии, которые влияют на способ общения, развлечений и взаимодействия миллионов людей\n \nИщем опытных Product Manager (Senior), Product Lead которые умеют строить масштабные продукты, основываясь на понимании рынка, данных и потребностей пользователей, а также вдохновляют команды и ищут возможности для инноваций в B2B, B2C и Social E-commerce \n \nЧто вас ждёт: \n- Работа с масштабными продуктами, которые используются миллионами\n- Современные подходы к управлению продуктом и сильные команды\n- Возможность влиять на развитие экосистемы и строить будущее\n- Конкурентоспособные условия работы, гибкий график, программа благополучия, ДМС\n\nСсылка на пост LinkedIn\n\n📱 Канал о карьере и поиске работы\n\n🔴 Бесплатная карьерная консультация",
-    "entities": [
-      {
-        "type": "text_url",
-        "offset": 50,
-        "length": 2,
-        "url": "https://team.vk.company/company/"
-      },
-      {
-        "type": "text_url",
-        "offset": 919,
-        "length": 23,
-        "url": "https://www.linkedin.com/posts/valentina-perelomova-59392925b_%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-%D0%B8%D1%89%D1%83-product-manager-senior-activity-7465434964566790144-tNBB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbdWOIBXGgPK4S7Ginq_1EhzkC-Dc_NtQw"
-      },
-      {
-        "type": "text_url",
-        "offset": 947,
-        "length": 31,
-        "url": "https://t.me/+PLiyUxATP4A0NGUy"
-      },
-      {
-        "type": "text_url",
-        "offset": 983,
-        "length": 33,
-        "url": "https://forms.gle/W76EseaonH3z7QsP8"
-      }
-    ],
-    "link": "https://t.me/jobs_product_managers/513",
-    "regex_matched": true,
-    "is_vacancy": true,
-    "title": "Product Manager Senior / Product Lead",
-    "company": "VK",
-    "location": "Москва, гибрид / Удалённо (РФ)",
-    "grade": "Senior / Lead",
-    "ml_ai": false,
-    "remote": true,
-    "salary": null,
-    "short_description": "Экосистема с 91 млн пользователей в ВКонтакте, 45 млн в ВК Музыке и 2.7 млрд просмотров в ВК Видео ежедневно. Поиск опытных Product Manager и Product Lead для масштабных продуктов в B2B, B2C и Social E-commerce с фокусом на данные, понимание рынка и потребности пользователей.",
     "duplicates": [],
     "is_new": false,
     "is_archived": true
