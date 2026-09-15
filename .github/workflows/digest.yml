@@ -2,7 +2,7 @@ name: digest
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # 09:00 MSK
+    - cron: "0 6 * * *"   # 09:00 MSK; GitHub often starts scheduled runs hours late
   workflow_dispatch:
 
 permissions:
@@ -11,6 +11,11 @@ permissions:
 concurrency:
   group: digest
   cancel-in-progress: false
+
+# The built site and the pipeline state (vacancies.json, history.json) live on
+# the gh-pages branch, which is replaced by a single commit on every run. They
+# used to be committed to main daily, and their old versions made up nearly the
+# whole repository.
 
 jobs:
   build:
@@ -29,6 +34,26 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Restore state from gh-pages
+        run: |
+          # Exit code 2 means the branch does not exist; anything else non-zero
+          # is a failure. Never start from empty state on a failed lookup: the
+          # publish step would then overwrite the stored vacancies.
+          set +e
+          git ls-remote --exit-code --heads origin gh-pages
+          rc=$?
+          set -e
+          if [ "$rc" -eq 2 ]; then
+            echo "No gh-pages branch yet, starting with an initial backfill."
+          elif [ "$rc" -ne 0 ]; then
+            exit "$rc"
+          else
+            git fetch --depth=1 origin gh-pages
+            mkdir -p data
+            git show FETCH_HEAD:data/vacancies.json > data/vacancies.json
+            git show FETCH_HEAD:data/history.json > data/history.json
+          fi
+
       - name: Run pipeline
         env:
           TG_API_ID: ${{ secrets.TG_API_ID }}
@@ -36,14 +61,18 @@ jobs:
           TG_SESSION_B64: ${{ secrets.TG_SESSION_B64 }}
         run: python scripts/main.py
 
-      - name: Commit & push results
+      - name: Publish to gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          rm -rf _site && mkdir -p _site/data
+          cp -r index.html static _site/
+          cp data/vacancies.json data/history.json _site/data/
+          touch _site/.nojekyll
+          cd _site
+          git init -q -b gh-pages
           git config user.name  "tg-digest-bot"
           git config user.email "tg-digest-bot@users.noreply.github.com"
-          git add index.html data/vacancies.json data/history.json
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "digest: $(date -u +'%Y-%m-%dT%H:%MZ')"
-            git push
-          fi
+          git add -A
+          git commit -q -m "digest: $(date -u +'%Y-%m-%dT%H:%MZ')"
+          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" gh-pages

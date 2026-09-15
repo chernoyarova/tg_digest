@@ -102,8 +102,7 @@ That's it. You now have your own digest.
 ## Deploy on GitHub Pages
 
 1. Push to GitHub.
-2. **Settings → Pages** → set source to `main` branch, root.
-3. **Settings → Secrets and variables → Actions** → add the three secrets below:
+2. **Settings → Secrets and variables → Actions** → add the three secrets below:
 
 | Secret | Where to get it |
 |---|---|
@@ -111,7 +110,18 @@ That's it. You now have your own digest.
 | `TG_API_HASH` | https://my.telegram.org |
 | `TG_SESSION_B64` | Output of `generate_session.py` |
 
-The included GitHub Actions workflow runs the pipeline daily, commits the regenerated `data/` and `index.html`, and GitHub Pages serves it.
+3. Run the **digest** workflow once (**Actions → digest → Run workflow**). It creates the `gh-pages` branch.
+4. **Settings → Pages** → set source to the `gh-pages` branch, root.
+
+The workflow runs the pipeline daily and publishes the result to `gh-pages`: `index.html`, `static/`, and the pipeline state in `data/` (`vacancies.json`, `history.json`), which the next run reads back. The branch is replaced by a single commit each time, so the daily rebuilds do not pile up in the repository's history. `main` holds only code.
+
+To run locally on top of the published state instead of a fresh 30-day backfill:
+
+```bash
+git fetch origin gh-pages
+git show origin/gh-pages:data/vacancies.json > data/vacancies.json
+git show origin/gh-pages:data/history.json > data/history.json
+```
 
 ## Configuration
 

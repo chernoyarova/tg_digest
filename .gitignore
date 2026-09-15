@@ -223,5 +223,10 @@ __marimo__/
 data/raw_tg.json
 data/parsed.json
 data/enriched.json
+# Published to the gh-pages branch by CI, not kept on main.
+data/vacancies.json
+data/history.json
+/index.html
+/_site/
 .DS_Store
 .qodo/
