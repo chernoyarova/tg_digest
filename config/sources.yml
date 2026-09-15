@@ -1,4 +1,13 @@
+# Which role the digest is for: profiles/<name>.yml holds the role's regexes
+# and the page title. Ships with `product` and `frontend`.
+profile: product
+
 tg_folder_name: vacancy
+
+# Lines some channels append to every post — a row of navigation links, an
+# ad for a bot. Regexes; a matching line is skipped when the title, fields
+# and description are read (the full post is still shown as is).
+ignore_lines: []
 
 # Initial backfill window (days). Subsequent runs are incremental.
 initial_backfill_days: 30

@@ -1,0 +1,78 @@
+# Product Manager jobs. This is the profile the digest was built and tuned
+# on; copy it to make a digest for another role (see README, "Other roles").
+#
+# Regexes are compiled with IGNORECASE and UNICODE, so \b works on Cyrillic.
+# Russian nouns decline, hence the (?:а|у|ом|…)? endings.
+
+site:
+  title: Product jobs          # headline and <title>: "Product jobs, from Telegram"
+  tagline: from Telegram
+
+roles:
+  # A post is looked at only if it names the role somewhere in the text.
+  # These spellings name a Product role and nothing else.
+  patterns:
+    - '\bпродакт(?:а|у|ом|е|ы|ов|ам|ами|ах)?\b'
+    - '\bпродакт[- ]?менеджер(?:а|у|ом|е|ы|ов|ам|ами|ах)?\b'
+    - '\bменеджер(?:а|у|ом|е|ы|ов|ам|ами|ах)?\s+(?:по\s+)?продукт(?:а|у|ом|е|ов|ам|ами|ах)?\b'
+    - '\bруководител(?:ь|я|ю|ем|и|ей|ям|ями|ях)\s+(?:по\s+)?продукт(?:а|у|ом|е|ов|ам|ами|ах)?\b'
+    - '\bруководител(?:ь|я|ю|ем|и|ей|ям|ями|ях)\s+продуктовог[оа]\s+направлени(?:я|ю|е|ем|ях)\b'
+    - '\bдиректор(?:а|у|ом|е|ы|ов|ам|ами|ах)?\s+(?:по\s+)?продукт(?:а|у|ом|е|ов|ам|ами|ах)?\b'
+    - '\bпродакт[- ]?о[вн]нер(?:а|у|ом|е|ы|ов|ам|ами|ах)?\b'
+    - '\bпрод[- ](?:менеджер|овнер|онер|лид)(?:а|у|ом|е|ы|ов|ам|ами|ах)?\b'
+    - '\b(?:ml|ai|дата|data|tech|growth|platform)[- ]?продакт(?:а|у|ом|е|ы|ов|ам|ами|ах)?\b'
+    - '\bпродакт[- ](?:ml|ai|дата|data|tech|growth|platform)\b'
+    - '\bproduct[- ]?manager(?:s)?\b'
+    - '\bproduct[- ]?owner(?:s)?\b'
+    - '\bproduct[- ]?lead(?:s)?\b'
+    - '\b(?:ml|ai|data|tech|growth|platform)[- ]?product[- ]?manager(?:s)?\b'
+    - '\bproduct[- ]?manager[- ]?(?:ml|ai|data|tech|growth|platform)\b'
+    - '\bhead\s+of\s+product\b'
+    - '\bdirector\s+of\s+product\b'
+    - '\bvp\s+(?:of\s+)?product\b'
+    - '\bchief\s+product\s+officer\b'
+    - '(?<!\d)\b(?:cpo|apm|gpm)\b(?!\d)'
+
+  # Abbreviations that mean this role as often as another one (PM is a
+  # Project or Program Manager too). They let a post in, but do not name its
+  # role: the title decides.
+  loose:
+    - '(?<!\d)\b(?:pm|spm|tpm|pdm)\b(?!\d)'
+
+  # Inside a roundup post, a headline with one of these words is one of ours
+  # even when `patterns` do not match it ("Владелец продукта").
+  hint:
+    - 'продукт|продакт|product|\bcpo\b'
+
+  # Spellings `patterns` do not cover, checked on the title alone, so that
+  # "Владелец продукта (портфель и аналитика)" is not taken for an analyst.
+  title_extra:
+    - 'владел\w+\s+продукт\w*'
+    - 'head\s+of\s+(?:[\w-]+\s+){0,2}product'
+    - 'продуктов\w+\s+менеджмент\w*'
+    - 'product\s*(?:/|&|and|и)\s*project'
+    - 'руководител\w+\s+(?:\w+\s+)?продукт\w*'
+
+  # Neighbouring roles. A post can mention "PM" in passing while hiring one
+  # of these; a title naming one, and no role of ours, drops the card.
+  exclude:
+    - 'project\s*manager|проджект|менеджер\w*\s+проект\w*|руководител\w*\s+проект\w*|проектн\w+\s+менеджер'
+    - 'delivery|scrum|program\s*manager'
+    - 'разработчик|developer|engineer|инженер(?:а|ом|ы|ов)?\b'
+    - '\ba?qa\b|тестировщик|devops'
+    - 'analyst|аналитик(?:а|ом|и|ов)?\b'
+    - 'designer|дизайнер|recruiter|рекрутер'
+
+# Spellings of a level that are specific to this role. The generic ones
+# (senior, lead, junior, старший…) are built in.
+grades_extra:
+  Head: 'head of product|chief product officer|\bcpo\b|vp,? (?:of )?product|директор по продукт\w*|продуктов\w+ директор'
+  Lead: 'продакт[- ]лид|group product manager|\bgpm\b|руководител\w+ продукт\w*'
+
+# Each tag is a flag on the card and a "ТОЛЬКО <label>" toggle in the
+# filters. It is set when the pattern matches the title, the opening of the
+# post, or the post three times over — a single passing mention is not it.
+tags:
+  - key: ml_ai
+    label: ML/AI
+    pattern: '\bml\b|\bai\b|\bllm\b|\bgpt\b|\bnlp\b|ml[- ](?:продакт|platform|ops)|ai[- ]продакт|машинн\w+ обучени\w*|искусственн\w+ интеллект\w*|нейросет\w*|нейронн\w+ сет\w*|data scien\w*|дата[- ]сайенс|рекомендательн\w+ систем\w*|генеративн\w*'

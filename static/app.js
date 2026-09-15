@@ -2,6 +2,9 @@
 
 const dataEl = document.getElementById('vacancies-data');
 const data = JSON.parse(dataEl.textContent || '[]');
+// The profile's tags: [{key, label}]. Each is a boolean field on a vacancy,
+// a chip on the card and a "Только <label>" toggle in the filters.
+const TAGS = JSON.parse(document.getElementById('digest-tags')?.textContent || '[]');
 const byUid = new Map();
 
 const state = {
@@ -9,7 +12,7 @@ const state = {
   location: 'all',
   grade: 'all',
   sort: 'date',
-  mlOnly: false,
+  tags: new Set(),   // keys of the toggles that are on; a card must have them all
   query: '',
 };
 
@@ -168,7 +171,10 @@ function matchesTab(v) {
   return false;
 }
 
-function matchesMl(v) { return state.mlOnly ? v.ml_ai === true : true; }
+function matchesTags(v) {
+  for (const key of state.tags) if (v[key] !== true) return false;
+  return true;
+}
 
 function matchesQuery(v) {
   if (!state.query) return true;
@@ -196,7 +202,7 @@ function sortItems(arr) {
 function filtered() {
   const items = data.filter(v =>
     matchesTab(v) && matchesLocation(v) && matchesGrade(v) &&
-    matchesMl(v) && matchesQuery(v)
+    matchesTags(v) && matchesQuery(v)
   );
   return sortItems(items);
 }
@@ -208,7 +214,7 @@ function tabCount(tab) {
     state.tab = tab;
     const ok = matchesTab(v);
     state.tab = prev;
-    return ok && matchesLocation(v) && matchesGrade(v) && matchesMl(v) && matchesQuery(v);
+    return ok && matchesLocation(v) && matchesGrade(v) && matchesTags(v) && matchesQuery(v);
   }).length;
 }
 
@@ -273,7 +279,9 @@ function renderTextWithLinks(text, entities) {
 function tagList(v) {
   const tags = [];
   if (v.grade) tags.push(`<span class="tag tag-grade">${escapeHtml(v.grade)}</span>`);
-  if (v.ml_ai) tags.push('<span class="tag tag-ml">ML/AI</span>');
+  for (const t of TAGS) {
+    if (v[t.key]) tags.push(`<span class="tag tag-accent">${escapeHtml(t.label)}</span>`);
+  }
   if (v.remote) tags.push('<span class="tag">Remote</span>');
   if (v.salary) tags.push(`<span class="tag">${escapeHtml(v.salary)}</span>`);
   return tags.join('');
@@ -387,7 +395,7 @@ function render() {
 
   if (!currentItems.length) {
     const canReset = state.location !== 'all' || state.grade !== 'all' ||
-                     state.mlOnly || state.query;
+                     state.tags.size || state.query;
     root.innerHTML = `
       <div class="empty">
         <p class="empty-title">Ничего не найдено</p>
@@ -488,11 +496,13 @@ document.querySelector('.filter-dropdown--period .filter-popover')?.addEventList
   setPeriod(item.dataset.value);
 });
 
-// ---------- ML toggle ----------
-document.getElementById('ml-toggle').addEventListener('change', e => {
-  state.mlOnly = e.target.checked;
+// ---------- Tag toggles ----------
+const tagToggles = document.querySelectorAll('input[data-tag]');
+tagToggles.forEach(input => input.addEventListener('change', e => {
+  if (e.target.checked) state.tags.add(e.target.dataset.tag);
+  else state.tags.delete(e.target.dataset.tag);
   render();
-});
+}));
 
 // ---------- Search ----------
 const SEARCH_DEBOUNCE_MS = 150;
@@ -510,14 +520,14 @@ function activeFilterCount() {
   let n = 0;
   if (state.location !== 'all') n++;
   if (state.grade !== 'all') n++;
-  if (state.mlOnly) n++;
+  n += state.tags.size;
   return n;
 }
 
 function updateResetVisibility() {
   if (!resetBtnEl) return;
   const active = state.location !== 'all' || state.grade !== 'all' ||
-                 state.mlOnly || state.query || state.sort !== 'date';
+                 state.tags.size || state.query || state.sort !== 'date';
   resetBtnEl.hidden = !active;
 }
 
@@ -571,9 +581,9 @@ resetBtnEl?.addEventListener('click', () => {
   setFilterValue('location', 'all');
   setFilterValue('grade', 'all');
   setFilterValue('sort', 'date');
-  state.mlOnly = false;
+  state.tags.clear();
   state.query = '';
-  document.getElementById('ml-toggle').checked = false;
+  tagToggles.forEach(input => { input.checked = false; });
   document.getElementById('search-input').value = '';
   render();
 });
@@ -682,7 +692,7 @@ function renderModalContent(v) {
     <h2 class="modal-title" id="modal-title">${escapeHtml(v.title || '')}</h2>
     ${byline ? `<div class="modal-byline">${byline}</div>` : ''}
     ${tags ? `<div class="v-tags modal-tags">${tags}</div>` : ''}
-    <div class="modal-text">${renderTextWithLinks(v.text || '', v.entities)}</div>
+    <div class="modal-text${(v.text || '').includes('\n') ? '' : ' modal-text--line'}">${renderTextWithLinks(v.text || '', v.entities)}</div>
     <div class="modal-actions">
       <a class="btn-open" href="${escapeHtml(v.link)}" target="_blank" rel="noopener"
          data-count-uid="${escapeHtml(vUid(v))}">Открыть в Telegram →</a>

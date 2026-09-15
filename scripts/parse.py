@@ -1,8 +1,11 @@
-"""Stage-1 filter: regex-match posts that look like Product/PM vacancies.
+"""Stage-1 filter: regex-match posts that name the role of the active profile.
 
-False positives (articles about PMs, courses for PMs, memes) are filtered out
+False positives (articles about the role, courses, memes) are filtered out
 later by the rule-based stage-2 filter in enrich.py. This stage is
 intentionally permissive.
+
+The patterns come from profiles/<name>.yml (`roles.patterns` and
+`roles.loose`); see role_profile.py.
 
 Input:  data/raw_tg.json
 Output: data/parsed.json
@@ -10,72 +13,18 @@ Output: data/parsed.json
 from __future__ import annotations
 
 import json
-import re
 from pathlib import Path
+
+from role_profile import PROFILE
 
 ROOT = Path(__file__).resolve().parent.parent
 RAW_PATH = ROOT / "data" / "raw_tg.json"
 PARSED_PATH = ROOT / "data" / "parsed.json"
 
-
-# =============================================================================
-# Vacancy keyword pattern. Combined via | and compiled with IGNORECASE+UNICODE.
-# Each entry below covers a category from the brief. Word boundaries (\b)
-# work correctly with Cyrillic under re.UNICODE.
-# =============================================================================
-_PATTERNS: list[str] = [
-    # --- "продакт" in all Russian cases (продакт/-а/-у/-ом/-е/-ы/-ов/-ам/-ами/-ах) ---
-    r"\bпродакт(?:а|у|ом|е|ы|ов|ам|ами|ах)?\b",
-
-    # --- продакт-менеджер / продакт менеджер / продактменеджер + все падежи ---
-    r"\bпродакт[- ]?менеджер(?:а|у|ом|е|ы|ов|ам|ами|ах)?\b",
-
-    # --- менеджер продукта / менеджер по продукту ---
-    r"\bменеджер(?:а|у|ом|е|ы|ов|ам|ами|ах)?\s+(?:по\s+)?продукт(?:а|у|ом|е|ов|ам|ами|ах)?\b",
-
-    # --- руководитель продукта / по продукту / продуктового направления ---
-    r"\bруководител(?:ь|я|ю|ем|и|ей|ям|ями|ях)\s+(?:по\s+)?продукт(?:а|у|ом|е|ов|ам|ами|ах)?\b",
-    r"\bруководител(?:ь|я|ю|ем|и|ей|ям|ями|ях)\s+продуктовог[оа]\s+направлени(?:я|ю|е|ем|ях)\b",
-
-    # --- директор по продукту / продукта ---
-    r"\bдиректор(?:а|у|ом|е|ы|ов|ам|ами|ах)?\s+(?:по\s+)?продукт(?:а|у|ом|е|ов|ам|ами|ах)?\b",
-
-    # --- продакт-овнер / продакт-онер (включая опечатку) ---
-    r"\bпродакт[- ]?о[вн]нер(?:а|у|ом|е|ы|ов|ам|ами|ах)?\b",
-
-    # --- сленг: прод-менеджер, прод-овнер, прод-лид ---
-    r"\bпрод[- ](?:менеджер|овнер|онер|лид)(?:а|у|ом|е|ы|ов|ам|ами|ах)?\b",
-
-    # --- ML/AI/Data/Tech/Growth/Platform продакт (Russian transliteration) ---
-    r"\b(?:ml|ai|дата|data|tech|growth|platform)[- ]?продакт(?:а|у|ом|е|ы|ов|ам|ами|ах)?\b",
-    r"\bпродакт[- ](?:ml|ai|дата|data|tech|growth|platform)\b",
-
-    # --- English: product manager(s) / owner(s) / lead, hyphen + concat ---
-    r"\bproduct[- ]?manager(?:s)?\b",
-    r"\bproduct[- ]?owner(?:s)?\b",
-    r"\bproduct[- ]?lead(?:s)?\b",
-
-    # --- ML/AI/Data/Tech/Growth/Platform product manager (English) ---
-    r"\b(?:ml|ai|data|tech|growth|platform)[- ]?product[- ]?manager(?:s)?\b",
-    r"\bproduct[- ]?manager[- ]?(?:ml|ai|data|tech|growth|platform)\b",
-
-    # --- Leadership: Head/Director/VP of Product, Chief Product Officer ---
-    r"\bhead\s+of\s+product\b",
-    r"\bdirector\s+of\s+product\b",
-    r"\bvp\s+(?:of\s+)?product\b",
-    r"\bchief\s+product\s+officer\b",
-    r"(?<!\d)\b(?:cpo|apm|gpm)\b(?!\d)",
-]
-
-# --- Abbreviations (loose; enrich.py filters false positives) ---
-# PM / SPM / TPM / PdM stand for Project/Program Manager as often as Product
-# Manager, so they are good enough to let a post in but not to name its role.
-# Avoid matching inside digits like "8pm".
-_AMBIGUOUS_ABBREVIATIONS = r"(?<!\d)\b(?:pm|spm|tpm|pdm)\b(?!\d)"
-
-# A role that is unambiguously a Product one, without the loose abbreviations.
-ROLE_RE = re.compile("|".join(_PATTERNS), re.IGNORECASE | re.UNICODE)
-VACANCY_RE = re.compile("|".join([*_PATTERNS, _AMBIGUOUS_ABBREVIATIONS]), re.IGNORECASE | re.UNICODE)
+# A role that is unambiguously ours, without the loose abbreviations.
+ROLE_RE = PROFILE.role_re
+# Good enough to let a post in, not to name its role.
+VACANCY_RE = PROFILE.vacancy_re
 
 
 def matches(text: str) -> bool:

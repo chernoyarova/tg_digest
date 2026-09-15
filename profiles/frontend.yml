@@ -1,0 +1,60 @@
+# Frontend developer jobs. The second profile, tuned on a folder of frontend
+# channels for a shorter time than `product`; expect to adjust it to your
+# channels. See profiles/product.yml for what each key does.
+
+site:
+  title: Frontend jobs
+  tagline: from Telegram
+
+roles:
+  patterns:
+    - '\bfront[- ]?end\w*'
+    - '\bфронт(?:енд|энд)\w*'
+    - '\bфронт[- ]?(?:разработчик|dev|девелопер)\w*'
+    - '\breact(?:\.?js| native)?\b|\bреакт\w*'
+    - '\bvue(?:\.?js)?\b|\bnuxt\b'
+    - '\bangular\w*'
+    - '\bsvelte\w*|\bnext\.?js\b|\bremix\b|\bsolid\.?js\b'
+    - '\bjavascript[- ]?(?:developer|engineer|разработчик\w*|dev)\b'
+    - '(?<![\w.])(?:js|ts)[- ]?(?:developer|engineer|разработчик\w*|dev)\b'
+    - '\btypescript[- ]?(?:developer|engineer|разработчик\w*)\b'
+    - '\bверстальщик\w*'
+    - '\bweb[- ]?(?:developer|engineer)s?\b|\bвеб[- ]?разработчик\w*'
+
+  # Lets a post in without naming the role: "JS" alone is a language, and a
+  # fullstack post is ours only if its title does not turn out to be PHP.
+  loose:
+    - '(?<![\w.])(?:js|ts)(?![\w.])'
+    - '\bfull[- ]?stack\w*|\bфулл?[- ]?стек\w*'
+
+  hint:
+    - 'front|фронт|react|реакт|vue|angular|svelte|javascript|typescript|верстальщик|full[- ]?stack|фулл?стек'
+
+  title_extra:
+    - 'разработчик\w*\s+(?:интерфейс|пользовательск\w+\s+интерфейс|веб)\w*'
+    - 'ui\s+(?:developer|engineer)'
+
+  # Neighbouring roles: other stacks, mobile, QA, design, management, and a
+  # bare "Разработчик" that names no stack at all.
+  exclude:
+    - 'back[- ]?end|бэк[- ]?енд|бек[- ]?енд|\bphp\b|python|django|golang|\bgo\b|java\b|kotlin|c#|\.net|ruby|node\.?js|nodejs|1[cс]\b|bitrix|битрикс'
+    - 'android|\bios\b|swift|flutter|mobile\s+developer|мобильн\w+\s+разработчик|desktop'
+    - '\ba?qa\b|тестировщик|автотест|devops|sre\b|data\s+engineer|ml\s+engineer|системн\w+\s+администратор'
+    - 'дизайнер|designer|ux/ui|ui/ux'
+    - 'product\s*manager|продакт|project\s*manager|проджект|аналитик|analyst|recruiter|рекрутер'
+    - '^(?:программист|разработчик|инженер)(?:[\s-]+(?:программист|разработчик|инженер))?$'
+
+grades_extra:
+  Head: 'head of (?:front\w*|engineering|web)|\bcto\b|руководител\w+ (?:отдела|направления) (?:фронт|разработк)\w*'
+  Lead: 'tech\s*lead|техлид|тимлид|team\s*lead|architect|архитектор'
+
+tags:
+  - key: react
+    label: React
+    pattern: '\breact(?:\.?js| native)?\b|\bреакт\w*|\bnext\.?js\b'
+  - key: vue
+    label: Vue
+    pattern: '\bvue(?:\.?js)?\b|\bnuxt\b'
+  - key: typescript
+    label: TypeScript
+    pattern: '\btypescript\b|(?<![\w.])ts(?![\w.])'

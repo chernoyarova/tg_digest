@@ -1,9 +1,14 @@
 """Stage-2 filter + field extraction. Rule-based, no LLM API involved.
 
 Every field the frontend needs (title, company, location, grade, salary,
-remote/ML flags, short description) is derived from the post text with regexes
-and keyword lists. No external API is called, so the pipeline runs with the
-Telegram credentials alone.
+remote flag, tags, short description) is derived from the post text with
+regexes and keyword lists. No external API is called, so the pipeline runs
+with the Telegram credentials alone.
+
+What is a hiring post, and how company, location, salary and the like are
+read, is the same for any role and lives here. What the role *is* — which
+titles are ours, which neighbouring roles to drop, role-specific grade words,
+the tags — comes from the active profile (profiles/<name>.yml).
 
 The trade-off vs. the previous LLM-based step: the filter is a little more
 permissive (a few non-vacancy posts slip through) and company/location are
@@ -20,11 +25,25 @@ import re
 import unicodedata
 from pathlib import Path
 
+import yaml
+
 from parse import ROLE_RE, VACANCY_RE
+from role_profile import PROFILE
 
 ROOT = Path(__file__).resolve().parent.parent
+CONFIG_PATH = ROOT / "config" / "sources.yml"
 PARSED_PATH = ROOT / "data" / "parsed.json"
 ENRICHED_PATH = ROOT / "data" / "enriched.json"
+
+# Lines some channels put in every post — a navigation row of links, an ad
+# for a bot. `ignore_lines` in config/sources.yml names them; they are left
+# out when reading a post, though the modal still shows the post whole.
+_config = yaml.safe_load(CONFIG_PATH.read_text(encoding="utf-8")) or {}
+IGNORE_LINE_RES = [re.compile(p, re.IGNORECASE | re.UNICODE) for p in _config.get("ignore_lines") or []]
+
+
+def _ignored(line: str) -> bool:
+    return any(r.search(line) for r in IGNORE_LINE_RES)
 
 MIN_TEXT_LEN = 120
 DIGEST_BLOCK_MIN_LEN = 60
@@ -40,7 +59,8 @@ VARIATION_SELECTORS = {chr(c) for c in range(0xFE00, 0xFE10)}
 MD_LINK_RE = re.compile(r"\[([^\]]+)\]\((?:[^)]+)\)")
 URL_RE = re.compile(r"https?://\S+|t\.me/\S+|@[A-Za-z0-9_]{4,}")
 MD_MARKS_RE = re.compile(r"[*_~`]{1,3}")
-HASHTAG_RE = re.compile(r"#\S+")
+# "#вакансия", but not the "#" of "C#/.NET".
+HASHTAG_RE = re.compile(r"(?<!\w)#\w\S*")
 BULLET_RE = re.compile(r"^[\s\-–—•·▪️✔️✅➡️👉>»\|]+")
 WS_RE = re.compile(r"[ \t]+")
 
@@ -72,7 +92,9 @@ def _clean_line(line: str) -> str:
 
 
 def _lines(text: str) -> list[str]:
-    return [ln for ln in (_clean_line(l) for l in (text or "").splitlines()) if ln]
+    return [
+        ln for ln in (_clean_line(l) for l in (text or "").splitlines() if not _ignored(l)) if ln
+    ]
 
 
 # Channel-level headers some feeds prepend to every post ("Новые вакансии …").
@@ -84,9 +106,11 @@ HEADER_RE = re.compile(
 )
 # "Вакансия: Senior Product Manager" matches HEADER_RE, but it names this post's
 # own role — it is the title, and stripping it hands the title to whatever
-# sentence comes next ("Ищем выделенного PM в команду…").
+# sentence comes next ("Ищем выделенного PM в команду…"). "Должность: X" and
+# "Позиция: X" are the same thing in field-style posts.
 VACANCY_LABEL_RE = re.compile(
-    r"^(?:нов\w+\s+|открыт\w+\s+)?вакансия\s*[:—–-]\s*(?!дня\b|недели\b|месяца\b)\w",
+    r"^(?:нов\w+\s+|открыт\w+\s+)?(?:вакансия|должность|позиция|position|role)"
+    r"\s*[:—–-]\s*(?!дня\b|недели\b|месяца\b)\w",
     re.IGNORECASE | re.UNICODE,
 )
 
@@ -139,20 +163,69 @@ def _is_headline(chunk: str) -> bool:
     return bool(second) and len(second) <= LOCATION_LINE_MAX_LEN and second[-1] not in ".!:;"
 
 
-def split_digest(text: str) -> list[tuple[int, str]]:
+LIST_ITEM_MIN_LEN = 15
+
+
+def _split_list(text: str, entities: list[dict] | None) -> list[tuple[int, str]]:
+    """Split a roundup that lists its vacancies one per line, each a link.
+
+    The shape is "Подборка …", then sections like "Middle Frontend:" holding
+    bullet lines "- <role> в <company>" that are hidden links to the actual
+    posting. A line is an item when it opens with a bullet, names the role,
+    and carries a link entity — the link is what tells such a list from the
+    requirement bullets of an ordinary post ("- React", "- TypeScript"). The
+    rest of the post may only be the header, section labels ending in ":" and
+    lines the config ignores; anything else means this is not that shape.
+    Blocks start after the bullet, so the entity re-basing lands on the text.
+    """
+    links = [
+        (e["offset"], e["offset"] + e["length"])
+        for e in entities or []
+        if e.get("type") in ("url", "text_url")
+    ]
+    items: list[tuple[int, str]] = []
+    pos = 0       # offset in code points, for slicing
+    u16 = 0       # the same position in UTF-16 units, for the entities
+    for line in text.split("\n"):
+        start, end = pos, pos + len(line)
+        u16_start, u16_end = u16, u16 + _utf16_len(line)
+        pos, u16 = end + 1, u16_end + 1
+        stripped = line.strip()
+        if not stripped or _ignored(stripped):
+            continue
+        clean = _clean_line(line)
+        bullet = BULLET_PREFIX_RE.match(line)
+        linked = any(a < u16_end and b > u16_start for a, b in links)
+        if (
+            bullet and linked and clean and len(clean) <= HEADLINE_MAX_LEN
+            and (VACANCY_RE.search(clean) or PROFILE.hint_re.search(clean))
+        ):
+            body_start = start + len(line) - len(line[bullet.end():].lstrip())
+            items.append((body_start, text[body_start:end].rstrip()))
+        elif not (stripped.endswith(":") or DIGEST_HEADER_RE.match(clean)):
+            return []
+    return items if len(items) >= 2 else []
+
+
+def split_digest(text: str, entities: list[dict] | None = None) -> list[tuple[int, str]]:
     """Split a digest post into its vacancies as (offset, block) pairs.
 
     Some channels post one message per vacancy, others publish a roundup: a
     header line, then several vacancies separated by blank lines, each opening
     with a "<role> в <company>" headline. Those roundups used to become a
     single card carrying the first vacancy's title, which left the rest
-    invisible to search and filters.
+    invisible to search and filters. A roundup can also be a list of linked
+    one-liners; see _split_list.
 
     Only a post that both announces itself as a roundup and holds two or more
     headline blocks is split; anything else is returned whole, so ordinary
     posts (which also use blank lines) are never chopped up. Offsets are into
     the original text, so callers can re-base the message entities.
     """
+    items = _split_list(text, entities)
+    if items:
+        return items
+
     chunks: list[tuple[int, str]] = []
     pos = 0
     for match in BLANK_LINE_RE.finditer(text):
@@ -198,7 +271,7 @@ def _rebase_entities(entities: list[dict] | None, text: str, start: int, block: 
 
 def _body(text: str) -> str:
     """Post text without the channel's boilerplate header line."""
-    lines = (text or "").split("\n")
+    lines = [line for line in (text or "").split("\n") if not _ignored(line)]
     while lines:
         first = _clean_line(lines[0])
         if not first:
@@ -240,7 +313,8 @@ SEEKER_RE = re.compile(
 PROMO_RE = re.compile(
     r"курс|вебинар|интенсив|марафон|бесплатн\w* (?:урок|занятие|вебинар|мастер-класс)"
     r"|разбор резюме|карьерн\w+ консультаци|менторств|реклама|erid|розыгрыш|промокод"
-    r"|подборка вакансий|дайджест"
+    r"|подборка вакансий|подборк\w+ (?:для|\S*-?ваканси)|дайджест"
+    r"|тестов\w+ собеседовани|mock[- ]?interview"
     r"|митап|meetup|приглашаем на (?:митап|конференци\w*|встреч\w*|трансляци\w*)",
     re.IGNORECASE | re.UNICODE,
 )
@@ -248,41 +322,23 @@ PROMO_RE = re.compile(
 
 # Inside a roundup the stage-1 role regex is too narrow: it misses "Владелец
 # продукта" (Product Owner) or "Руководитель по развитию продукта", which used
-# to stay visible in the merged card's text. A product word in the headline is
-# enough there, while "Project Manager" or "Руководитель направления Логопедия"
-# still drop out.
-PRODUCT_HINT_RE = re.compile(r"продукт|продакт|product|\bcpo\b", re.IGNORECASE | re.UNICODE)
-
-
-def _is_product_role(text: str) -> bool:
+# to stay visible in the merged card's text. A hint word from the profile in
+# the headline is enough there, while "Project Manager" or "Руководитель
+# направления Логопедия" still drop out.
+def _is_our_role(text: str) -> bool:
     first = _clean_line(text.split("\n", 1)[0])
-    return bool(PRODUCT_HINT_RE.search(first))
+    return bool(PROFILE.hint_re.search(first))
 
 
 # A post can mention "PM" or "разгрузить продакта" in passing while hiring a
 # Project Manager or an engineer, so the stage-1 match on the whole text is not
-# enough: the role the card ends up titled with decides. A title that names a
-# product role stays even next to another one ("Product / Project Manager").
-NON_PRODUCT_ROLE_RE = re.compile(
-    r"project\s*manager|проджект|менеджер\w*\s+проект\w*|руководител\w*\s+проект\w*|проектн\w+\s+менеджер"
-    r"|delivery|scrum|program\s*manager|разработчик|developer|engineer|инженер(?:а|ом|ы|ов)?\b"
-    r"|\ba?qa\b|тестировщик|devops|analyst|аналитик(?:а|ом|и|ов)?\b|designer|дизайнер|recruiter|рекрутер",
-    re.IGNORECASE | re.UNICODE,
-)
-# Product roles ROLE_RE does not spell out, so that "Владелец продукта
-# (портфель и аналитика)" or "Product / Project Manager" are not taken for
-# an analyst or a Project Manager.
-PRODUCT_TITLE_RE = re.compile(
-    r"владел\w+\s+продукт\w*|head\s+of\s+(?:[\w-]+\s+){0,2}product|продуктов\w+\s+менеджмент\w*"
-    r"|product\s*(?:/|&|and|и)\s*project|руководител\w+\s+(?:\w+\s+)?продукт\w*",
-    re.IGNORECASE | re.UNICODE,
-)
-
-
-def is_product_title(title: str) -> bool:
+# enough: the role the card ends up titled with decides. A title that names
+# our role stays even next to another one ("Product / Project Manager"); one
+# that names only a neighbouring role from the profile's exclude list drops.
+def is_role_title(title: str) -> bool:
     return (
-        bool(ROLE_RE.search(title) or PRODUCT_TITLE_RE.search(title))
-        or not NON_PRODUCT_ROLE_RE.search(title)
+        bool(ROLE_RE.search(title) or PROFILE.title_extra_re.search(title))
+        or not PROFILE.exclude_re.search(title)
     )
 
 
@@ -291,17 +347,21 @@ def is_vacancy(text: str, *, in_digest: bool = False) -> bool:
 
     A block taken out of a roundup is held to a lower bar: the roundup itself
     already vouches that these are openings, and the blocks are short because
-    the channel truncates them.
+    the channel truncates them — down to one line when the roundup is a list.
     """
     text = text or ""
-    if len(text) < (DIGEST_BLOCK_MIN_LEN if in_digest else MIN_TEXT_LEN):
+    if in_digest:
+        min_len = LIST_ITEM_MIN_LEN if "\n" not in text else DIGEST_BLOCK_MIN_LEN
+    else:
+        min_len = MIN_TEXT_LEN
+    if len(text) < min_len:
         return False
     if in_digest:
         # Judge a roundup block by its own headline: the body may name a role
         # in passing ("опыт Product Owner от 2 лет") while the vacancy itself
         # is for a business analyst, and that is not what this digest is for.
         headline = text.split("\n", 1)[0]
-        if not VACANCY_RE.search(headline) and not _is_product_role(text):
+        if not VACANCY_RE.search(headline) and not _is_our_role(text):
             return False
     elif not VACANCY_RE.search(text):
         return False
@@ -327,13 +387,14 @@ NOT_TITLE_RE = re.compile(
 # the colon), so a bare label counts too.
 FIELD_LABEL_RE = re.compile(
     r"^(?:компания|работодатель|публикатор|обсуждение|город|локация|формат\w*|занятость"
-    r"|зп|зарплат\w*|вилка|оплата|company|location|salary)\s*(?::|$)",
+    r"|зп|зарплат\w*|заработн\w+ плат\w*|вилка|оплата|проект(?:/компания)?|область(?: и стек)?|стек|страна\w*"
+    r"|график|оформление|уровень|грейд|company|location|salary|stack)\s*(?::|$)",
     re.IGNORECASE | re.UNICODE,
 )
 
 TITLE_NOISE_RE = re.compile(
     r"^(?:вакансия|ваканси[яи]|новая вакансия|открыта вакансия|ищем|ищется|требуется|требуются"
-    r"|job\s+title|job|vacancy|position)"
+    r"|должность|позиция|job\s+title|job|vacancy|position|role)"
     r"\s*[:\-–—]?\s*",
     re.IGNORECASE | re.UNICODE,
 )
@@ -390,7 +451,7 @@ def _title(text: str, *, headline_first: bool = False) -> str:
 
 
 COMPANY_FIELD_RE = re.compile(
-    r"^(?:компания|company|работодатель)\s*[:—–-]?\s+(.+)$",
+    r"^(?:компания|company|работодатель|проект/компания)\s*[:—–-]?\s+(.+)$",
     re.IGNORECASE | re.UNICODE,
 )
 COMPANY_ACTION_RE = re.compile(
@@ -398,6 +459,8 @@ COMPANY_ACTION_RE = re.compile(
     r"[^\S\n]+(?:ищет|ищем|в поиске|нанимает|is hiring|is looking for)",
     re.UNICODE,
 )
+# "Product Manager в Acme". Not "/": "Product / Project Manager", "Lead UX /
+# UI Designer" are two roles, and a name after "/" cannot be told from one.
 COMPANY_IN_TITLE_RE = re.compile(
     r"\s(?:в компанию|в|to|at|@|—|–|\|)\s+([«\"']?[\w&.\-]+(?:\s+[\w&.\-]+){0,3}[»\"']?)\s*$",
     re.IGNORECASE | re.UNICODE,
@@ -520,16 +583,9 @@ def _location(text: str, remote: bool) -> str | None:
     return "Remote" if remote else None
 
 
-GRADE_PATTERNS: list[tuple[str, str]] = [
-    ("Head", r"head of product|chief product officer|\bcpo\b|vp,? (?:of )?product"
-             r"|директор по продукт\w*|продуктов\w+ директор|head\b"),
-    ("Lead", r"\blead\b|team ?lead|продакт[- ]лид|\bлид\b|principal|ведущий|ведущего"
-             r"|group product manager|\bgpm\b|руководител\w+ продукт\w*"),
-    ("Senior", r"\bsenior\b|\bsr\.?\b|сеньор\w*|синьор\w*|старший|старшего"),
-    ("Middle", r"\bmiddle\b|\bmid\b|мидл\w*|миддл\w*"),
-    ("Junior", r"\bjunior\b|\bjun\b|\bintern\b|джуниор\w*|джун\w*|стаж[её]р\w*|стажировк\w*"),
-]
-GRADE_RES = [(name, re.compile(pat, re.IGNORECASE | re.UNICODE)) for name, pat in GRADE_PATTERNS]
+# Generic level words plus the profile's own, most senior first: see
+# role_profile.GRADE_BASE and the profile's grades_extra.
+GRADE_RES = PROFILE.grade_res
 
 
 def _grade(text: str, title: str) -> str | None:
@@ -540,22 +596,14 @@ def _grade(text: str, title: str) -> str | None:
     return None
 
 
-ML_RE = re.compile(
-    r"\bml\b|\bai\b|\bllm\b|\bgpt\b|\bnlp\b|ml[- ](?:продакт|platform|ops)|ai[- ]продакт"
-    r"|машинн\w+ обучени\w*|искусственн\w+ интеллект\w*|нейросет\w*|нейронн\w+ сет\w*"
-    r"|data scien\w*|дата[- ]сайенс|рекомендательн\w+ систем\w*|генеративн\w*",
-    re.IGNORECASE | re.UNICODE,
-)
-
-
-def _ml_ai(text: str, title: str) -> bool:
-    if ML_RE.search(title or ""):
+def _tag(tag_re: re.Pattern, text: str, title: str) -> bool:
+    if tag_re.search(title or ""):
         return True
     body = text or ""
-    if ML_RE.search(body[:300]):
+    if tag_re.search(body[:300]):
         return True
-    # A single passing mention ("use AI tools") is not an ML/AI role.
-    return len(ML_RE.findall(body)) >= 3
+    # A single passing mention ("use AI tools") does not make it the role.
+    return len(tag_re.findall(body)) >= 3
 
 
 SALARY_KEYWORD_RE = re.compile(
@@ -652,7 +700,7 @@ def extract(text: str, *, headline_first: bool = False) -> dict:
         "company": company,
         "location": _location(body, remote),
         "grade": _grade(body, title),
-        "ml_ai": _ml_ai(body, title),
+        **{tag.key: _tag(tag.pattern, body, title) for tag in PROFILE.tags},
         "remote": remote,
         "salary": _salary(body),
         "short_description": _short_description(body, title),
@@ -670,14 +718,14 @@ def run() -> None:
     split_posts = 0
     for i, post in enumerate(posts, 1):
         text = post.get("text", "")
-        blocks = split_digest(text)
+        blocks = split_digest(text, post.get("entities"))
         if len(blocks) > 1:
             split_posts += 1
         for part, (start, block) in enumerate(blocks):
             if not is_vacancy(block, in_digest=len(blocks) > 1):
                 continue
             entry = {**post, **extract(block, headline_first=len(blocks) > 1)}
-            if not is_product_title(entry["title"]):
+            if not is_role_title(entry["title"]):
                 continue
             if len(blocks) > 1:
                 # Each vacancy of a roundup becomes its own card. They share

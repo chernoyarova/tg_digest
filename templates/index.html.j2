@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Product jobs, from Telegram</title>
+<title>{{ site.title }}, {{ site.tagline }}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700;8..60,900&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Instrument+Serif:ital@1&display=swap" rel="stylesheet">
@@ -18,7 +18,7 @@
     </span>
     <span class="masthead-date mono">{{ generated_at[:4] }} · {{ generated_at[5:7] }} · {{ generated_at[8:10] }}</span>
   </div>
-  <h1 class="page-title">Product jobs, <em>from Telegram</em></h1>
+  <h1 class="page-title">{{ site.title }}, <em>{{ site.tagline }}</em></h1>
   <div class="masthead-search">
     <span class="masthead-search-icon" aria-hidden="true">
       <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6">
@@ -104,10 +104,12 @@
     </div>
   </div>
 
+{%- for tag in tags %}
   <label class="filter-toggle">
-    <input type="checkbox" id="ml-toggle">
-    <span class="mono">ТОЛЬКО ML/AI</span>
+    <input type="checkbox" data-tag="{{ tag.key }}">
+    <span class="mono">Только {{ tag.label }}</span>
   </label>
+{%- endfor %}
 
   <button class="reset-btn" hidden type="button">× Сбросить</button>
 </div>
@@ -144,6 +146,7 @@
   </div>
 </div>
 
+<script type="application/json" id="digest-tags">{{ tags_json | safe }}</script>
 <script type="application/json" id="vacancies-data" data-archive-after-days="{{ archive_after_days }}">{{ data_json | safe }}</script>
 {%- if goatcounter_site %}
 <script>window.GOATCOUNTER_ENDPOINT = "https://{{ goatcounter_site }}.goatcounter.com/count";</script>

@@ -1,8 +1,10 @@
 # tg_digest
 
-**Your personal Product/PM vacancy radar — built on Telegram, served on GitHub Pages, no AI API required.**
+**Your personal vacancy radar — built on Telegram, served on GitHub Pages, no AI API required.**
 
-Forget scrolling through twelve job channels every morning. `tg_digest` watches a folder of Telegram channels, filters out everything that isn't a vacancy, pulls out the structured stuff (company, grade, salary, remote, ML/AI focus) with a set of rules, kills duplicates, and serves you a clean, searchable, filterable digest. Every morning. On autopilot. For free — the only credentials it needs are Telegram's.
+Forget scrolling through twelve job channels every morning. `tg_digest` watches a folder of Telegram channels, filters out everything that isn't a vacancy, pulls out the structured stuff (company, grade, salary, remote, stack tags) with a set of rules, kills duplicates, and serves you a clean, searchable, filterable digest. Every morning. On autopilot. For free — the only credentials it needs are Telegram's.
+
+It was built for Product Manager jobs and ships with that profile, plus a `frontend` one. What makes it a digest of one role rather than another is a single YAML file — see [Other roles](#other-roles).
 
 **[Live demo →](https://chernoyarova.github.io/tg_digest/)**
 
@@ -27,7 +29,9 @@ Twelve Telegram channels post 50+ job posts a day. Maybe two of them are actuall
 |---|---|
 | **Daily auto-digest** | Runs every morning via GitHub Actions (scheduled for 06:23 MSK; GitHub often starts such runs a few hours late). Zero ongoing maintenance. |
 | **Cross-channel dedup** | Same vacancy in 4 channels = one card with a `×4` badge listing all sources. |
-| **Extracted metadata** | Company, grade (Junior → Head), location, salary, remote flag, ML/AI flag — parsed out of the post text by rules in `enrich.py`. No LLM, nothing generated. |
+| **Extracted metadata** | Company, grade (Junior → Head), location, salary, remote flag, tags (ML/AI for product; React / Vue / TypeScript for frontend) — parsed out of the post text by rules in `enrich.py`. No LLM, nothing generated. |
+| **Roundups, split** | A post listing five vacancies becomes five cards, whether they are blocks of text or one-liners linking to the posting. |
+| **Any role** | The role is a profile: a YAML of regexes for the titles you want, the neighbouring ones you don't, and the tags. Two ship; copying one is how you make your own. |
 | **Full text + clickable links** | Tap a card → modal with the full TG post and every link (including hidden `[text](url)` ones) preserved. |
 | **Bounded store** | Vacancies drop out after `purge_after_days`. Nothing else deletes them, so without it the page grows for ever — the data is embedded in it. |
 | **NEW badge for fresh posts** | Anything posted in the last 24h gets a NEW tag, so you spot what changed since yesterday. |
@@ -46,8 +50,8 @@ fetch_tg  →  parse  →  enrich  →  deduplicate  →  state  →  render
 ```
 
 1. **`fetch_tg`** — reads a Telegram folder via Telethon. Adding a channel to the folder in TG auto-includes it next run. Captures message entities so hidden links (`[click here](https://...)`) survive.
-2. **`parse`** — fast regex prefilter to drop anything that obviously isn't a vacancy.
-3. **`enrich`** — second-stage filter plus field extraction, entirely rule-based: keyword rules decide whether a post is a real opening, then regexes pull out title, company, grade, location, salary, remote/ML flags. `short_description` is an excerpt of the post itself — nothing is generated.
+2. **`parse`** — fast regex prefilter: keeps posts that name the role (patterns from the profile).
+3. **`enrich`** — second-stage filter plus field extraction, entirely rule-based: keyword rules decide whether a post is a real opening, then regexes pull out title, company, grade, location, salary, remote flag and tags. Roundup posts are split into one card per vacancy. `short_description` is an excerpt of the post itself — nothing is generated.
 4. **`deduplicate`** — `difflib.SequenceMatcher` on normalized text. Merges duplicates across channels into one card with all source links.
 5. **`state`** — marks posts as NEW (< 24h, unseen before) or archived (> 30d).
 6. **`render`** — Jinja2 template + inline JSON → a single static `index.html`. Client-side filtering, search, infinite scroll.
@@ -128,12 +132,43 @@ git show origin/gh-pages:data/history.json > data/history.json
 `config/sources.yml`:
 
 ```yaml
+profile: product               # which profiles/<name>.yml to use
 tg_folder_name: vacancy        # the Telegram folder to watch
 initial_backfill_days: 30      # how far back the first run reaches
 archive_after_days: 30         # vacancies older than this move to Archive tab
 purge_after_days: 90           # ...and older than this are dropped for good
 new_window_hours: 24           # how recent counts as NEW
+ignore_lines: []               # regexes for lines a channel repeats in every post
 ```
+
+`ignore_lines` is for channels that end every post with the same navigation row or ad. Such a line would otherwise become a title or land in the description; listed here, it is skipped when the card is built (the modal still shows the post whole). For example:
+
+```yaml
+ignore_lines:
+  - '^Вакансии\s*│'
+  - 'первый ai ассистент'
+```
+
+### Other roles
+
+Everything about *which* jobs the digest is for lives in `profiles/<name>.yml`, and `profile:` in `sources.yml` picks the file. The pipeline itself — reading the folder, telling a hiring post from a course ad, dedup, NEW/archive, the page — is the same for any role.
+
+To make a digest for, say, QA engineers:
+
+1. Copy `profiles/frontend.yml` to `profiles/qa.yml` and edit:
+   - `roles.patterns` — regexes that name the role and nothing else (`\bqa\b`, `тестировщик\w*`, `test automation`…). A post is looked at only if one matches somewhere in it.
+   - `roles.loose` — spellings that mean this role as often as another one; they let a post in, but do not settle its role.
+   - `roles.exclude` — neighbouring roles. A card whose title names one of these, and none of yours, is dropped. This is where most of the precision comes from: for frontend it is backend, mobile, QA; for QA it would be developers and analysts.
+   - `roles.hint` — words that mark a headline inside a roundup post as yours.
+   - `grades_extra` — level words specific to the role (`head of qa`); the generic ones (senior, lead, стажёр…) are built in.
+   - `tags` — each becomes a chip on the card and a "Только …" toggle in the filters. Stack, domain, whatever you filter by.
+   - `site.title` / `site.tagline` — the headline of the page.
+2. Set `profile: qa` in `config/sources.yml`, and point `tg_folder_name` at a folder with the channels.
+3. Run `python scripts/main.py` and look at the cards. Every post the rules drop, and why, is easy to trace: `parse.matches(text)`, then `enrich.is_vacancy(...)`, then `enrich.is_role_title(title)`.
+
+The `product` profile has been tuned on real channels for months; `frontend` for a shorter while, on three channels. A fresh profile will need a few rounds of looking at what came through and what did not — that is the trade-off for running without an LLM.
+
+Grade is only set when the post names a level, so it stays empty more often than an LLM would leave it. Cards without a grade still show up under the "Все" filter.
 
 ### Visit stats (optional, off by default)
 
@@ -156,11 +191,7 @@ The footer can also show the visitor total to everyone. That needs
 **Settings → "Allow adding visitor counts to your site"** switched on in
 GoatCounter; until then (or if the request fails) the line stays hidden.
 
-`scripts/enrich.py` — the stage-2 filter and all field extraction live here: `HIRING_RE` / `PROMO_RE` decide what counts as a vacancy, `CITIES`, `GRADE_PATTERNS`, `ML_RE`, `MONEY_RE` and friends do the extraction. Tune these lists for your channels.
-
-Because extraction is rule-based, some fields stay empty more often than an LLM would leave them — most visibly `grade`, which is only set when the post actually names a level. Cards without a grade still show up under the "Все" filter.
-
-`scripts/parse.py` — the regex prefilter. Tighten or loosen depending on your channels' style.
+`scripts/enrich.py` — the role-agnostic part of the rules: `HIRING_RE` / `PROMO_RE` / `SEEKER_RE` decide what counts as a hiring post, `CITIES`, `MONEY_RE`, `REMOTE_RE` and friends do the extraction, `split_digest` takes roundups apart. Tune these for your channels' style; tune the profile for the role.
 
 ---
 
