@@ -2,7 +2,7 @@
 
 **Your personal Product/PM vacancy radar — built on Telegram, served on GitHub Pages, no AI API required.**
 
-Forget scrolling through twelve job channels every morning. `tg_digest` watches a folder of Telegram channels, filters out everything that isn't a vacancy, pulls out the structured stuff (company, grade, salary, remote, ML/AI focus) with a set of rules, kills duplicates, and serves you a clean, searchable, filterable digest. Every morning at 09:00 MSK. On autopilot. For free — the only credentials it needs are Telegram's.
+Forget scrolling through twelve job channels every morning. `tg_digest` watches a folder of Telegram channels, filters out everything that isn't a vacancy, pulls out the structured stuff (company, grade, salary, remote, ML/AI focus) with a set of rules, kills duplicates, and serves you a clean, searchable, filterable digest. Every morning. On autopilot. For free — the only credentials it needs are Telegram's.
 
 **[Live demo →](https://chernoyarova.github.io/tg_digest/)**
 
@@ -25,7 +25,7 @@ Twelve Telegram channels post 50+ job posts a day. Maybe two of them are actuall
 
 | Feature | What it does |
 |---|---|
-| **Daily auto-digest** | Runs every day at 09:00 MSK via GitHub Actions. Zero ongoing maintenance. |
+| **Daily auto-digest** | Runs every morning via GitHub Actions (scheduled for 06:23 MSK; GitHub often starts such runs a few hours late). Zero ongoing maintenance. |
 | **Cross-channel dedup** | Same vacancy in 4 channels = one card with a `×4` badge listing all sources. |
 | **Extracted metadata** | Company, grade (Junior → Head), location, salary, remote flag, ML/AI flag — parsed out of the post text by rules in `enrich.py`. No LLM, nothing generated. |
 | **Full text + clickable links** | Tap a card → modal with the full TG post and every link (including hidden `[text](url)` ones) preserved. |

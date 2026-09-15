@@ -2,7 +2,9 @@ name: digest
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # 09:00 MSK; GitHub often starts scheduled runs hours late
+    # 06:23 MSK. GitHub starts scheduled runs late, by 4-5 hours lately at the
+    # top of the hour, so this aims early and off the hour to land in the morning.
+    - cron: "23 3 * * *"
   workflow_dispatch:
 
 permissions:

@@ -1,6 +1,7 @@
 // Vacancy digest — client-side filtering, search, sort & infinite scroll.
 
-const data = JSON.parse(document.getElementById('vacancies-data').textContent || '[]');
+const dataEl = document.getElementById('vacancies-data');
+const data = JSON.parse(dataEl.textContent || '[]');
 const byUid = new Map();
 
 const state = {
@@ -21,8 +22,8 @@ const controlsEl = document.querySelector('.controls');
 const resetBtnEl = document.querySelector('.reset-btn');
 
 const FILTER_LABELS = {
-  location: { all: 'Все', moscow: 'Москва', spb: 'СПб', regions: 'Регионы', remote: 'Remote' },
-  grade:    { all: 'Все', Lead: 'Lead', Head: 'Head', Senior: 'Senior', Middle: 'Middle' },
+  location: { all: 'Все', moscow: 'Москва', spb: 'СПб', regions: 'Регионы РФ', abroad: 'За рубежом', remote: 'Remote' },
+  grade:    { all: 'Все', Head: 'Head', Lead: 'Lead', Senior: 'Senior', Middle: 'Middle', Junior: 'Junior' },
   sort:     { date: 'По дате', grade: 'По грейду' },
 };
 
@@ -96,18 +97,54 @@ function countVacancy(kind, v) {
   countEvent(`${kind}/${slug(v.title) || vUid(v)}`, label);
 }
 
+// Location is free text taken from the post ("Лимасол, Кипр", "г. Воронеж,
+// ул. …", "London, Hybrid"), so the region buckets go by place names. One
+// that names no known place, like a bare "гибрид", only shows under "Все".
+// JS \b is ASCII-only, hence the explicit Cyrillic lookarounds.
+const MOSCOW_RE = /моск|moscow/;
+const SPB_RE = /спб|петерб|питер|peters/;
+const RU_REGION_RE = new RegExp([
+  'росси', '(?<![а-яё])рф(?![а-яё])', 'russia',
+  'екатеринбург', 'казан(?![а-яё]*хстан)', 'новосибирск', 'нижн[а-яё]* новгород', 'самар', 'ростов',
+  'краснодар', 'воронеж', 'перм[ьи]', '(?<![а-яё])уф[аеы](?![а-яё])', 'челябинск', '(?<![а-яё])омск', 'томск',
+  'тюмен', 'красноярск', 'иркутск', 'владивосток', 'хабаровск', 'калининград', 'сочи', 'адлер',
+  'волгоград', 'саратов', 'ярославл', '(?<![а-яё])тул[аеы](?![а-яё])', 'рязан', 'иннополис', 'курган',
+  'ижевск', 'барнаул', 'кемерово', 'оренбург', 'тольятти', 'махачкал', 'мурманск', 'архангельск',
+  '(?<![а-яё])твер[ьи]', 'липецк', 'пенз[аеы]', 'ульяновск', 'чебоксар', 'белгород', 'брянск',
+  '(?<![а-яё])владимир(?![а-яё])', 'калуг', 'смоленск', 'сургут', 'якутск', 'петрозаводск',
+].join('|'));
+// Short stems also occur inside ordinary words ("пОСЛЕ", "выСШАя",
+// "поГРУЗИться"), so these must start a word.
+const WORD_START = '(?<![а-яё])';
+const ABROAD_RE = new RegExp([
+  ...['осло', 'сша', 'грузи', 'баку', 'бали', 'манил', 'праг[аеи]', 'чехи'].map(s => WORD_START + s),
+  'казахстан', 'kazakhstan', 'алмат', 'almaty', 'астан', 'astana', 'узбекистан', 'uzbekistan',
+  'ташкент', 'tashkent', 'беларус', 'belarus', 'минск', 'minsk', 'кыргыз', 'киргиз', 'бишкек',
+  'армени', 'armenia', 'ереван', 'yerevan', 'georgia', 'тбилиси', 'tbilisi',
+  'азербайджан', 'baku', 'кипр', 'cyprus', 'лимас', 'limassol', 'никоси', 'турци', 'turkey',
+  'стамбул', 'istanbul', 'оаэ', '\\buae\\b', 'дубай', 'dubai', 'серби', 'serbia', 'белград', 'belgrade',
+  'черногори', 'montenegro', 'польш', 'poland', 'варшав', 'warsaw', 'герман', 'germany', 'берлин',
+  'berlin', 'нидерланд', 'netherlands', 'амстердам', 'amsterdam', 'португал', 'portugal', 'лиссабон',
+  'lisbon', 'испани', 'spain', 'барселон', 'barcelona', 'франци', 'france', 'великобритан',
+  'united kingdom', '\\buk\\b', 'лондон', 'london', 'manchester', 'люксембург', 'финлянди',
+  'хельсинки', 'норвеги', 'швеци', 'румыни', 'romania', 'bucharest',
+  'израил', 'israel', 'tel aviv', '\\busa\\b', 'united states', 'san jose', 'mountain view',
+  'канад', 'canada', 'панам', 'panama', 'сингапур', 'singapore', 'таиланд', 'thailand', 'бангкок',
+  'bangkok', 'вьетнам', 'vietnam', 'ханой', 'индонези', 'малайзи', 'филиппин',
+  'китай', 'china', 'гуанчжоу', 'гонконг', 'япони', 'европ', 'europe',
+].join('|'));
+
 function matchesLocation(v) {
   if (state.location === 'all') return true;
   if (state.location === 'remote') return v.remote === true;
   const loc = (v.location || '').toLowerCase();
-  if (state.location === 'moscow') return loc.includes('моск') || loc.includes('moscow');
-  if (state.location === 'spb') return loc.includes('спб') || loc.includes('петерб') || loc.includes('peters');
+  if (state.location === 'moscow') return MOSCOW_RE.test(loc);
+  if (state.location === 'spb') return SPB_RE.test(loc);
+  if (v.remote || !loc) return false;
   if (state.location === 'regions') {
-    if (v.remote) return false;
-    if (!loc) return false;
-    if (loc.includes('моск') || loc.includes('спб') || loc.includes('петерб')) return false;
-    return true;
+    return RU_REGION_RE.test(loc) && !MOSCOW_RE.test(loc) && !SPB_RE.test(loc);
   }
+  if (state.location === 'abroad') return ABROAD_RE.test(loc);
   return true;
 }
 
@@ -116,10 +153,15 @@ function matchesGrade(v) {
   return v.grade === state.grade;
 }
 
+// The archive is decided against the reader's clock, like the other tabs. The
+// build-time is_archived flag goes stale during the day, which left a vacancy
+// just past the limit in neither "30 дней" nor "Архив" until the next build.
+const ARCHIVE_HOURS = 24 * (Number(dataEl.dataset.archiveAfterDays) || 30);
+
 function matchesTab(v) {
-  if (state.tab === 'archive') return v.is_archived === true;
-  if (v.is_archived) return false;
   const h = ageHours(v.date_iso);
+  if (state.tab === 'archive') return h > ARCHIVE_HOURS;
+  if (h > ARCHIVE_HOURS) return false;
   if (state.tab === '24h') return h <= 24;
   if (state.tab === '7d') return h <= 24 * 7;
   if (state.tab === '30d') return h <= 24 * 30;
@@ -255,7 +297,9 @@ function dupesButton(v) {
   }).join('');
   const n = dupes.length;
   const label = `Та же вакансия ещё в ${n} ${n === 1 ? 'канале' : 'каналах'}`;
-  return `<button class="btn-dupes" type="button" data-action="dupes" title="${escapeHtml(label)}" aria-label="${escapeHtml(label)}">${n}<span class="btn-dupes-icon" aria-hidden="true">↗</span><span class="dupes-tooltip">${items}</span></button>`;
+  // The links sit next to the button, not inside it: interactive content
+  // inside a <button> is invalid and gets flattened by screen readers.
+  return `<span class="dupes"><button class="btn-dupes" type="button" aria-expanded="false" title="${escapeHtml(label)}" aria-label="${escapeHtml(label)}">${n}<span class="btn-dupes-icon" aria-hidden="true">↗</span></button><span class="dupes-tooltip">${items}</span></span>`;
 }
 
 function metaLine(v) {
@@ -278,9 +322,9 @@ function renderCard(v) {
   const dupes = dupesButton(v);
 
   return `
-    <article class="vacancy ${isNew}" data-uid="${escapeHtml(uid)}" role="button" tabindex="0">
+    <article class="vacancy ${isNew}" data-uid="${escapeHtml(uid)}">
       ${v.is_new ? '<div class="v-kicker mono">New</div>' : ''}
-      <h2 class="v-title">${escapeHtml(v.title || '')}</h2>
+      <h2 class="v-title"><button class="v-open" type="button">${escapeHtml(v.title || '')}</button></h2>
       ${byline ? `<div class="v-byline">${byline}</div>` : ''}
       ${desc ? `<p class="v-desc">${escapeHtml(desc)}</p>` : ''}
       <div class="v-footer">
@@ -534,17 +578,26 @@ resetBtnEl?.addEventListener('click', () => {
   render();
 });
 
-// Card-level actions (event delegation).
+function closeDupes(except = null) {
+  document.querySelectorAll('.dupes.is-open').forEach(d => {
+    if (d === except) return;
+    d.classList.remove('is-open');
+    d.querySelector('.btn-dupes')?.setAttribute('aria-expanded', 'false');
+  });
+}
+
+// Card-level actions (event delegation). The keyboard reaches the card through
+// its title button, whose Enter/Space arrive here as a click — so the dupes
+// button handles its own keys instead of having them taken for the card's.
 root.addEventListener('click', e => {
-  // Dupes tooltip — handle separately and don't open the modal.
-  const dupesBtn = e.target.closest('[data-action="dupes"]');
-  if (dupesBtn) {
-    if (e.target.closest('a')) return; // link inside tooltip — let it through
-    document.querySelectorAll('.btn-dupes.is-open').forEach(b => {
-      if (b !== dupesBtn) b.classList.remove('is-open');
-    });
-    dupesBtn.classList.toggle('is-open');
-    e.stopPropagation();
+  // Dupes list: toggled by its button; neither it nor its links open the modal.
+  const dupes = e.target.closest('.dupes');
+  if (dupes) {
+    const btn = e.target.closest('.btn-dupes');
+    if (btn) {
+      closeDupes(dupes);
+      btn.setAttribute('aria-expanded', String(dupes.classList.toggle('is-open')));
+    }
     return;
   }
 
@@ -553,19 +606,9 @@ root.addEventListener('click', e => {
   if (card) openModal(card.dataset.uid);
 });
 
-root.addEventListener('keydown', e => {
-  if (e.key !== 'Enter' && e.key !== ' ') return;
-  const card = e.target.closest('.vacancy');
-  if (!card) return;
-  e.preventDefault();
-  openModal(card.dataset.uid);
-});
-
 // Close dupes tooltip when clicking outside.
 document.addEventListener('click', e => {
-  if (!e.target.closest('.btn-dupes')) {
-    document.querySelectorAll('.btn-dupes.is-open').forEach(b => b.classList.remove('is-open'));
-  }
+  if (!e.target.closest('.dupes')) closeDupes();
 });
 
 // ---------- Modal ----------
@@ -658,18 +701,16 @@ overlayEl.addEventListener('click', e => {
   if (e.target === overlayEl) closeModal();
 });
 document.addEventListener('keydown', e => {
-  if (e.key === 'Escape') closeModal();
+  if (e.key !== 'Escape') return;
+  closeModal();
+  closeDupes();
 });
 
 // ---------- Boot ----------
+// Runs before any filter is set, so tabCount() counts the whole tab.
 function pickInitialTab() {
-  const counts = {
-    '24h': data.filter(v => !v.is_archived && ageHours(v.date_iso) <= 24).length,
-    '7d':  data.filter(v => !v.is_archived && ageHours(v.date_iso) <= 24 * 7).length,
-    '30d': data.filter(v => !v.is_archived && ageHours(v.date_iso) <= 24 * 30).length,
-  };
-  if (counts['24h']) return '24h';
-  if (counts['7d']) return '7d';
+  if (tabCount('24h')) return '24h';
+  if (tabCount('7d')) return '7d';
   return '30d';
 }
 

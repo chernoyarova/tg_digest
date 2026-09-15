@@ -82,7 +82,8 @@
       <button class="popover-item is-active" data-value="all">Все</button>
       <button class="popover-item" data-value="moscow">Москва</button>
       <button class="popover-item" data-value="spb">СПб</button>
-      <button class="popover-item" data-value="regions">Регионы</button>
+      <button class="popover-item" data-value="regions">Регионы РФ</button>
+      <button class="popover-item" data-value="abroad">За рубежом</button>
       <button class="popover-item" data-value="remote">Remote</button>
     </div>
   </div>
@@ -95,10 +96,11 @@
     </button>
     <div class="filter-popover">
       <button class="popover-item is-active" data-value="all">Все</button>
-      <button class="popover-item" data-value="Lead">Lead</button>
       <button class="popover-item" data-value="Head">Head</button>
+      <button class="popover-item" data-value="Lead">Lead</button>
       <button class="popover-item" data-value="Senior">Senior</button>
       <button class="popover-item" data-value="Middle">Middle</button>
+      <button class="popover-item" data-value="Junior">Junior</button>
     </div>
   </div>
 
@@ -131,7 +133,7 @@
 <main class="vacancies" id="vacancies"></main>
 
 <footer class="page-footer">
-  <p class="mono">tg_digest · собрано из папки Telegram, обновляется ежедневно в 09:00 МСК</p>
+  <p class="mono">tg_digest · собрано из папки Telegram, обновляется ежедневно</p>
   <p class="mono" id="visitor-count" hidden></p>
 </footer>
 
@@ -142,7 +144,7 @@
   </div>
 </div>
 
-<script type="application/json" id="vacancies-data">{{ data_json | safe }}</script>
+<script type="application/json" id="vacancies-data" data-archive-after-days="{{ archive_after_days }}">{{ data_json | safe }}</script>
 {%- if goatcounter_site %}
 <script>window.GOATCOUNTER_ENDPOINT = "https://{{ goatcounter_site }}.goatcounter.com/count";</script>
 <script data-goatcounter="https://{{ goatcounter_site }}.goatcounter.com/count"

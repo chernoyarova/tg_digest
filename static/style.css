@@ -355,7 +355,19 @@ em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 40
 .vacancy:hover { background-color: rgba(255, 255, 255, 0.32); }
 .vacancy:hover .v-title { color: var(--accent); }
 .v-title { transition: color 0.15s; }
-.vacancy:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
+/* The title is the card's keyboard handle; it looks like plain heading text. */
+.v-open {
+  font: inherit;
+  letter-spacing: inherit;
+  color: inherit;
+  text-align: left;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+.v-open:focus-visible { outline: none; }
+.vacancy:has(.v-open:focus-visible) { outline: 2px solid var(--accent); outline-offset: 4px; }
 
 .v-kicker {
   display: inline-block;
@@ -453,8 +465,11 @@ em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 40
   background: var(--accent); border-color: var(--accent);
 }
 
-.btn-dupes {
+.dupes {
   position: relative;
+  display: inline-flex;
+}
+.btn-dupes {
   display: inline-flex;
   align-items: center;
   gap: 4px;
@@ -476,7 +491,10 @@ em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 40
 .dupes-tooltip {
   display: none;
   position: absolute; right: 0; top: calc(100% + 8px);
-  background: var(--card-bg);
+  /* Opaque, like the modal: --card-bg is transparent and let the card's text
+     show through the links. */
+  background: #fffdf8;
+  letter-spacing: normal;
   border: 1px solid var(--line);
   padding: 12px;
   min-width: 220px;
@@ -486,7 +504,7 @@ em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 40
   text-transform: none;
   box-shadow: 4px 4px 0 var(--line);
 }
-.btn-dupes.is-open .dupes-tooltip { display: block; }
+.dupes.is-open .dupes-tooltip { display: block; }
 .dupes-tooltip a {
   display: block;
   font-size: 13px;
