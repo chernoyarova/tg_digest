@@ -20,7 +20,7 @@ import re
 import unicodedata
 from pathlib import Path
 
-from parse import VACANCY_RE
+from parse import ROLE_RE, VACANCY_RE
 
 ROOT = Path(__file__).resolve().parent.parent
 PARSED_PATH = ROOT / "data" / "parsed.json"
@@ -80,6 +80,13 @@ def _lines(text: str) -> list[str]:
 HEADER_RE = re.compile(
     r"^(?:нов\w+|свеж\w+|актуальн\w+|топ)?\s*(?:ваканси\w+|подборк\w+|дайджест)\b"
     r"|^ваканси\w+\s+(?:дня|недели)\b|^#\w+$",
+    re.IGNORECASE | re.UNICODE,
+)
+# "Вакансия: Senior Product Manager" matches HEADER_RE, but it names this post's
+# own role — it is the title, and stripping it hands the title to whatever
+# sentence comes next ("Ищем выделенного PM в команду…").
+VACANCY_LABEL_RE = re.compile(
+    r"^(?:нов\w+\s+|открыт\w+\s+)?вакансия\s*[:—–-]\s*(?!дня\b|недели\b|месяца\b)\w",
     re.IGNORECASE | re.UNICODE,
 )
 
@@ -197,7 +204,12 @@ def _body(text: str) -> str:
         if not first:
             lines = lines[1:]
             continue
-        if len(first) <= 60 and HEADER_RE.match(first) and len(_lines("\n".join(lines))) > 1:
+        if (
+            len(first) <= 60
+            and HEADER_RE.match(first)
+            and not VACANCY_LABEL_RE.match(first)
+            and len(_lines("\n".join(lines))) > 1
+        ):
             lines = lines[1:]
             continue
         break
@@ -228,7 +240,8 @@ SEEKER_RE = re.compile(
 PROMO_RE = re.compile(
     r"курс|вебинар|интенсив|марафон|бесплатн\w* (?:урок|занятие|вебинар|мастер-класс)"
     r"|разбор резюме|карьерн\w+ консультаци|менторств|реклама|erid|розыгрыш|промокод"
-    r"|подборка вакансий|дайджест",
+    r"|подборка вакансий|дайджест"
+    r"|митап|meetup|приглашаем на (?:митап|конференци\w*|встреч\w*|трансляци\w*)",
     re.IGNORECASE | re.UNICODE,
 )
 
@@ -244,6 +257,33 @@ PRODUCT_HINT_RE = re.compile(r"продукт|продакт|product|\bcpo\b", r
 def _is_product_role(text: str) -> bool:
     first = _clean_line(text.split("\n", 1)[0])
     return bool(PRODUCT_HINT_RE.search(first))
+
+
+# A post can mention "PM" or "разгрузить продакта" in passing while hiring a
+# Project Manager or an engineer, so the stage-1 match on the whole text is not
+# enough: the role the card ends up titled with decides. A title that names a
+# product role stays even next to another one ("Product / Project Manager").
+NON_PRODUCT_ROLE_RE = re.compile(
+    r"project\s*manager|проджект|менеджер\w*\s+проект\w*|руководител\w*\s+проект\w*|проектн\w+\s+менеджер"
+    r"|delivery|scrum|program\s*manager|разработчик|developer|engineer|инженер(?:а|ом|ы|ов)?\b"
+    r"|\ba?qa\b|тестировщик|devops|analyst|аналитик(?:а|ом|и|ов)?\b|designer|дизайнер|recruiter|рекрутер",
+    re.IGNORECASE | re.UNICODE,
+)
+# Product roles ROLE_RE does not spell out, so that "Владелец продукта
+# (портфель и аналитика)" or "Product / Project Manager" are not taken for
+# an analyst or a Project Manager.
+PRODUCT_TITLE_RE = re.compile(
+    r"владел\w+\s+продукт\w*|head\s+of\s+(?:[\w-]+\s+){0,2}product|продуктов\w+\s+менеджмент\w*"
+    r"|product\s*(?:/|&|and|и)\s*project|руководител\w+\s+(?:\w+\s+)?продукт\w*",
+    re.IGNORECASE | re.UNICODE,
+)
+
+
+def is_product_title(title: str) -> bool:
+    return (
+        bool(ROLE_RE.search(title) or PRODUCT_TITLE_RE.search(title))
+        or not NON_PRODUCT_ROLE_RE.search(title)
+    )
 
 
 def is_vacancy(text: str, *, in_digest: bool = False) -> bool:
@@ -282,9 +322,18 @@ NOT_TITLE_RE = re.compile(
     r"опыт работы|не менее|от \d+ лет|обязанност|требовани|мы предлагаем|условия|ожидани",
     re.IGNORECASE | re.UNICODE,
 )
+# "Компания: Padix", "Публикатор: …" are fields of the post, not its title. The
+# value may be gone by now ("Обсуждение: @channel" loses the handle and then
+# the colon), so a bare label counts too.
+FIELD_LABEL_RE = re.compile(
+    r"^(?:компания|работодатель|публикатор|обсуждение|город|локация|формат\w*|занятость"
+    r"|зп|зарплат\w*|вилка|оплата|company|location|salary)\s*(?::|$)",
+    re.IGNORECASE | re.UNICODE,
+)
 
 TITLE_NOISE_RE = re.compile(
-    r"^(?:вакансия|ваканси[яи]|новая вакансия|открыта вакансия|ищем|ищется|job|vacancy|position)"
+    r"^(?:вакансия|ваканси[яи]|новая вакансия|открыта вакансия|ищем|ищется|требуется|требуются"
+    r"|job\s+title|job|vacancy|position)"
     r"\s*[:\-–—]?\s*",
     re.IGNORECASE | re.UNICODE,
 )
@@ -295,18 +344,30 @@ def _is_title_like(raw: str) -> bool:
     line = _clean_line(raw)
     if not 3 <= len(line) <= TITLE_MAX_LEN:
         return False
-    if BULLET_PREFIX_RE.match(raw) or line[-1] in ";:,":
+    # The ending is read before _clean_line trims it, and with URLs still in
+    # place: _clean_line strips a trailing colon, so "Ребята, есть вакансия для
+    # US компании:" would pass, while dropping the URL from "Product Manager в
+    # Fundraise Up: https://…" would leave a colon that is not the line's end.
+    ending = _clean(BULLET_RE.sub("", raw), drop_urls=False)[-1:]
+    if BULLET_PREFIX_RE.match(raw) or ending in (";", ":", ","):
         return False
-    if SECTION_HEADER_RE.match(line) or NOT_TITLE_RE.search(line):
+    if SECTION_HEADER_RE.match(line) or NOT_TITLE_RE.search(line) or FIELD_LABEL_RE.match(line):
         return False
     # A lowercase Cyrillic start means the line continues a sentence ("в
     # Salmon — финтех-компания…"). Latin lowercase is usually a brand: iOS,
-    # eCommerce.
-    return not LOWER_CYRILLIC_START_RE.match(line)
+    # eCommerce. Checked after the "Ищем"/"Вакансия:" prefix comes off, since
+    # that is what _title shows: "Ищем выделенного PM…" is a sentence too.
+    return not LOWER_CYRILLIC_START_RE.match(TITLE_NOISE_RE.sub("", line))
 
 
 def _title(text: str, *, headline_first: bool = False) -> str:
     raw = [line for line in (text or "").splitlines() if _clean_line(line)][:6]
+    # "Вакансия: X" on the first line is the post naming its own role, even
+    # when X is a role the stage-1 regex does not know (Project Manager).
+    if raw and VACANCY_LABEL_RE.match(_clean_line(raw[0])) and _is_title_like(raw[0]):
+        label = TITLE_NOISE_RE.sub("", _clean_line(raw[0])).strip()
+        if len(label) >= 3:
+            return label[:TITLE_MAX_LEN].rstrip()
     titles = [_clean_line(line) for line in raw if _is_title_like(line)]
     titles = [TITLE_NOISE_RE.sub("", line).strip() for line in titles]
     titles = [line for line in titles if len(line) >= 3]
@@ -616,6 +677,8 @@ def run() -> None:
             if not is_vacancy(block, in_digest=len(blocks) > 1):
                 continue
             entry = {**post, **extract(block, headline_first=len(blocks) > 1)}
+            if not is_product_title(entry["title"]):
+                continue
             if len(blocks) > 1:
                 # Each vacancy of a roundup becomes its own card. They share
                 # the message link, so `part` is what keeps them distinct

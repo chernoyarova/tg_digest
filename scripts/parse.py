@@ -64,13 +64,18 @@ _PATTERNS: list[str] = [
     r"\bdirector\s+of\s+product\b",
     r"\bvp\s+(?:of\s+)?product\b",
     r"\bchief\s+product\s+officer\b",
-
-    # --- Abbreviations (loose; enrich.py filters false positives) ---
-    # PM / CPO / APM / SPM / GPM / TPM / PdM — avoid matching inside digits like "8pm"
-    r"(?<!\d)\b(?:pm|cpo|apm|spm|gpm|tpm|pdm)\b(?!\d)",
+    r"(?<!\d)\b(?:cpo|apm|gpm)\b(?!\d)",
 ]
 
-VACANCY_RE = re.compile("|".join(_PATTERNS), re.IGNORECASE | re.UNICODE)
+# --- Abbreviations (loose; enrich.py filters false positives) ---
+# PM / SPM / TPM / PdM stand for Project/Program Manager as often as Product
+# Manager, so they are good enough to let a post in but not to name its role.
+# Avoid matching inside digits like "8pm".
+_AMBIGUOUS_ABBREVIATIONS = r"(?<!\d)\b(?:pm|spm|tpm|pdm)\b(?!\d)"
+
+# A role that is unambiguously a Product one, without the loose abbreviations.
+ROLE_RE = re.compile("|".join(_PATTERNS), re.IGNORECASE | re.UNICODE)
+VACANCY_RE = re.compile("|".join([*_PATTERNS, _AMBIGUOUS_ABBREVIATIONS]), re.IGNORECASE | re.UNICODE)
 
 
 def matches(text: str) -> bool:
