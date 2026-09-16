@@ -1,125 +1,125 @@
 # tg_digest
 
-**Your personal vacancy radar — built on Telegram, served on GitHub Pages, no AI API required.**
+**Личный радар вакансий: читает Telegram, живёт на GitHub Pages, не требует платных API.**
 
-Forget scrolling through twelve job channels every morning. `tg_digest` watches a folder of Telegram channels, filters out everything that isn't a vacancy, pulls out the structured stuff (company, grade, salary, remote, stack tags) with a set of rules, kills duplicates, and serves you a clean, searchable, filterable digest. Every morning. On autopilot. For free — the only credentials it needs are Telegram's.
+Хватит листать двенадцать каналов с вакансиями каждое утро. `tg_digest` следит за папкой каналов в вашем Telegram, отсеивает всё, что не вакансия, вытаскивает правилами структурные поля (компания, грейд, зарплата, удалёнка, теги стека), склеивает дубли и выдаёт одну страницу с поиском и фильтрами. Каждое утро. Сама. Бесплатно: единственные ключи, которые нужны, — от Telegram.
 
-It was built for Product Manager jobs and ships with that profile, plus a `frontend` one. What makes it a digest of one role rather than another is a single YAML file — see [Other roles](#other-roles).
+Собрано под вакансии продакт-менеджеров и идёт с этим профилем, плюс профиль `frontend`. Всё, что отличает дайджест одной профессии от другой, — один YAML-файл, см. [Другие профессии](#другие-профессии).
 
-**[Live demo →](https://chernoyarova.github.io/tg_digest/)**
+**[Живой пример →](https://chernoyarova.github.io/tg_digest/)**
 
-![Desktop and mobile view](docs/screenshots/hero.png)
+![Десктоп и мобильная версия](docs/screenshots/hero.png)
 
 ---
 
-## Why this exists
+## Зачем это
 
-Twelve Telegram channels post 50+ job posts a day. Maybe two of them are actually relevant. Reading all of them by hand is the worst part of looking for a Product job.
+Двенадцать телеграм-каналов публикуют 50+ постов с вакансиями в день. Подходят из них, может быть, два. Читать всё руками — худшая часть поиска работы.
 
-`tg_digest` solves exactly that one problem:
+`tg_digest` решает ровно эту задачу:
 
-- **One page, all channels, deduplicated.** A vacancy that got cross-posted to four channels shows up once.
-- **Filter, don't scroll.** Filters by grade, location, remote, ML/AI focus. Search across company and full text.
-- **Real source, one click away.** Click any card → the full original Telegram post opens in a modal, with all links from the post (including hidden ones) clickable.
-- **Smart enough to know what's a job.** A two-stage filter (role regex → hiring-signal rules) keeps most of the noise out. Job-seeker posts, courses, and promo posts don't make it in.
+- **Одна страница, все каналы, без дублей.** Вакансия, которую перепостили в четыре канала, показывается один раз.
+- **Фильтровать, а не листать.** Фильтры по периоду, грейду (Junior → Head), локации (Москва, СПб, регионы РФ, за рубежом, удалёнка) и тегам. Поиск по компании и полному тексту.
+- **Оригинал в один клик.** Клик по карточке открывает полный пост из Telegram со всеми ссылками, включая скрытые.
+- **Отличает вакансию от всего остального.** Двухступенчатый фильтр (регулярка роли → правила о признаках найма) отсекает большую часть шума: посты «ищу работу», курсы, рекламу, митапы.
 
-## What you get
+## Что внутри
 
-| Feature | What it does |
+| Возможность | Что делает |
 |---|---|
-| **Daily auto-digest** | Runs every morning via GitHub Actions (scheduled for 06:23 MSK; GitHub often starts such runs a few hours late). Zero ongoing maintenance. |
-| **Cross-channel dedup** | Same vacancy in 4 channels = one card with a `×4` badge listing all sources. |
-| **Extracted metadata** | Company, grade (Junior → Head), location, salary, remote flag, tags (ML/AI for product; React / Vue / TypeScript for frontend) — parsed out of the post text by rules in `enrich.py`. No LLM, nothing generated. |
-| **Roundups, split** | A post listing five vacancies becomes five cards, whether they are blocks of text or one-liners linking to the posting. |
-| **Any role** | The role is a profile: a YAML of regexes for the titles you want, the neighbouring ones you don't, and the tags. Two ship; copying one is how you make your own. |
-| **Full text + clickable links** | Tap a card → modal with the full TG post and every link (including hidden `[text](url)` ones) preserved. |
-| **Bounded store** | Vacancies drop out after `purge_after_days`. Nothing else deletes them, so without it the page grows for ever — the data is embedded in it. |
-| **NEW badge for fresh posts** | Anything posted in the last 24h gets a NEW tag, so you spot what changed since yesterday. |
-| **Mobile-first** | The whole UI works on a phone. The desktop layout is the bonus, not the other way around. |
-| **Free to run** | GitHub Pages + GitHub Actions free tier. No paid API at all. |
+| **Ежедневное обновление** | GitHub Actions запускает сборку каждое утро (по расписанию в 06:23 МСК; GitHub часто задерживает такие запуски на несколько часов). Обслуживания не требует. |
+| **Дедупликация между каналами** | Одна вакансия в 4 каналах = одна карточка с пометкой «ещё в 3 каналах» и ссылками на все. |
+| **Извлечённые поля** | Компания, грейд, локация, зарплата, флаг удалёнки, теги (ML/AI для продактов; React / Vue / TypeScript для фронтенда). Всё это правила в `enrich.py` вытаскивают из текста поста. Никакой нейросети, ничего не генерируется. |
+| **Подборки разбираются** | Пост с пятью вакансиями становится пятью карточками — и когда это блоки текста, и когда это строки-ссылки на объявления. |
+| **Любая профессия** | Профессия — это профиль: YAML с регулярками нужных названий роли, соседних ролей, которые не нужны, и тегов. Два профиля есть; свой делается копированием одного из них. |
+| **Полный текст и ссылки** | Карточка открывает модальное окно с полным постом, все ссылки (в том числе скрытые `[текст](url)`) кликабельны. |
+| **Ограниченная база** | Вакансии старше `purge_after_days` удаляются. Больше их ничто не удаляет, а данные вшиты в страницу, так что без этого она росла бы бесконечно. |
+| **Метка NEW** | Всё, что опубликовано за последние 24 часа, помечено NEW: видно, что изменилось со вчера. |
+| **Сначала мобильная** | Весь интерфейс работает с телефона. Десктопная раскладка — бонус, а не наоборот. |
+| **Бесплатно** | GitHub Pages + бесплатный тариф GitHub Actions. Платных API нет. |
 
 ---
 
-## How it works
+## Как это работает
 
-A six-step pipeline. Each step reads a JSON file from `data/` and writes the next one — so any step can be debugged in isolation.
+Шесть шагов. Каждый читает JSON из `data/` и пишет следующий, поэтому любой шаг можно отлаживать отдельно.
 
 ```
 fetch_tg  →  parse  →  enrich  →  deduplicate  →  state  →  render
- Telethon    regex     rules     SequenceMatcher   NEW     Jinja2
+ Telethon    regex     правила   SequenceMatcher  NEW/архив  Jinja2
 ```
 
-1. **`fetch_tg`** — reads a Telegram folder via Telethon. Adding a channel to the folder in TG auto-includes it next run. Captures message entities so hidden links (`[click here](https://...)`) survive.
-2. **`parse`** — fast regex prefilter: keeps posts that name the role (patterns from the profile).
-3. **`enrich`** — second-stage filter plus field extraction, entirely rule-based: keyword rules decide whether a post is a real opening, then regexes pull out title, company, grade, location, salary, remote flag and tags. Roundup posts are split into one card per vacancy. `short_description` is an excerpt of the post itself — nothing is generated.
-4. **`deduplicate`** — `difflib.SequenceMatcher` on normalized text. Merges duplicates across channels into one card with all source links.
-5. **`state`** — marks posts as NEW (< 24h, unseen before) or archived (> 30d).
-6. **`render`** — Jinja2 template + inline JSON → a single static `index.html`. Client-side filtering, search, infinite scroll.
+1. **`fetch_tg`** — читает папку Telegram через Telethon. Добавили канал в папку — со следующего запуска он в дайджесте. Сохраняет entities сообщений, чтобы скрытые ссылки (`[нажмите сюда](https://...)`) не терялись.
+2. **`parse`** — быстрый префильтр регуляркой: оставляет посты, в которых названа роль (паттерны из профиля).
+3. **`enrich`** — вторая ступень фильтра и извлечение полей, целиком на правилах: ключевые слова решают, настоящая ли это вакансия, затем регулярки достают заголовок, компанию, грейд, локацию, зарплату, флаг удалёнки и теги. Подборки режутся на отдельные карточки. `short_description` — цитата из поста, ничего не генерируется.
+4. **`deduplicate`** — `difflib.SequenceMatcher` по нормализованному тексту. Склеивает дубли из разных каналов в одну карточку со ссылками на все источники.
+5. **`state`** — помечает посты как NEW (моложе 24 часов и не виденные раньше), отправляет в архив старше 30 дней, удаляет старше 90.
+6. **`render`** — шаблон Jinja2 + встроенный JSON → один статичный `index.html`. Фильтры, поиск и бесконечная прокрутка работают в браузере.
 
-## Tech stack
+## Стек
 
-- **Backend pipeline:** Python 3.11+, [Telethon](https://github.com/LonamiWebs/Telethon), Jinja2. No LLM API.
-- **Frontend:** Plain JavaScript + CSS, no framework. Search/filter/sort/modal all client-side.
-- **Infra:** GitHub Actions (daily cron) + GitHub Pages (static hosting). Zero servers.
+- **Пайплайн:** Python 3.11+, [Telethon](https://github.com/LonamiWebs/Telethon), Jinja2. Без LLM API.
+- **Фронтенд:** чистый JavaScript и CSS, без фреймворков. Поиск, фильтры, сортировка, модалка — на клиенте.
+- **Инфраструктура:** GitHub Actions (ежедневный cron) + GitHub Pages (статика). Серверов нет.
 
 ---
 
-## Run it yourself
+## Запустить у себя
 
-### 1. Clone and install
+### 1. Клонировать и установить
 
 ```bash
-git clone https://github.com/<you>/tg_digest.git
+git clone https://github.com/<вы>/tg_digest.git
 cd tg_digest
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-cp .env.example .env  # fill in API keys (see below)
+cp .env.example .env  # сюда пойдут ключи (см. ниже)
 ```
 
-### 2. Get Telegram API credentials
+### 2. Получить ключи Telegram API
 
-1. Go to https://my.telegram.org → API Development Tools → create an app.
-2. Copy `api_id` and `api_hash` into `.env` as `TG_API_ID` and `TG_API_HASH`.
+1. Зайдите на https://my.telegram.org → API Development Tools → создайте приложение.
+2. Скопируйте `api_id` и `api_hash` в `.env` как `TG_API_ID` и `TG_API_HASH`.
 
-### 3. Generate a Telegram session (one-time)
+### 3. Сгенерировать сессию Telegram (один раз)
 
 ```bash
 python scripts/generate_session.py
 ```
 
-Asks for your phone number, login code from Telegram, and 2FA password if you have one. Prints a base64 `StringSession`. Paste it into `.env` as `TG_SESSION_B64` (and into GitHub Secrets later for CI).
+Спросит номер телефона, код из Telegram и пароль двухфакторной защиты, если она включена. Напечатает `StringSession` в base64. Вставьте её в `.env` как `TG_SESSION_B64` (позже — в секреты GitHub для CI).
 
-### 4. Tell it which channels to read
+### 4. Показать, какие каналы читать
 
-In your Telegram app, create a folder (default name: `vacancy`) and add the channels you want to track. The pipeline reads whatever is currently in that folder — no separate channel list to maintain.
+В Telegram создайте папку (имя по умолчанию: `vacancy`) и добавьте в неё нужные каналы. Пайплайн читает то, что лежит в папке на момент запуска, — отдельный список каналов вести не нужно.
 
-### 5. Run
+### 5. Запустить
 
 ```bash
 python scripts/main.py
 open index.html
 ```
 
-That's it. You now have your own digest.
+Всё. У вас свой дайджест.
 
-## Deploy on GitHub Pages
+## Развернуть на GitHub Pages
 
-1. Push to GitHub.
-2. **Settings → Secrets and variables → Actions** → add the three secrets below:
+1. Запушьте репозиторий на GitHub.
+2. **Settings → Secrets and variables → Actions** → добавьте три секрета:
 
-| Secret | Where to get it |
+| Секрет | Откуда взять |
 |---|---|
 | `TG_API_ID` | https://my.telegram.org |
 | `TG_API_HASH` | https://my.telegram.org |
-| `TG_SESSION_B64` | Output of `generate_session.py` |
+| `TG_SESSION_B64` | вывод `generate_session.py` |
 
-3. Run the **digest** workflow once (**Actions → digest → Run workflow**). It creates the `gh-pages` branch.
-4. **Settings → Pages** → set source to the `gh-pages` branch, root.
+3. Запустите workflow **digest** один раз (**Actions → digest → Run workflow**). Он создаст ветку `gh-pages`.
+4. **Settings → Pages** → источник: ветка `gh-pages`, корень.
 
-The workflow runs the pipeline daily and publishes the result to `gh-pages`: `index.html`, `static/`, and the pipeline state in `data/` (`vacancies.json`, `history.json`), which the next run reads back. The branch is replaced by a single commit each time, so the daily rebuilds do not pile up in the repository's history. `main` holds only code.
+Workflow запускает пайплайн ежедневно и публикует результат в `gh-pages`: `index.html`, `static/` и состояние пайплайна в `data/` (`vacancies.json`, `history.json`), которое следующий запуск читает обратно. Ветка каждый раз заменяется одним коммитом, поэтому ежедневные сборки не копятся в истории репозитория. В `main` только код.
 
-To run locally on top of the published state instead of a fresh 30-day backfill:
+Чтобы запустить локально поверх опубликованного состояния, а не с чистой загрузки за 30 дней:
 
 ```bash
 git fetch origin gh-pages
@@ -127,21 +127,21 @@ git show origin/gh-pages:data/vacancies.json > data/vacancies.json
 git show origin/gh-pages:data/history.json > data/history.json
 ```
 
-## Configuration
+## Настройка
 
 `config/sources.yml`:
 
 ```yaml
-profile: product               # which profiles/<name>.yml to use
-tg_folder_name: vacancy        # the Telegram folder to watch
-initial_backfill_days: 30      # how far back the first run reaches
-archive_after_days: 30         # vacancies older than this move to Archive tab
-purge_after_days: 90           # ...and older than this are dropped for good
-new_window_hours: 24           # how recent counts as NEW
-ignore_lines: []               # regexes for lines a channel repeats in every post
+profile: product               # какой profiles/<имя>.yml использовать
+tg_folder_name: vacancy        # папка Telegram, за которой следить
+initial_backfill_days: 30      # насколько назад смотрит первый запуск
+archive_after_days: 30         # старше этого — вкладка «Архив»
+purge_after_days: 90           # ...а старше этого — удаляются навсегда
+new_window_hours: 24           # что считать NEW
+ignore_lines: []               # регулярки строк, которые канал повторяет в каждом посте
 ```
 
-`ignore_lines` is for channels that end every post with the same navigation row or ad. Such a line would otherwise become a title or land in the description; listed here, it is skipped when the card is built (the modal still shows the post whole). For example:
+`ignore_lines` — для каналов, которые заканчивают каждый пост одной и той же строкой навигации или рекламой. Иначе такая строка станет заголовком карточки или попадёт в описание; перечисленная здесь, она пропускается при сборке карточки (в модалке пост по-прежнему показывается целиком). Например:
 
 ```yaml
 ignore_lines:
@@ -149,52 +149,46 @@ ignore_lines:
   - 'первый ai ассистент'
 ```
 
-### Other roles
+### Другие профессии
 
-Everything about *which* jobs the digest is for lives in `profiles/<name>.yml`, and `profile:` in `sources.yml` picks the file. The pipeline itself — reading the folder, telling a hiring post from a course ad, dedup, NEW/archive, the page — is the same for any role.
+Всё, что определяет, *для каких* вакансий дайджест, лежит в `profiles/<имя>.yml`; `profile:` в `sources.yml` выбирает файл. Сам пайплайн — чтение папки, отличие вакансии от рекламы курса, дедуп, NEW/архив, страница — для любой профессии один и тот же.
 
-To make a digest for, say, QA engineers:
+Чтобы сделать дайджест, например, для QA-инженеров:
 
-1. Copy `profiles/frontend.yml` to `profiles/qa.yml` and edit:
-   - `roles.patterns` — regexes that name the role and nothing else (`\bqa\b`, `тестировщик\w*`, `test automation`…). A post is looked at only if one matches somewhere in it.
-   - `roles.loose` — spellings that mean this role as often as another one; they let a post in, but do not settle its role.
-   - `roles.exclude` — neighbouring roles. A card whose title names one of these, and none of yours, is dropped. This is where most of the precision comes from: for frontend it is backend, mobile, QA; for QA it would be developers and analysts.
-   - `roles.hint` — words that mark a headline inside a roundup post as yours.
-   - `grades_extra` — level words specific to the role (`head of qa`); the generic ones (senior, lead, стажёр…) are built in.
-   - `tags` — each becomes a chip on the card and a "Только …" toggle in the filters. Stack, domain, whatever you filter by.
-   - `site.title` / `site.tagline` — the headline of the page.
-2. Set `profile: qa` in `config/sources.yml`, and point `tg_folder_name` at a folder with the channels.
-3. Run `python scripts/main.py` and look at the cards. Every post the rules drop, and why, is easy to trace: `parse.matches(text)`, then `enrich.is_vacancy(...)`, then `enrich.is_role_title(title)`.
+1. Скопируйте `profiles/frontend.yml` в `profiles/qa.yml` и отредактируйте:
+   - `roles.patterns` — регулярки, которые называют роль и только её (`\bqa\b`, `тестировщик\w*`, `test automation`…). Пост рассматривается, только если хоть одна нашлась в тексте.
+   - `roles.loose` — написания, которые означают вашу роль не чаще, чем другую; они пропускают пост, но роль по ним не определяется.
+   - `roles.exclude` — соседние роли. Карточка, в заголовке которой названа одна из них и не названа ваша, выбрасывается. Отсюда берётся основная точность: для фронтенда это бэкенд, мобильная разработка, QA; для QA это будут разработчики и аналитики.
+   - `roles.hint` — слова, по которым заголовок внутри подборки опознаётся как ваш.
+   - `grades_extra` — слова уровня, специфичные для роли (`head of qa`); общие (senior, lead, стажёр…) встроены.
+   - `tags` — каждый тег становится чипом на карточке и тумблером «Только …» в фильтрах. Стек, домен, что угодно, по чему вы фильтруете.
+   - `site.title` / `site.tagline` — заголовок страницы.
+2. Поставьте `profile: qa` в `config/sources.yml` и укажите в `tg_folder_name` папку с каналами.
+3. Запустите `python scripts/main.py` и посмотрите на карточки. Почему правила отбросили тот или иной пост, легко проследить: `parse.matches(text)`, затем `enrich.is_vacancy(...)`, затем `enrich.is_role_title(title)`.
 
-The `product` profile has been tuned on real channels for months; `frontend` for a shorter while, on three channels. A fresh profile will need a few rounds of looking at what came through and what did not — that is the trade-off for running without an LLM.
+Профиль `product` отлаживался на реальных каналах несколько месяцев; `frontend` — меньше, на трёх каналах. Новому профилю понадобится пара итераций «посмотреть, что прошло и что нет», — это плата за работу без нейросети.
 
-Grade is only set when the post names a level, so it stays empty more often than an LLM would leave it. Cards without a grade still show up under the "Все" filter.
+Грейд ставится, только когда в посте назван уровень, поэтому он остаётся пустым чаще, чем оставила бы нейросеть. Карточки без грейда всё равно видны при фильтре «Все».
 
-### Visit stats (optional, off by default)
+### Правила, общие для всех профессий
 
-The page can report how many people open it and which vacancies they click
-through to. It uses [GoatCounter](https://www.goatcounter.com): free for
-personal sites, ~3 KB, no cookies and so no consent banner.
+`scripts/enrich.py` — часть правил, не зависящая от профессии: `HIRING_RE` / `PROMO_RE` / `SEEKER_RE` решают, что считать вакансией, `CITIES`, `MONEY_RE`, `REMOTE_RE` и соседи извлекают поля, `split_digest` разбирает подборки. Их подстраивают под стиль каналов; под профессию подстраивают профиль.
 
-1. Register a site at https://www.goatcounter.com — you pick a name, and get
-   `<name>.goatcounter.com`.
-2. Put that name in `config/sources.yml` as `goatcounter_site`.
+### Статистика посещений (по желанию, по умолчанию выключена)
 
-The next run picks it up. While the field is empty no analytics script is
-added to the page at all, and nothing is sent anywhere.
+Страница может считать, сколько людей её открывают и на какие вакансии переходят. Используется [GoatCounter](https://www.goatcounter.com): бесплатен для личных сайтов, ~3 КБ, без cookies и потому без баннера согласия.
 
-Two events are recorded besides the page visit: `card-open/<vacancy>` when a
-card is opened, and `tg-open/<vacancy>` when the reader follows the link to
-Telegram — so the dashboard shows which vacancies people actually go for.
+1. Зарегистрируйте сайт на https://www.goatcounter.com — вы выбираете имя и получаете `<имя>.goatcounter.com`.
+2. Впишите это имя в `config/sources.yml` как `goatcounter_site`.
 
-The footer can also show the visitor total to everyone. That needs
-**Settings → "Allow adding visitor counts to your site"** switched on in
-GoatCounter; until then (or if the request fails) the line stays hidden.
+Следующая сборка подхватит. Пока поле пустое, скрипт аналитики на страницу не добавляется и никуда ничего не отправляется.
 
-`scripts/enrich.py` — the role-agnostic part of the rules: `HIRING_RE` / `PROMO_RE` / `SEEKER_RE` decide what counts as a hiring post, `CITIES`, `MONEY_RE`, `REMOTE_RE` and friends do the extraction, `split_digest` takes roundups apart. Tune these for your channels' style; tune the profile for the role.
+Кроме посещения страницы записываются два события: `card-open/<вакансия>` при открытии карточки и `tg-open/<вакансия>` при переходе в Telegram — в дашборде видно, какие вакансии людям действительно интересны.
+
+Футер может показывать всем общее число посетителей. Для этого в GoatCounter нужно включить **Settings → «Allow adding visitor counts to your site»**; до тех пор (или если запрос не удался) строка скрыта. GoatCounter кэширует это число на несколько часов, так что в футере оно отстаёт от дашборда.
 
 ---
 
-## License
+## Лицензия
 
-MIT. Use it, fork it, make it yours.
+MIT. Пользуйтесь, форкайте, делайте своим.
