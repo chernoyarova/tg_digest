@@ -156,13 +156,19 @@ function matchesGrade(v) {
   return v.grade === state.grade;
 }
 
-// The archive is decided against the reader's clock, like the other tabs. The
-// build-time is_archived flag goes stale during the day, which left a vacancy
-// just past the limit in neither "30 дней" nor "Архив" until the next build.
+// Tabs measure a vacancy's age from the last build, not from the reader's
+// clock. Posts only arrive with a build, so by the reader's clock "24ч" would
+// empty out every morning, between 24 hours after one build and whenever
+// GitHub gets round to the next. One clock for all tabs also means a vacancy
+// near the 30-day line is always in exactly one of "30 дней" and "Архив".
+// The "3H AGO" stamps on the cards stay on the real clock.
+const BUILD_TIME = Date.parse(dataEl.dataset.generatedAt) || Date.now();
 const ARCHIVE_HOURS = 24 * (Number(dataEl.dataset.archiveAfterDays) || 30);
 
+function tabAgeHours(iso) { return (BUILD_TIME - new Date(iso).getTime()) / HOUR; }
+
 function matchesTab(v) {
-  const h = ageHours(v.date_iso);
+  const h = tabAgeHours(v.date_iso);
   if (state.tab === 'archive') return h > ARCHIVE_HOURS;
   if (h > ARCHIVE_HOURS) return false;
   if (state.tab === '24h') return h <= 24;
