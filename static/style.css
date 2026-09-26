@@ -1,0 +1,908 @@
+:root {
+  --bg: #F4F1EA;
+  --text: #1a1a1a;
+  --text-muted: #6b6b6b;
+  --accent: #E94E1B;
+  --accent-soft: #FBE6DC;
+  --line: #1a1a1a;
+  --line-soft: rgba(26, 26, 26, 0.14);
+  --hairline: rgba(26, 26, 26, 0.18);
+  --card-bg: transparent;
+  --serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  /* Inline SVG noise — used by body and sticky surfaces to keep the paper grain consistent. */
+  --paper-noise: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='280' height='280'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='2' stitchTiles='stitch' seed='3'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.6 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)' opacity='0.1'/></svg>");
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: var(--serif);
+  background-color: var(--bg);
+  /* Subtle paper grain. Tile (280px) avoids visible repetition, opacity is subliminal. */
+  background-image: var(--paper-noise);
+  background-repeat: repeat;
+  background-attachment: fixed;
+  color: var(--text);
+  font-size: 17px;
+  line-height: 1.55;
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 32px 24px;
+  font-feature-settings: "kern" 1, "liga" 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+.mono {
+  font-family: 'JetBrains Mono', monospace;
+  letter-spacing: 0.04em;
+  font-size: 0.78em;
+  text-transform: uppercase;
+}
+em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; }
+
+/* =========================== MASTHEAD =========================== */
+.masthead {
+  padding: 8px 0 24px;
+  position: relative;
+}
+
+.masthead-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 12px;
+  border-bottom: 3px double var(--line);
+  margin-bottom: 20px;
+  color: var(--text-muted);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+}
+.masthead-kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--text);
+  font-weight: 500;
+  letter-spacing: 0.12em;
+}
+.masthead-date { color: var(--text-muted); }
+
+.live-dot {
+  width: 7px; height: 7px; border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 0 0 rgba(233, 78, 27, 0.6);
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(233, 78, 27, 0.6); }
+  50% { box-shadow: 0 0 0 5px rgba(233, 78, 27, 0); }
+}
+
+.page-title {
+  font-family: var(--serif);
+  font-size: clamp(40px, 6vw, 64px);
+  font-weight: 900;
+  letter-spacing: -0.025em;
+  line-height: 1.0;
+  margin-bottom: 14px;
+  text-align: center;
+}
+.page-title em {
+  font-family: 'Instrument Serif', serif;
+  font-weight: 400;
+  font-size: 1em;
+  color: var(--accent);
+}
+
+.masthead-dateline {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 11px;
+  letter-spacing: 0.12em;
+}
+
+/* =========================== MASTHEAD SEARCH (thin centered line) =========================== */
+.masthead-search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: min(360px, 90%);
+  margin: 14px auto 12px;
+  padding: 6px 4px;
+  border-bottom: 1px solid var(--line);
+  transition: border-bottom-color 0.15s;
+}
+.masthead-search:focus-within {
+  border-bottom-color: var(--accent);
+}
+
+.masthead-search-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accent);
+  flex-shrink: 0;
+  line-height: 1;
+}
+.masthead-search-icon svg {
+  width: 14px;
+  height: 14px;
+  display: block;
+}
+
+.masthead-search-input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 15px;
+  color: var(--text);
+  padding: 0;
+  min-width: 0;
+  line-height: 1.4;
+  text-align: center;
+}
+.masthead-search-input::placeholder {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* =========================== CONTROLS (tabs + filters in one row) =========================== */
+.controls {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 0;
+  border-bottom: 3px double var(--line);
+  position: sticky; top: 0;
+  background-color: var(--bg);
+  background-image: var(--paper-noise);
+  z-index: 10;
+}
+.controls > * { flex-shrink: 0; }
+.controls .filter-dropdown--filters { margin-left: auto; }
+
+/* =========================== TABS (desktop) =========================== */
+.tabs {
+  display: flex; flex-wrap: nowrap; gap: 10px;
+  align-items: center;
+}
+
+/* Period dropdown is mobile-only — hidden on desktop. */
+.filter-dropdown--period { display: none; }
+
+/* =========================== CHIP BASE =========================== */
+/* Shared base for .tab, .filter-trigger, .filter-toggle — same outline-style
+   pill button. Per-variant overrides handled below. */
+.tab,
+.filter-trigger,
+.filter-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 30px;
+  box-sizing: border-box;
+  background: transparent;
+  border: 1px solid var(--line-soft);
+  padding: 0 12px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  line-height: 1;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+  color: var(--text);
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.tab:hover,
+.filter-trigger:hover,
+.filter-toggle:hover { border-color: var(--text); }
+
+.tab.is-active {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.tab-count {
+  font-size: 10px;
+  color: var(--text-muted);
+  letter-spacing: 0.04em;
+}
+.tab.is-active .tab-count { color: var(--accent); opacity: 0.7; }
+
+/* =========================== FILTERS TOGGLE =========================== */
+/* The HTML uses class="filter-trigger filters-toggle" so the chip base styles
+   come from .filter-trigger. Only state-specific deltas live here. */
+.filters-toggle.is-open {
+  border-color: var(--text);
+  background: var(--card-bg);
+}
+.filters-toggle.has-active {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.filters-toggle.has-active .filter-label,
+.filters-toggle.has-active .filter-value { color: var(--accent); }
+.filters-count {
+  color: var(--accent);
+  letter-spacing: 0;
+}
+.filters-toggle.is-open .filter-caret { transform: rotate(180deg); }
+.filter-caret { transition: transform 0.2s; }
+
+/* =========================== INLINE FILTERS (revealed by Filters toggle) =========================== */
+.filters-inline {
+  display: none;
+  align-items: center;
+  gap: 8px;
+}
+.filters-inline > * { flex-shrink: 0; }
+.controls.filters-open .filters-inline {
+  display: inline-flex;
+  animation: filtersFadeIn 0.32s cubic-bezier(0.22, 1, 0.36, 1);
+}
+@keyframes filtersFadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Smooth crossfade between filter states (View Transitions API).
+   Works in Chrome/Edge 111+, Safari 18+. Older browsers get the CSS animation fallback. */
+@supports (view-transition-name: none) {
+  ::view-transition-old(root),
+  ::view-transition-new(root) {
+    animation-duration: 0.32s;
+    animation-timing-function: cubic-bezier(0.22, 1, 0.36, 1);
+  }
+}
+
+.filter-dropdown { position: relative; }
+
+.filter-dropdown.is-open .filter-trigger {
+  border-color: var(--text);
+  background: var(--card-bg);
+}
+.filter-dropdown.has-value .filter-trigger {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.filter-label { color: var(--text-muted); }
+.filter-dropdown.has-value .filter-label { color: var(--accent); opacity: 0.7; }
+.filter-value { font-weight: 500; }
+.filter-caret { font-size: 9px; color: var(--text-muted); }
+.filter-dropdown.has-value .filter-caret { color: var(--accent); }
+
+.filter-popover {
+  display: none;
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  min-width: 200px;
+  background: #fff;
+  border: 1px solid var(--line);
+  z-index: 20;
+  padding: 4px;
+}
+.filter-dropdown--sort .filter-popover { left: auto; right: 0; }
+.filter-dropdown.is-open .filter-popover { display: block; }
+
+.popover-item {
+  display: block;
+  width: 100%;
+  background: none;
+  border: none;
+  font-family: var(--serif);
+  font-size: 14px;
+  text-align: left;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+.popover-item:hover { background: var(--bg); }
+.popover-item.is-active {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.filter-toggle { user-select: none; }
+.filter-toggle:has(input:checked) {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.filter-toggle input { display: none; }
+
+
+.reset-btn {
+  background: none; border: none;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  cursor: pointer;
+  padding: 6px 8px;
+}
+.reset-btn:hover { text-decoration: underline; }
+
+/* =========================== TOOLBAR =========================== */
+.toolbar {
+  display: flex; justify-content: flex-start;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 0;
+  font-size: 11px; text-transform: uppercase;
+  color: var(--text-muted);
+  letter-spacing: 0.04em;
+}
+.search-indicator { color: var(--accent); text-transform: none; }
+.search-indicator[hidden] { display: none; }
+
+/* =========================== VACANCY CARD =========================== */
+.vacancies { display: flex; flex-direction: column; }
+
+.vacancy {
+  display: block;
+  padding: 28px 12px 24px;
+  border-bottom: 1px solid var(--hairline);
+  transition: background-color 0.15s;
+  cursor: pointer;
+  position: relative;
+}
+.vacancy:hover { background-color: rgba(255, 255, 255, 0.32); }
+.vacancy:hover .v-title { color: var(--accent); }
+.v-title { transition: color 0.15s; }
+/* The title is the card's keyboard handle; it looks like plain heading text. */
+.v-open {
+  font: inherit;
+  letter-spacing: inherit;
+  color: inherit;
+  text-align: left;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+.v-open:focus-visible { outline: none; }
+.vacancy:has(.v-open:focus-visible) { outline: 2px solid var(--accent); outline-offset: 4px; }
+
+.v-kicker {
+  display: inline-block;
+  color: var(--accent);
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  margin-bottom: 10px;
+}
+.v-kicker::after {
+  content: '';
+  display: inline-block;
+  width: 24px;
+  height: 1px;
+  background: var(--accent);
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+.v-title {
+  font-family: var(--serif);
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  margin-bottom: 8px;
+  max-width: 36em;
+}
+
+.v-byline {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 16px;
+  color: var(--text);
+  margin-bottom: 12px;
+  max-width: 38em;
+}
+.byline-company { font-style: normal; font-weight: 600; }
+
+.v-desc {
+  font-family: var(--serif);
+  font-size: 16px;
+  color: var(--text);
+  margin-bottom: 14px;
+  line-height: 1.55;
+  max-width: 36em;
+}
+
+.v-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.v-tags {
+  display: flex; gap: 6px; flex-wrap: wrap;
+  font-size: 10px;
+}
+.tag {
+  border: 1px solid var(--hairline);
+  padding: 3px 9px;
+  font-family: 'JetBrains Mono', monospace;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  background: transparent;
+}
+.tag-grade { color: var(--text); border-color: var(--text); }
+.tag-accent { color: var(--accent); border-color: var(--accent); }
+
+.v-stamp {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--text-muted);
+  letter-spacing: 0.08em;
+}
+.v-stamp-sep { opacity: 0.4; }
+
+.btn-open {
+  display: inline-block;
+  background: var(--text); color: var(--bg);
+  padding: 10px 18px;
+  text-decoration: none;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  border: 1px solid var(--text);
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.btn-open:hover {
+  background: var(--accent); border-color: var(--accent);
+}
+
+.dupes {
+  position: relative;
+  display: inline-flex;
+}
+.btn-dupes {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: transparent;
+  border: 1px solid var(--line-soft);
+  padding: 5px 10px;
+  font: inherit;
+  font-size: 11px;
+  font-family: 'JetBrains Mono', monospace;
+  cursor: pointer;
+  color: var(--text-muted);
+  text-transform: uppercase;
+}
+.btn-dupes:hover {
+  border-color: var(--text); color: var(--text);
+}
+.btn-dupes-icon { font-size: 12px; line-height: 1; }
+
+.dupes-tooltip {
+  display: none;
+  position: absolute; right: 0; top: calc(100% + 8px);
+  /* Opaque, like the modal: --card-bg is transparent and let the card's text
+     show through the links. */
+  background: #fffdf8;
+  letter-spacing: normal;
+  border: 1px solid var(--line);
+  padding: 12px;
+  min-width: 220px;
+  z-index: 20;
+  font-family: 'Space Grotesk', sans-serif;
+  text-align: left;
+  text-transform: none;
+  box-shadow: 4px 4px 0 var(--line);
+}
+.dupes.is-open .dupes-tooltip { display: block; }
+.dupes-tooltip a {
+  display: block;
+  font-size: 13px;
+  color: var(--text);
+  text-decoration: none;
+  padding: 6px 0;
+  border-bottom: 1px solid #eee;
+}
+.dupes-tooltip a:last-child { border-bottom: none; }
+.dupes-tooltip a:hover { color: var(--accent); }
+
+/* =========================== FOOTER =========================== */
+.page-footer {
+  padding: 48px 0 24px;
+  text-align: center;
+  font-size: 11px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* Visitor total: a quiet second line, shown only when GoatCounter serves it. */
+#visitor-count {
+  margin-top: 10px;
+  opacity: 0.7;
+}
+
+.empty {
+  padding: 80px 16px;
+  text-align: center;
+}
+.empty-title {
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+.empty-hint {
+  font-size: 14px;
+  color: var(--text-muted);
+  margin-bottom: 20px;
+}
+.empty-reset {
+  display: inline-block;
+  background: var(--text); color: var(--bg);
+  border: 1px solid var(--text);
+  padding: 9px 18px;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.empty-reset:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+/* =========================== MOBILE =========================== */
+@media (max-width: 767px) {
+  body { padding: 20px 16px; }
+
+  .masthead { padding: 4px 0 18px; }
+  .page-title { font-size: 36px; }
+
+  .masthead-search { margin: 12px auto; padding: 8px 4px; }
+  .masthead-search-input { font-size: 16px; } /* 16px prevents iOS zoom-on-focus */
+  .masthead-search-icon svg { width: 16px; height: 16px; }
+
+  /* Bigger tap targets (Apple HIG: ~44px) */
+  .tab,
+  .filter-trigger,
+  .filter-toggle {
+    height: 40px;
+    padding: 0 14px;
+  }
+  .tab-count { font-size: 10px; }
+
+  /* On mobile: hide the chip-tabs, show the period dropdown. All three
+     controls (Период / Фильтры / Сортировка) live in one row. */
+  .controls .tabs { display: none; }
+  .filter-dropdown--period { display: inline-flex; }
+
+  .controls {
+    gap: 8px;
+    padding: 10px 0 14px;
+    flex-wrap: nowrap;
+  }
+  /* Period left, Filters + Sort cluster right (auto-margins). */
+  .controls .filter-dropdown--period { margin-right: auto; }
+
+  /* Strip verbose chip labels on mobile so all three chips fit one row.
+     Period keeps its current value (e.g. "7 дней"), filters and sort
+     collapse to just the icon + caret (and active filter count badge). */
+  .filter-dropdown--period .filter-label,
+  .filter-dropdown--filters .filter-value,
+  .filter-dropdown--sort .filter-value { display: none; }
+
+  /* When labels are just icons, scale them up so they read as buttons. */
+  .filter-dropdown--filters .filter-label,
+  .filter-dropdown--sort .filter-label {
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 1;
+  }
+
+  /* Filter popover from a chip in the row 2 just drops below the chip */
+  .filter-popover { min-width: 200px; }
+
+  /* Horizontal padding (14px) matches mobile chip text inset
+     (chip border 1px + chip padding 14px). Text aligns vertically
+     with chip text in the controls above. */
+  .vacancy { padding: 20px 14px; }
+  .v-title { font-size: 22px; }
+  .v-byline, .v-desc { font-size: 15px; }
+  .v-footer { gap: 10px; }
+
+  /* ----- Bottom sheet for filters on mobile ----- */
+  .controls.filters-open::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background: rgba(26, 26, 26, 0.5);
+    z-index: 99;
+    animation: filtersBackdropFade 0.2s ease-out;
+  }
+  @keyframes filtersBackdropFade {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+  }
+
+  .controls.filters-open .filters-inline {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--bg);
+    background-image: var(--paper-noise);
+    border-top: 3px double var(--line);
+    padding: 20px 16px calc(28px + env(safe-area-inset-bottom));
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    z-index: 100;
+    box-shadow: 0 -10px 40px rgba(26, 26, 26, 0.18);
+    animation: filtersSheetUp 0.28s cubic-bezier(0.22, 1, 0.36, 1);
+    max-height: 80vh;
+    overflow-y: auto;
+  }
+  @keyframes filtersSheetUp {
+    from { transform: translateY(100%); }
+    to   { transform: translateY(0); }
+  }
+
+  /* Sheet header (small handle/title before chips) */
+  .controls.filters-open .filters-inline::before {
+    content: 'Фильтры';
+    display: block;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    padding-bottom: 12px;
+    margin-bottom: 4px;
+    border-bottom: 1px solid var(--hairline);
+    text-align: center;
+  }
+
+  /* Stretch chips inside the sheet to full width */
+  .controls.filters-open .filters-inline > .filter-dropdown,
+  .controls.filters-open .filters-inline > .filter-toggle,
+  .controls.filters-open .filters-inline > .filter-trigger {
+    width: 100%;
+  }
+  .controls.filters-open .filters-inline .filter-trigger,
+  .controls.filters-open .filters-inline .filter-toggle {
+    height: 48px;
+    justify-content: space-between;
+    padding: 0 16px;
+  }
+  /* Reset button at the bottom, less heavy */
+  .controls.filters-open .filters-inline .reset-btn {
+    margin-top: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    padding: 0 12px;
+    border-top: 1px solid var(--hairline);
+  }
+
+  /* Popovers inside the sheet stick to the chip width */
+  .controls.filters-open .filters-inline .filter-popover {
+    width: 100%;
+    min-width: 0;
+    left: 0;
+    right: auto;
+  }
+  .controls.filters-open .filters-inline .popover-item {
+    padding: 12px 16px;
+    font-size: 16px;
+  }
+
+  /* Lock body scroll while sheet is open */
+  body.filters-open { overflow: hidden; }
+
+  /* On mobile, scroll only the overlay (one scroll context).
+     The .modal-text inner scroll is dropped and the panel grows naturally. */
+  .modal-overlay { padding: 12px; }
+  .modal {
+    padding: 16px 16px 20px;
+    max-height: none;
+  }
+  .modal-meta-bar {
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    padding-right: 36px;
+    margin-bottom: 8px;
+  }
+  /* On mobile, switch the title to sans-serif at a much smaller size.
+     Serif headlines work in print at 24px+, on a 360px screen at 15px
+     sans-serif is more readable and 4-6x more compact vertically. */
+  .modal-title {
+    font-family: 'Space Grotesk', system-ui, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.35;
+    letter-spacing: -0.005em;
+    padding-right: 36px;
+    margin-bottom: 4px;
+  }
+  .modal-byline { font-size: 12px; margin-bottom: 10px; }
+  .modal-tags {
+    margin-bottom: 14px;
+    padding-bottom: 14px;
+  }
+  /* Compact, filled tags on mobile — no border, lighter visual weight. */
+  .modal-tags .tag {
+    border: none;
+    background: var(--hairline);
+    color: var(--text);
+    font-size: 10px;
+    padding: 3px 7px;
+  }
+  .modal-tags .tag-accent {
+    background: var(--accent-soft);
+    color: var(--accent);
+  }
+  .modal-text {
+    font-size: 15px;
+    line-height: 1.6;
+    max-height: none;
+    overflow-y: visible;
+    padding-right: 0;
+    margin-bottom: 18px;
+  }
+  /* Dropcap off on mobile: ::first-letter applies to the first graphem
+     even if it's an emoji, which breaks layout. */
+  .modal-text::first-letter {
+    all: unset;
+  }
+  .modal-actions { margin-bottom: 16px; }
+  .modal-close { top: 10px; right: 10px; }
+}
+
+/* =========================== MODAL =========================== */
+body.modal-open { overflow: hidden; }
+
+.modal-overlay {
+  position: fixed; inset: 0;
+  background: rgba(26, 26, 26, 0.55);
+  z-index: 100;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 48px 16px;
+  overflow-y: auto;
+}
+.modal-overlay[hidden] { display: none; }
+
+.modal {
+  position: relative;
+  width: 100%;
+  max-width: 720px;
+  background: #fffdf8;
+  border: 1px solid var(--line);
+  padding: 48px 56px 36px;
+  margin: auto 0;
+}
+
+.modal-close {
+  position: absolute;
+  top: 14px; right: 14px;
+  width: 32px; height: 32px;
+  background: transparent;
+  border: none;
+  font-size: 26px;
+  line-height: 1;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: color 0.15s;
+}
+.modal-close:hover { color: var(--accent); }
+
+.modal-title {
+  font-family: var(--serif);
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -0.015em;
+  margin-bottom: 12px;
+  padding-right: 40px;
+}
+
+.modal-byline {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 17px;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+
+.modal-meta-bar {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4px 8px;
+  color: var(--text-muted);
+  font-size: 0.78em;
+  letter-spacing: 0.08em;
+  margin-bottom: 10px;
+  padding-right: 40px;
+}
+.modal-meta-new { color: var(--accent); font-weight: 500; letter-spacing: 0.12em; }
+.modal-meta-sep { opacity: 0.5; }
+
+.modal-tags {
+  margin-bottom: 22px;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.modal-text {
+  font-family: var(--serif);
+  font-size: 16px;
+  line-height: 1.65;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  overflow-wrap: anywhere;
+  color: var(--text);
+  margin-bottom: 22px;
+  max-height: 52vh;
+  overflow-y: auto;
+  padding-right: 8px;
+}
+.modal-text::first-letter {
+  font-family: var(--serif);
+  font-size: 4.2em;
+  font-weight: 900;
+  float: left;
+  line-height: 0.85;
+  padding: 4px 10px 0 0;
+  color: var(--accent);
+}
+/* A one-line post (an item out of a list roundup) is too short for a dropcap. */
+.modal-text--line::first-letter { all: unset; }
+.modal-text a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.modal-text a:hover { text-decoration: none; }
+
+.modal-actions {
+  display: flex; gap: 12px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.modal-dupes {
+  border-top: 1px solid var(--hairline);
+  padding-top: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  align-items: center;
+}
+.modal-dupes-label {
+  color: var(--text-muted);
+  letter-spacing: 0.08em;
+}
+.modal-dupes a {
+  font-family: var(--serif);
+  font-size: 14px;
+  font-style: italic;
+  color: var(--text);
+  text-decoration: underline;
+}
+.modal-dupes a:hover { color: var(--accent); }
